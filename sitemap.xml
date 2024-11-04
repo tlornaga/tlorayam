@@ -8,8 +8,69 @@
 
 
 <url>
-  <loc>https://bizparkbanjarmasin.com/</loc>
-  <lastmod>2024-11-03T19:56:28+00:00</lastmod>
+  <loc>https://villasamudra.net/</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/index.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/thevilla.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/events.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/gallery.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/rates.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/availability.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/location.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/facilities.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/term.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/av-ca-2018.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/services.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://villasamudra.net/dining.php</loc>
+  <lastmod>2024-11-04T21:33:20+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
