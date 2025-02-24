@@ -8,529 +8,329 @@
 
 
 <url>
-  <loc>https://srcentral.org/</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/index</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/issue/view/2</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/issue/archive</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/about</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/issue/current</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/about/submissions</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/about/editorialTeam</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/issue/current</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/search</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/user/register</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/issue/current</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/login</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/issue/current</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/4/1</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjpsea</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjpsea/issue/current</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/5/2</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjaiml</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjaiml/issue/current</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/7/3</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/about/privacy</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/article/view/8/5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agrovetscience.uz/index.php/avs/about/aboutThisPublishingSystem</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agrovetscience.uz/index.php/avs/about/privacy</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/about/privacy</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/login?source=https%3A%2F%2Fagrovetscience.uz%2Findex.php%2Favs%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/about/privacy</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/login/lostPassword</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/about/privacy</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/user/register?source=</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjpsea/about/privacy</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acm-sig-proceedings?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjaiml/about/privacy</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acs-nano?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/apa?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/index/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/chicago-author-date?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/harvard-cite-them-right?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/issue/archive</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/ieee?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/about</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/modern-language-association?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/about/submissions</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/about/contact</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/vancouver?submissionId=4&amp;publicationId=4</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/search</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acm-sig-proceedings?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acs-nano?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/apa?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/ijmisr/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/chicago-author-date?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/issue/archive</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/harvard-cite-them-right?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/about</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/ieee?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/about/submissions</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/modern-language-association?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/about/contact</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/search</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/vancouver?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acm-sig-proceedings?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acs-nano?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjshs/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/apa?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/issue/archive</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/chicago-author-date?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/about</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/harvard-cite-them-right?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/about/submissions</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/ieee?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/about/contact</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/modern-language-association?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/search</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/vancouver?submissionId=7&amp;publicationId=7</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acm-sig-proceedings?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjest/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/acs-nano?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/apa?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/issue/archive</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/about</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/chicago-author-date?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/about/submissions</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/harvard-cite-them-right?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/about/contact</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/ieee?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/search</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/modern-language-association?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/citationstylelanguage/get/vancouver?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjbms/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/about/contact</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://srcentral.org/index.php/irjpsea/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/issue/archive</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/about</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/about/submissions</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/about/contact</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/search</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/index</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/issue/archive</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/about</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/about/submissions</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/about/contact</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/search</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/user/register</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/login</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/about/aboutThisPublishingSystem</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/index/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
+  <loc>https://agrovetscience.uz/index.php/avs/user/register?source=https%3A%2F%2Fagrovetscience.uz%2Findex.php%2Favs%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2025-02-24T09:44:31+00:00</lastmod>
   <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/ijmisr/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Fijmisr%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/ijmisr/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/ijmisr/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjshs/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjshs%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjshs/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjshs/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjest/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjest%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjest/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjest/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjbms/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjbms%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjbms/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjbms/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjpsea%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/login?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjaiml%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/login/lostPassword</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/user/register?source=</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/ijmisr/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Fijmisr%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjshs/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjshs%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjest/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjest%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjbms/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjbms%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjpsea/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjpsea%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://srcentral.org/index.php/irjaiml/user/register?source=https%3A%2F%2Fsrcentral.org%2Findex.php%2Firjaiml%2Fuser%2Fprofile%2Froles</loc>
-  <lastmod>2025-02-23T10:19:52+00:00</lastmod>
-  <priority>0.41</priority>
 </url>
 
 
