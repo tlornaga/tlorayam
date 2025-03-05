@@ -5,29 +5,28 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 ?>
 
 
-
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</title>
-        <meta name="google-site-verification" content="X-pDGbWOS0H37iHZ9FGuFkj8jl-2kEDn8Neq7r7_708" />
-        <meta name="description" content="For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1" />
-        <meta name="keywords" content="FOR4D, sese toto, situs toto, toto togel, toto slot, slot 4d" />
+        <title>For4D The Power Of Situs Toto No1 Indonesia 2025</title>
+        <meta name="google-site-verification" content="y33eIHB55EkMBlPOTNLlmOxOzW-725wFGmJxhGzy-Ro" />
+        <meta name="description" content="For4D merupakan Situs Toto unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik." />
+        <meta name="keywords" content="FOR4D, FOR4D, situs toto, toto slot, toto togel, togel online, slot online" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="http://www.tangguhku.id/" />
-        <meta name="og:title" content="For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1" />
+        <meta name="og:url" content="https://sciencebring.com/" />
+        <meta name="og:title" content="For4D The Power Of Situs Toto No1 Indonesia 2025" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1" />
-        <meta name="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg" />
+        <meta name="og:description" content="For4D merupakan Situs Toto unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik." />
+        <meta name="og:image" content="https://imgku.io/download/z2lwvVXf.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png" />
-        <link rel="canonical" href="https://afroasian-studies.de/" />
-        <link rel="amphtml" href="https://douberman.dev/amp/amp-afroasian.html" />
+        <link rel="canonical" href="https://sciencebring.com/" />
+        <link rel="amphtml" href="https://douberman.dev/amp/amp-sciencebring.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg" as="image" />
+        <link rel="preload" href="https://imgku.io/download/z2lwvVXf.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -133,7 +132,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://imgku.io/download/z2lwvVXf.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"For4D The Power Of Situs Toto No1 Indonesia 2025","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -181,7 +180,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             #container,
             body {
                 position: relative;
-                background: linear-gradient(90deg, #535353 0%, #37738f 100%) !important;
+                background: linear-gradient(90deg, #560000 0%, #ff0000 100%) !important;
             }
             .background-batiq {
                 position: absolute;
@@ -251,14 +250,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 margin-bottom: 1rem;
             }
             .lzd-site-nav-menu.lzd-site-nav-menu-active {
-                background: #000000 !important;
+                background: #980000 !important;
             }
             .logo-bar-content.header-content {
                 display: flex;
                 gap: 1rem;
             }
             .lzd-header-content {
-                background: linear-gradient(90deg, #535353 0%, #37738f 100%) !important;
+                background: linear-gradient(90deg, #560000 0%, #ff0000 100%) !important;
             }
             .lzd-nav-search {
                 margin-left: 4rem;
@@ -290,7 +289,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             }
             .seller-name__detail-name {
                 margin-right: 0;
-                color: #000000;
+                color: #ca1414;
             }
             #pdp-nav {
                 background: unset !important;
@@ -313,7 +312,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             .pdp-mod-product-price h2,
             .pdp-mod-product-price h3,
             .pdp-mod-product-price h4 {
-                color: #000000;
+                color: #d71717;
                 margin-bottom: 0.5rem;
             }
             .pdp-mod-product-price h1 {
@@ -328,7 +327,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 font-weight: 500;
             }
             .site-description a {
-                color: #009de6;
+                color: #d71717;
                 text-decoration: underline;
             }
             .site-description td {
@@ -381,11 +380,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
         
         @keyframes rainbow {
-            0% { background-color: rgb(187, 187, 187); } /* Merah */
-            16.67% { background-color: rgb(199, 6, 6); } /* Oranye */
-            33.33% { background-color: rgb(255, 30, 0); } /* PINK */
-            50% { background-color: rgb(255, 0, 0); } /* Ungun */
-            100% { background-color: rgb(224, 5, 5); } /* Merah kembali */
+            0% { background-color: rgb(255, 234, 0); } /* Merah */
+            16.67% { background-color: rgb(191, 0, 0); } /* Oranye */
+            33.33% { background-color: rgb(233, 0, 0); } /* PINK */
+            50% { background-color: rgb(199, 6, 6); } /* Ungun */
+            100% { background-color: rgb(255, 0, 0); } /* Merah kembali */
         }
         </style>
 
@@ -436,7 +435,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             <symbol id="lazadaicon_phone" viewBox="0 0 1024 1024">
                 <path
                     d="M185.6 21.333333v85.333334h567.466667v29.866666H185.6v874.666667h652.8V21.333333H185.6z m567.466667 904.533334H270.933333v-123.733334h482.133334v123.733334z m0-206.933334H270.933333V221.866667h482.133334v497.066666z"
-                    fill=""></path>
+                    fill=""
+                ></path>
                 <path d="M512 864m-42.666667 0a42.666667 42.666667 0 1 0 85.333334 0 42.666667 42.666667 0 1 0-85.333334 0Z" fill=""></path>
             </symbol>
             <symbol id="lazadaicon_sizeChart" viewBox="0 0 1613 1024">
@@ -496,7 +496,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             </symbol>
             <symbol id="lazadaicon_filter" viewBox="0 0 1024 1024">
                 <path
-                    d="M918.75555522 201.95555522c-4.266667-8.533333-17.066667-17.066667-25.6-17.066666H129.42222222c-12.8 0-21.333333 8.533333-25.6 17.066666-4.266667 12.8-4.266667 25.6 4.266667 34.133334L411.02222222 611.55555522v256c0 17.066667 12.8 29.866667 29.866667 29.866667 17.066667 0 29.866667-12.8 29.866666-29.866667v-277.333333l-277.333333-341.333333H824.88888922l-277.333334 341.333333V867.55555522c0 17.066667 12.8 29.866667 29.866667 29.866667s29.866667-12.8 29.866667-29.866667v-256L910.22222222 236.08888922c12.8-8.533333 12.8-21.333333 8.533333-34.133334"></path>
+                    d="M918.75555522 201.95555522c-4.266667-8.533333-17.066667-17.066667-25.6-17.066666H129.42222222c-12.8 0-21.333333 8.533333-25.6 17.066666-4.266667 12.8-4.266667 25.6 4.266667 34.133334L411.02222222 611.55555522v256c0 17.066667 12.8 29.866667 29.866667 29.866667 17.066667 0 29.866667-12.8 29.866666-29.866667v-277.333333l-277.333333-341.333333H824.88888922l-277.333334 341.333333V867.55555522c0 17.066667 12.8 29.866667 29.866667 29.866667s29.866667-12.8 29.866667-29.866667v-256L910.22222222 236.08888922c12.8-8.533333 12.8-21.333333 8.533333-34.133334"
+                ></path>
             </symbol>
             <symbol id="lazadaicon_sort" viewBox="0 0 1024 1024">
                 <path
@@ -874,12 +875,13 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1",
+                "name": "For4D The Power Of Situs Toto No1 Indonesia 2025",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
-                "category": "Televisi & Video","brand": { "@type": "Brand", "name": "Samsung", "url": "http://www.tangguhku.id/" },
+                "category": "Televisi & Video",
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://sciencebring.com/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1",
+                "description": "For4D merupakan Situs Toto unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -901,7 +903,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "http://www.tangguhku.id/",
+                            "@id": "https://sciencebring.com/",
                             "name": "FOR4D"
                         }
                     },
@@ -909,7 +911,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "http://www.tangguhku.id/",
+                            "@id": "https://sciencebring.com/",
                             "name": "Situs Toto"
                         }
                     },
@@ -917,7 +919,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "http://www.tangguhku.id/",
+                            "@id": "https://sciencebring.com/",
                             "name": "Toto Togel"
                         }
                     },
@@ -925,7 +927,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "http://www.tangguhku.id/",
+                            "@id": "https://sciencebring.com/",
                             "name": "Toto Slot"
                         }
                     },
@@ -933,8 +935,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "http://www.tangguhku.id/",
-                            "name": "For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1"
+                            "@id": "https://sciencebring.com/",
+                            "name": "For4D The Power Of Situs Toto No1 Indonesia 2025"
                         }
                     }
                 ]
@@ -1045,10 +1047,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://afroasian-studies.de/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FOR4D</a>
+                                        <a target="_blank" href="https://sciencebring.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FOR4D</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://afroasian-studies.de/">Situs Toto Slot</a></span>
+                                        <span><a href="https://sciencebring.com/">Situs Toto Slot</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1070,17 +1072,18 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     <div class="get-the-app-download-text">
                                                                         <p>FOR4D:</p>
                                                                         <ul>
-                                                                            <li>Situs Toto</li>
+                                                                            <li>Situs Togel</li>
                                                                             <li>Link Toto</li>
-                                                                            <li>Slot 4D</li>
-                                                                            <li>Toto Slot</li>
+                                                                            <li>Togel Online</li>
+                                                                            <li>Slot Online</li>
                                                                         </ul>
                                                                     </div>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <form class="get-the-app-form" id="topActionDownloadForm">
-                                                            <div class="top-input-wrap get-the-app-input-wrap"><input class="tel-text top-input" id="topActionDownloadInput" placeholder="eg. 0123456789" autocomplete="off" />
+                                                            <div class="top-input-wrap get-the-app-input-wrap">
+                                                                <input class="tel-text top-input" id="topActionDownloadInput" placeholder="eg. 0123456789" autocomplete="off" />
                                                                 <button class="top-button button-submit" id="txt-submit">
                                                                     <i class="icon icon-arrow-on-button"></i>
                                                                 </button>
@@ -1102,10 +1105,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://afroasian-studies.de/">Situs Toto Togel</a>
+                                        <a class="black" href="https://sciencebring.com/">Situs Toto Togel</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://afroasian-studies.de/">Bandar Toto Online</a></span>
+                                        <span><a href="https://sciencebring.com/">Situs Slot Online</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1152,11 +1155,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://afroasian-studies.de/">Aplikasi Toto 4D</a></span>
+                                        <span><a href="https://sciencebring.com/">Situs Togel Online</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
-                                                <div class="track-title">For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</div>
+                                                <div class="track-title">For4D The Power Of Situs Toto No1 Indonesia 2025</div>
                                                 <form class="track-order-form" id="topActionTrackForm">
                                                     <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
                                                     <div class="top-input-wrap track-order-input-wrap">
@@ -1168,15 +1171,16 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     <p class="track-order-more-text">
                                                         Untuk bantuan silakan,<a href="//www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a>
                                                     </p>
-                                                </form><div class="error-message" id="topActionTrackErrorMsg"></div>
+                                                </form>
+                                                <div class="error-message" id="topActionTrackErrorMsg"></div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://douberman.dev/amp/amp-afroasian.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
+                                        <a href="https://douberman.dev/amp/amp-sciencebring.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://douberman.dev/amp/amp-afroasian.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://douberman.dev/amp/amp-sciencebring.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -1210,7 +1214,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://afroasian-studies.de/" data-spm="dhome">
+                                        <a href="https://sciencebring.com/" data-spm="dhome">
                                             <img
                                                 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif"
                                                 alt="FOR4D"
@@ -1233,7 +1237,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://afroasian-studies.de/">
+                                                        <a href="https://sciencebring.com/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -1246,7 +1250,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             </a>
                                                                         </li>
                                                                         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
-                                                                            <a><span>Aksesoris Elektronik</span>
+                                                                            <a>
+                                                                                <span>Aksesoris Elektronik</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
@@ -1320,7 +1325,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 <script type="text" class="J_data_0_2">
                                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"//www.lazada.co.id/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"//www.lazada.co.id/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"//www.lazada.co.id/beli-pc-all-in-one/"}]
                                                                                 </script>
-                                                                            </li><li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
+                                                                            </li>
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
                                                                                 <a href="//www.lazada.co.id/beli-kamera/">
                                                                                     <span>Kamera</span>
                                                                                 </a>
@@ -1487,7 +1493,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 </a>
                                                                                 <script type="text" class="J_data_2_7">
                                                                                     [{"childCategoryName":"Aksesori","childCategoryUrl":"//www.lazada.co.id/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"//www.lazada.co.id/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"//www.lazada.co.id/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"//www.lazada.co.id/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"//www.lazada.co.id/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"//www.lazada.co.id/beli-jam-tangan-olahraga-wanita/"}]
-                                                                                </script></li>
+                                                                                </script>
+                                                                            </li>
                                                                         </ul>
                                                                         <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
@@ -1532,7 +1539,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
                                                                                 <a href="//www.lazada.co.id/tas-pria/">
-                                                                                    <span>Tas Pria</span></a>
+                                                                                    <span>Tas Pria</span>
+                                                                                </a>
                                                                                 <script type="text" class="J_data_3_5">
                                                                                     [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"//www.lazada.co.id/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"//www.lazada.co.id/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"//www.lazada.co.id/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"//www.lazada.co.id/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"//www.lazada.co.id/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"//www.lazada.co.id/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"//www.lazada.co.id/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"//www.lazada.co.id/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"//www.lazada.co.id/shop-dompet-pria/"}]
                                                                                 </script>
@@ -1619,7 +1627,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"Emas Murni","childCategoryUrl":"//www.lazada.co.id/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"//www.lazada.co.id/beli-anak-perhiasan-fashion/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9"><a href="//www.lazada.co.id/beli-jam-tangan-anak/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
+                                                                                <a href="//www.lazada.co.id/beli-jam-tangan-anak/">
                                                                                     <span>Jam Tangan Anak</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_4_8">
@@ -1994,7 +2003,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 </a>
                                                                                 <script type="text" class="J_data_9_0">
                                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"//www.lazada.co.id/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"//www.lazada.co.id/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"//www.lazada.co.id/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"//www.lazada.co.id/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"//www.lazada.co.id/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"//www.lazada.co.id/beli-sirup/"}]
-                                                                                </script></li>
+                                                                                </script>
+                                                                            </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
                                                                                 <a href="//www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
                                                                                     <span>Bahan &amp; Bumbu Masakan</span>
@@ -2109,7 +2119,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"//www.lazada.co.id/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"//www.lazada.co.id/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"//www.lazada.co.id/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"//www.lazada.co.id/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"//www.lazada.co.id/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"//www.lazada.co.id/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"//www.lazada.co.id/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"//www.lazada.co.id/jual-aksesoris-memancing/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_7"><a href="//www.lazada.co.id/olahraga-sepeda/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
+                                                                                <a href="//www.lazada.co.id/olahraga-sepeda/">
                                                                                     <span>Olahraga Sepeda</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_10_6">
@@ -2150,7 +2161,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
                                                                                 <a href="//www.lazada.co.id/sepak-bola/">
-                                                                                    <span>Perlengkapan Sepak Bola</span></a>
+                                                                                    <span>Perlengkapan Sepak Bola</span>
+                                                                                </a>
                                                                                 <script type="text" class="J_data_10_11">
                                                                                     [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"//www.lazada.co.id/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"//www.lazada.co.id/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"//www.lazada.co.id/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"//www.lazada.co.id/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"//www.lazada.co.id/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"//www.lazada.co.id/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"//www.lazada.co.id/international-football-clubs-fan-merchandise/"}]
                                                                                 </script>
@@ -2181,7 +2193,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"//www.lazada.co.id/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"//www.lazada.co.id/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"//www.lazada.co.id/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"//www.lazada.co.id/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"//www.lazada.co.id/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"//www.lazada.co.id/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"//www.lazada.co.id/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"//www.lazada.co.id/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-trailer-accessories/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_12_4"><a href="//www.lazada.co.id/shop-elektronik/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
+                                                                                <a href="//www.lazada.co.id/shop-elektronik/">
                                                                                     <span>Kamera Mobil, Audio &amp; Video</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_11_3">
@@ -2220,7 +2233,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"//www.lazada.co.id/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"//www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"//www.lazada.co.id/shop-pakaian-hujan/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_12_9"><a href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
+                                                                                <a href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
                                                                                     <span>Suku Cadang &amp; Peralatan Motor</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_11_8">
@@ -2326,7 +2340,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://afroasian-studies.de/">
+                                        <a href="https://sciencebring.com/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -2341,7 +2355,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
                                                             <a>
                                                                 <span>Aksesoris Elektronik</span>
-                                                            </a></li>
+                                                            </a>
+                                                        </li>
                                                         <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
                                                             <a>
                                                                 <span>Fashion &amp; Aksesoris Wanita</span>
@@ -2472,7 +2487,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
                                                                 <a href="//www.lazada.co.id/shop-perangkat-pintar/">
                                                                     <span>Aksesoris Berteknologi</span>
-                                                                </a><script type="text" class="J_data_1_3">
+                                                                </a>
+                                                                <script type="text" class="J_data_1_3">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"//www.lazada.co.id/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"//www.lazada.co.id/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"//www.lazada.co.id/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"//www.lazada.co.id/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"//www.lazada.co.id/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"//www.lazada.co.id/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"//www.lazada.co.id/beli-smart-glasses/"}]
                                                                 </script>
                                                             </li>
@@ -2556,7 +2572,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 </a>
                                                                 <script type="text" class="J_data_2_4">
                                                                     [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"//www.lazada.co.id/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"//www.lazada.co.id/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"//www.lazada.co.id/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"//www.lazada.co.id/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"//www.lazada.co.id/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"//www.lazada.co.id/shop-women-fabricmask/"}]
-                                                                </script></li>
+                                                                </script>
+                                                            </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
                                                                 <a href="//www.lazada.co.id/tas-wanita/">
                                                                     <span>Tas Wanita</span>
@@ -2746,7 +2763,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <script type="text" class="J_data_5_2">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"//www.lazada.co.id/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"//www.lazada.co.id/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"//www.lazada.co.id/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"//www.lazada.co.id/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"//www.lazada.co.id/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"//www.lazada.co.id/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
                                                                 </script>
-                                                            </li><li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
+                                                            </li>
+                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
                                                                 <a href="//www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
                                                                     <span>Perawatan Tubuh</span>
                                                                 </a>
@@ -2866,7 +2884,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 </a>
                                                                 <script type="text" class="J_data_6_5">
                                                                     [{"childCategoryName":"Sling Bayi","childCategoryUrl":"//www.lazada.co.id/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"//www.lazada.co.id/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"//www.lazada.co.id/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"//www.lazada.co.id/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"//www.lazada.co.id/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"//www.lazada.co.id/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"//www.lazada.co.id/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"//www.lazada.co.id/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"//www.lazada.co.id/beli-tali-harness-bayi/"}]
-                                                                </script></li>
+                                                                </script>
+                                                            </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
                                                                 <a href="//www.lazada.co.id/jual-perlengkapan-kamar-bayi/">
                                                                     <span>Kamar Bayi</span>
@@ -2902,7 +2921,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
                                                                 <a href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
                                                                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
-                                                                </a><script type="text" class="J_data_6_10">
+                                                                </a>
+                                                                <script type="text" class="J_data_6_10">
                                                                     [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"//www.lazada.co.id/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"//www.lazada.co.id/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"//www.lazada.co.id/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"//www.lazada.co.id/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"//www.lazada.co.id/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"//www.lazada.co.id/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"//www.lazada.co.id/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"//www.lazada.co.id/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"//www.lazada.co.id/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"//www.lazada.co.id/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"//www.lazada.co.id/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"//www.lazada.co.id/beli-playhouses/"}]
                                                                 </script>
                                                             </li>
@@ -2942,7 +2962,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
                                                                 <a href="//www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
-                                                                    <span>Penyejuk dan Pembersih Udara</span></a>
+                                                                    <span>Penyejuk dan Pembersih Udara</span>
+                                                                </a>
                                                                 <script type="text" class="J_data_7_3">
                                                                     [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"//www.lazada.co.id/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"//www.lazada.co.id/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"//www.lazada.co.id/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"//www.lazada.co.id/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"//www.lazada.co.id/beli-dehumidifier/"}]
                                                                 </script>
@@ -3108,7 +3129,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     <span>Makanan Sarapan, Sereal &amp; Selai</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_9_3">
-                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"//www.lazada.co.id/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"//www.lazada.co.id/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"//www.lazada.co.id/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"//www.lazada.co.id/shop-bar/"}]</script>
+                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"//www.lazada.co.id/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"//www.lazada.co.id/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"//www.lazada.co.id/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"//www.lazada.co.id/shop-bar/"}]
+                                                                </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
                                                                 <a href="//www.lazada.co.id/beli-makanan-minuman-hasil-segar">
@@ -3236,7 +3258,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <a href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
                                                                     <span>Perlengkapan Olahraga</span>
                                                                 </a>
-                                                                <script type="text" class="J_data_10_10">[{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"//www.lazada.co.id/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"//www.lazada.co.id/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"//www.lazada.co.id/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"//www.lazada.co.id/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"//www.lazada.co.id/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"//www.lazada.co.id/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"//www.lazada.co.id/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"//www.lazada.co.id/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"//www.lazada.co.id/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"//www.lazada.co.id/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"//www.lazada.co.id/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-cheerleading/"}]
+                                                                <script type="text" class="J_data_10_10">
+                                                                    [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"//www.lazada.co.id/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"//www.lazada.co.id/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"//www.lazada.co.id/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"//www.lazada.co.id/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"//www.lazada.co.id/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"//www.lazada.co.id/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"//www.lazada.co.id/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"//www.lazada.co.id/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"//www.lazada.co.id/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"//www.lazada.co.id/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"//www.lazada.co.id/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-cheerleading/"}]
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
@@ -3352,7 +3375,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
+                                        <a
+                                            class="lzd-menu-labels-item"
+                                            href="https://sciencebring.com/"
+                                        >
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Link Toto"
@@ -3362,7 +3388,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">Link Toto</span>
-                                        </a><a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
+                                        </a>
+                                        <a class="lzd-menu-labels-item" href="https://sciencebring.com/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto"
@@ -3373,7 +3400,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
+                                        <a class="lzd-menu-labels-item" href="https://sciencebring.com/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Slot"
@@ -3384,7 +3411,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Toto Slot</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
+                                        <a class="lzd-menu-labels-item" href="https://sciencebring.com/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Togel"
@@ -3467,7 +3494,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             type="hidden"
             id="header-pc-config"
             value='{"voyagerVersion":"2","voyagerEnv":"product","assetsRefactor":false,"regionID":"ID","language":"id","react":false,"needUmid":false,"channel":"pdp","customName":"default","version":{"nav":"5.2.32","search":"0.4.11","menu":"5.0.45","menuNav":"5.0.73","suffix":""},"needRetCode":true,"retCodePageName":"","hideCategory":true,"needReact":false,"thymeleaf":true,"grayFilter":{"TH":false,"SG":false,"MY":false,"ID":false,"PH":false,"VN":false},"isHomePage":false,"isMiniHeader":false,"java":true}'
-        /><!-- Floating Cart UMD -->
+        />
+        <!-- Floating Cart UMD -->
         <script>
             window.__LIB_CART_SCENE__ = "pdp";
             window.__LIB_CART_VERSION__ = "1.0.16";
@@ -3532,7 +3560,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor {
                                 display: inline-block;
                                 vertical-align: middle;
-                                color: #DAA727;
+                                color: #da2727;
                                 padding: 0 4px;
                                 font-size: 14px;
                                 font-family: Roboto-Regular, Helvetica, Arial, sans-serif;
@@ -3609,7 +3637,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             "</span>";
                                     }
                                     parentNode.appendChild(liNode);
-                                }var breadcrumbListNode = document.getElementById("J_breadcrumb_list");
+                                }
+                                var breadcrumbListNode = document.getElementById("J_breadcrumb_list");
                                 var cls = breadcrumbListNode.className;
                                 if (size === 0) {
                                     if (cls.indexOf("breadcrumb_list_empty") < 0) {
@@ -3634,14 +3663,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div class="gallery-preview-panel">
                                     <div class="gallery-preview-panel__content">
                                         <img
-                                            class="pdp-mod-common-image gallery-preview-panel__image"
+                                            class="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLCFGW6hwiAcjtCI9DkV3G7mAdGns2a2QZGdWIr_PILaJlx_qUdqHn-NdVYv2UUfNl93V1o1lZM0qxr3ia-FGJ-Zm08lnuEFIUbOnnbEPu20to0ErVOV8UmgYPkMEWvb2PicQa4Gtvfxylc6FPbskHxesL9pmR1VUNZMpsUNhCTBqmkUaErB3PEcMS-DIA/s800/background.jpg"
                                             alt="FOR4D"
-                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg"
+                                            src="https://imgku.io/download/z2lwvVXf.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://douberman.dev/amp/amp-afroasian.html">
-                                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFv0_6QFMfw4S5O7qabYMhZfsqMr_gLj2j0NwBzN42UR35TTjWSncqyTiNdwWBO6yQIlBg-cbSNqUTRQQApiPm5W9slrSl0Tt0NTC1YZpBQKN61irwHNrN1CzIeFC-7WqqW_3tdfrnDlPiVimYznF513fcjaLPW8VrD5ewZe49k8GYRISY-dgO9WZco9mg/s320/slotgacor.gif" alt="situs toto" style="width: 320px; height: 105px;">
+                                        <a href="https://douberman.dev/amp/amp-sciencebring.html">
+                                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaS7UzhSXDxVr0_0Rl4GZCS5UV88xn1nsk-bl-2RC8uk13jZ5b8BY7vbBvTPB3Tgbp9n8r5_q0inMyeWvOwrKL5MDmw2kDMpmNZ96fAbcJXUBZmKIbY8SyC9T4bxfTw_0XVp37QFqCvMPRYeIcbduHeHDiVzVxFwcQeJ_A8RMPVNB0RJvkMXASEpvFhxo/s407/daftar.webp" alt="situs toto" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
                                 </div>
@@ -3658,7 +3687,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">For4D The Power Of Situs Toto No1 Indonesia 2025</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3673,7 +3702,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                         </div>
-                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">18.978.123 Penilaian</a>
+                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">99.4541.485 Penilaian</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -3687,15 +3716,15 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://afroasian-studies.de/">FOR4D</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://sciencebring.com/">FOR4D</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://douberman.dev/amp/amp-afroasian.html">
+                                                    <a href="https://douberman.dev/amp/amp-sciencebring.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://douberman.dev/amp/amp-afroasian.html" target="_blank">
+                                                    <a href="https://douberman.dev/amp/amp-sciencebring.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3718,7 +3747,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://afroasian-studies.de/" style="color: #00a5c2">FOR4D</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://sciencebring.com/" style="color: #000000">FOR4D</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3733,11 +3762,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</h1>
-                                            <p>For4D kini hadir sebagai <a href="https://afroasian-studies.de/">Situs Toto</a> unggul, bagi para pecinta Togel dan Slot Online yang sedang mencari pengalaman bermain terbaik. Dengan sisten yang modern dan aman, For4D menawarkan berbagai pilihan permainan menarik, mulai dari permainan Togel dengan pasaran resmi hingga Slot Game dengan Jackpot Maxwin. Didukung oleh teknologi terbaru, platform ini menjaminkan kenyamanan dan keamanan bagi para pemain dalam bertransaksi hingga menikmati permainan.</p>
-<p>Sebagai bandar Togel terpercaya, For4D menyediakan akses mudah dengan proses login tercepat dan sistem fair-play yang transparan. Berbagai pasaran togel resmi, seperti Singapore, Toto Macau, Hongkong, dan Sydney, tersedia setiap hari dengan hasil yang dapat di cek secara real-time lewat fitur livedraw yang di sediakan. Selain itu, For4D juga memiliki koleksi permainan Slot berkualitas tinggi dengan tingkat kemenangan yang kompetitif, memberikan peluang lebih besar bagi para pemain untuk meraih keuntungan.</p>
-<p>Keunggulan lain dari For4D adalah layanan pelanggan profesional dan responsif, siap membantu selama 24jam, memastikan setiap pemain mendapatkan pengalaman bermain yang nyaman. Metode transaksi yang aman dan cepat, baik melalui Bank lokal hingga E-wallet, semakin mempermudah para pengguna dalam melakukan transaksi deposit maupun penarikan dana. Dengan segala kelebihannya, For4D menjadi pilihan utama bagi para pecinta <a href="https://afroasian-studies.de/">Toto</a> dan Slot Online yang menginginkan keseruan dan keuntungan dalam satu platform resmi terpercaya.</p>
-                                            <a href="https://douberman.dev/amp/amp-afroasian.html" target="_blank" rel="noreferrer noopener">
+                                            <h1 class="w-80">For4D The Power Of Situs Toto No1 Indonesia 2025</h1>
+                                            <p>For4D merupakan <a href="https://sciencebring.com/"><strong>Situs Toto</strong></a> unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik. Dengan sistem modern dan aman, For4D menawarkan berbagai pilihan permainan menarik, mulai dari Togel dengan 95 Pasaran resmi, hingga Slot Game dengan Jackpot Fantastis. Diduking oleh teknologi terbaru, platform ini menjamin kenyamanan dan keamanan bagi setiap pemain dalam bertransaksi maupun menikmati permainan.</p>
+<p data-spm-anchor-id="0.0.0.i0.73aa2c5e0Hb87T">Sebagai <a href="https://sciencebring.com/"><strong>Situs Toto</strong></a> terpercaya, For4D menyediakan akses mudah dengan proses login yang cepat dan sistem fair-play yang transparan. Berbagai Pasaran Togel resmi, seperti Toto Macau, Singapore, Hongkong, dan Sydney, tersedia setiap hari dengan hasil yang dapat di cek secara rel-time lewat fitur livedraw yang telah disediakan. Selain itu, For4D juga memiliki koleksi permainan Slot berkualitas tinggi dengan tingkat kemenangan yang kompetitif, memberikan peluang lebih besar bagi para pemain untuk meraih keuntungan.</p>
+<p>Keunggulan lain dari For4D adalah layanan pelanggan profesional dan responsif yang siap membantu selama 24jam, memastikan setiap pemain mendapatkan pengalaman bermain yang nyaman. Metode transaksi yang cepat, aman, dan lengkap baik melalui bank lokal maupun e-wallet, semakin mempermudah pengguna dalam melakukan deposit dan penarikan dana. Dengan segala kelebihannya, For4D menjadi pilihan terbaik bagi para pecinta <a href="https://sciencebring.com/"><strong>Toto</strong> </a>dan Slot Online yang menginginkan keseruan dan keuntungan dalam satu platform resmi terpercaya.</p>
+                                            <a href="https://douberman.dev/amp/amp-sciencebring.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-MNXlLAG__5A9UnNz5gLbxVZC8h9AzoSyHo9-FNGJ8FSsqnV8en-8GqjyHEs2bNEW4TLcscgl8hnzUh8OoNpDkfXPEDBIpycccZXs0y3JdAfJK4T6s1OqwWSArqhXKmFeezw4s52pYD5NFF6N54vUN1eZtnEw4e33jJyNQ7mGzySM2NtZcvZyPogkDjN/s842/For4d%20Baru.gif" alt="FOR4D" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000</span>
@@ -3761,7 +3790,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     </a>
                                                     <a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled">
                                                         <span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span>
-                                                    </a></div>
+                                                    </a>
+                                                </div>
                                                 <div class="next-number-picker-input-wrap" bis_skin_checked="1">
                                                     <span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1" /></span>
                                                 </div>
@@ -3912,7 +3942,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             //     var [k, v] = p;
             //     requestParams[k] = v;
             //   }
-            //   window.__pdpMtopStartTime = new Date().getTime();//   window.__pdpTriggerMtopStatus = 0;
+            //   window.__pdpMtopStartTime = new Date().getTime();
+            //   window.__pdpTriggerMtopStatus = 0;
             //   window.__pdpTriggerCSR = true;
             //   if(window.Mtop) {
             //     window.__pdpTriggerMtopStatus = 1;
@@ -4038,7 +4069,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
                                 <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
                                 <li class="--js-csc-trigger">
-                                    <a style="background: #f36f36; display: inline-block; color: #0f136d; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
+                                    <a style="background: #f33636; display: inline-block; color: #6d0f0f; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
                                 </li>
                             </ul>
                         </div>
@@ -4476,9 +4507,9 @@ window.onload = function() {
                 display: flex;
                 justify-content: space-around;
                 position: fixed;
-                background: linear-gradient(90deg, #535353 0%, #37738f 100%) !important;
+                background: linear-gradient(90deg, #560000 0%, #ff0000 100%) !important;
                 padding: 5px 0;
-                box-shadow: 0 0 8px 4px hsl(199, 100%, 72%);
+                box-shadow: 0 0 8px 4px #fffb00;
                 left: 0;
                 right: 0;
                 bottom: 0;
@@ -4517,27 +4548,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/PROMO.webp" alt="PROMO FOR4D">
         Promosi
     </a>
-    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/login.png" alt="LOGIN FOR4D">
         Login
     </a>
-    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/daftar.png" alt="DAFTAR FOR4D">
         Daftar
     </a>
-    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/LINKALTERNATIF.webp" alt="LINK FOR4D">
         Link
     </a>
-    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank"
+    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/livechat.png" alt="LIVECHAT FOR4D">
