@@ -5,28 +5,29 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 ?>
 
 
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1</title>
-        <meta name="google-site-verification" content="stdxN793ItRq7TM5Yx5PRqL64BwvmxL2pOsmbCoGGD8" />
-        <meta name="description" content="For4D hadir sebagai Situs Toto unggulan bagi para pecinta permainan Slot dan Togel Online, yang sedang mencari pengalaman bermain terbaik." />
+        <title>For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1</title>
+        <meta name="google-site-verification" content="-5W15mKKtMUK1nU4DDPGs9jKhpgC8zXYDpzQX4JU_mQ" />
+        <meta name="description" content="For4D merupakan platform Situs Toto resmi yang menyediakan permainan judi online terlengkap, seperti Toto Togel 4D dan Toto Slot Online." />
         <meta name="keywords" content="FOR4D, FOR4D, situs toto, toto slot, toto togel, togel online, slot online" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://eipublication.com/" />
-        <meta name="og:title" content="Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1" />
+        <meta name="og:url" content="https://masterjournals.com/" />
+        <meta name="og:title" content="For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="For4D hadir sebagai Situs Toto unggulan bagi para pecinta permainan Slot dan Togel Online, yang sedang mencari pengalaman bermain terbaik." />
-        <meta name="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQdSp7xPAZI_ElNmytb5VBm-2LvWaM6-XZTchx0k6tvs5_2_MIdaF_tsW8vk9Ay_mn_0HPzhP_eyFSezQScWrOnl7oGFayAyT_nRrTm-RFjN4ipicVOA2xs94QSpnklDTAY87C4PfpNf3HpnyLckOTxh-OQOIworh1ui4WWsupXMWe3hDouDevdfaZI9G/s800/PSD-AESTETIC.jpg" />
+        <meta name="og:description" content="For4D merupakan platform Situs Toto resmi yang menyediakan permainan judi online terlengkap, seperti Toto Togel 4D dan Toto Slot Online." />
+        <meta name="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAbwPRNCKpyQ0mk7HGIOYvSnk7GdjNjkUWvnDOWzSvTDCzS0TBrElC4AWrE__Qf42hrvc7nBozfQOaLXMlofJar1NHt-BVRDxr_4bQjYWWtkfaFruLZvK1YVnAMp5zhUNjbzILp2xrQnVeDbKqIFuvAgz8GSwNSTfFa19CZdM7aM0GWXvRW9z-U9OzISS/s800/background.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png" />
-        <link rel="canonical" href="https://eipublication.com/" />
-        <link rel="amphtml" href="https://douberman.dev/amp/amp-eipublication.html" />
+        <link rel="canonical" href="https://masterjournals.com/" />
+        <link rel="amphtml" href="https://douberman.dev/amp/amp-masterjournals.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQdSp7xPAZI_ElNmytb5VBm-2LvWaM6-XZTchx0k6tvs5_2_MIdaF_tsW8vk9Ay_mn_0HPzhP_eyFSezQScWrOnl7oGFayAyT_nRrTm-RFjN4ipicVOA2xs94QSpnklDTAY87C4PfpNf3HpnyLckOTxh-OQOIworh1ui4WWsupXMWe3hDouDevdfaZI9G/s800/PSD-AESTETIC.jpg" as="image" />
+        <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAbwPRNCKpyQ0mk7HGIOYvSnk7GdjNjkUWvnDOWzSvTDCzS0TBrElC4AWrE__Qf42hrvc7nBozfQOaLXMlofJar1NHt-BVRDxr_4bQjYWWtkfaFruLZvK1YVnAMp5zhUNjbzILp2xrQnVeDbKqIFuvAgz8GSwNSTfFa19CZdM7aM0GWXvRW9z-U9OzISS/s800/background.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -92,8 +93,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         }
                         randend = randend.substr(0, 42);
                         return randend;
-                    };
-                    var pageid = getRand();
+                    };var pageid = getRand();
                     var aq = window.aplus_queue || (window.aplus_queue = []);
                     aq.push({ action: "aplus.appendMetaInfo", arguments: ["aplus-cpvdata", { pageid: pageid }] });
                     aq.push({ action: "aplus.appendMetaInfo", arguments: ["aplus-exdata", { st_page_id: pageid }] });
@@ -132,7 +132,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQdSp7xPAZI_ElNmytb5VBm-2LvWaM6-XZTchx0k6tvs5_2_MIdaF_tsW8vk9Ay_mn_0HPzhP_eyFSezQScWrOnl7oGFayAyT_nRrTm-RFjN4ipicVOA2xs94QSpnklDTAY87C4PfpNf3HpnyLckOTxh-OQOIworh1ui4WWsupXMWe3hDouDevdfaZI9G/s800/PSD-AESTETIC.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAbwPRNCKpyQ0mk7HGIOYvSnk7GdjNjkUWvnDOWzSvTDCzS0TBrElC4AWrE__Qf42hrvc7nBozfQOaLXMlofJar1NHt-BVRDxr_4bQjYWWtkfaFruLZvK1YVnAMp5zhUNjbzILp2xrQnVeDbKqIFuvAgz8GSwNSTfFa19CZdM7aM0GWXvRW9z-U9OzISS/s800/background.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -429,7 +429,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             </symbol>
             <symbol id="lazadaicon_start" viewBox="0 0 1024 1024">
                 <path
-                    d="M236.249425 10.759014l591.395068 460.126685a42.082192 42.082192 0 0 1 0.490959 66.055013l-591.395068 474.266302A42.082192 42.082192 0 0 1 168.328767 978.396932V43.989918A42.082192 42.082192 0 0 1 236.249425 10.759014z"
+                    d="M236.24942510.759014l591.395068 460.126685a42.082192 42.082192 0 0 1 0.490959 66.055013l-591.395068 474.266302A42.082192 42.082192 0 0 1 168.328767 978.396932V43.989918A42.082192 42.082192 0 0 1 236.249425 10.759014z"
                 ></path>
             </symbol>
             <symbol id="lazadaicon_phone" viewBox="0 0 1024 1024">
@@ -492,8 +492,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 <path
                     d="M507.2 628.8c-14.4 0-27.2-11.2-27.2-27.2 0-14.4 11.2-27.2 27.2-27.2 14.4 0 27.2 11.2 27.2 27.2-1.6 16-12.8 27.2-27.2 27.2zM588.8 438.4L564.8 464c-19.2 19.2-30.4 35.2-30.4 75.2H480v-12.8c0-28.8 12.8-56 32-75.2L544 416c9.6-9.6 16-22.4 16-36.8C560 350.4 536 326.4 507.2 326.4c-28.8 0-52.8 24-52.8 52.8H400a107.2 107.2 0 0 1 214.4 0c-1.6 22.4-11.2 44.8-25.6 59.2z"
                     fill="#9E9E9E"
-                ></path>
-            </symbol>
+                ></path></symbol>
             <symbol id="lazadaicon_filter" viewBox="0 0 1024 1024">
                 <path
                     d="M918.75555522 201.95555522c-4.266667-8.533333-17.066667-17.066667-25.6-17.066666H129.42222222c-12.8 0-21.333333 8.533333-25.6 17.066666-4.266667 12.8-4.266667 25.6 4.266667 34.133334L411.02222222 611.55555522v256c0 17.066667 12.8 29.866667 29.866667 29.866667 17.066667 0 29.866667-12.8 29.866666-29.866667v-277.333333l-277.333333-341.333333H824.88888922l-277.333334 341.333333V867.55555522c0 17.066667 12.8 29.866667 29.866667 29.866667s29.866667-12.8 29.866667-29.866667v-256L910.22222222 236.08888922c12.8-8.533333 12.8-21.333333 8.533333-34.133334"
@@ -583,7 +582,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             </symbol>
             <symbol id="lazadaicon_standard" viewBox="0 0 1024 1024">
                 <path
-                    d="M601.6 268.8h-68.266667V196.266667h68.266667v72.533333z m332.8 529.066667V128H234.666667c-8.533333 0-12.8 4.266667-21.333334 8.533333-8.533333 8.533333-8.533333 25.6 4.266667 34.133334l230.4 200.533333-162.133333 166.4L170.666667 435.2c-8.533333-8.533333-25.6-8.533333-34.133334 4.266667-8.533333 8.533333-8.533333 25.6 4.266667 34.133333l68.266667 59.733333v273.066667H426.666667l17.066666 34.133333c0 4.266667 12.8 25.6 34.133334 34.133334 4.266667 0 8.533333 4.266667 17.066666 4.266666s17.066667-4.266667 29.866667-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066667 12.8 4.266667 4.266667 8.533333 4.266667 17.066666 4.266667s21.333333-4.266667 34.133334-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066666 12.8 4.266667 0 8.533333 4.266667 17.066667 4.266667s21.333333-4.266667 34.133333-8.533334l17.066667-12.8c4.266667 4.266667 8.533333 4.266667 17.066667 8.533334 4.266667 0 8.533333 4.266667 12.8 4.266666 8.533333 0 17.066667-4.266667 29.866666-8.533333 8.533333-4.266667 12.8-17.066667 4.266667-25.6-4.266667-8.533333-17.066667-12.8-29.866667-4.266667l-4.266666 4.266667c-4.266667 0-4.266667-4.266667-4.266667-8.533333l-51.2-106.666667c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l42.666667 93.866666-17.066667 8.533334c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-8.533333-8.533333l-38.4-85.333333c-8.533333-34.133333-21.333333-38.4-29.866667-34.133334-8.533333 4.266667-17.066667 17.066667-12.8 25.6l29.866667 68.266667-12.8 8.533333c-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667-4.266667-8.533333-4.266667-8.533333-8.533333l-21.333334-55.466667c-4.266667-8.533333-17.066667-17.066667-29.866666-12.8-8.533333 4.266667-17.066667 17.066667-12.8 25.6l17.066666 38.4-12.8 4.266667c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-4.266666-4.266666l-38.4-81.066667v-4.266667l-72.533334-157.866666-29.866666 29.866666 64 145.066667H256v-179.2l17.066667 17.066667c4.266667 4.266667 8.533333 4.266667 17.066666 4.266666 4.2666670 12.8-4.266667 17.066667-4.266666l196.266667-200.533334c8.533333-8.533333 4.266667-25.6-4.266667-34.133333L294.4 179.2h187.733333V298.666667h162.133334V179.2h243.2v584.533333h-106.666667l-68.266667-140.8 55.466667 17.066667c4.266667 0 29.866667 4.266667 55.466667-8.533333 8.533333-4.266667 25.6-21.333333 29.866666-46.933334v-4.266666c4.266667-8.533333-4.266667-17.066667-8.533333-21.333334l-196.266667-102.4h-4.266666-4.266667l-110.933333-17.066666-34.133334 29.866666 136.533334 21.333334 179.2 93.866666c-4.266667 4.266667-4.266667 12.8-8.533334 17.066667-4.266667 4.266667-17.066667 4.266667-21.333333 4.266667l-89.6-25.6-8.533333-21.333334c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l25.6 46.933333 68.266666 140.8 21.333334 34.133334h174.933333z"
+                    d="M601.6 268.8h-68.266667V196.266667h68.266667v72.533333z m332.8 529.066667V128H234.666667c-8.533333 0-12.8 4.266667-21.333334 8.533333-8.533333 8.533333-8.533333 25.6 4.266667 34.133334l230.4 200.533333-162.133333 166.4L170.666667 435.2c-8.533333-8.533333-25.6-8.533333-34.133334 4.266667-8.533333 8.533333-8.533333 25.6 4.266667 34.133333l68.266667 59.733333v273.066667H426.666667l17.066666 34.133333c0 4.266667 12.8 25.6 34.133334 34.133334 4.266667 0 8.533333 4.266667 17.066666 4.266666s17.066667-4.266667 29.866667-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066667 12.8 4.266667 4.266667 8.533333 4.266667 17.066666 4.266667s21.333333-4.266667 34.133334-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066666 12.8 4.266667 0 8.533333 4.266667 17.066667 4.266667s21.333333-4.266667 34.133333-8.533334l17.066667-12.8c4.266667 4.266667 8.533333 4.266667 17.066667 8.533334 4.266667 0 8.533333 4.266667 12.8 4.266666 8.533333 0 17.066667-4.266667 29.866666-8.533333 8.533333-4.266667 12.8-17.066667 4.266667-25.6-4.266667-8.533333-17.066667-12.8-29.866667-4.266667l-4.266666 4.266667c-4.266667 0-4.266667-4.266667-4.266667-8.533333l-51.2-106.666667c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l42.666667 93.866666-17.066667 8.533334c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-8.533333-8.533333l-38.4-85.333333c-8.533333-34.133333-21.333333-38.4-29.866667-34.133334-8.533333 4.266667-17.066667 17.066667-12.825.6l29.866667 68.266667-12.8 8.533333c-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667-4.266667-8.533333-4.266667-8.533333-8.533333l-21.333334-55.466667c-4.266667-8.533333-17.066667-17.066667-29.866666-12.8-8.533333 4.266667-17.066667 17.066667-12.8 25.6l17.066666 38.4-12.8 4.266667c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-4.266666-4.266666l-38.4-81.066667v-4.266667l-72.533334-157.866666-29.866666 29.866666 64 145.066667H256v-179.2l17.066667 17.066667c4.266667 4.266667 8.533333 4.266667 17.066666 4.266666 4.266667 0 12.8-4.266667 17.066667-4.266666l196.266667-200.533334c8.533333-8.533333 4.266667-25.6-4.266667-34.133333L294.4 179.2h187.733333V298.666667h162.133334V179.2h243.2v584.533333h-106.666667l-68.266667-140.8 55.466667 17.066667c4.266667 0 29.866667 4.266667 55.466667-8.533333 8.533333-4.266667 25.6-21.333333 29.866666-46.933334v-4.266666c4.266667-8.533333-4.266667-17.066667-8.533333-21.333334l-196.266667-102.4h-4.266666-4.266667l-110.933333-17.066666-34.133334 29.866666 136.533334 21.333334 179.2 93.866666c-4.266667 4.266667-4.266667 12.8-8.533334 17.066667-4.266667 4.266667-17.066667 4.266667-21.333333 4.266667l-89.6-25.6-8.533333-21.333334c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l25.6 46.933333 68.266666 140.8 21.333334 34.133334h174.933333z"
                 ></path>
             </symbol>
             <symbol id="lazadaicon_expressDelivery" viewBox="0 0 1401 1024">
@@ -875,13 +874,13 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1",
+                "name": "For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://eipublication.com/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://masterjournals.com/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "For4D hadir sebagai Situs Toto unggulan bagi para pecinta permainan Slot dan Togel Online, yang sedang mencari pengalaman bermain terbaik.",
+                "description": "For4D merupakan platform Situs Toto resmi yang menyediakan permainan judi online terlengkap, seperti Toto Togel 4D dan Toto Slot Online.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -903,7 +902,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://eipublication.com/",
+                            "@id": "https://masterjournals.com/",
                             "name": "FOR4D"
                         }
                     },
@@ -911,7 +910,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://eipublication.com/",
+                            "@id": "https://masterjournals.com/",
                             "name": "Situs Toto"
                         }
                     },
@@ -919,7 +918,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://eipublication.com/",
+                            "@id": "https://masterjournals.com/",
                             "name": "Toto Togel"
                         }
                     },
@@ -927,7 +926,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://eipublication.com/",
+                            "@id": "https://masterjournals.com/",
                             "name": "Toto Slot"
                         }
                     },
@@ -935,8 +934,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://eipublication.com/",
-                            "name": "Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1"
+                            "@id": "https://masterjournals.com/",
+                            "name": "For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1"
                         }
                     }
                 ]
@@ -1047,10 +1046,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://eipublication.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FOR4D</a>
+                                        <a target="_blank" href="https://masterjournals.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FOR4D</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://eipublication.com/">Situs Toto Slot</a></span>
+                                        <span><a href="https://masterjournals.com/">Situs Toto Slot</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1067,8 +1066,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     alt="barcode lazada"
                                                                 />
                                                             </div>
-                                                            <div class="promotion-text">
-                                                                <a href="https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
+                                                            <div class="promotion-text"><a href="https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
                                                                     <div class="get-the-app-download-text">
                                                                         <p>FOR4D:</p>
                                                                         <ul>
@@ -1078,7 +1076,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             <li>Slot Online</li>
                                                                         </ul>
                                                                     </div>
-                                                                </a></div>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                         <form class="get-the-app-form" id="topActionDownloadForm">
                                                             <div class="top-input-wrap get-the-app-input-wrap">
@@ -1104,10 +1103,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://eipublication.com/">Situs Toto Togel</a>
+                                        <a class="black" href="https://masterjournals.com/">Situs Toto Togel</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://eipublication.com/">Situs Slot Online</a></span>
+                                        <span><a href="https://masterjournals.com/">Situs Slot Online</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1154,11 +1153,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://eipublication.com/">Situs Togel Online</a></span>
+                                        <span><a href="https://masterjournals.com/">Situs Togel Online</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
-                                            <div class="top-popup-content lzd-track-content">
-                                                <div id="topActionMyLastOrder"></div>
-                                                <div class="track-title">Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1</div>
+                                            <div class="top-popup-content lzd-track-content"><div id="topActionMyLastOrder"></div>
+                                                <div class="track-title">For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1</div>
                                                 <form class="track-order-form" id="topActionTrackForm">
                                                     <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
                                                     <div class="top-input-wrap track-order-input-wrap">
@@ -1167,7 +1165,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <i class="icon icon-arrow-on-button"></i>
                                                         </button>
                                                     </div>
-                                                    <p class="track-order-more-text">Untuk bantuan silakan,<a href="//www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a>
+                                                    <p class="track-order-more-text">
+                                                        Untuk bantuan silakan,<a href="//www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a>
                                                     </p>
                                                 </form>
                                                 <div class="error-message" id="topActionTrackErrorMsg"></div>
@@ -1175,10 +1174,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://douberman.dev/amp/amp-eipublication.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
+                                        <a href="https://douberman.dev/amp/amp-masterjournals.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://douberman.dev/amp/amp-eipublication.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://douberman.dev/amp/amp-masterjournals.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -1212,7 +1211,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://eipublication.com/" data-spm="dhome">
+                                        <a href="https://masterjournals.com/" data-spm="dhome">
                                             <img
                                                 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif"
                                                 alt="FOR4D"
@@ -1235,8 +1234,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://eipublication.com/">
-                                                            <span class="lzd-site-menu-nav-category-text">Kategori</span>
+                                                        <a href="https://masterjournals.com/"><span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
                                                             <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
@@ -1245,7 +1243,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                         <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
                                                                             <a>
                                                                                 <span>Peralatan Elektronik</span>
-                                                                            </a></li>
+                                                                            </a>
+                                                                        </li>
                                                                         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
                                                                             <a>
                                                                                 <span>Aksesoris Elektronik</span>
@@ -1526,14 +1525,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"Boots","childCategoryUrl":"//www.lazada.co.id/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"//www.lazada.co.id/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"//www.lazada.co.id/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"//www.lazada.co.id/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"//www.lazada.co.id/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"//www.lazada.co.id/sneakers-pria/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-                                                                                <a href="//www.lazada.co.id/aksesoris-pria/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_4_5"><a href="//www.lazada.co.id/aksesoris-pria/">
                                                                                     <span>Aksesoris</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_3_4">
                                                                                     [{"childCategoryName":"Dasi","childCategoryUrl":"//www.lazada.co.id/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"//www.lazada.co.id/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"//www.lazada.co.id/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"//www.lazada.co.id/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"//www.lazada.co.id/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"//www.lazada.co.id/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"//www.lazada.co.id/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"//www.lazada.co.id/shop-masker-wajah-pria/"}]
                                                                                 </script>
-                                                                            </li><li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
+                                                                            </li>
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
                                                                                 <a href="//www.lazada.co.id/tas-pria/">
                                                                                     <span>Tas Pria</span>
                                                                                 </a>
@@ -1566,8 +1565,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 <script type="text" class="J_data_4_0">
                                                                                     [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"//www.lazada.co.id/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"//www.lazada.co.id/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"//www.lazada.co.id/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"//www.lazada.co.id/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"//www.lazada.co.id/baju-atasan-anak-laki-laki"}]
                                                                                 </script>
-                                                                            </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
+                                                                            </li><li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
                                                                                 <a href="//www.lazada.co.id/pakaian-anak-perempuan">
                                                                                     <span>Pakaian Anak Perempuan</span>
                                                                                 </a>
@@ -1611,8 +1609,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 <a href="//www.lazada.co.id/beli-tas-anak-tl/">
                                                                                     <span>Tas Anak</span>
                                                                                 </a>
-                                                                                <script type="text" class="J_data_4_6">
-                                                                                    [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"//www.lazada.co.id/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"//www.lazada.co.id/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"//www.lazada.co.id/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"//www.lazada.co.id/koper-anak-2/"}]
+                                                                                <script type="text" class="J_data_4_6">[{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"//www.lazada.co.id/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"//www.lazada.co.id/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"//www.lazada.co.id/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"//www.lazada.co.id/koper-anak-2/"}]
                                                                                 </script>
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
@@ -1843,7 +1840,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 </a>
                                                                                 <script type="text" class="J_data_7_1">
                                                                                     [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"//www.lazada.co.id/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"//www.lazada.co.id/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"//www.lazada.co.id/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"//www.lazada.co.id/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"//www.lazada.co.id/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"//www.lazada.co.id/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"//www.lazada.co.id/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-ska-lainnya/"}]
-                                                                                </script></li>
+                                                                                </script>
+                                                                            </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
                                                                                 <a href="//www.lazada.co.id/shop-perlatan-besar/">
                                                                                     <span>Elektronik Rumah Besar</span>
@@ -1920,8 +1918,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
                                                                                 <a href="//www.lazada.co.id/beli-peralatan-ranjang/">
-                                                                                    <span>Kelengkapan Tempat Tidur</span>
-                                                                                </a>
+                                                                                    <span>Kelengkapan Tempat Tidur</span></a>
                                                                                 <script type="text" class="J_data_8_2">
                                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"//www.lazada.co.id/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"//www.lazada.co.id/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"//www.lazada.co.id/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"//www.lazada.co.id/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"//www.lazada.co.id/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"//www.lazada.co.id/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"//www.lazada.co.id/kasur-pelindung/"}]
                                                                                 </script>
@@ -2032,8 +2029,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-sayuran-segar/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-                                                                                <a href="//www.lazada.co.id/shop-kebutuhan-rumah-tangga">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_10_6"><a href="//www.lazada.co.id/shop-kebutuhan-rumah-tangga">
                                                                                     <span>Kebutuhan Rumah Tangga</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_9_5">
@@ -2074,14 +2070,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"//www.lazada.co.id/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"//www.lazada.co.id/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"//www.lazada.co.id/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"//www.lazada.co.id/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"//www.lazada.co.id/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"//www.lazada.co.id/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"//www.lazada.co.id/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"//www.lazada.co.id/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"//www.lazada.co.id/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"//www.lazada.co.id/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"//www.lazada.co.id/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"//www.lazada.co.id/gym-tote-pria/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-                                                                                <a href="//www.lazada.co.id/pakaian-olahraga-wanita/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_2"><a href="//www.lazada.co.id/pakaian-olahraga-wanita/">
                                                                                     <span>Baju Olahraga Wanita</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_10_1">
                                                                                     [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"//www.lazada.co.id/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"//www.lazada.co.id/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"//www.lazada.co.id/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"//www.lazada.co.id/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"//www.lazada.co.id/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"//www.lazada.co.id/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"//www.lazada.co.id/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"//www.lazada.co.id/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"//www.lazada.co.id/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"//www.lazada.co.id/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"//www.lazada.co.id/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"//www.lazada.co.id/gym-tote-wanita/"}]
                                                                                 </script>
-                                                                            </li><li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
+                                                                            </li>
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
                                                                                 <a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
                                                                                     <span>Sepatu Olahraga Pria</span>
                                                                                 </a>
@@ -2110,7 +2106,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     <span>Peralatan Memancing</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_10_5">
-                                                                                    [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"//www.lazada.co.id/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"//www.lazada.co.id/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"//www.lazada.co.id/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"//www.lazada.co.id/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"//www.lazada.co.id/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"//www.lazada.co.id/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"//www.lazada.co.id/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"//www.lazada.co.id/jual-aksesoris-memancing/"}]</script>
+                                                                                    [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"//www.lazada.co.id/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"//www.lazada.co.id/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"//www.lazada.co.id/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"//www.lazada.co.id/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"//www.lazada.co.id/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"//www.lazada.co.id/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"//www.lazada.co.id/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"//www.lazada.co.id/jual-aksesoris-memancing/"}]
+                                                                                </script>
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
                                                                                 <a href="//www.lazada.co.id/olahraga-sepeda/">
@@ -2142,8 +2139,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 </a>
                                                                                 <script type="text" class="J_data_10_9">
                                                                                     [{"childCategoryName":"Tenis Meja","childCategoryUrl":"//www.lazada.co.id/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"//www.lazada.co.id/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"//www.lazada.co.id/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"//www.lazada.co.id/squash/"}]
-                                                                                </script>
-                                                                            </li>
+                                                                                </script></li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
                                                                                 <a href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
                                                                                     <span>Perlengkapan Olahraga</span>
@@ -2152,7 +2148,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"//www.lazada.co.id/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"//www.lazada.co.id/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"//www.lazada.co.id/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"//www.lazada.co.id/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"//www.lazada.co.id/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"//www.lazada.co.id/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"//www.lazada.co.id/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"//www.lazada.co.id/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"//www.lazada.co.id/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"//www.lazada.co.id/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"//www.lazada.co.id/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-cheerleading/"}]
                                                                                 </script>
                                                                             </li>
-                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_12"><a href="//www.lazada.co.id/sepak-bola/">
+                                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
+                                                                                <a href="//www.lazada.co.id/sepak-bola/">
                                                                                     <span>Perlengkapan Sepak Bola</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_10_11">
@@ -2182,7 +2179,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     <span>Aksesoris Exterior Mobil</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_11_2">
-                                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"//www.lazada.co.id/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"//www.lazada.co.id/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"//www.lazada.co.id/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"//www.lazada.co.id/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"//www.lazada.co.id/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"//www.lazada.co.id/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"//www.lazada.co.id/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"//www.lazada.co.id/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-trailer-accessories/"}]</script>
+                                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"//www.lazada.co.id/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"//www.lazada.co.id/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"//www.lazada.co.id/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"//www.lazada.co.id/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"//www.lazada.co.id/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"//www.lazada.co.id/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"//www.lazada.co.id/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"//www.lazada.co.id/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-trailer-accessories/"}]
+                                                                                </script>
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
                                                                                 <a href="//www.lazada.co.id/shop-elektronik/">
@@ -2221,7 +2219,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     <span>Perlengkapan Berkendara &amp; Helm</span>
                                                                                 </a>
                                                                                 <script type="text" class="J_data_11_7">
-                                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"//www.lazada.co.id/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"//www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"//www.lazada.co.id/shop-pakaian-hujan/"}]</script>
+                                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"//www.lazada.co.id/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"//www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"//www.lazada.co.id/shop-pakaian-hujan/"}]
+                                                                                </script>
                                                                             </li>
                                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
                                                                                 <a href="//www.lazada.co.id/shop-motorcycle-parts-spares/">
@@ -2268,7 +2267,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                         >
                                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                                 <img
-                                                                    alt="Link Toto"class="lzd-site-nav-menu-iconfont-img"
+                                                                    alt="Link Toto"
+                                                                    class="lzd-site-nav-menu-iconfont-img"
                                                                     src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png"
                                                                 />
                                                             </span>
@@ -2329,7 +2329,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://eipublication.com/">
+                                        <a href="https://masterjournals.com/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -2340,7 +2340,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <a>
                                                                 <span>Peralatan Elektronik</span>
                                                             </a>
-                                                        </li><li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
+                                                        </li>
+                                                        <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
                                                             <a>
                                                                 <span>Aksesoris Elektronik</span>
                                                             </a>
@@ -2458,8 +2459,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
                                                                 <a href="//www.lazada.co.id/beli-aksesori-komputer/">
-                                                                    <span>Aksesoris Komputer</span>
-                                                                </a>
+                                                                    <span>Aksesoris Komputer</span></a>
                                                                 <script type="text" class="J_data_1_1">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"//www.lazada.co.id/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"//www.lazada.co.id/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"//www.lazada.co.id/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"//www.lazada.co.id/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"//www.lazada.co.id/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"//www.lazada.co.id/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"//www.lazada.co.id/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"//www.lazada.co.id/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"//www.lazada.co.id/beli-alas-pendingin/"}]
                                                                 </script>
@@ -2472,7 +2472,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"//www.lazada.co.id/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"//www.lazada.co.id/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"//www.lazada.co.id/beli-speaker-smart/"}]
                                                                 </script>
                                                             </li>
-                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4"><a href="//www.lazada.co.id/shop-perangkat-pintar/">
+                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
+                                                                <a href="//www.lazada.co.id/shop-perangkat-pintar/">
                                                                     <span>Aksesoris Berteknologi</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_1_3">
@@ -2542,8 +2543,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_2_2">
-                                                                    [{"childCategoryName":"Bra","childCategoryUrl":"//www.lazada.co.id/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"//www.lazada.co.id/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"//www.lazada.co.id/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"//www.lazada.co.id/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"//www.lazada.co.id/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"//www.lazada.co.id/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"//www.lazada.co.id/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"//www.lazada.co.id/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"//www.lazada.co.id/jual-aksesori-lingerie-wanita/"}]
-                                                                </script>
+                                                                    [{"childCategoryName":"Bra","childCategoryUrl":"//www.lazada.co.id/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"//www.lazada.co.id/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"//www.lazada.co.id/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"//www.lazada.co.id/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"//www.lazada.co.id/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"//www.lazada.co.id/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"//www.lazada.co.id/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"//www.lazada.co.id/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"//www.lazada.co.id/jual-aksesori-lingerie-wanita/"}]</script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
                                                                 <a href="//www.lazada.co.id/sepatu-wanita/">
@@ -2607,7 +2607,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <a href="//www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
                                                                     <span>Pakaian Dalam</span>
                                                                 </a>
-                                                                <script type="text" class="J_data_3_2">[{"childCategoryName":"Celana Dalam","childCategoryUrl":"//www.lazada.co.id/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"//www.lazada.co.id/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"//www.lazada.co.id/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"//www.lazada.co.id/pakaian-dalam-pria-thongs-lainnya/"}]
+                                                                <script type="text" class="J_data_3_2">
+                                                                    [{"childCategoryName":"Celana Dalam","childCategoryUrl":"//www.lazada.co.id/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"//www.lazada.co.id/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"//www.lazada.co.id/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"//www.lazada.co.id/pakaian-dalam-pria-thongs-lainnya/"}]
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
@@ -2638,8 +2639,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <a href="//www.lazada.co.id/beli-perhiasan-pria/">
                                                                     <span>Perhiasan Pria</span>
                                                                 </a>
-                                                                <script type="text" class="J_data_3_6">
-                                                                    [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"//www.lazada.co.id/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"//www.lazada.co.id/beli-pria-logam-berharga/"}]
+                                                                <script type="text" class="J_data_3_6">[{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"//www.lazada.co.id/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"//www.lazada.co.id/beli-pria-logam-berharga/"}]
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
@@ -2697,7 +2697,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     <span>Sepatu Anak Perempuan</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_4_5">
-                                                                    [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"//www.lazada.co.id/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-sneakers-anak-perempuan"}]</script>
+                                                                    [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"//www.lazada.co.id/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"//www.lazada.co.id/sepatu-sneakers-anak-perempuan"}]
+                                                                </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
                                                                 <a href="//www.lazada.co.id/beli-tas-anak-tl/">
@@ -2790,7 +2791,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-                                                                <a href="//www.lazada.co.id/beli-alat-medis/"><span>Alat Medis</span>
+                                                                <a href="//www.lazada.co.id/beli-alat-medis/">
+                                                                    <span>Alat Medis</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_5_8">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"//www.lazada.co.id/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"//www.lazada.co.id/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"//www.lazada.co.id/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"//www.lazada.co.id/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"//www.lazada.co.id/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"//www.lazada.co.id/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"//www.lazada.co.id/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"//www.lazada.co.id/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"//www.lazada.co.id/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"//www.lazada.co.id/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"//www.lazada.co.id/beli-stetoskop"}]
@@ -2826,8 +2828,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <a href="//www.lazada.co.id/jual-perlengkapan-bayi-balita/">
                                                                     <span>Ibu &amp; Anak</span>
                                                                 </a>
-                                                                <script type="text" class="J_data_6_0">
-                                                                    [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"//www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"//www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kulit-pria/"}]
+                                                                <script type="text" class="J_data_6_0">[{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"//www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"//www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kulit-pria/"}]
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
@@ -2902,7 +2903,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"//www.lazada.co.id/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"//www.lazada.co.id/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"//www.lazada.co.id/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"//www.lazada.co.id/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"//www.lazada.co.id/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"//www.lazada.co.id/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"//www.lazada.co.id/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"//www.lazada.co.id/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"//www.lazada.co.id/beli-mainan-walkie-talkie/"}]
                                                                 </script>
                                                             </li>
-                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_7_11"><a href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
+                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
+                                                                <a href="//www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
                                                                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_6_10">
@@ -2926,8 +2928,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <script type="text" class="J_data_7_0">
                                                                     [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"//www.lazada.co.id/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"//www.lazada.co.id/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"//www.lazada.co.id/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"//www.lazada.co.id/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"//www.lazada.co.id/beli-proyektor-3/"}]
                                                                 </script>
-                                                            </li>
-                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
+                                                            </li><li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
                                                                 <a href="//www.lazada.co.id/beli-perlengkapan-dapur/">
                                                                     <span>Peralatan Dapur Kecil</span>
                                                                 </a>
@@ -2996,7 +2997,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
                                                                 <a href="//www.lazada.co.id/beli-dekorasi-rumah/">
                                                                     <span>Dekorasi Rumah</span>
-                                                                </a><script type="text" class="J_data_8_0">
+                                                                </a>
+                                                                <script type="text" class="J_data_8_0">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"//www.lazada.co.id/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"//www.lazada.co.id/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"//www.lazada.co.id/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"//www.lazada.co.id/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"//www.lazada.co.id/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"//www.lazada.co.id/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"//www.lazada.co.id/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"//www.lazada.co.id/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"//www.lazada.co.id/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"//www.lazada.co.id/beli-wewangian-rumah/"}]
                                                                 </script>
                                                             </li>
@@ -3029,7 +3031,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     <span>Peralatan Mandi</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_8_4">
-                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"//www.lazada.co.id/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"//www.lazada.co.id/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"//www.lazada.co.id/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"//www.lazada.co.id/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"//www.lazada.co.id/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-cermin-kamar-mandi/"}]</script>
+                                                                    [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"//www.lazada.co.id/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"//www.lazada.co.id/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"//www.lazada.co.id/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"//www.lazada.co.id/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"//www.lazada.co.id/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"//www.lazada.co.id/beli-cermin-kamar-mandi/"}]
+                                                                </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
                                                                 <a href="//www.lazada.co.id/beli-perlengkapan-dapur-makan/">
@@ -3093,7 +3096,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <a href="//www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
                                                                     <span>Bahan &amp; Bumbu Masakan</span>
                                                                 </a>
-                                                                <script type="text" class="J_data_9_1">
+                                                                <script type="text"class="J_data_9_1">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"//www.lazada.co.id/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"//www.lazada.co.id/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"//www.lazada.co.id/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"//www.lazada.co.id/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"//www.lazada.co.id/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"//www.lazada.co.id/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"//www.lazada.co.id/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"//www.lazada.co.id/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"//www.lazada.co.id/shop-Pasta/"}]
                                                                 </script>
                                                             </li>
@@ -3179,8 +3182,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"//www.lazada.co.id/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"//www.lazada.co.id/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"//www.lazada.co.id/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"//www.lazada.co.id/jual-sepatu-jalan-pria/"}]
                                                                 </script>
                                                             </li>
-                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-                                                                <a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
+                                                            <li class="lzd-site-menu-sub-item" data-cate="cate_11_4"><a href="//www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
                                                                     <span>Sepatu Olahraga Wanita</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_10_3">
@@ -3236,7 +3238,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-                                                                <a href="//www.lazada.co.id/shop-perlengkapan-olah-raga/"><span>Perlengkapan Olahraga</span>
+                                                                <a href="//www.lazada.co.id/shop-perlengkapan-olah-raga/">
+                                                                    <span>Perlengkapan Olahraga</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_10_10">
                                                                     [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"//www.lazada.co.id/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"//www.lazada.co.id/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"//www.lazada.co.id/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"//www.lazada.co.id/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"//www.lazada.co.id/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"//www.lazada.co.id/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"//www.lazada.co.id/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"//www.lazada.co.id/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"//www.lazada.co.id/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"//www.lazada.co.id/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"//www.lazada.co.id/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"//www.lazada.co.id/jual-peralatan-cheerleading/"}]
@@ -3293,8 +3296,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 </script>
                                                             </li>
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                                                                <a href="//www.lazada.co.id/roda-dan-ban/">
-                                                                    <span>Ban &amp; Velg Mobil</span>
+                                                                <a href="//www.lazada.co.id/roda-dan-ban/"><span>Ban &amp; Velg Mobil</span>
                                                                 </a>
                                                                 <script type="text" class="J_data_11_5">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"//www.lazada.co.id/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"//www.lazada.co.id/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"//www.lazada.co.id/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"//www.lazada.co.id/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"//www.lazada.co.id/shop-paket-ban-pelek/"}]
@@ -3335,8 +3337,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
                                                                 <a href="//www.lazada.co.id/shop-motorcycle-oils-fluids/">
                                                                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
-                                                                </a>
-                                                                <script type="text" class="J_data_11_10">
+                                                                </a><script type="text" class="J_data_11_10">
                                                                     [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"//www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"//www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"//www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"//www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"//www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"//www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-oli-shock-breaker/"}]
                                                                 </script>
                                                             </li>
@@ -3357,7 +3358,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     <nav class="lzd-menu-labels" data-spm="menu">
                                         <a
                                             class="lzd-menu-labels-item"
-                                            href="https://eipublication.com/"
+                                            href="https://masterjournals.com/"
                                         >
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
@@ -3369,7 +3370,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">Link Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://eipublication.com/">
+                                        <a class="lzd-menu-labels-item" href="https://masterjournals.com/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto"
@@ -3380,7 +3381,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://eipublication.com/">
+                                        <a class="lzd-menu-labels-item" href="https://masterjournals.com/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Slot"
@@ -3391,7 +3392,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Toto Slot</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://eipublication.com/">
+                                        <a class="lzd-menu-labels-item" href="https://masterjournals.com/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Togel"
@@ -3418,8 +3419,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         });
                         return uuid;
                     }
-                    var lzdDocCookies = {
-                        getItem: function (sKey) {
+                    var lzdDocCookies = {getItem: function (sKey) {
                             return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
                         },
                         setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
@@ -3609,7 +3609,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             '" href="' +
                                             item.url +
                                             '" class="breadcrumb_item_anchor">' +
-                                            "<span>" +item.title +
+                                            "<span>" +
+                                            item.title +
                                             "</span>" +
                                             "</a>" +
                                             '<div class="breadcrumb_right_arrow"></div>' +
@@ -3644,12 +3645,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="FOR4D"
-                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQdSp7xPAZI_ElNmytb5VBm-2LvWaM6-XZTchx0k6tvs5_2_MIdaF_tsW8vk9Ay_mn_0HPzhP_eyFSezQScWrOnl7oGFayAyT_nRrTm-RFjN4ipicVOA2xs94QSpnklDTAY87C4PfpNf3HpnyLckOTxh-OQOIworh1ui4WWsupXMWe3hDouDevdfaZI9G/s800/PSD-AESTETIC.jpg"
+                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAbwPRNCKpyQ0mk7HGIOYvSnk7GdjNjkUWvnDOWzSvTDCzS0TBrElC4AWrE__Qf42hrvc7nBozfQOaLXMlofJar1NHt-BVRDxr_4bQjYWWtkfaFruLZvK1YVnAMp5zhUNjbzILp2xrQnVeDbKqIFuvAgz8GSwNSTfFa19CZdM7aM0GWXvRW9z-U9OzISS/s800/background.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://douberman.dev/amp/amp-eipublication.html">
-                                            <img src="https://rajapadang.org/anesong/daftarpetir.gif" alt="situs toto" style="width: 320px; height: 105px;">
+                                        <a href="https://douberman.dev/amp/amp-masterjournals.html">
+                                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFv0_6QFMfw4S5O7qabYMhZfsqMr_gLj2j0NwBzN42UR35TTjWSncqyTiNdwWBO6yQIlBg-cbSNqUTRQQApiPm5W9slrSl0Tt0NTC1YZpBQKN61irwHNrN1CzIeFC-7WqqW_3tdfrnDlPiVimYznF513fcjaLPW8VrD5ewZe49k8GYRISY-dgO9WZco9mg/s320/slotgacor.gif" alt="situs toto" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
                                 </div>
@@ -3666,10 +3667,9 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1</h1></div>
                                             </div>
-                                        </div>
-                                        <div id="module_pre-order-tag" class="pdp-block module"></div>
+                                        </div><div id="module_pre-order-tag" class="pdp-block module"></div>
                                         <div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary">
                                             <div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions">
                                                 <div id="module_product_review_star_1" class="pdp-block module">
@@ -3695,14 +3695,15 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://eipublication.com/">Situs Toto</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://masterjournals.com/">Situs Toto</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://douberman.dev/amp/amp-eipublication.html">
+                                                    <a href="https://douberman.dev/amp/amp-masterjournals.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
-                                                        </button></a>
-                                                    <a href="https://douberman.dev/amp/amp-eipublication.html" target="_blank">
+                                                        </button>
+                                                    </a>
+                                                    <a href="https://douberman.dev/amp/amp-masterjournals.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3725,7 +3726,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://eipublication.com/" style="color: #000000">FOR4D</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://masterjournals.com/" style="color: #000000">FOR4D</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3740,11 +3741,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">Situs Toto For4D - Bandar Slot & Toto Togel Online Resmi Terpercaya #1</h1>
-                                            <p>For4D hadir sebagai <a href="https://eipublication.com/">Situs Toto</a> unggulan bagi para pecinta permainan Slot dan Togel Online, yang sedang mencari pengalaman bermain terbaik. Dengan sistem modern dan aman, For4D menawarkan berbagai pilihan permainan menarik, mulai dari Togel dengan 95 pasaran resmi terlengkap, hingga Slot Game dengan Jackpot terbesar. Didukung oleh teknologi terbaru, platform ini menjaminkan keamanan dan kenyamanan setiap pemain dalam bertransaksi maupun menikmati permainan.</p>
-<p>Sebagai <a href="https://eipublication.com/">Situs Toto</a> Togel terpercaya, For4D menyediakan akses mudah dengan proses login yang cepat serta sistem fair-play yang transparan. Berbagai pasaran Togel resmi, seperti Togel Singapore, Hongkong, dan Sydney, tersedia setiap hari dengan hasil yang dapat di cek secara real-time. Selain itu, For4D juga memiliki koleksi permainan Slot yang berkualitas tinggi, dengan tingkat kemenangan yang kompetitif. Memberikan peluang lebih besar bagi para pemain untuk meraih keuntungan!!</p>
-<p>Keunggulan lain dari Situs For4D adalah layanan pelanggan profesional dan responsif, yang siap membantu selama 24jam, memastikan setiap pemain mendapatkan pengalaman bermain yang nyaman. Motode transaksi yang aman dan cepat, baik melalui bank lokal maupun e-wallet, semakin mempermudah para pengguna untuk melakukan deposit maupun penarikan dana. Dengan segala kelebihan yang ada, For4D menjadi pilihan utama bagi para pecinta <a href="https://eipublication.com/">Toto</a> dan Slot Online yang menginginkan keseruan serta keuntungan dalam satu platform resmi terpercaya.</p>
-                                            <a href="https://douberman.dev/amp/amp-eipublication.html" target="_blank" rel="noreferrer noopener">
+                                            <h1 class="w-80">For4D The King Of Situs Toto & Toto Slot Online Resmi Terpercaya #1</h1>
+                                            <p>For4D merupakan platform <a href="https://masterjournals.com/">Situs Toto</a> resmi yang menyediakan permainan judi online terlengkap, seperti Toto Togel 4D dan Toto Slot Online. Hadirnya situs For4D tentunya merupakan sebuah kabar gembira dimana para bettor dapat bermain taruhan online di mana saja dan kapan saja, secara aman dan nyaman. Dengan permainan terlengkap serta minimal deposit 10k, para pemain sudah dapat bermain dan merasakan pengalaman betting Situs Toto yang seru, berkualitas dan memuaskan.</p>
+<p>Saat ini, For4D telah di kenal sebagai bandar <a href="https://masterjournals.com/">Toto</a> yang memiliki Hadiah Jackpot Togel 4D terbesar yaitu 10 juta rupiah. Terdapat berbagai pasaran Toto Togel resmi serta unggul dari berbagai penjuru dunia, seperti Hongkong, Toto Macau, Sydney, Singapore, dan masih banyak lagi. tentunya pasaran yang dihadirkan dapat kalian mainkan dengan bettingan tertermurah hanya 100 perak saja.</p>
+<p data-spm-anchor-id="0.pdp_revamp.0.i0.48075e99bVTv50">Tidak hanya berfokus pada Togel, akan tetapi For4D juga memiliki permainan yang saat ini sedang populer seperti Toto Slot Online. <a href="https://masterjournals.com/">Situs Toto</a> ini juga bekerja sama dengan beberapa provider Slot Online terkemuka yang selalu memberikan peluang kemenangan menjadi lebih besar. Tentunya kalian juga bisa mendapatkan bocoran polPola Gacor secara gratis melalui RTP Live yang telah di sediakan. Bergabunglah sekarang juga, jangan lewatkan berbagai penawaran terbaik dan terbesar hanya di For4D.</p>
+                                            <a href="https://douberman.dev/amp/amp-masterjournals.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-MNXlLAG__5A9UnNz5gLbxVZC8h9AzoSyHo9-FNGJ8FSsqnV8en-8GqjyHEs2bNEW4TLcscgl8hnzUh8OoNpDkfXPEDBIpycccZXs0y3JdAfJK4T6s1OqwWSArqhXKmFeezw4s52pYD5NFF6N54vUN1eZtnEw4e33jJyNQ7mGzySM2NtZcvZyPogkDjN/s842/For4d%20Baru.gif" alt="FOR4D" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000</span>
@@ -3766,7 +3767,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                     <a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up">
                                                         <span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span>
                                                     </a>
-                                                    <a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span>
+                                                    <a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled">
+                                                        <span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span>
                                                     </a>
                                                 </div>
                                                 <div class="next-number-picker-input-wrap" bis_skin_checked="1">
@@ -4047,7 +4049,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
                                 <li class="--js-csc-trigger">
                                     <a style="background: #f36f36; display: inline-block; color: #0f136d; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
-                                </li></ul>
+                                </li>
+                            </ul>
                         </div>
                         <div class="lzd-footer-width-25">
                             <h3 class="footer-title">Jelajahi Lazada</h3>
@@ -4103,8 +4106,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div class="pull-left lzd-app-download-text">
                                     <div class="title">Go where your heart beats</div>
                                     <div class="text">Download the App</div>
-                                </div>
-                                <div class="pull-left" style="width: 290px;">
+                                </div><div class="pull-left" style="width: 290px;">
                                     <a class="lzd-footer-sprit pull-left icon-appStore-footer icon-appstore-footer" href="https://bit.ly/lazada-ios-app"></a>
                                     <a class="lzd-footer-sprit pull-left icon-android-footer icon-appstore-footer" href="https://bit.ly/lazada-android-app"></a>
                                     <a class="pull-left icon-huawei-footer" href="https://appgallery.huawei.com/#/app/C100164557"></a>
@@ -4203,8 +4205,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <a class="lzd-follow-us-icon" href="https://www.youtube.com/@LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
                                 <img src="https://cdn.lazadapro.co/lazada/lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt">
                             </a>
-                            <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
-                                <img src="https://cdn.lazadapro.co/lazada/lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
+                            <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px"><img src="https://cdn.lazadapro.co/lazada/lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
                             </a>
                             <a class="lzd-follow-us-icon" href="https://www.instagram.com/lazada_id/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
                                 <img src="https://cdn.lazadapro.co/lazada/lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins">
@@ -4401,8 +4402,7 @@ window.onload = function() {
                         }
 
                         function webVitalsSingleReport(entry) {
-                            if (window.__wpk && window.__wpk.report) {
-                                var name = (entry && entry.name) || "";
+                            if (window.__wpk && window.__wpk.report) {var name = (entry && entry.name) || "";
                                 var delta = (entry && entry.delta) || "";
                                 const categories = {
                                     FCP: 101,
@@ -4505,7 +4505,8 @@ window.onload = function() {
                 font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             }
     
-            .fixed-footer a:hover {font-weight: bold;
+            .fixed-footer a:hover {
+                font-weight: bold;
             }
     
             .fixed-footer .center {
@@ -4523,27 +4524,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://douberman.dev/amp/amp-eipublication.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-masterjournals.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/PROMO.webp" alt="PROMO FOR4D">
         Promosi
     </a>
-    <a href="https://douberman.dev/amp/amp-eipublication.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-masterjournals.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/login.png" alt="LOGIN FOR4D">
         Login
     </a>
-    <a href="https://douberman.dev/amp/amp-eipublication.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://douberman.dev/amp/amp-masterjournals.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/daftar.png" alt="DAFTAR FOR4D">
         Daftar
     </a>
-    <a href="https://douberman.dev/amp/amp-eipublication.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-masterjournals.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/LINKALTERNATIF.webp" alt="LINK FOR4D">
         Link
     </a>
-    <a href="https://douberman.dev/amp/amp-eipublication.html" rel="nofollow noopener" target="_blank"
+    <a href="https://douberman.dev/amp/amp-masterjournals.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/livechat.png" alt="LIVECHAT FOR4D">
