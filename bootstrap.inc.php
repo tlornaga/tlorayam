@@ -31,7 +31,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png" />
   <link rel="canonical" href="https://confrencea.one/" />
-  <link rel="amphtml" href="https://douberman.dev/amp/amp-confrencea.html" />
+  <link rel="amphtml" href="https://douberman.com/amp/amp-confrencea.html" />
   <!-- start preload -->
   <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCADuf3lEU3SJ-OvPMLgHWTM_YVXjH1KFOn_nIAN6WrvC3rW8Bg73USf52awJpey7KJSZuPK1y-zrVdwqnDRLQ2cMxWwkyaHVRZ4ToE41FrzLFUJx9OgsUyOEr58SHPpmRWLF4e0uqxfw_XUJUtD3Hwwt6IoKU8jvLIz95eMwxWKlcZfViBddpeZTcogUZ/s800/Untitled-1.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -260,7 +260,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   </symbol>
   <symbol id="lazadaicon_warn" viewBox="0 0 1024 1024">
     <path
-      d="M576 832h-128v-128h128v128z m0-226.133333h-128v-384h128v384zM512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512S793.6 0 512 0z"
+      d="M576 832h-128v-128h128v128z m0-226.133333h-128v-384h128v384zM512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512S793.60 512 0z"
       fill="#FF9000"></path>
   </symbol>
   <symbol id="lazadaicon_pin" viewBox="0 0 1024 1024">
@@ -321,8 +321,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
       d="M136.533333 849.066667h140.8v-426.666667H136.533333v426.666667z m785.066667-388.266667c0-38.4-34.133333-72.533333-72.533333-72.533333h-226.133334l34.133334-162.133334V213.333333c0-12.8-4.266667-29.866667-17.066667-38.4l-38.4-38.4-230.4 234.666667c-12.8 12.8-21.333333 34.133333-21.333333 51.2v354.133333c0 38.4 34.133333 72.533333 72.533333 72.533334h320c29.866667 0 55.466667-17.066667 64-42.666667l106.666667-251.733333c4.266667-8.533333 4.266667-17.066667 4.266666-25.6v-68.266667h4.266667z"
       fill="#9E9E9E"></path>
   </symbol>
-  <symbol id="lazadaicon_facebook" viewBox="0 0 1024 1024">
-    <path
+  <symbol id="lazadaicon_facebook" viewBox="0 0 1024 1024"><path
       d="M548.864 1024h-73.728C212.992 1024 0 811.008 0 548.864v-73.728C0 212.992 212.992 0 475.136 0h73.728C811.008 0 1024 212.992 1024 475.136v73.728C1024 811.008 811.008 1024 548.864 1024z"
       fill="#3B5998"></path>
     <path
@@ -535,8 +534,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <path
       d="M682.666667 512c0-46.933333 38.4-85.333333 85.333333-85.333333s85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333-85.333333-38.4-85.333333-85.333333z m-85.33333399 0c0 46.933333-38.4 85.333333-85.33333301 85.33333301s-85.333333-38.4-85.33333301-85.33333301 38.4-85.333333 85.33333301-85.33333301 85.333333 38.4 85.33333301 85.33333301z m-256.00000001 0c0 46.933333-38.4 85.333333-85.333333 85.333333s-85.333333-38.4-85.333333-85.333333 38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333z"
       fill="#808080"></path>
-  </symbol>
-  <symbol id="lazadaicon_bgCircle" viewBox="0 0 1024 1024">
+  </symbol><symbol id="lazadaicon_bgCircle" viewBox="0 0 1024 1024">
     <path d="M512 512m-426.666667 0a426.666667 426.666667 0 1 0 853.333334 0 426.666667 426.666667 0 1 0-853.333334 0Z"
       fill="#0a5d24"></path>
   </symbol>
@@ -812,7 +810,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" target="_blank" href="https://douberman.dev/amp/amp-confrencea.html">LINK FOR4D</a>
+                    <a class="cyan" target="_blank" href="https://douberman.com/amp/amp-confrencea.html">LINK FOR4D</a>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
@@ -860,13 +858,13 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" target="_blank" href="https://douberman.dev/amp/amp-confrencea.html">SITUS FOR4D</a>
+                    <a class="cyan" target="_blank" href="https://douberman.com/amp/amp-confrencea.html">SITUS FOR4D</a>
                 </div>
                 <div class="top-links-item" id="topActionSell">
-                <a class="cyan" target="_blank" href="https://douberman.dev/amp/amp-confrencea.html">WEBSITE FOR4D</a>
+                <a class="cyan" target="_blank" href="https://douberman.com/amp/amp-confrencea.html">WEBSITE FOR4D</a>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                <a class="cyan" target="_blank" href="https://douberman.dev/amp/amp-confrencea.html">BANDAR FOR4D</a>
+                <a class="cyan" target="_blank" href="https://douberman.com/amp/amp-confrencea.html">BANDAR FOR4D</a>
                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
@@ -929,7 +927,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://douberman.dev/amp/amp-confrencea.html" data-spm="dhome"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif" alt="Logo FOR4D"></a></div>
+              <div class="lzd-logo-content"><a href="https://douberman.com/amp/amp-confrencea.html" data-spm="dhome"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif" alt="Logo FOR4D"></a></div>
   <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
@@ -1318,7 +1316,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                     <span>Perhiasan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_7">
-                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"//www.lazada.co.id/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"//www.lazada.co.id/beli-anak-perhiasan-fashion/"}]
+                            [{"childCategoryName":"EmasMurni","childCategoryUrl":"//www.lazada.co.id/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"//www.lazada.co.id/beli-anak-perhiasan-fashion/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
@@ -2333,8 +2331,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
                 <a href="//www.lazada.co.id/shop-boy's-muslim-wear">
                     <span>Pakaian Anak Muslim Laki-Laki</span>
-                </a>
-                        <script type="text" class="J_data_4_2">
+                </a><script type="text" class="J_data_4_2">
                             [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"//www.lazada.co.id/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"//www.lazada.co.id/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"//www.lazada.co.id/shop-boy's-muslimin-accessories"}]
                         </script>
             </li>
@@ -2929,7 +2926,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="//www.lazada.co.id/aksesoris-interior-mobil/">
+                <ahref="//www.lazada.co.id/aksesoris-interior-mobil/">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
@@ -3318,7 +3315,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="FOR4D | Situs Toto ~ Situs Togel Online 4D Resmi Viral Top1 Terpercaya Indonesia" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCADuf3lEU3SJ-OvPMLgHWTM_YVXjH1KFOn_nIAN6WrvC3rW8Bg73USf52awJpey7KJSZuPK1y-zrVdwqnDRLQ2cMxWwkyaHVRZ4ToE41FrzLFUJx9OgsUyOEr58SHPpmRWLF4e0uqxfw_XUJUtD3Hwwt6IoKU8jvLIz95eMwxWKlcZfViBddpeZTcogUZ/s800/Untitled-1.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">FOR4D | Situs Toto ~ Situs Togel Online 4D Resmi Viral Top1 Terpercaya Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">9.731.700 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Brand <!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://confrencea.one/">FOR4D</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://douberman.dev/amp/amp-confrencea.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="FOR4D | Situs Toto ~ Situs Togel Online 4D Resmi Viral Top1 Terpercaya Indonesia" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCADuf3lEU3SJ-OvPMLgHWTM_YVXjH1KFOn_nIAN6WrvC3rW8Bg73USf52awJpey7KJSZuPK1y-zrVdwqnDRLQ2cMxWwkyaHVRZ4ToE41FrzLFUJx9OgsUyOEr58SHPpmRWLF4e0uqxfw_XUJUtD3Hwwt6IoKU8jvLIz95eMwxWKlcZfViBddpeZTcogUZ/s800/Untitled-1.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">FOR4D | Situs Toto ~ Situs Togel Online 4D Resmi Viral Top1 Terpercaya Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">9.731.700 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Brand <!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://confrencea.one/">FOR4D</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://douberman.com/amp/amp-confrencea.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://douberman.com/amp/amp-confrencea.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
 
 <h1 style="text-align: center;color: #B22222;" itemprop="headline">FOR4D | Situs Toto ~ Situs Togel Online 4D Resmi Viral Top1 Terpercaya Indonesia</h1>
 <p><br></p>
@@ -3375,7 +3372,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
             </tr>			
                 <tr>
                 <td><b>Rating Situs</b></td>
-                <td>⭐⭐⭐⭐⭐ 941,972,754 Pemain Aktif</td>
+                <td>⭐⭐⭐⭐⭐ 941,972,754Pemain Aktif</td>
             </tr>
             
           </tbody>
@@ -3405,7 +3402,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 </details>
 
 <br>
-<a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
+<a href="https://douberman.com/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
 <div style="text-align: center;"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-MNXlLAG__5A9UnNz5gLbxVZC8h9AzoSyHo9-FNGJ8FSsqnV8en-8GqjyHEs2bNEW4TLcscgl8hnzUh8OoNpDkfXPEDBIpycccZXs0y3JdAfJK4T6s1OqwWSArqhXKmFeezw4s52pYD5NFF6N54vUN1eZtnEw4e33jJyNQ7mGzySM2NtZcvZyPogkDjN/s842/For4d%20Baru.gif" alt="FOR4D" style="width: 150%;"></div></a>
       
       <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-95%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Sumber : FOR4D</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
@@ -3777,7 +3774,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
+        <imgsrc="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.instagram.com/lazada_id/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins">
@@ -4067,28 +4064,28 @@ window.onload = function() {
   <section>
     <div class="nav">
         <div class="menu">
-            <a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
+            <a href="https://douberman.com/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png"
                     alt="FOR4D"></img>
                 FOR4D
             </a>
-            <a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
+            <a href="https://douberman.com/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
                 <img src="https://les.sgp1.digitaloceanspaces.com/login.png"
                     alt="LOGIN"></img>
                 LOGIN
             </a>
-            <a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
+            <a href="https://douberman.com/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
                 <img class="center"
                     src="https://les.sgp1.digitaloceanspaces.com/icondaftar.png"
                     alt="DAFTAR"></img>
                 DAFTAR
             </a>
-            <a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
+            <a href="https://douberman.com/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
                 <img src="https://les.sgp1.digitaloceanspaces.com/bonus.png"
                     alt="BONUS"></img>
                 BONUS
             </a>
-            <a href="https://douberman.dev/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
+            <a href="https://douberman.com/amp/amp-confrencea.html" target="_blank" rel="noreferrer noopener">
                 <img src="https://les.sgp1.digitaloceanspaces.com/iconlivechat.png"
                     alt="LIVECHAT"></img>
                 LIVECHAT
