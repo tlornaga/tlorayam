@@ -4783,7 +4783,7 @@
 <p>- Promo spesial event dan hari besar nasional</p>
 <h3>User Interface Mudah &amp; Nyaman</h3>
 <p>Tampilan situs FOR4D sangat user-friendly dan mobile-friendly, bisa diakses lewat HP, tablet, maupun desktop. Anda bisa pasang angka kapan saja dan di mana saja tanpa hambatan.</p>
-<p>Cara Bergabung di FOR4D Sangat Mudah!</p>
+</h3>Cara Bergabung di FOR4D Sangat Mudah!</h3>
 <p>- Kunjungi situs resmi FOR4D</p>
 <p>- Klik Daftar Sekarang</p>
 <p>- Isi formulir pendaftaran dengan data valid</p>
