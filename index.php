@@ -10,24 +10,24 @@
     <script>var aPageStart = (new Date()).getTime();</script>
     <meta charset="utf-8" />
     <meta name="title"
-    content="FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!" />
-    <title>FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!</title>
-    <meta name="google-site-verification" content="F-4iA1ykCxz2wJssAgpThWrrCi3l9X1ubTl1fNMDz9s" />
-    <meta name="og:site_name" content="SITUS TOTO">
+    content="Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer" />
+    <title>Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer</title>
+    <meta name="google-site-verification" content="P5GR5US33PEODlvqmXqIICwR1KiDSQDmjkWN8aJOUO0" />
+    <meta name="og:site_name" content="SITUS TOTO 4D">
     <meta name="description"
-        content="Apakah Anda sedang mencari situs toto 4D online yang aman, terpercaya, dan memiliki peluang menang besar? FOR4D adalah jawabannya!" /> 
+        content="Situs Toto 4D merupakan salah satu platform yang menyediakan layanan permainan tebak angka yang populer di kalangan pencinta angka dan prediksi." /> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="data-spm" content="a2o4j" />
         <meta name="robots" content="index, follow" /> 
-        <meta name="og:url" content="https://nexusacademic.com/" />
-<meta name="og:title" content="FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!" />
+        <meta name="og:url" content="https://team.kirnbauer.eu/" />
+<meta name="og:title" content="Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer" />
 <meta name="og:type" content="product" />
-<meta name="og:description" content="Apakah Anda sedang mencari situs toto 4D online yang aman, terpercaya, dan memiliki peluang menang besar? FOR4D adalah jawabannya!" />
-<meta name="og:image" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg" />      
-    <link rel="shortcut icon" href="https://res.cloudinary.com/dnromfcqt/image/upload/v1743413232/ICON_FOR4D_ocuq5a.png" />
-    <link rel="canonical" href="https://nexusacademic.com/" />
-    <link rel="amphtml" href="https://douberman.com/amp/amp-nexusacademic.html"/>
-    <meta name="keywords" content="SITUS TOTO, togel, SITUS TOTO, SITUS TOTO login, judi togel, togel gacor hari ini" />
+<meta name="og:description" content="Situs Toto 4D merupakan salah satu platform yang menyediakan layanan permainan tebak angka yang populer di kalangan pencinta angka dan prediksi." />
+<meta name="og:image" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg" />      
+    <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucP0GYGNKDRTiFMU2xGxJHP8b8d4gMEmP5ZRG-EAVvsFmKidG7Q7pTL1ce0p89g91fM9SOKNHIN4cSJyDkbObIrUXoyZ8PEwm6RoAh_PbKCHQtUUb3Se4eYFsCGVAeeGNUuHS_bHG-RVWEJAMXowJJ6vpyeO5jIyxqRBPIrm86MU9YWdd7_e_bMtC6IPn/s500/ICON_FOR4D-removebg-preview.png" />
+    <link rel="canonical" href="https://team.kirnbauer.eu/" />
+    <link rel="amphtml" href="https://douberman.dev/amp/amp-team.kirnbauer.html"/>
+    <meta name="keywords" content="SITUS TOTO 4D, togel online, gacor, SITUS TOTO 4D, SITUS TOTO 4D login, judi togel, togel online hari ini" />
     <!-- sp:end-feature:head-start -->
     <!-- sp:feature:csm:head-open-part1 -->
 
@@ -37,13 +37,13 @@
     <meta http-equiv='x-dns-prefetch-control' content='on'>
     <link rel="dns-prefetch" href="https://images-fe.ssl-images-amazon.com">
     <link rel="dns-prefetch" href="https://m.media-amazon.com">
-    <link rel="dns-prefetch" href="https://nexusacademic.com/">
+    <link rel="dns-prefetch" href="https://team.kirnbauer.eu/">
     <!-- sp:end-feature:cs-optimization -->
     <!-- sp:feature:csm:head-open-part2 -->
     <!-- Google tag (gtag.js) -->
 	<script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://nexusacademic.com/
-"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Apakah Anda sedang mencari situs toto 4D online yang aman, terpercaya, dan memiliki peluang menang besar? FOR4D adalah jawabannya!","url":"https://nexusacademic.com/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://nexusacademic.com/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://team.kirnbauer.eu/
+"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Situs Toto 4D merupakan salah satu platform yang menyediakan layanan permainan tebak angka yang populer di kalangan pencinta angka dan prediksi.","url":"https://team.kirnbauer.eu/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://team.kirnbauer.eu/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -53,41 +53,41 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://nexusacademic.com/
+            "@id": "https://team.kirnbauer.eu/
 ",
-            "name": "SITUS TOTO"
+            "name": "SITUS TOTO 4D"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://nexusacademic.com/
+            "@id": "https://team.kirnbauer.eu/
 ",
-            "name": "SITUS TOTO"
+            "name": "SITUS TOTO 4D"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://nexusacademic.com/
+            "@id": "https://team.kirnbauer.eu/
 ",
-            "name": "Apk Slot "
+            "name": "Apk Togel777"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://nexusacademic.com/
+            "@id": "https://team.kirnbauer.eu/
 ",
-            "name": ""
+            "name": "777"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://nexusacademic.com/
+            "@id": "https://team.kirnbauer.eu/
 ",
-            "name": "FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!"
+            "name": "Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer"
           }
         }]
       }
@@ -96,7 +96,7 @@
       {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "https://nexusacademic.com/
+        "name": "https://team.kirnbauer.eu/
 ",
         "operatingSystem": "ANDROID",
         "applicationCategory": "GameApplication",
@@ -104,7 +104,7 @@
           "@type": "AggregateRating",
           "ratingValue": "5",
           "bestRating": "5",
-          "ratingCount": "19966"
+          "ratingCount": "17779966"
         },
         "review": {
           "@type": "Review",
@@ -117,7 +117,7 @@
           "author": {
             "@type": "Person",
             "name": "Robert Lee",
-            "reviewBody": "Buat kalian yang mau gabung di SITUS TOTO ayo buruan cobain aku udah buktiin sendiri kalau ini situs beneran kasih jackpot dan wd juga cepet!"
+            "reviewBody": "Buat kalian yang mau gabung di SITUS TOTO 4D ayo buruan cobain aku udah buktiin sendiri kalau ini situs beneran kasih jackpot dan wd juga cepet!"
           }
         },
         "offers": {
@@ -490,11 +490,11 @@
 <!-- sp:feature:start-body -->
 
 <body
-    class="a-aui_72554-c a-aui_a11y_6_833-t2 a-aui_amzn_img_959719-c a-aui_amzn_img_gate_959718-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-bw_aui_cxc_alert_measurement_1074111-c">
+    class="a-aui_72554-c a-aui_a11y_6_837773-t2 a-aui_amzn_img_959719-c a-aui_amzn_img_gate_959718-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-bw_aui_cxc_alert_measurement_1074111-c">
     <span hidden id="template-version">amzn</span>
     <div id="a-page">
         <script type="a-state"
-            data-a-state="{&quot;key&quot;:&quot;a-wlab-states&quot;}">{"AUI_AMZN_IMG_959719":"C","AUI_A11Y_6_833":"T2","AUI_TNR_V2_180836":"C","AUI_AMZN_IMG_GATE_959718":"C","AUI_TEMPLATE_WEBLAB_CACHE_333406":"C","BW_AUI_CXC_ALERT_MEASUREMENT_1074111":"C","AUI_72554":"C","AUI_KILLSWITCH_CSA_LOGGER_372963":"C","AUI_PCI_RISK_BANNER_210084":"C"}</script>
+            data-a-state="{&quot;key&quot;:&quot;a-wlab-states&quot;}">{"AUI_AMZN_IMG_959719":"C","AUI_A11Y_6_837773":"T2","AUI_TNR_V2_180836":"C","AUI_AMZN_IMG_GATE_959718":"C","AUI_TEMPLATE_WEBLAB_CACHE_333406":"C","BW_AUI_CXC_ALERT_MEASUREMENT_1074111":"C","AUI_72554":"C","AUI_KILLSWITCH_CSA_LOGGER_372963":"C","AUI_PCI_RISK_BANNER_210084":"C"}</script>
         <script>typeof uex === 'function' && uex('ld', 'portal-bb', { wb: 1 })</script><!-- sp:end-feature:start-body -->
         <!-- sp:feature:csm:body-open -->
 
@@ -736,7 +736,7 @@
                         <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
                         <div id="nav-logo" style="top:5px; left:5px">
                             <a href="" id="nav-logo-sprites"></a>
-                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZjdntzUowMCuMFqjU6cPUdZYnAGCdCVWtBK_gFTvkkNMuY2z7Fdv4IFsbcewe-MBi0vJUQbawvgCef3jwADytwxIRiBRjoNfzAOE4k_AtQ6fPJcBCFg0LFx3T1g2xHfeotsjpyts1SxTjHH6fi6pCUTX8LoZ5lR9uVLPUlenRX6BBg0Mv9ZVla98QqxZ1/s535/resize-for-kecil.gif" ></img>
+                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif" ></img>
                             </a>
                         </div>
                         <script
@@ -836,11 +836,11 @@
                                                         class="ac-ghost-suggestion" id="ac-prediction"></span>
                                                 </span>
                                             </div>
-                                            <label for="twotabsearchtextbox" style="display: none;">Search SITUS TOTO</label>
+                                            <label for="twotabsearchtextbox" style="display: none;">Search SITUS TOTO 4D</label>
                                             <input type="text" id="twotabsearchtextbox" value="" name="field-keywords"
-                                                autocomplete="off" placeholder="Search SITUS TOTO"
+                                                autocomplete="off" placeholder="Search SITUS TOTO 4D"
                                                 class="nav-input nav-progressive-attribute" dir="auto" tabindex="0"
-                                                aria-label="Search SITUS TOTO" role="searchbox"
+                                                aria-label="Search SITUS TOTO 4D" role="searchbox"
                                                 aria-autocomplete="list"
                                                 aria-controls="sac-autocomplete-results-container" aria-expanded="false"
                                                 aria-haspopup="grid" spellcheck="false">
@@ -873,7 +873,7 @@
                             
 
 
-                            <a href="https://douberman.com/amp/amp-nexusacademic.html"
+                            <a href="https://douberman.dev/amp/amp-team.kirnbauer.html"
                                 class="nav-a nav-a-2   nav-progressive-attribute" data-nav-ref="nav_ya_signin"
                                 data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList"
                                 tabindex="0" data-csa-c-type="link" data-csa-c-togel-id="nav-link-accountList"
@@ -885,7 +885,7 @@
                             </a>
 
 
-                            <a href="https://douberman.com/amp/amp-nexusacademic.html"
+                            <a href="https://douberman.dev/amp/amp-team.kirnbauer.html"
                                 class="nav-a nav-a-2   nav-progressive-attribute" id="nav-orders" tabindex="0">
                                 <span class="nav-line-1">Returns</span>
                                 <span class="nav-line-2">& orders<span class="nav-icon nav-arrow"></span></span>
@@ -893,7 +893,7 @@
 
 
 
-                            <a href="https://douberman.com/amp/amp-nexusacademic.html" aria-label="0 items in shopping basket"
+                            <a href="https://douberman.dev/amp/amp-team.kirnbauer.html" aria-label="0 items in shopping basket"
                                 class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">
                                 <div id="nav-cart-count-container">
                                     <span id="nav-cart-count" aria-hidden="true"
@@ -925,18 +925,18 @@
                         <div id='nav-xshop-container'>
                             <div id='nav-xshop' class="nav-progressive-content">
                                 <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
-                                <a href="https://nexusacademic.com/" class="nav-a  " tabindex="0"
+                                <a href="https://team.kirnbauer.eu/" class="nav-a  " tabindex="0"
                                     data-csa-c-type="link" data-csa-c-togel-id="nav_cs_0"
-                                    data-csa-c-content-id="nav_cs_bestsellers">SITUS TOTO</a>
+                                    data-csa-c-content-id="nav_cs_bestsellers">SITUS TOTO 4D</a>
 
-                                <a href="https://nexusacademic.com/" class="nav-a  "
+                                <a href="https://team.kirnbauer.eu/" class="nav-a  "
                                     data-ux-jq-mouseenter="true" id="nav-link-amazonprime" tabindex="0"
                                     data-csa-c-type="link" data-csa-c-togel-id="nav-link-amazonprime"
-                                    data-csa-c-content-id="nav_cs_primelink_nonmember"><span>Situs Togel</span><span
+                                    data-csa-c-content-id="nav_cs_primelink_nonmember"><span>Toto 4D</span><span
                                         class="nav-icon nav-arrow"></span></a>
 
-                                <a href="https://nexusacademic.com/" class="nav-a  " tabindex="0" data-csa-c-type="link"
-                                    data-csa-c-togel-id="nav_cs_2" data-csa-c-content-id="nav_cs_gb">Toto 4D</a>
+                                <a href="https://team.kirnbauer.eu/" class="nav-a  " tabindex="0" data-csa-c-type="link"
+                                    data-csa-c-togel-id="nav_cs_2" data-csa-c-content-id="nav_cs_gb">Togel Online</a>
 
                             
                                 <script
@@ -950,7 +950,7 @@
                             <div id="navSwmHoliday"
                                 style="height: 39px; width: 400px; overflow: hidden; position: relative; ">
                                 <a aria-label="Christmas gift store"
-                                    href="https://douberman.com/amp/amp-nexusacademic.html"
+                                    href="https://douberman.dev/amp/amp-team.kirnbauer.html"
                                     class="nav-imageHref" target="_blank">
                                     <img alt="Christmas gift store"
                                         src="https://m.media-amazon.com/images/G/35/Gateway/SWM/BAUSWMs/TodaysDeals_swm_400x39._CB564878150_.jpg">
@@ -970,30 +970,30 @@
                     <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
 
                     <div id='nav-subnav' data-category="amazon-home">
-                        <a href="https://nexusacademic.com/"
+                        <a href="https://team.kirnbauer.eu/"
                             class="nav-a nav-b" aria-label="Amazon devices">
                             <span class="nav-a-content">
-                                SITUS TOTO
+                                SITUS TOTO 4D
 
                             </span>
                         </a>
-                        <a href="https://nexusacademic.com/"
+                        <a href="https://team.kirnbauer.eu/"
                             class="nav-a" aria-label="Echo & Alexa">
                             <span class="nav-a-content">
                                 Judi Slot
 
                             </span>
                         </a>
-                        <a href="https://nexusacademic.com/"
+                        <a href="https://team.kirnbauer.eu/"
                             class="nav-a" aria-label="Kindle E-Reader">
                             <span class="nav-a-content">
-                                SITUS TOTO
+                                SITUS TOTO 4D
 
                             </span>
                         </a>
-                        <a href="https://nexusacademic.com/" class="nav-a" aria-label="Fire TV">
+                        <a href="https://team.kirnbauer.eu/" class="nav-a" aria-label="Fire TV">
                             <span class="nav-a-content">
-                                
+                                777
 
                             </span>
                         </a>
@@ -1828,7 +1828,7 @@
             });
         </script>
         <script type="text/javascript">
-            var iUrl = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZjdntzUowMCuMFqjU6cPUdZYnAGCdCVWtBK_gFTvkkNMuY2z7Fdv4IFsbcewe-MBi0vJUQbawvgCef3jwADytwxIRiBRjoNfzAOE4k_AtQ6fPJcBCFg0LFx3T1g2xHfeotsjpyts1SxTjHH6fi6pCUTX8LoZ5lR9uVLPUlenRX6BBg0Mv9ZVla98QqxZ1/s535/resize-for-kecil.gif";
+            var iUrl = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgost24-ZoZEx2EUUijXoG5h9lSxbEyn6zbKfDkSW4dNOy34fdwHZhCkZpc1PO896h43E0GAHOJ6XjmSwcpMwfsM60kDGRTvhOHwhbboepsko_WiSR_873fplXfnThxO4Cld156nIml80wWaLO5pCOwvlZIepyWELfeylz41ddiIzlDwOucFZErIOEuL3Co/s300/for4d.gif";
             (function () { var i = new Image; i.src = iUrl; })();
         </script>
         <script type="a-state"
@@ -2396,9 +2396,9 @@
                                 <div id="mars-fs-subnav-helper">
                                     <div id="mars-fs-border-top"></div>
                                     <span class="subnav-home">
-                                        <a class="a-link-normal fs-links" href="https://nexusacademic.com/">
+                                        <a class="a-link-normal fs-links" href="https://team.kirnbauer.eu/">
                                             <span id="mars-fs-name" class="a-size-base-plus a-color-base a-text-bold">
-                                                SITUS TOTO
+                                                SITUS TOTO 4D
                                             </span>
                                         </a>
                                     </span>
@@ -2407,8 +2407,10 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="https://nexusacademic.com/">
-                                                <span class="a-size-base-plus a-color-base">SITUS TOTO 4D</span>
+                                                href="https://team.kirnbauer.eu/">
+                                                <span class="a-size-base-plus a-color-base">
+                                                    TOTO TOGEL
+                                                </span>
                                             </a>
 
                                         </span>
@@ -2416,9 +2418,9 @@
 
                                     <span class="a-declarative" data-action="mars-fs-hover" data-csa-c-type="widget"data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper"><a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="https://nexusacademic.com/">
+                                                href="https://team.kirnbauer.eu/">
                                                 <span class="a-size-base-plus a-color-base">
-                                                    TOGEL ONLINE
+                                                    TOTO 4D
                                                 </span>
                                             </a>
 
@@ -2429,9 +2431,9 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="https://nexusacademic.com/">
+                                                href="https://team.kirnbauer.eu/">
                                                 <span class="a-size-base-plus a-color-base">
-                                                    TOTO 4D
+                                                    TOTO
                                                 </span>
                                             </a>
 
@@ -2542,7 +2544,7 @@
                             data-csa-c-togel-id="tellAFriendBox_feature_div" data-csa-c-asin=""
                             data-csa-c-is-in-initial-active-row="false"><span class="a-declarative" data-action="ssf-share-icon" data-csa-c-type="widget"
                                 data-csa-c-func-deps="aui-da-ssf-share-icon"
-                                data-ssf-share-icon="{&quot;treatment&quot;:&quot;C&quot;,&quot;image&quot;:&quot;https://m.media-amazon.com/images/I/31DQNq2hBhL.jpg&quot;,&quot;eventPreviewTreatment&quot;:&quot;C&quot;,&quot;shareDataAttributes&quot;:{&quot;marketplaceId&quot;:&quot;A39IBJ37TRP1C6&quot;,&quot;isInternal&quot;:false,&quot;ingress&quot;:&quot;DetailPage&quot;,&quot;isRobot&quot;:false,&quot;requestId&quot;:&quot;90G9DFKSFRKCQZ4KHD88&quot;,&quot;customerId&quot;:&quot;&quot;,&quot;asin&quot;:&quot;B0DG4WZZPV&quot;,&quot;userAgent&quot;:&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36&quot;,&quot;platform&quot;:&quot;DESKTOP&quot;},&quot;deeplinkInfo&quot;:{&quot;flag&quot;:0,&quot;isDisabled&quot;:false},&quot;isOGTEnabled&quot;:false,&quot;aapiBaseUrl&quot;:&quot;data.amazon.com.au&quot;,&quot;title&quot;:&quot;FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!&quot;,&quot;refererURL&quot;:&quot;&quot;,&quot;storeId&quot;:&quot;&quot;,&quot;emailSubject&quot;:&quot;Check this out at Amazon&quot;,&quot;isIncrementCountEnabled&quot;:false,&quot;url&quot;:&quot;https://www.amazon.com.au/dp/B0DG4WZZPV&quot;,&quot;dealsPreviewEnabled&quot;:false,&quot;skipTwisterAPI&quot;:&quot;C&quot;,&quot;isUnrecognizedUsersRichPreviewEnabled&quot;:true,&quot;t&quot;:{&quot;taf_twitter_name&quot;:&quot;Twitter&quot;,&quot;taf_copy_url_changeover&quot;:&quot;Link copied!&quot;,&quot;taf_pinterest_name&quot;:&quot;Pinterest&quot;,&quot;taf_share_bottom_sheet_title&quot;:&quot;Share this product with friends&quot;,&quot;taf_copy_tooltip&quot;:&quot;Copy Link&quot;,&quot;taf_email_tooltip&quot;:&quot;Share via e-mail&quot;,&quot;taf_copy_name&quot;:&quot;Copy Link&quot;,&quot;taf_email_name&quot;:&quot;Email&quot;,&quot;taf_facebook_name&quot;:&quot;Facebook&quot;,&quot;taf_twitter_tooltip&quot;:&quot;Share on Twitter&quot;,&quot;taf_facebook_tooltip&quot;:&quot;Share on Facebook&quot;,&quot;taf_pinterest_tooltip&quot;:&quot;Pin it on Pinterest&quot;},&quot;isBestFormatEnabled&quot;:false,&quot;weblab&quot;:&quot;SHARE_ICON_EXPERIMENT_DESKTOP_671038&quot;,&quot;mailToUri&quot;:&quot;mailto:?body=I%20would%20like%20to%20recommend%20this%20product%20at%20Amazon%0A%0AAmazon%20eero%206%2B%20dual-band%20mesh%20Wi-Fi%206%20router%20%2B%202%20Echo%20Dot%20(5th%20Gen)%20Charcoal%0AMore%20information%3A%20https%3A%2F%2Fwww.amazon.com.au%2Fdp%2FB0DG4WZZPV%2Fref%3Dcm_sw_em_r_mt_dp_90G9DFKSFRKCQZ4KHD88&amp;subject=Check%20this%20out%20at%20Amazon&quot;,&quot;refId&quot;:&quot;dp&quot;,&quot;isIpadFixesEnabled&quot;:false,&quot;shareAapiCsrfToken&quot;:&quot;1@gxppFc1H0NHB5Np6blTOnuGM8kewa8oUJ8p0zlVN6uE9AAAAAQAAAABnKu6wcmF3AAAAABVX8CwXqz42z+J7i/ABqA==@NLD_B6R8RN&quot;,&quot;tinyUrlEnabled&quot;:true}"
+                                data-ssf-share-icon="{&quot;treatment&quot;:&quot;C&quot;,&quot;image&quot;:&quot;https://m.media-amazon.com/images/I/31DQNq2hBhL.jpg&quot;,&quot;eventPreviewTreatment&quot;:&quot;C&quot;,&quot;shareDataAttributes&quot;:{&quot;marketplaceId&quot;:&quot;A39IBJ37TRP1C6&quot;,&quot;isInternal&quot;:false,&quot;ingress&quot;:&quot;DetailPage&quot;,&quot;isRobot&quot;:false,&quot;requestId&quot;:&quot;90G9DFKSFRKCQZ4KHD88&quot;,&quot;customerId&quot;:&quot;&quot;,&quot;asin&quot;:&quot;B0DG4WZZPV&quot;,&quot;userAgent&quot;:&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36&quot;,&quot;platform&quot;:&quot;DESKTOP&quot;},&quot;deeplinkInfo&quot;:{&quot;flag&quot;:0,&quot;isDisabled&quot;:false},&quot;isOGTEnabled&quot;:false,&quot;aapiBaseUrl&quot;:&quot;data.amazon.com.au&quot;,&quot;title&quot;:&quot;Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer&quot;,&quot;refererURL&quot;:&quot;&quot;,&quot;storeId&quot;:&quot;&quot;,&quot;emailSubject&quot;:&quot;Check this out at Amazon&quot;,&quot;isIncrementCountEnabled&quot;:false,&quot;url&quot;:&quot;https://www.amazon.com.au/dp/B0DG4WZZPV&quot;,&quot;dealsPreviewEnabled&quot;:false,&quot;skipTwisterAPI&quot;:&quot;C&quot;,&quot;isUnrecognizedUsersRichPreviewEnabled&quot;:true,&quot;t&quot;:{&quot;taf_twitter_name&quot;:&quot;Twitter&quot;,&quot;taf_copy_url_changeover&quot;:&quot;Link copied!&quot;,&quot;taf_pinterest_name&quot;:&quot;Pinterest&quot;,&quot;taf_share_bottom_sheet_title&quot;:&quot;Share this product with friends&quot;,&quot;taf_copy_tooltip&quot;:&quot;Copy Link&quot;,&quot;taf_email_tooltip&quot;:&quot;Share via e-mail&quot;,&quot;taf_copy_name&quot;:&quot;Copy Link&quot;,&quot;taf_email_name&quot;:&quot;Email&quot;,&quot;taf_facebook_name&quot;:&quot;Facebook&quot;,&quot;taf_twitter_tooltip&quot;:&quot;Share on Twitter&quot;,&quot;taf_facebook_tooltip&quot;:&quot;Share on Facebook&quot;,&quot;taf_pinterest_tooltip&quot;:&quot;Pin it on Pinterest&quot;},&quot;isBestFormatEnabled&quot;:false,&quot;weblab&quot;:&quot;SHARE_ICON_EXPERIMENT_DESKTOP_671038&quot;,&quot;mailToUri&quot;:&quot;mailto:?body=I%20would%20like%20to%20recommend%20this%20product%20at%20Amazon%0A%0AAmazon%20eero%206%2B%20dual-band%20mesh%20Wi-Fi%206%20router%20%2B%202%20Echo%20Dot%20(5th%20Gen)%20Charcoal%0AMore%20information%3A%20https%3A%2F%2Fwww.amazon.com.au%2Fdp%2FB0DG4WZZPV%2Fref%3Dcm_sw_em_r_mt_dp_90G9DFKSFRKCQZ4KHD88&amp;subject=Check%20this%20out%20at%20Amazon&quot;,&quot;refId&quot;:&quot;dp&quot;,&quot;isIpadFixesEnabled&quot;:false,&quot;shareAapiCsrfToken&quot;:&quot;1@gxppFc1H0NHB5Np6blTOnuGM8kewa8oUJ8p0zlVN6uE9AAAAAQAAAABnKu6wcmF3AAAAABVX8CwXqz42z+J7i/ABqA==@NLD_B6R8RN&quot;,&quot;tinyUrlEnabled&quot;:true}"
                                 id="ssf-primary-widget-desktop">
                                 <div class="ssf-background ssf-bg-count" role="button">
                                     <a href="javascript:void(0)" class="ssf-share-trigger" title="Share" role="button"
@@ -2693,8 +2695,8 @@
                                                                                 class="cip-a-size-small">
                                                                                 <div
                                                                                     id="contextualIngressPtLabel_deliveryShortLine">
-                                                                                    <a href="https://nexusacademic.com/">
-                                                                                        <span>SITUS TOTO</span>
+                                                                                    <a href="https://team.kirnbauer.eu/">
+                                                                                        <span>TogelGacor</span>
                                                                                     </a>
                                                                                 </div>
                                                                             </span>
@@ -2790,7 +2792,7 @@
                                                                         class="a-button-inner"><a
                                                                             href="https://preciseurl.org/D0uBerM4n"
                                                                             name="submit.add-to-registry.wishlist.unrecognized"
-                                                                            title="Login SITUS TOTO" role="radio"
+                                                                            title="Login SITUS TOTO 4D" role="radio"
                                                                             aria-checked="false" data-hover="&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  --&gt;
             To Add to Wish List, choose from options to the left" class="a-button-text a-text-center" style="background: #ff0000; color: #7a0000;"> LOGIN
                                                                         </a></span></span> </div>
@@ -3156,13 +3158,13 @@
                                                                     data-csa-c-func-deps="aui-da-main-image-click"
                                                                     data-main-image-click="{}" data-ux-click="">
                                                                     <div id="imgTagWrapperId" class="imgTagWrapper">
-                                                                        <img alt="SITUS TOTO"
-                                                                            src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg"
-                                                                            data-old-hires="https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg"
+                                                                        <img alt="TogelGacor"
+                                                                            src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg"
+                                                                            data-old-hires="https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg"
                                                                             onload="markFeatureRenderForImageBlock(); if(this.width/this.height &gt; 1.0){this.className += ' a-stretch-horizontal'}else{this.className += ' a-stretch-vertical'};this.onload='';setCSMReq('af');if(typeof addlongPoleTag === 'function'){ addlongPoleTag('af','desktop-image-atf-marker');};setCSMReq('cf')"
                                                                             data-a-image-name="landingImage"
                                                                             class="a-dynamic-image" id="landingImage"
-                                                                            data-a-dynamic-image="{&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[450,450],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[679,679],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[425,425],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[466,466],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[522,522],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[569,569],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg&quot;:[355,355]}"
+                                                                            data-a-dynamic-image="{&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[450,450],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[679,679],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[425,425],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[466,466],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[522,522],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[569,569],&quot;https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg&quot;:[355,355]}"
                                                                             style="max-width:679px;max-height:679px;" />
                                                                     </div>
                                                                 </span> </span></li>
@@ -3269,7 +3271,7 @@
                                     var data = {
                                         'enableS2WithoutS1': false,
                                         'notShowVideoCount': false,
-                                        'colorImages': { 'initial': [{ "hiRes": "https://res.cloudinary.com/dnromfcqt/image/upload/v1746006629/g5vwlyerpkuob89fcmlu.jpg", "thumb": "https://imgsaya2.io/images/2025/03/08/togel.th.png", "large": "https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg", "main": { "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg": [355, 355], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY450_.jpg": [450, 450], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX425_.jpg": [425, 425], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX466_.jpg": [466, 466], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX522_.jpg": [522, 522], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX569_.jpg": [569, 569], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX679_.jpg": [679, 679] }, "variant": "MAIN", "lowRes": null, "shoppableScene": null, "feedbackMetadata": "" }] },
+                                        'colorImages': { 'initial': [{ "hiRes": "https://res.cloudinary.com/dnromfcqt/image/upload/v1746266765/aoxfr5wblqeuvf9ultaj.jpg", "thumb": "https://imgsaya2.io/images/2025/03/08/togel.th.png", "large": "https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg", "main": { "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg": [355, 355], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY450_.jpg": [450, 450], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX425_.jpg": [425, 425], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX466_.jpg": [466, 466], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX522_.jpg": [522, 522], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX569_.jpg": [569, 569], "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX679_.jpg": [679, 679] }, "variant": "MAIN", "lowRes": null, "shoppableScene": null, "feedbackMetadata": "" }] },
                                         'colorToAsin': { 'initial': {} },
                                         'holderRatio': 1.0,
                                         'holderMaxHeight': 700,
@@ -3838,7 +3840,7 @@
 
                             <div id="titleSection" class="a-section a-spacing-none">
                                 <h1 id="title" class="a-size-large a-spacing-none"> <span id="productTitle"
-                                        class="a-size-large product-title-word-break">FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!</span> </h1>
+                                        class="a-size-large product-title-word-break">Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer</span> </h1>
                                 <div id="expandTitleToggle" class="a-section a-spacing-none expand aok-hidden"></div>
                             </div>
                         </div>
@@ -3927,7 +3929,7 @@
                                     data-action="acrLink-click-metrics" data-csa-c-type="widget"
                                     data-csa-c-func-deps="aui-da-acrLink-click-metrics" data-acrLink-click-metrics="{}">
                                     <a id="acrCustomerReviewLink" class="a-link-normal" href="#customerReviews"> <span
-                                            id="acrCustomerReviewText" class="a-size-base">6..787 Penilaian</span> </a>
+                                            id="acrCustomerReviewText" class="a-size-base">6.777.787 Penilaian</span> </a>
                                 </span>
                                 <script type="text/javascript">
 
@@ -4034,7 +4036,7 @@
 
 
                             <a id="marsByline" class="a-link-normal"
-                                href="https://nexusacademic.com/">SITUS TOTO</a>
+                                href="https://team.kirnbauer.eu/">SITUS TOTO 4D</a>
 
 
                             <script>
@@ -4507,7 +4509,7 @@
                                         <div id="variation_configuration" class="a-section a-spacing-small">
                                             <div class="a-row a-spacing-micro singleton"> <label class="a-form-label">
                                                     Varian:
-                                                </label> <a href="https://nexusacademic.com/"><span class="selection">SITUS TOTO</span></a>
+                                                </label> <a href="https://team.kirnbauer.eu/"><span class="selection">SITUS TOTO 4D</span></a>
                                             </div>
                                         </div>
                                     </form>
@@ -4660,8 +4662,8 @@
                                         "num_total_variations": 2,
                                         "dimensions": ["color_name", "configuration"],
                                         "unselectedDimCount": 0,
-                                        "selected_variations": { "configuration": "2 Echo Dot with eero 6+", "color_name": "SITUS TOTO" },
-                                        "dimensionValuesDisplayData": { "B0DG4WZZPV": ["SITUS TOTO", " Situs Toto 4D Maxwin "], "B0DG4QQDJY": ["Glacier White", "2 Echo Dot with eero 6+"] },
+                                        "selected_variations": { "configuration": "2 Echo Dot with eero 6+", "color_name": "SITUS TOTO 4D" },
+                                        "dimensionValuesDisplayData": { "B0DG4WZZPV": ["SITUS TOTO 4D", "SITUS TOTO 4D Togel Online Maxwin "], "B0DG4QQDJY": ["Glacier White", "2 Echo Dot with eero 6+"] },
                                         "pwASINs": [],
                                         "pwUnavailableMessage": "",
                                         "prioritizeReqPrefetch": 0,
@@ -4756,42 +4758,12 @@
                             
 
 
-                            <p>Apakah Anda sedang mencari <a href="https://nexusacademic.com/">situs toto</a> 4D online yang aman, terpercaya, dan memiliki peluang menang besar? FOR4D adalah jawabannya! Hadir sebagai salah satu situs togel online terbaik di Indonesia, FOR4D menawarkan pengalaman bermain togel yang seru, adil, dan penuh bonus. Inilah tempat di mana angka keberuntungan Anda bisa mengubah hidup!</p>
-<h2>Kenapa Harus Main di FOR4D?</h2>
-<h3>Aman &amp; Terpercaya 100%</h3>
-<p>FOR4D memiliki sistem keamanan kelas dunia dengan enkripsi data terbaik, menjaga seluruh informasi dan transaksi Anda tetap rahasia. Dengan ribuan member aktif setiap harinya, FOR4D terbukti menjadi pilihan utama para pemain togel profesional maupun pemula.</p>
-<h3>Pasaran Togel Terlengkap</h3>
-<p>FOR4D menyediakan pasaran togel resmi seperti:</p>
-<p>- Togel Singapore (SGP)</p>
-<p>- Togel Hongkong (HK)</p>
-<p>- Togel Sydney (SDY)</p>
-<p>- Plus pasaran eksklusif FOR4D yang tidak ada di tempat lain!</p>
-<p>Setiap pasaran memiliki jadwal result yang real-time dan akurat, menjadikan permainan lebih seru dan menantang.</p>
-<h3>Hadiah Fantastis!</h3>
-<p>Bersiaplah untuk hadiah paling menggiurkan:</p>
-<p>- 4D = x10.000</p>
-<p>- 3D = x1.000</p>
-<p>- 2D = x100</p>
-<p>Hanya dengan modal betting 100 perak, Anda berpotensi menang puluhan juta rupiah setiap harinya! Bahkan tersedia jackpot harian dan promo menarik setiap minggu.</p>
-<h3>Deposit &amp; Withdraw Super Cepat</h3>
-<p><a href="https://nexusacademic.com/">FOR4D</a> memahami pentingnya kecepatan dalam bermain. Proses deposit dan withdraw hanya butuh hitungan menit, didukung oleh bank lokal terlengkap seperti BCA, BNI, BRI, Mandiri, dan e-wallet seperti Dana, OVO, dan GoPay.</p>
-<h3>Bonus Melimpah</h3>
-<p>FOR4D memberikan berbagai bonus spesial untuk member:</p>
-<p>- Bonus New Member hingga 50%</p>
-<p>- Cashback mingguan</p>
-<p>- Bonus Referral tanpa batas</p>
-<p>- Promo spesial event dan hari besar nasional</p>
-<h3>User Interface Mudah &amp; Nyaman</h3>
-<p>Tampilan situs FOR4D sangat user-friendly dan mobile-friendly, bisa diakses lewat HP, tablet, maupun desktop. Anda bisa pasang angka kapan saja dan di mana saja tanpa hambatan.</p>
-</h3>Cara Bergabung di FOR4D Sangat Mudah!</h3>
-<p>- Kunjungi situs resmi FOR4D</p>
-<p>- Klik Daftar Sekarang</p>
-<p>- Isi formulir pendaftaran dengan data valid</p>
-<p>- Lakukan deposit pertama</p>
-<p>- Mulai bermain dan raih keberuntungan Anda!</p>
-<h3>Saatnya Buktikan Keberuntungan Anda di FOR4D!</h3>
-<p>Jangan tunggu orang lain duluan! Daftarkan diri Anda hari ini juga di FOR4D, dan rasakan sensasi bermain togel dengan peluang menang besar, pasaran lengkap, dan hadiah bombastis!</p>
-<p>FOR4D - Situs Toto Online Terpercaya Pilihan Juara!</p>
+                            <p><a href="https://team.kirnbauer.eu/">Situs Toto 4D</a> merupakan salah satu platform yang menyediakan layanan permainan tebak angka yang populer di kalangan pencinta angka dan prediksi. Toto sendiri adalah singkatan dari &ldquo;Totalisator,&rdquo; yang merujuk pada sistem taruhan berbasis angka yang sudah dikenal luas di beberapa negara Asia, terutama di kawasan Asia Tenggara.</p>
+<p>Permainan Toto 4D bekerja dengan cara pemain memilih kombinasi empat digit angka, biasanya dari 0000 hingga 9999. Jika angka yang dipilih cocok dengan hasil undian resmi, maka pemain berhak mendapatkan hadiah sesuai dengan ketentuan yang berlaku di situs tersebut. Variasi lain yang umum tersedia adalah 2D dan 3D, di mana pemain menebak dua atau tiga angka saja.</p>
+<p ><a href="https://team.kirnbauer.eu/">Situs Toto 4D</a> umumnya menampilkan data hasil undian secara berkala, statistik angka keluar, hingga fitur prediksi berbasis algoritma. Hal ini memberikan pengalaman yang lebih menarik bagi pengguna yang tidak hanya mengandalkan keberuntungan, tetapi juga analisa data.</p>
+<p>Namun, penting untuk diketahui bahwa aktivitas bermain di situs seperti Toto 4D harus dilakukan dengan penuh tanggung jawab. Pastikan memilih situs yang terpercaya, memiliki lisensi operasional yang sah, serta sistem keamanan data yang kuat. Selain itu, pemain juga disarankan untuk memahami risiko yang ada dalam permainan ini, karena bersifat spekulatif dan bisa menyebabkan kerugian finansial jika tidak dikontrol.</p>
+<p>Sebagai hiburan digital, <a href="https://team.kirnbauer.eu/">Toto 4D</a> bisa menjadi sarana mengasah insting dan strategi angka. Namun, selalu utamakan kontrol diri dan jadikan permainan ini sebagai aktivitas sampingan yang menyenangkan, bukan sebagai sumber penghasilan utama.</p>
+
 </body>
 </html>
 
@@ -4978,7 +4950,7 @@
                                     ue.count('DPIBBTFRegisterTime', window.parseInt(performance.now()));
                                 }
                                 var data = {};
-                                var obj = jQuery.parseJSON('{"dataInJson":null,"alwaysIncludeVideo":true,"autoplayVideo":false,"defaultColor":"initial","mainImageSizes":[["355","355"],["450","450"],["425","550"],["466","606"],["522","679"],["569","741"],["679","879"]],"maxAlts":7,"altsOnLeft":true,"productGroupID":"amazon_home_display_on_website","lazyLoadExperienceDisabled":true,"lazyLoadExperienceOnHoverDisabled":false,"useChromelessVideoPlayer":false,"colorToAsin":{"Deep Sea Blue Echo Dot":{"asin":"B09B8TGJST"},"Charcoal 2 Echo Dot with eero 6+":{"asin":"B0DG4WZZPV"},"Deep Sea Blue 2 Echo Dot with eero 6+":{"asin":"B0DFW9L9V2"},"Glacier White Echo Dot":{"asin":"B09B8VHBH1"},"Glacier White 2 Echo Dot with eero 6+":{"asin":"B0DG4QQDJY"},"Charcoal Echo Dot":{"asin":"B09B8YP8KY"}},"refactorEnabled":true,"useIV":true,"tabletWeb":false,"views":["ImageBlockMagnifierView","ImageBlockAltImageView","ImageBlockVideoView","ImageBlockTwisterView","ImageBlockImmersiveViewImages","ImageBlockImmersiveViewVideos","ImageBlockImmersiveViewDimensionIngress","ImageBlockImmersiveViewShowroom","ImageBlockImmersiveView360","ImageBlockTabbedImmersiveView","ImageBlockShoppableSceneView"],"enhancedHoverOverlay":false,"landingAsinColor":"Charcoal 2 Echo Dot with eero 6+","colorImages":{"Deep Sea Blue Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Charcoal 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg","thumb":"https://imgsaya2.io/images/2025/03/08/togel.th.png","hiRes":"https://imgsaya2.io/images/2025/02/22/togel-ONLINE.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg":["355","355"]}}],"Deep Sea Blue 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX466_.jpg":["466","466"]}}],"Glacier White Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Glacier White 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY450_.jpg":["450","450"]}}],"Charcoal Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}]},"heroImages":{"Deep Sea Blue Echo Dot":[],"Charcoal 2 Echo Dot with eero 6+":[],"DeepSea Blue 2 Echo Dot with eero 6+":[],"Glacier White Echo Dot":[],"Glacier White 2 Echo Dot with eero 6+":[],"Charcoal Echo Dot":[]},"enable360Map":{},"staticImages":{"hoverZoomIcon":null,"shoppableSceneViewProductsButton":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/view_products._CB403827034_.svg","zoomLensBackground":"https://m.media-amazon.com/images/G/35/apparel/rcxgs/tile._CB483369938_.gif","shoppableSceneDotHighlighted":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot_highlighted._CB612066737_.svg","zoomInCur":null,"shoppableSceneSideSheetClose":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/close_x_white._CB416329031_.png","shoppableSceneBackToTopArrow":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/back_to_top_arrow._CB403827034_.svg","arrow":null,"icon360V2":null,"zoomIn":null,"zoomOut":null,"videoThumbIcon":null,"spinnerNoLabel":"https://m.media-amazon.com/images/G/35/ui/loadIndicators/loading-large._CB485945337_.gif","zoomOutCur":null,"videoSWFPath":null,"grabbing":null,"shoppableSceneDot":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot._CB612066675_.svg","icon360":null,"grab":null,"spinner":null},"staticStrings":{"dragToSpin":null,"videos":"Videos","video":"video","shoppableSceneTabsTitleT3":"Shop the collection","shoppableSceneTabsTitle":"Shop similar items","shoppableSceneTabsTitleT2":"Shop this style ","rollOverToZoom":"Roll over image to zoom in","singleVideo":"VIDEO","clickSceneTagsToShopProducts":"Click on the dots to view similar items","close":"Close","shoppableSceneViewProductsButton":"Shop similar items","images":"Images","watchMoreVideos":"Click to see more videos","shoppableSceneViewProductsButtonT2":"Shop this style ","shoppableSceneViewProductsButtonT1":"Shop the look","shoppableSceneViewProductsButtonT3":"Shop the collection","allMedia":"All Media","clickToExpand":"Click on the image to open expanded view","shoppableSceneTabsTitleT1":"Shop the look","playVideo":"Click to play video","shoppableSceneNoSuggestions":"No results available","touchToZoom":"Touch the image to zoom in","multipleVideos":"VIDEOS","shoppableSceneSeeMoreString":"See more","pleaseSelect":"Please select","clickToZoom":"Click on image to zoom in"},"useChildVideos":true,"useClickZoom":false,"useHoverZoom":true,"useHoverZoomIpad":false,"visualDimensions":["color_name","configuration"],"mainImageHeightPartitions":null,"mainImageMaxSizes":null,"heroFocalPoint":null,"showMagnifierOnHover":false,"disableHoverOnAltImages":false,"overrideAltImageClickAction":false,"naturalMainImageSize":null,"imgTagWrapperClasses":null,"prioritizeVideos":false,"usePeekHover":false,"fadeMagnifier":false,"repositionHeroImage":false,"heroVideoVariant":null,"videos":[],"title":"FOR4D | The King Of Toto Togel 4D Online dengan Jackpot Menggoda!","airyConfigEnabled":false,"airyConfig":null,"vseVideoDataSourceTreatment":"T1","mediaAsin":"B0DG4WZZPV","parentAsin":"B0BF75VM4T","largeSCLVideoThumbnail":false,"displayVideoBanner":false,"useVSEVideos":true,"notShowVideoCount":false,"enableS2WithoutS1":false,"useTabbedImmersiveView":true,"dpRequestId":"90G9DFKSFRKCQZ4KHD88","contentWeblab":"","contentWeblabTreatment":"","dp60VideoThumbMap":null,"videoBackgroundChromefulMainView":"black"}');
+                                var obj = jQuery.parseJSON('{"dataInJson":null,"alwaysIncludeVideo":true,"autoplayVideo":false,"defaultColor":"initial","mainImageSizes":[["355","355"],["450","450"],["425","550"],["466","606"],["522","679"],["569","741"],["679","879"]],"maxAlts":7,"altsOnLeft":true,"productGroupID":"amazon_home_display_on_website","lazyLoadExperienceDisabled":true,"lazyLoadExperienceOnHoverDisabled":false,"useChromelessVideoPlayer":false,"colorToAsin":{"Deep Sea Blue Echo Dot":{"asin":"B09B8TGJST"},"Charcoal 2 Echo Dot with eero 6+":{"asin":"B0DG4WZZPV"},"Deep Sea Blue 2 Echo Dot with eero 6+":{"asin":"B0DFW9L9V2"},"Glacier White Echo Dot":{"asin":"B09B8VHBH1"},"Glacier White 2 Echo Dot with eero 6+":{"asin":"B0DG4QQDJY"},"Charcoal Echo Dot":{"asin":"B09B8YP8KY"}},"refactorEnabled":true,"useIV":true,"tabletWeb":false,"views":["ImageBlockMagnifierView","ImageBlockAltImageView","ImageBlockVideoView","ImageBlockTwisterView","ImageBlockImmersiveViewImages","ImageBlockImmersiveViewVideos","ImageBlockImmersiveViewDimensionIngress","ImageBlockImmersiveViewShowroom","ImageBlockImmersiveView360","ImageBlockTabbedImmersiveView","ImageBlockShoppableSceneView"],"enhancedHoverOverlay":false,"landingAsinColor":"Charcoal 2 Echo Dot with eero 6+","colorImages":{"Deep Sea Blue Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Charcoal 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg","thumb":"https://imgsaya2.io/images/2025/03/08/togel.th.png","hiRes":"https://imgsaya2.io/images/2025/02/22/Togel-ONLINE.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg":["355","355"]}}],"Deep Sea Blue 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX466_.jpg":["466","466"]}}],"Glacier White Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Glacier White 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY450_.jpg":["450","450"]}}],"Charcoal Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}]},"heroImages":{"Deep Sea Blue Echo Dot":[],"Charcoal 2 Echo Dot with eero 6+":[],"DeepSea Blue 2 Echo Dot with eero 6+":[],"Glacier White Echo Dot":[],"Glacier White 2 Echo Dot with eero 6+":[],"Charcoal Echo Dot":[]},"enable360Map":{},"staticImages":{"hoverZoomIcon":null,"shoppableSceneViewProductsButton":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/view_products._CB403827034_.svg","zoomLensBackground":"https://m.media-amazon.com/images/G/35/apparel/rcxgs/tile._CB483369938_.gif","shoppableSceneDotHighlighted":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot_highlighted._CB612066737_.svg","zoomInCur":null,"shoppableSceneSideSheetClose":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/close_x_white._CB416329031_.png","shoppableSceneBackToTopArrow":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/back_to_top_arrow._CB403827034_.svg","arrow":null,"icon360V2":null,"zoomIn":null,"zoomOut":null,"videoThumbIcon":null,"spinnerNoLabel":"https://m.media-amazon.com/images/G/35/ui/loadIndicators/loading-large._CB485945337_.gif","zoomOutCur":null,"videoSWFPath":null,"grabbing":null,"shoppableSceneDot":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot._CB612066675_.svg","icon360":null,"grab":null,"spinner":null},"staticStrings":{"dragToSpin":null,"videos":"Videos","video":"video","shoppableSceneTabsTitleT3":"Shop the collection","shoppableSceneTabsTitle":"Shop similar items","shoppableSceneTabsTitleT2":"Shop this style ","rollOverToZoom":"Roll over image to zoom in","singleVideo":"VIDEO","clickSceneTagsToShopProducts":"Click on the dots to view similar items","close":"Close","shoppableSceneViewProductsButton":"Shop similar items","images":"Images","watchMoreVideos":"Click to see more videos","shoppableSceneViewProductsButtonT2":"Shop this style ","shoppableSceneViewProductsButtonT1":"Shop the look","shoppableSceneViewProductsButtonT3":"Shop the collection","allMedia":"All Media","clickToExpand":"Click on the image to open expanded view","shoppableSceneTabsTitleT1":"Shop the look","playVideo":"Click to play video","shoppableSceneNoSuggestions":"No results available","touchToZoom":"Touch the image to zoom in","multipleVideos":"VIDEOS","shoppableSceneSeeMoreString":"See more","pleaseSelect":"Please select","clickToZoom":"Click on image to zoom in"},"useChildVideos":true,"useClickZoom":false,"useHoverZoom":true,"useHoverZoomIpad":false,"visualDimensions":["color_name","configuration"],"mainImageHeightPartitions":null,"mainImageMaxSizes":null,"heroFocalPoint":null,"showMagnifierOnHover":false,"disableHoverOnAltImages":false,"overrideAltImageClickAction":false,"naturalMainImageSize":null,"imgTagWrapperClasses":null,"prioritizeVideos":false,"usePeekHover":false,"fadeMagnifier":false,"repositionHeroImage":false,"heroVideoVariant":null,"videos":[],"title":"Situs Toto 4D | Informasi Lengkap Tentang Permainan Angka Populer","airyConfigEnabled":false,"airyConfig":null,"vseVideoDataSourceTreatment":"T1","mediaAsin":"B0DG4WZZPV","parentAsin":"B0BF75VM4T","largeSCLVideoThumbnail":false,"displayVideoBanner":false,"useVSEVideos":true,"notShowVideoCount":false,"enableS2WithoutS1":false,"useTabbedImmersiveView":true,"dpRequestId":"90G9DFKSFRKCQZ4KHD88","contentWeblab":"","contentWeblabTreatment":"","dp60VideoThumbMap":null,"videoBackgroundChromefulMainView":"black"}');
                                 data["alwaysIncludeVideo"] = obj.alwaysIncludeVideo ? 1 : 0;
                                 data["autoplayVideo"] = obj.autoplayVideo ? 1 : 0;
                                 data["defaultColor"] = obj.defaultColor;
@@ -11597,7 +11569,7 @@
                                             <div class="a-row"><span
                                                     class="a-button a-button-base writeReviewButton cm-cr-button-wide"><span
                                                         class="a-button-inner"><a
-                                                            href="https://douberman.com/amp/amp-nexusacademic.html"
+                                                            href="https://douberman.dev/amp/amp-team.kirnbauer.html"
                                                             data-hook="write-review-button" class="a-button-text">Write
                                                             a customer review</a></span></span></div>
                                         </div>
@@ -12351,7 +12323,7 @@ class="a-row a-spacing-none">
 
 
 
-            <span>Situs Toto 4D</span>
+            <span>Togel Online</span>
 
         </a></div><span
         data-hook="review-date"
@@ -12370,7 +12342,7 @@ class="a-row a-spacing-none">
                 <div data-hook="review-collapsed"
                     data-expanded="false"
                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                    <span>Situs Slot88 sudah kasih gua maxwin, mantap banget<br /></span>
+                    <span>situs Togel Gacor sudah kasih gua maxwin, mantap banget<br /></span>
                 </div>
                 <div
                     class="a-expander-header a-expander-partial-collapse-header">
@@ -12404,7 +12376,7 @@ class="a-row a-spacing-none">
                 <span
                     class="a-button a-button-base"><span
                         class="a-button-inner"><a
-                            href="https://nexusacademic.com/"
+                            href="https://team.kirnbauer.eu/"
                             data-hook="vote-helpful-button"
                             class="a-button-text">
                             <div
@@ -12423,10 +12395,10 @@ class="a-row a-spacing-none">
                     data-action="reviews:report-abusive-review-modal-button"
                     data-csa-c-type="widget"
                     data-csa-c-func-deps="aui-da-reviews:report-abusive-review-modal-button"
-                    data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://nexusacademic.com/&quot;}"
+                    data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://team.kirnbauer.eu/&quot;}"
                     id="report-abusive-review-modal-popover-R2DVCU4L2UJJBX"><a
                         class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal"
-                        href="https://nexusacademic.com/">Report</a></span></span></span>
+                        href="https://team.kirnbauer.eu/">Report</a></span></span></span>
     </div>
 </div>
 </div>
@@ -12503,7 +12475,7 @@ class="a-row a-spacing-none">
                 <div data-hook="review-collapsed"
                     data-expanded="false"
                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                    <span>Aku baru pertama kali dapat scatter hitam di Slot88 <br /></span>
+                    <span>Aku baru pertama kali dapat hadiah terbesar togel bersama Situs Toto  <br /></span>
 
                 </div>
                 <div
@@ -12638,7 +12610,7 @@ class="a-row a-spacing-none">
                 <div data-hook="review-collapsed"
                     data-expanded="false"
                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                    <span>Cuman Slot88 yang kasih gua pilihan togel gacor hari ini!<br /></span>
+                    <span>Cuman For4D yang kasih gua pilihan togel hadiah terbesar setiap harinya!<br /></span>
 
                 </div>
                 <div
@@ -14011,10 +13983,15 @@ rx.ex64("UlgBKSIsSEpQVkBISlNAJ1ddJlZERyFGQExJIVVQVk0mREdWJFckJDQEJCc07SQkJjTaJCQ
 rx.ex64("UlgBKSYjVkZXSklJJ1ddJFckJDQHJCc07SQkJjTaJCQhMiErKSJGRFVRUFdAKykiVURWVkxTQCQgFSkhaERRTQUlJCMrJC40JSQpMWQoOiVfRkV5ZRQRETADEBsBORwGARAbEAdUdXZUcVRyeHVZZCsAJbKanperqJSL6v319+793e799uzU8evs/fb96rmYm7mcuZ+VmLRkKg4laH7cY0RDQm5ARE1zck5BMSMgck9DY0JjTkNDQ3ByTkMyck9DY0JiQ2NDbmQ1iiVacEFBfXIfHgZBfXoBFAMXHgMcEB8SFFBxbHBBfXgFGBwUIgUQHAFRcHBzcHBy7GBxQX12AhIDHh0dKFBxTe3uUHPgUHlRc1B5eHFzeXtzeHtze3tN13tQeUdxQEF9chATAlB04FB4UXJwdXBAQX11EhQYHVB042CZduLgUHlRc1F1cHRwQEF9dQEEAhlQfVF0c3rhYHBQenN5UXNzeFFyTe5QclB6d3FBUH5BUH9dFBUpIUBdQEYVKCQFJQU1JCIkFxUoJxUoJAUlBSgpIUlKREEXFSgnFSgkBSUFKikjUEtJSkRB", "load");
 /* ◬ */
 </script>
+
 </div>
 
 <noscript>
 <img height="1" width="1" style='display:none;visibility:hidden;'
 src='//fls-fe.amazon.com.au/1/batch/1/OP/A39IBJ37TRP1C6:356-1077062-4831846:90G9DFKSFRKCQZ4KHD88$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D90G9DFKSFRKCQZ4KHD88:0'
 alt="" />
+</noscript>
+</div>
+</body>
+
 </html>
