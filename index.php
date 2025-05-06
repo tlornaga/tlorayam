@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
 	<!-- SEO POINT WAS HERE -->
     <title>For4D | Link ALternatif Situs Toto Togel Viral yang Bikin Heboh Dunia Perjudian Online</title>
-    <meta name="google-site-verification" content="y1re3PERFnKbJw6Jm8pF2leWT8DR5sJRZF6fvezc3rQ" />
+    <meta name="google-site-verification" content="r4SSWKsWDkFVvLMEWmkapatdKriKBd_z0TnEft8hauk" />
     <meta name="description" content="For4D adalah situs penyedia layanan toto togel online yang memungkinkan para pemain untuk memasang taruhan angka dari berbagai pasaran internasional." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
