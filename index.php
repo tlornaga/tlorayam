@@ -6,7 +6,7 @@
     <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
     data-authenticated-account>
     <head>
-        <meta name="google-site-verification" content="JdH3u4whxYJ7okHwF-Wxtxz0jeRWLpwfllEhSlgizpM" />
+        <meta name="google-site-verification" content="1Q_GIkN1CltCX1_kHSwNrTmPwTmvkS2FaOmYKy0738w" />
         
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
