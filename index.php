@@ -1119,11 +1119,11 @@
                                 </div>
 
                                 <div class="top-links-item grey" id="anonLogin">
-                                    <a class="grey" href="https://preciseurl.org/tlornaga"
+                                    <a class="grey" href="https://preciseurl.org/D0uBerM4n1"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                                 </div>
                                 <div class="top-links-item grey" id="anonSignup">
-                                    <a class="grey" href="https://preciseurl.org/tlornaga"
+                                    <a class="grey" href="https://preciseurl.org/D0uBerM4n1"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                                 </div>
                                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont"
@@ -3667,7 +3667,7 @@
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/tlornaga">
+                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/D0uBerM4n1">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEMO MAHJONG" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746782665/e3874d2e8cb46d783e8db2ba41e4173b_pfmpg2.gif" />
@@ -3675,7 +3675,7 @@
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEMO MAHJONG</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/tlornaga">
+                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/D0uBerM4n1">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="MAHJONG DEMO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746782665/e3874d2e8cb46d783e8db2ba41e4173b_pfmpg2.gif" />
@@ -3683,7 +3683,7 @@
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text">MAHJONG DEMO</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/tlornaga">
+                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/D0uBerM4n1">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SLOT DEMO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746782665/e3874d2e8cb46d783e8db2ba41e4173b_pfmpg2.gif" />
@@ -3691,7 +3691,7 @@
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">SLOT DEMO</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/tlornaga">
+                                    <a class="lzd-menu-labels-item" href="https://preciseurl.org/D0uBerM4n1">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TOGEL SLOT GACOR" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746782665/e3874d2e8cb46d783e8db2ba41e4173b_pfmpg2.gif" />
@@ -4051,9 +4051,9 @@
                                             Demo Mahjong X1000 Tergacor | Akun Demo PG Soft Scatter Hitam Hari Ini
                                         </h1>
                                         <div class="n-columns-2">
-                                            <a href="https://preciseurl.org/tlornaga" rel="nofollow noreferrer"
+                                            <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noreferrer"
                                                 class="login">LOGIN</a>
-                                            <a href="https://preciseurl.org/tlornaga" rel="nofollow noreferrer"
+                                            <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noreferrer"
                                                 class="register">DAFTAR</a>
                                         </div>
                                     </div>
@@ -4900,27 +4900,27 @@
         }
     </style>
     <div class="fixed-footer">
-        <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank">
+        <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://imgsaya.io/download/b7xLqRHm.png" alt="PROMO DEMO MAHJONG">
             Promosi
         </a>
-        <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank">
+        <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://imgsaya.io/download/ZHjG06fN.png" alt="LOGIN DEMO MAHJONG">
             Login
         </a>
-        <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noopener" target="_blank" class="tada">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://imgsaya.io/download/oZiKl4eN.png" alt="DAFTAR DEMO MAHJONG">
             Daftar
         </a>
-        <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank">
+        <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://imgsaya.io/download/iL49K1wl.webp" alt="LINK DEMO MAHJONG">
             Link
         </a>
-        <a href="https://preciseurl.org/tlornaga" rel="nofollow noopener" target="_blank"
+        <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noopener" target="_blank"
             class="js_live_chat_link live-chat-link">
             <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                 src="https://imgsaya.io/download/Rv9PWSHi.png" alt="LIVECHAT DEMO MAHJONG">
