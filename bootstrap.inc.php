@@ -1,47 +1,3128 @@
-<?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3d89\x2bQuTW0\x62V0\x61yOUXfi5Iw0/\x2b/53jr/fvptJ4d\x42XR2/PTe7JfTMxhn1xJ\x2bfDZj/lyy3fP9vmxyikt\x62diESonJNFlRGj5wg\x4163ky\x42I0EqLr\x61D9dUFxQ\x41Tqghw9\x41/TZUvMpWYUkQlfg\x435\x41gXTp7\x41/jTZGIS5fwYHQ1XUWHl/\x63vlPQN\x43IrPt\x61QU\x41\x4300\x63tJYh\x61KujkivDrRZDp2\x2bKXk6f623niVZEN\x61R\x2bPpmeUp\x42KdT6Z\x42KMkKj8J\x61qNUp\x43\x61W69J\x61\x42wkG\x41h\x63p38oWK9lUhTk08\x42lsV\x2bgysYmK5KY9R\x43KY7sUn18ohdURF4KPE\x2bnp\x41KTi/nq\x62t7\x41KoktnQ9J66/FV\x61\x62mmT19fk6TOJNrt\x62WxuLdZQ8yQrmO59G7df/QPMxqWUkj2ugYFrG2X\x61ws\x43to4/GiresQv7qrGkun\x61ZMuOoSsww\x42\x41ov3x\x2bkR2sY/6\x41QUl2wiK2VVPLzmnpxEQldD\x414oJ9goF\x63\x62FljYsUXpE\x43xL\x61mZYEgY\x2b9jSPoj2QnuHighs0LQ87QIx7QLGYzQK\x2bG8T9\x41/G\x42\x43pNuN\x42lrIV0le\x41\x620H\x42Dps\x62\x2bE\x41\x62Y\x41\x63\x42M5Q\x622Tx\x41QEKK\x42\x61Soq0wk1l7g8X3UREE\x63\x63IlVoVywn6Njfwm\x2bmfME3DegIVHxE\x41Gdv\x42\x61K\x42kN\x43Qz8\x43ZEUG8yQ7FkGySS7ZIX3ImD1p\x61QxxmU\x63kHVF\x41i/4\x61\x411NgMHIGsOoKS4qiR\x2b\x63qwdzGP\x2b\x62M\x43LyqiOw82E31Mj\x42kuP\x43ldXw1z5H\x42ntS\x43hoNldJ5\x61\x63\x62\x43pIGkm2o\x41VpjQj44DE6\x61HHylF6d4Xv\x43oKgz4VkSwTOfMYNqThv9KUllgK51r4XeF\x62SsThv9K4k\x61DTkKmK\x61q7\x43\x43\x61XYwKFK\x63ShKXdo2FFoSh\x42\x62dowJFq\x631h\x61XUgKFGsSh\x43nUoyFFqipXYKZU\x61\x41mOLKIrYTTSEqGVs\x630\x42\x61ZHPypF0trGt5UFG\x43xu/SYUOgIwFnJXVZxdlUZ54VuZyVZm8VlFnV\x611ZlU1lRPg\x63we4K\x42\x41Hr\x2bq8DhvwgvGN\x63SpvLK8VR\x42fN64mTfX\x63wXi\x43ep0zlHl1TlRm\x63VkJXVY1P\x41uL4fM/kxsoohg8W1F9\x41jpi8x\x43\x63sxVRz0Px4FSlEh8RmqxUjK\x2bITtfg\x42Lgv3HZQiQu\x6144Nh7j\x42wGps\x635vQ\x61zSG6/xLWyUFLY0tI08wJjhsKwHxLkMfJ4Yz\x43Y5I20EtMdU\x432J\x61yqyd\x61FqH3JynSp/Uq/rRLoydfVqTrGLYy\x2b\x61dH\x61RMqmMVVXm\x61qJ\x62t1klK\x61y\x61lNZlSmu\x61JTVVt6r\x41\x62z\x2biU7\x41z03Un\x2bm9u\x42sZ5ZuD7xWhTWf5qFXtehSqf4k5LuZ9irWs06FWr\x2bh\x62G\x43\x62WieKVqeUt\x4321qm1lq2VgGt\x6116\x61sFiI\x621qkVlqEVx8srWs06FKp\x2bhzmv4m1Lu\x61hSgOYZoKdVSFX/S\x43Vrq\x42lrOs5JLs2UFKZq\x43nNVhXm\x61wJ\x62t4s1kt\x42dOGS\x63\x42dEIZTSJfxs\x2b7IuR9R5smpxjPj\x610j\x41OM\x2bt4U5KWp\x61ff\x63vFyytz3uv\x61knOD0loFpdNw\x42z3juqURYr\x2bE33\x41YY/\x41E\x42rFwSk2K8\x43izVkk\x42UjO413Tm\x429uDn\x2bvW6vW\x426L\x43mnhFi2\x61\x2bHI3eHwUlYVTV7j8Zm1\x41rDh16Ky\x41zqpLFl\x62gLSl\x61Pe6FdwX6LlSDHEHRq/Z6/I\x61NW\x620\x2b\x41HNgOpqUhw\x62Lt\x62MMtJ8PYGK\x62M\x42YxgkUgKRM/qWk4LtWdhl4zqvs4LkeqF\x62FSfY1Z\x422TST95VfWR\x43jLXlsXUdhy\x2boqN3e14lZ9Ex\x62U1XkSmRq0\x42VfRPw3SvX9SzPk6qurMm\x42S\x41FQPtPouKT\x2bipkI\x41j6LTJdIn\x2bwgWLj\x42E\x61P\x624XO\x42U\x43FQP5gikynx0jIFRGKgQlIN\x43Ir\x61wuiVkGnpI1oEW6\x42JRlgQZEiQuVq\x61pH\x63qr/uOdVqY\x61rpYLOt6kq5\x41\x41RgNWlGghg\x41goKQ\x43UEZU4j9py9zOWzlu8FU/W2l\x42kWi\x61egK\x62T0g8mIneVeV0\x42F6jyoJUQSS\x42Gmoh\x430MKfyN7D1E6vLfHNoQidZP3l\x42YPTQ2yKD3oF1Gwuw90X\x41uDNHyYmN42\x2b6dwm2GNMNIruZ\x62SUN7S\x42\x61\x61k\x61DgeXT3H\x61gs\x43\x62O\x41KXhyk\x41hVz\x42RimqKym8\x63qKvn4ToOqgJU6k\x41MYyuSOy5qKHLTSGDJH\x610JT\x63\x41SOFyUlm\x61f\x625\x43Xlhl05hwepdVlgiuy72\x61I5IWDiO8Jh\x41g\x61QJh\x63d6KJ6ND6pNU0fOkS\x61loHMqvIQRqSKSqizgOqI\x41qvKSJpQoKSvMKIkIo\x2byIFlS\x2bZUmqY/dgiuHZzgUJJjGKTN8rRkSDsz\x62ov8eGDQq\x62gI/\x43EQxU\x419EoQUfNLHiNH6oM\x41I\x2b\x43YgdUk96\x41Nxn\x42tEGOiP\x41y4p\x429kuKg\x42j6L\x41UEfG0RQ5ofL810RXQT0\x41VEzH\x43v\x42uM\x2b7DrzlU407umG\x633X2tLYwZ\x2bpM\x43DsF\x62oh\x43\x421sSJrDYO7Gjw\x43xmVJLt\x426P\x42\x43dw1/n4TzVeD\x61L/FSJGwWDwQZojrj/Q52\x42/moLZMTHtVN\x41eD9dxSvVQm\x2bdgI\x62utmkDptjYf\x639QY\x2bSfD\x42tWzx5Pe\x43\x2bMF\x421PDRtJGphHwITm\x61Inm3T0HqF\x63SV\x43ew0qq7SFdJYU\x41r24zUwo2gs\x62\x43\x43yWz\x61MUqv\x63IIx1QdruhK2\x43lGmONU2QqX\x63Jlq\x43ljJdEM7yV9u6eSVfo\x6236DKMYVme/dH6Rdi2K1lyI\x42d0Tfh\x62dLn3yL8NT\x611Z4t\x63TDvtrP\x62lT\x41YhT91VzvUWxfdvEwt\x41/Ge09fD\x42W\x62V3MgWp\x61nv\x63zQ\x613Fu/fE2g\x61UqgNRn6mmKW\x63U9SfOuf\x62QF\x632UqhNsWe\x422MN8Wuv03Q\x61SG\x63\x63ooVp6gOsu/L\x2bt0g\x42OpWW\x622h/4HJO\x63oRy\x2bdSm6Ooq\x41Gwog3zs\x41eOg\x615Hhx\x63ZQLhrXmq8S\x63tl3\x42S/s\x62TKPhgrew\x63WD0\x419zrJrJXZgru\x2b\x61hDpxxiz5SPz10P\x62oGQexojeFg\x61w\x42zJRspUS2RNji\x2bH\x42XZ\x41rUMW\x61Us6\x63uZp\x61Ykgu80OO4GP9\x41\x63\x427MdXflMRv\x63TJ2SdPdEHP2\x61s\x613pnx\x62UXv79zdqjE\x63mUl8IxZE\x41i\x2blq\x424G\x42xVYx9V497R/WW\x624\x61m1\x43ntN\x42JivG\x61V2eRY\x61Qtz\x42q43d\x61WLj0t\x43Ojv1uKPuxW\x632QyZ2h9GE5pLN9\x62ZMkMw/lrP1S4\x63Tf8\x433hfL3T\x61UGp2ZmJY\x411h\x42fLwsF\x62\x2bPg8Zf/DPepUQnSfJX\x63/t7G1LKSz349R\x634TgK\x61RYd1O\x61V5\x428SrM0mv\x42Z\x61tZxPD\x41nTW7/3hvILxMpfiqy\x62rP5NK/3/2M/IVdi98Yzw9QsD\x43prLGsYYl/Gyy\x63UlIv\x62gmJi5LIVhJ8\x2b\x61mL\x2be8\x61Jpr\x41\x62PvOfZT/JMrDEQxWGv4e09E\x42JvvjGJvR4W\x4151x\x63nio\x2bmO4kgd\x633eT08Poo\x61\x42oxT\x423rUVQM4G3t/3819lK\x4164J2O89RkPgngtFx0\x43uROwyKRP\x43Mj5/d\x2bPFh\x41uWzyS\x61rU0\x42sry33\x430W5sLx4Gfv9QpG\x41JIZfY9qDJ\x63Xd6iQPyh/sdvtYUKlfnXwS\x63Mrir2/shJw\x61/\x2b2myf\x43v\x42uJ6w7nooISO4SipfNIGoe6TMXp9MdIyf\x41YE5l\x43GgxeD\x620\x61vYus4fsngGdQLEnUtyDOP\x63Z4hymn4uo8lsv7Sm2qqVZNl7e9X\x61In\x2byxwQV3sj1vXxrjZpqKM8prr\x41O5ou8oS\x43OYe\x2bfeHHg5qmGk1JpRhqm\x61gYDevHvpiIQkd7\x626U\x610RKTTV\x61hDG9WZp7NX4\x62STJS1kfLKI3sZU\x42woN4FH/iDUET6ilDk\x43JZg2DnVW1Wr\x63gmf15lVy1i9TN2X\x436HkUiMLLgRIgTeiTdwHFlU2ZF71\x2bdf64\x622Q\x61WeGy6eDM5\x43eWStD5VwXjMN\x62jQdJ8\x42Ks\x62P28G8GlL\x41Xmgkt/k1KoQ5NdtE7Rkw9rpH5eM\x425grzH3PD\x41uj9DRPgoXsV/\x41e1iihUyF4N2\x43K5\x412\x62f85z\x2b559epRMV\x42Gr\x62Fxr7d\x62u\x61nd5\x2b5r8VIz\x62LY1dhS\x42\x63T9S1u0\x43\x41F\x61VTK\x63lF\x41\x63QTLZ\x620oig5OVV5G\x42z8\x61TZIM2sXPY1K4vKD\x41Zmm\x2bg4x2pLKldYoZEM\x41/qszhePQVU\x2bEm\x2buT\x63\x2bKq\x622R1Kq163lswL1s/\x41ygshkv\x41gw\x63XZzrTT5LJRS\x41S6\x42dnwgkLjj\x43IXpuzu\x43Y5iJG6R4R\x63OPXh2xUpiXGnVpj\x618i\x41\x2bE4dyg384E\x41\x61GmH\x43/Rp\x63ZeDFJE61V\x42Z9jTZGz6EY5\x41XvgO\x2b\x2b\x43SLwsU6IJxfm\x438ihp5JIEPH7qMLUolEqKuF\x41J5I0ue\x43x\x63SDoM7UJdRZ\x42Ym\x42ux\x630\x61k7Hs37\x63p\x42uXHu6\x62j9nq5\x43OLx\x63K3\x41sPhPgM0zNWQ38w/dg\x63GK9\x63p\x41324Z9nZVNsZxl6j\x2bSLSS4PYwLi98pTW6I1RMi\x2b4O19x\x43FrLZFRHjO6kj\x425DUy3u43z0N\x41HY0g\x42Oo\x62Vj7n\x63Rz\x2bl6wuR\x62iD4mkxgyDm9\x61uYjOK\x438qPS\x42m3\x428sm9wzhzg6REs\x43d\x629yHdJ\x41nX6\x2bp4dX/FnJIWtU9tI\x434\x43\x62S5\x61zzZFO6ztEGVQ4zrDysrkEwD9MKe\x43yNHfh9sNlMi\x61\x2b6g6\x63T\x628kzo5qffl\x2bf7RUswGXDY\x2b1xF\x436\x41xnOIf3zrZ6566QUD\x41\x2bvloNTf\x41Ouz\x63loltsPxdrgeGHwtjrr45zNZ86QLjWN\x61\x62QXwVKfyKlKmQPN\x43\x424fefvFFv3Sul0HTgXnu1jrO7EXd4f\x2bIMm\x62DOPD\x2bSN\x62rlXvu\x61\x63t39OT\x42\x41\x2bYtytyGhqOd0HEQqt5Jo/pJ\x42VFZ0pv4\x43S\x62r3tKN\x62F0OvINySJmYNPX2D5iKeiZY3U\x61KhpWkT39WgkwWQqPO/YNx\x61Lv\x427wiVl\x435XgR8tDUG\x41XfE\x41jGk\x43TfI\x41lk95D/keH/WeJQ5pQhxD0M6vw\x41WH\x422ElN/XG/\x636S\x2be\x41fYv\x41svg\x6314wXfTegV\x423YfJ3ZP0\x41PG6Vj\x42NDR\x42s1oD\x4144oZhtPlODe6v\x2bhGdGIdwOL6O8vg/gQ1ZJX2F\x63ikO\x62s\x6384s1L41HFMeR6vGV\x41OrhqgElHJhJQPpyXfdsY\x42/0pnlLf\x2b\x42ON\x2bRr\x63NyxhNkjLh\x438yd6mFG6t\x439\x43F\x62\x2bjEs5q9fL4SQiUDUM02dn\x63tIrdvV2HxQYu26uur1sZ\x41we3\x62Ms/ZOm\x2bOPZ\x62vFZu5U0whEhep\x43\x637yyPsfJ\x42ff\x425\x63\x63zr\x2bYg9EU5Xv3/7Gq8g\x63m3Kz\x42\x42/uSOYx7lhtYkYD3Espg\x62/\x42NgThnp2\x41S9moKrLlFvrV7451SI6\x41U\x61ze\x42k40glSQMUVl6UY5\x63rm0YV\x2bKU6U\x63\x2b\x63J\x62tKMxli\x61X7\x62f213uLS\x42283jrOg6p9F4\x411VQnqFe99zx5\x41s9\x62yOwWX\x63pyL8s/xfLruQjW3P\x2bg\x62i9/o3VVN3QdVZ9WuTQei0PP\x639vIeUhvqod7\x62Yv5JRegN\x410\x63\x63yU1yGI\x43UTdkm\x63s\x42P67zwFgyV\x62FkR16U261\x61h\x61rdMNWjwJ8eQOtt7K\x62o\x2bM7/h\x63F\x63S\x43NDPWLsXN\x42YKNvrxPTWyxSYTxh8\x2btTFpsYzqQtFWp\x43pvRKq\x2b8kQv\x4151eN/Oe\x61v1LlO6m8h4N\x41\x42IssI\x62\x62\x61eJyR\x61XMfQ\x61KILe\x41f\x62m1T\x43iksFo1s7sSTlzHfXV\x63GVoEqiVv7\x2b/\x41gRg4F8TQoVeRN3GLPw7/\x41Y5FdRSrus\x62pG\x2bG\x2bKJZyJDerDeR\x41Qlwq4gdl\x41meKh4TdN\x2b9h9GDpE\x63vQM\x2bh\x2bYupn86X1irSfNRxL\x62HE\x43kVqJQv/hOF0P\x42\x62JfYwTf\x61j\x61vudNsH\x63R\x42J6pdYyU6j9ze1QrDGU6\x635eEEkOvJ3WHV\x62kUWG0U\x61hX53PS0o\x2b\x42F\x612nSLtDSMg4rX\x2b\x63Z\x41Y1dm8ipeX1pP2tW3MqkwqDuQ9uZUtTyYt\x62LR\x43JQlG\x61\x42ExUze94frhrkqZTT\x43uPMkpD\x42ndxvSHqN\x42\x61D5Q03\x2b\x2bo1eMqNlPpDq\x623\x61UQHrxeNTw\x43d2LM7\x41NMhV\x430OS299VT/dvyJD81ux4v6RfTFQq3ntg5\x2b\x43\x41queGUf\x63IQzKXL1wROMGktL6hkge8eYl/2dF\x42\x41it0m\x41nhTjijtQw4ss\x62H2wxgdffTjPOF9PHy\x63K38gnuz\x632SosVv\x43kSHRN2ZL8\x43Yv24\x41MQyJkMJf3R\x42txer0\x413gozWZ\x43\x2bTzLQJEjyn2IOLKJFL\x41MHZtXF510/8ggSxoM\x41o\x63kK/r8zFldl5h\x62\x61T6t9N5uuW\x61qUzXLNw\x42ND\x42R\x63mh\x41n\x43TXM\x639\x2b733NL\x430fvr6DjKMpl1\x41KN/RWr5uMOpz\x62\x61DjQ\x43umIKKfFKJFd\x61juorek0vhV\x61/L6skt\x62Epu6kZozPNRyOHHhIO\x63yGFpFH1m32\x61wGfIY0NSRIO\x638ykp1\x43DvMR\x2bNwNyjSMNL56ln86\x41vh\x61Kiwv\x63KjP9QfUR6ZyXzMFLRjw7DDMi17sITH\x61\x43v2\x62GVMjxxymUMtzs\x4293YypKhg\x617mS2WRu\x622Vo9\x63\x63ZJTPGLwrSTT\x43Q\x61nDnu\x431\x63X69mnP54\x62n\x63myY\x62UEZ\x42pHEf\x41myOOr3rnfP88T6R5hPtYlG4Og\x63yvwPQxryX\x63wOzfiJtN\x63L18Gw\x42n4k/u\x62kH8sH\x41OZ\x42\x62IE9joLW0wzQD\x625E\x62I\x43F\x4316Gp6F5ONn66xFjW1j\x43SZNVEK3qWy0Npvpf\x62Y\x2bHx\x63oyY\x61/DPleeVH2\x62DdDWNnFO\x63sWv\x61exPhHvrROEGd\x428Qdv7reDVM7Z2NKM0Dt\x63L65SDs1qdQ66\x62\x42MWr2j2\x63O/rGj\x43\x41uiNQ23RIy3ZJz3\x2b\x42Y7p3iqL\x61\x439tSJ0Wn2KrpRVY3Iu5HyDEFNL\x63W43lzFIOXt9KHn0FZoh7tx5UVf9\x61/\x42yds\x6300e7Y3ypK7ttYIm1i2i/m2Wy2G7WiSNdmXoSF9rQVZ8kshIR6TWqE\x63S\x62uG4qqlzJu2Mx\x62llLQvGN0n6\x62k4tPDY\x42wIdF6ImlJ\x41/Xkq2qg2ZP6\x62Y1FFkNy8PyMDOo\x62HDp8Vm25d\x41mfFL2Pr\x436ogsh4dj\x43dteHRnzhV\x61Xmj6whJHK1WG\x63QZ\x62yPj0Sk0KtsIznumhD\x61Ow5\x41W\x43PR0eDYzYkHmyOOVvulHxHk\x2b\x63PTkXI\x63\x41KvuF5tsnLEMl\x42\x42FPu1sKgsWNh3\x61VDYF9pG\x2bT\x62tfJoT10n5uOKwoYriMj6GNRJ7i7Lou\x438Rpi4V7slVMsWI4TK7sR8XhZ150u\x41m8/\x63DIHZWxS9vvdnMy\x63Oyd3128MWjTjP1yMOD97ggP64Gh7qdi6QPK2rVrm/rDpWGZUHIxfVoR9zugD7qwexlqf1S0Vgh\x61\x62OQ2\x2btvYiUZdMs/5lz4\x2br\x43H/YXfVJVRvqkf2Tuql54KHs1np3\x63E2\x61rjUu38k\x42\x63j\x43vTDFYII2zfxfiwHptRd\x62dkK\x63/2\x61vOtG29G98iWrQ\x2bUkii1\x61W37D5HRS43XWdX3Xth\x43Vd12lNeUz1XgQ\x63WWxGOsSf\x63\x61\x63\x42\x61\x43qzNt42ltyzM0xHOu\x435pFGm32ew1lXgTnsuu\x63vmlmiFIdp3jfLw9uf3hnVrp\x43\x414sk8e3Yh8k1KX1K01LKpLsLUen\x62XJV/kgdeU4MmkKo\x63\x63XIHjsZnYoTdXrroef7hjUj4xT0Z7odP3glsVzS1Fuo3Ox32W0kpK82y3QS5\x62y3PF5\x61pVULtRp\x61p\x62ELDrsRfEZ830Zq\x42U/u7uoPleQQhLSO\x62fgHiJYIodLivh3lQSG9069N\x6132/kw\x2b1ySkfnDPMq//Wv/2DuOM/tDplh7vd0dot\x42zgtJTiwY/kDqhf6\x63jfVW2n1O/\x2bxsg97gdZ6L2h/K\x42yHU\x62sg9zyO/\x625j\x62dmM\x62v\x639DMfPM0v554m\x423F\x41\x2boZ2H45\x41ugN2rf\x61K8\x413tyX\x41HwdDYOG\x61\x417RNO\x2bg52zo7PG\x624L\x41ujxG6\x2b2Uf5T/p37dI1qp1nN\x2b8\x43zNy\x42/fvEeg7u8Q78PY\x62YphurMFX/8v7hSXSv\x43\x62h\x61Hf31SDezpG3\x41\x63S9jzNoRP6V/1zl2Nuzyl\x43\x43Jv\x2b\x43Y8IwUvL\x63jFuj96nm\x61eI3JXhejXXYP\x41nwv\x62s\x41948\x437uz3eI9/55F3\x42\x63HnXY3jrvm5f/7PuuuF52Pu\x2b\x63xzLs7sP\x2b\x432D7teehd/5Fed9NPu4e\x63ffV3T0W5W/z\x2bL7\x61yUs9yumf43pnI4s159V9XMHzh\x42G/00E8L46J/veIU\x63u9fXv\x2b\x2b3JGl6uPIX/127\x437oPI09VSvE/Pj72o/lFd\x2bXJhRPYU8rGZlLtp\x62wH4rmLrlXLWq3Y\x62/Qf2hvJ9\x63pIgk\x41\x41DGXIJ42Gl\x2bh\x62P6QPq52R8YIsT0OnhNh19\x63s\x41g\x2bHEMwn/GWsp7QpjDYel9Yw63\x43753JVDU8Z3rzLTpvmJ\x42fEnHF\x62gqN7\x41Y\x424PkkOKqvGGuO\x43\x2b2nJrvDhq99YP\x62rEwN75DjE\x411slOiqlnGS8PpVOj8Q3\x61gZLPmo4oKmmS3R6YeRH\x61k0lu4t\x62ZWKj3\x2b6\x42S3\x2b\x422ESzWW1s4\x2b0U7DH\x42OD0Kg7\x623gKzRR1rHntMLum/64KjhP\x635uPmYKV\x2bYQwttlg6O\x412y\x42dZdsp\x42zQh5f\x41Hph4\x2bP\x62z80h5tT2\x62fD/42unyvTTK8hqTOeSf1y/R\x41\x43jSZiTEPUvwFmj7G\x62Xkq8ZPGz23Wx4ed3pM\x2bY8lTu\x43P\x2bLsNQ4SzNMuIr6P\x43Ym8\x41d\x61\x63\x2bif\x62u2IWFxSIk\x2bL\x63T9FmRDKOTTft8\x2bRsQg3liQyS/txFgo/wGGPvwD\x62P32L\x61Wx2Pm1X4Wf3H7q79\x63X\x63rv7jdxtet\x62vzFiv71\x6394429xxtrjjfXHG7\x2bONy9d\x62Ir/8fm\x41/Xz\x43/l\x2btTGzrm4m3M1dvZjqv99oduNfQ\x438nS/wPK8i\x43M1jfg4wQFUes7t\x61ir//pXf6ZGrD\x63FzyHKr3exivigLySzuKJxP\x62iQ7zzm2\x2brPPIRsv2M3WVet5v7\x61z\x62HYVjKOXe8\x42\x43YdO1kH\x62inPkTwo\x41r\x2blHqRQspUUDs\x41U\x418/zh1f\x61OXUPg7zEqVH4NvXhZFPYM\x63V9SVN/Gl0i0E\x63Vdrv7rdFfUvX36y6\x61v3V36wOsL9eXdrX7\x424\x2bMdqnFSfNrr/eTW/yyVtFRlW21YUfVtK2qfmouWD\x43\x41sG66\x43Nm1iN1ltWp1\x419q\x62\x2bhRqFnmjp4vvOO7lqQIus3WMOqOqf1luyJk\x2bOYLxrV04vwnQV\x61I//Us/JlDso\x42HY\x63QhFIi7Ks42Yuo1osqOwl4fq2/1Qk/\x428F\x412k\x43oO13hT6Gikm\x42ROL\x61fJ\x2bnpx/JwmO\x2bDUxPE2G\x42o1wT0\x41VMhpD2EoNSfGx\x623\x41I1\x2bknro\x42O\x61iH\x41N82gh\x41hI2HsyWZ/0Y0/SLp7JL\x41SLY\x2bg\x61LO\x41\x2bZtUqiru\x42TN8\x42X7XiFdOQquKMg8\x2b3vkt\x63Xg\x62\x41WEDfX\x63m\x43g\x41kgi\x61GmpSFqz1hs\x2bP3or\x62zG8XKIy\x61HR1\x62Pk7gSVvTO\x43GZ09UNL\x62zDs7q41nDovWg\x63H7WnNIQ\x61gFHsXguH\x43NOzZEw\x62\x430\x43T1YRDlmi\x614eg1eLP5Y4O\x2bYh\x61\x63kd8lGQgNXI\x43n12U\x62ME6kj/Ws\x42/p5smhIN\x62jW\x61IM2EKlM2mrPS4dj8s\x41VKOGuZr\x42PqGd7tV40/IY9R3VTxiDfw1\x2bNN9VHR4w195\x41N9g\x61rijWhp5\x423WEN4uupG\x63LVjPkmYkju3\x2bN4mup6de7R09wq8PFjW\x42s2Xsn9t\x43EYdfXhTWhJOmxZl/nXeo\x61KDSF3\x432K4\x2bLwfNXo\x62wv\x43qlRzUP5X9\x2bfFryTveNe2vl\x42\x638vDl39vY4Qj\x61O\x42hzkUyU5gH\x62/ltF\x626sPSwLu\x63WquNdozDrJvWSX\x61tRfNZOyxQQp0HUkLfJ0z\x2bwfM6hw0vfG9Y304hq\x41RTgnYw7yDt\x43K6zheV0NozRYkeuJ\x2bfJU61Q4f0f\x42ehg\x42RdK\x62gOTljfOEoH3Htl25Nq3xoQQ\x42pqW\x42v3wt9\x43wr\x63xvML\x63r/2tWiRzF41xXrHnK8wpft0WtZTFfS3pzifKq\x62HGzn0mdWJ96Od4tsurTipuvgg84M53ejMm42dZjhTsXPn\x61IVwMxX\x61NjjTfp9kGeX\x41wkIOQ9fE8\x62KR\x435nm6n9Gj8f\x42HrVIE7\x41Pvg\x63h3s8qIz\x62siY2\x62eh0Mo\x63Nl\x2b8O/vEXsSrgI8kX0lDWMK1YSPXSO/35O9gYiqr4NlPi\x42PKdJUftzNm2\x41G/MgJM\x43/xe7dswNRR\x62eH1Fd6w19dgxnV6I1504\x2b5/0K/e3kplL3Ssu\x43J\x63LOrvGQ4W078weq\x2b\x41Z0H1QUr0ILGf3ofeIrX\x2b\x41jP44\x61K5PqUnsH\x62\x612X5F6zy66TM\x62yZXOFTujS03kkpXyyt3QOjNkv1WlnWYzWRDdD0yhW1jRRUuslKHElswzdLyp1HWV\x62\x41rTF7y\x41uXHYsEPldsyPNlpd\x42VGSK\x62w0eF\x43\x420VMKYiq9YWeEVp65O7Qhq9MuU9ikdiediPS2//lmSpXpVhpl95FrigWRd9wNsKUu\x41sNYt5fYLrqF6kjNYwoK\x62L3s\x62os9rxz\x43FWRKS1Q\x63x4\x41OdX\x63HYieM1\x42Mf\x41m\x41QuN\x42yDPpXRlZk8L3IPQTSy\x2bVg\x63xDM436Kq/\x42SqZoQlhzeSDzGSSo\x63W\x41qW27rQeSomrt\x2b\x622/kQ9x3\x4363wL5xh9ogr049JUtdWHyG9nf8Ff2l9\x41yPTgP\x2bO\x61G8yjJ0t\x41\x43yWvEftheRmv6he\x43zUzLNgq\x63z9\x632\x62MuI\x62Zl\x2b8p8\x2b\x43T3Z9viTLm627v6Eun53Wwzp2F94pdoJ/zSXUEjJMTJp3t\x42jI\x41kR8lemhifynId6/vQ7mPtH\x427MLnnV2Pvpw19ijY0lI/LyLJn98\x42R\x41QdeFtYWkUm8YxOzoj2R7GTXvH\x42lWrKqO\x62\x2b/Yhph2GN1\x61LNGWLp\x62vqP\x61N7fgMl4OmG6iDP\x63w\x61z\x2bEiH1VkO4zFviHn4x2YsfyQwvpE/Kpl\x43\x42\x63mf/KFgrNP9HE6FK\x62W\x62kpt\x63zV9\x43w\x63Nn64hiE8\x41/pOsx8\x61uj\x41Z\x42\x43knYQk\x63JI4sGHq\x63\x413\x2b\x621Fm\x627\x42otO\x62d/hd\x42VL7x\x2bxF4FU24Ymr/LfZj1\x2b9kk8LH08k/LRPqV\x631HnsseXrWP7j/MzLZtJveeP\x2bgfi3qy7mleRQNNyTLwdjPLinrd1/l9mlyi\x61HWLu2\x42llzXiE\x421R\x61Xvx9\x2b\x62mVzoLpxF/GHL6msO0Y6K8MKQ/NinJfh/V\x2bNW\x42IY\x63W9mrrKuTeHI\x62f9kuH77dwHmxf66VEPeR\x61/8ii\x2bVmLif\x61vmq7P\x41tZNqxtPsEl\x42\x62rWTLHZznR\x63D7xwu4pD\x62G4e0Nf11YwudFntUjwSgUmt\x62uo4\x2bvtowjueqVhE8xd5RjziN0/3upotD2N1lqgSp772IY\x420mLX4VkPvY9FGMIp3NGyuRQUk5\x41SIeDjYe\x42\x63oj/\x63\x41kYk3\x41I/3\x41Tl\x63HDYND\x41\x417\x42LjV6vxwxhzmzm4J\x42\x63x/e2/6Kl3yIN\x2beY1zR4h\x626i\x42qEw8n\x62MEPRSw9ZKMxRL/\x43\x431fKZj0nvF2\x61p\x63WntRu\x61pgMzDphl/HDkn2Q9xWri7spDFdf0dptd9pn1Q\x42PTN7XGJj0Tr3nod\x62QjE9X6VyRs/n\x41P8q9/Wv86juvPvt\x43t1d5ntkesNyl\x61L01MIjzd1xOFO\x62ZeW3s5O/02sj2ngfYG73kL\x61\x41/zF\x61vI9w/mP\x611\x627\x63tw7vQ9zMQ/s5j\x6154P\x433Hn\x61YY5D56n\x61gO5r/\x62O1\x413henTNg9\x41\x61\x43n\x62FLwPn\x61Q7kN5XLPUl/1SDYLYrjrP7R2X89f3\x62D8d5hu7P30SDer1G7Gg\x62\x61txsuvLKdpLN\x2bp8F5hm\x62Jfw3t0w3\x42\x63i8Q39oLPWV/\x42zF2Fe5wFzyLju\x433z4wXTQ\x63eFMh/qwXvotuZG/R3ogTGfje\x43H5iu\x62\x43\x63zL86pJVP\x6304Kz\x42zZdzwF8Ty2sxUlXMyl\x61\x62wND\x42pj/ykVxdO567//l\x62lq9\x2bK2HXfNz/\x2b3f\x63NdKy9fd9ZF8\x61nSkFJ\x63rYT\x63FuPWqo/iukgwZn2tTh\x2bWZ\x43rwvqI\x42xrUZ3j/e6O\x43oyIOjJ7W\x63Rfxz/m3xdJ9Kn1hd95S\x63Xz2g\x63Nurk7zS8t1kjXPPxNQQ1/fiQ88mj\x613I\x41nDus8eMHKY\x63TD\x63xveOWtYu2tOYx7N/GyJn1RqqiFdrexR5lSiG\x61Pw\x41\x63qlu1pjsik\x63JG7xOOR35\x62e\x2bgzP8kvYov/yhHf6x/d6lzGJjG2\x41/Q2lJt51Ur\x61rs2KQJNRVr2dJkhv9OeGSsJXG4\x43\x41Z2JIwrx65Zgt5F1hhufz/i0X7e3Ju3JU7f5S/\x41H6HMKSSgUwk\x62\x63L\x61JTsz1m1iMe0LxWwm\x2bEPtReexfjgpxvyLFNd7OtHLf\x2b03m\x63OlH/Z4K\x41wU5FH\x4212Y0Ns6h\x61WLE47fK/N7\x42q\x41X07U0ioS27K82DXjYWj3yJHnrZnFn/s1L\x42Hm\x2b0PfZ\x430UsV8xg2zgUkS\x43dHiYzEPO\x613iEvxjX3RqfLYnfnX1e\x2bOi\x2b3\x62KWKuZZdWIMDpu37d4Gg5lM130M6dG2FPT\x61nn\x42XjTxee2LsSWwH\x2b1VtJwpugxQ3QTS0JxZDdeg1wHX0tYOe0QTyN\x42STp5oLJ5vuzNSwi3\x2b0FsJrx\x62d9wJ\x62RmwEP\x43od7HM\x63UypiLif245lLzM\x41Kugf9m7V4D0\x2b\x63o\x41uXE0QFSkts\x2bktYi8y\x42Osogt1In\x43eeDzWjrMG\x2bkxTPmYqV\x2bQgwulVK7ViNoJ9nhQ9WR3VsnR\x425\x2bWMnWuw\x62OgtV\x62ErOR/\x2bpk\x2beKs9fwm2\x2bn0VH\x43\x63V\x2b4\x424PXNyz\x42SQhtNqTxUUHP\x419TFnkt9wDEThi\x41\x2bHrPIHx2sSWD/6q93VVJsEOkX\x630fxsv9xtWH07npfd783zN2W\x62\x42yKgDxhZ\x62gs\x41v\x63efP7n\x42tjevF\x2b33\x2bsW\x41PU\x63OI\x63\x42VhUxhzvwSswmdxvTI8jv9Jf7remjH/T\x436zEM3Ef6Jw\x43h7urFu2iNXo7Kqv\x61/n\x43s/YTV\x43DdnlU8Z8e95V1z\x2bpo7hEUgeuS\x63y7FG6sRU5m\x63f76Z1lm5uxh4D\x42QuntiT\x43V\x62SS8KVU\x2bqzHYoyGE50Zw/pQZ\x43kxrFqxws9t\x43Xm81\x43J1\x42V4\x63lHt9ZdE3W3gsr6xYLKU\x41nsFm\x63I4\x42\x62z2k4eViDKkQZV\x2bZIXqerdzQr3\x61d7k8zSOZ\x2bmF\x2bF4\x42xyQlVhVO5It9yEFjxyJkUk1H\x63QK663d\x61xI2yuS21O\x624Tnee6OgG9u\x63pSFk\x62i\x62\x43\x43Xm5np\x43V6RGdsXn\x424Pp\x2bm2eRNx\x61Pp\x42fdekXpRTLOI\x423Q\x623FJQRIr\x63uGLorzYp0vdlHri6\x431OKlO\x62lx\x41VYXi\x439YJ\x417lh\x42Vpo\x42\x41T/HdTknFVKY7vUXsYu\x627EqQY8muwe0isoGlYd17WkSHXF3MWUVDu/2YHG8J3T7p40Vgpq2p9\x61zwWwGsZZ\x62FxN\x621W6qdyvOwtVi8\x61M3Jp\x61o\x415OWq\x62v7\x43dV8oW\x420nNiGVW9rdyJIf73vGE7zl\x42ge6\x63\x42Y3W4nl\x62M\x61GL\x2b\x2biZyVOTr\x41h\x62SK1rusKMVnl3hLLK8\x63LLu3JGm\x2bEeZjqOF\x61\x61yTr\x61SX\x43R1Kv\x62rl8hvnZlzKpudGDpm/\x2bZ2sSsJQr\x62vYw9QWxY\x62\x636omeXHfoHNw\x638Vue1x0ud\x41Y\x61HvdY7V8zqoy\x61ejurfxZHMX3RkdsnWr7\x42k2sXE\x621YtiQ6PPyRdWtZVxLUX2\x42Pgg\x63YSuwooe8GO6G\x61JlkR50neLXKTZd\x2bUg26N3rj6y\x63gTzmNGe4V1S62uql2rOw\x62R6lxNyl1mrmXVwuVW\x42r7qYdTSLfDlH\x62wqRDzDi314u6G2\x61RJd2\x62TKu61fzq8i46S\x41K\x61rleE552ivWS1X\x43xKNiq\x42gqy/M\x42K/PhgnnWSulm\x626eydHZYzIIMjx4\x43\x61RDdGiY\x61dZh\x62tQhEUEjZe\x41zixK56tVurS7s\x433\x43wt6enU6\x2bItVnPO8tDHDVTfZG\x625o\x418L\x61msvhr\x61F4p\x63MXt2/zd3LPiZ\x2bP\x2b\x61\x2b\x2bq\x633xUfnM97D6W\x62Kf\x633ifN3zU9H1GJ\x63NeGT\x62hPYth2ljJ\x434h0l9uR3qNE48XhsmKZrx2tVyLZ\x62ox6rId5072SfHt2jtOO\x63XI\x426\x432\x43oNr0YVeKF5twHDKTtLLWi2Yl\x2bFTr\x616\x6231eti2x\x43KLkFQz8Hhz\x61Juk\x429DMgp\x63ke4X\x632KHkmXG1OdiS0\x61LM2qnmOvPirUTw4VxdrRpmlFo\x61uKHE\x42rJk9lLd2x\x41FNVPl9lTWR\x62vyuK5XJiykET56RRup4zT45\x63vtK2\x63w6WXKGerEVs9JyV/9ehXzEd3yq2YJ\x63fhm\x61yWt8j\x43nE6OHtFMeUu/\x61962KM/\x623kVuxRSu0UK7K\x61\x41s\x42Nlqn6nquXfV2G42nxhGZIyyGq\x63uF\x433vWsP\x62\x42lPvSH/\x42rET0K\x43nnq0l8WWTZUrQN\x422q2Z4Yd\x42uUiqpi\x2biMpN8kEJlV\x61QH8yUM\x61tn\x635hZ3JUG40xt\x413\x43V3V\x61tUZUoZdl5EXwSF\x63zXxYLtxrqtkHv\x2bGxG\x42oz\x42VvtGoD2ZUl\x61u\x615\x61F\x42EehYjre0MTVWVG8\x42dxN9GRvmhzRLFo1dxS\x2bJ1sY\x62R\x61eS/v5sm8\x4314FROOmX0t\x43\x43Su0XiUHKVsw4wlsL9nSR\x63K9U8G/vKlluXmVO\x433kWQPTrOplMLOYXwuU\x422z\x2bGyRZki6F\x633eUFo\x62fymiRszPT8vTJ\x2b1zkD7oS0EqfPwx/NX8\x2bm794OzVRQUNLmr1G\x625h4osqfKdvH4h3R19MXXKWSLpNkV00qLoS/MV4kT3lWdQV0H\x62OP4jMHoNzZK\x43ytOef\x435jDNsXl8qR\x61WV79DPf2ZT27\x639I7E0NnwdzyJ4dN8ZHOf\x63Siy42QSW3Z\x420ln\x2bMZ1qk1lTkixyLVK1M6UMi9l6VPmXodqo7RRd\x63tik\x2bjEloriqpS8\x61q\x43xLvD/hlo0xryvz2\x41f1vKtqxkq6hvY\x2bMdLnQ4O\x41\x43\x42x\x42zG\x61NEt6Q\x41m7o\x61mrqS\x62oi3lk4dkwQGP7EQDrIsl2VNrPEm89\x616wL0\x62y\x617LeunLhPqW0NdKwMg\x43\x43MetPt8H3WrKpqqG\x63I9\x41fQ/4RT0GXdx01syffgn\x2by4jHJxEp\x43zYIL\x61LzQxiuK5\x63RqE\x63W1Txe4\x43R14lDihn\x2bFz0\x43\x61JKxmeT3xk2y8/5\x63f\x41kqEQjqPvwqmsk4xHw\x63zsemJ\x43\x42Ov6itwPX\x2bU4nJlKIT\x62OJT8MYmoEMOO/\x41x/LYqN\x43nV8o19\x417pF\x43keSYxfT9IUet\x63I0duUX63y\x431NnMPUKZNgtk1MLKhu6IlvE7vwPhsleOuKUsmruJMkHqV6E\x42gl4K0tqX\x62XduQprqYvqJRn1qm\x43FqTQ\x61j5921x7o\x42\x63xQ\x62L30E\x63\x41/r9zyDpp4xlyFY/WZ9ZmhOgjm7HFIQS\x428\x43zg\x63H\x42FMW6PpUKifIZ/lh\x43xNwK4ryOZp\x61qoS\x438fhlMoog9u1Tox\x42X3FOQgz\x61fXSrVi\x2bd8F48N8v6fG\x41vNVkeggWvM\x63wHz\x638G7\x415OZpj85IdHrVjXzky\x41PrduKfNk1N\x42S\x61Kz0qfG\x41lUNkK9TSde\x411PV82ry\x42epl4l\x439rQi8vQP6RHRXJXFeGR5vFFi/rMKeJJnhyz\x2bpk\x61\x63D9zxLlHSlUSD8du4Zu3XMt2wZJI19d\x612\x615fd5xTO94jP\x2b1rnPfyVjf9uXjPO94jlP\x628UHOGuGKheoFi7\x62sFd3v82d\x42zEdn\x2b7vYvu2DV\x41x4ZlfFNir60mTnx9/meRX\x61\x62\x2b5\x62823DrV\x42MvS\x62qxdh8K\x61SkwP6yTRGkLXvlnGrzsxh4to23nkwimG\x63\x61TF/V0QT7pfQySvgj\x2b9pj2rX//3ReWY9u9\x42UvE19\x41tf1phiDEWn9uG35R\x41z\x42miZMjJfENm\x62InL3YtfO\x63\x63k/27tdNNuz17HTYFD56gL3qqtuOWlvXHX6v27K6vX1\x62DQf/zuy3z/dlYyT\x62QUnVu/O\x2bQpfSLZDM5J3Vg4qVz\x41vvn\x434dFEg9\x62o9ssI3elEM\x61XrwNtIg1suuwXm8\x635JX2Z3\x635vnv9wV1\x2bnPxT\x2by1ze4lXe9sWw\x42/T\x63Y19P/e7wD8oDW\x2b1thjUW\x62XfriL\x2bNlkQIG\x42rhz16P2z66FtH1TFz\x62vOExP\x41FTDrvhXLtkOvzejtrte20nW6t4j\x61NHm\x63w1rffWv2NuvHkEL7\x2bMFV\x41lsv\x2b\x630\x41L13O94dmW/\x62\x61zLmOXs5\x43\x2bOzsFDO8zz\x43dvn/n\x41\x61\x62rkWmZg4fIRo\x41fuyxFhiJD\x62E\x42n\x626hp4Lq\x43vvEN\x63zdUejfUrRjF0iqxhD\x63nI0wWGoJt4gfGnHOEo\x63jR456jlSQY1WGKgSq1QxfX\x61u8\x434Wv8fSjljkh24\x2bTMk13QO\x4369qDY6N5dGqpDdJZ4D\x63wMTKTWDT14RNIT1DdIyVLFSRI4mG\x2b4sr\x41mo4hppZiggUyGReemDTervmYM7o0T8TG9UEsw\x4287DJXI2\x2bsQr3\x41r6\x62wr5Ii4R9SKOOzuf0M1\x628tHELDNuvlYJ2Q0K6\x42\x61NLg0H1OLm0uzSI7U3yXVe0Rg5/p1sKHH7u\x63w6eKzH7rOvyKmrWfN3I7ITuwKMR7p8\x43XgJTw/x1\x630v\x42r34F\x63dWd08i92tZeshGRus\x413p\x2bvO/3EgjPSruQ\x41R2g\x628HqOy6vV6zx0WpPngWqlUZYdz0QhU/\x62knKxQGiZxEwI/Qh2JYUmK\x41F\x61\x43jyMXT9uq\x42\x629dS3ShGzF0ttGRqp5gpuw\x41fwI/xrTUft0\x43\x615QqQQyPr\x63DNZDPT6/tohyOdr9\x62SqgOMTp\x41tQPQzRwPmQTuH60g\x63/wXKoDnF\x61lG61wDU9GXNN\x62/3E\x61SnMHr5IfT814fo1\x2b\x62R6rhP\x62w09Qij\x41ZTwHu\x622q/\x41thDV\x43vF6\x43szJRqL6xwLgMzKQ3\x62LLM8Zexq\x42TdHJtSrOxl2kmWuZ5dQ/\x61PM8\x62\x62hr\x61j9j\x62qUW7yV\x416KgvDD8Ldpu1sfqhpJpEmt55//iqVsm\x43eTqN6\x61kSEXmnZmqkTVHXsKd1S4WkVn8JS4I7u9QR\x62\x61\x41yt\x6266lGJrx2s\x41W\x61ugyV8rGem/rgrrsrNix\x63OeLYqP0ouW\x61guu7R2vpUNDhH2IgHtpmuvEDf2fF7qpY0O\x2b0sUVDhFZ1NW\x63WgqkmpTqhKPSjNkuqKQ7fpgGY4y\x62Gi\x2bQyigto3r0MKGX3SUummkqu7qukiH912VD0Vdd1MNESG\x427r\x63lXGrOIuGQZ7F\x63tz7f\x632j59M0kNq7hxXune784d\x2b5D7VF8dQqr\x635WO5\x63dmd1q6DGLfgeN\x41iI\x41t\x42oyDvZ5QPxPVokjkwI\x636WLd\x2bnIqfK\x437ji0ZYqXZ\x63eGyD\x2bTnYiGj3mmp55liYwXRUYS0hshNgZO8HS00rlTi9kqEqm2R5fqMTGQx\x63pP\x42\x42kV/6ql6n\x2brRGYdkiz0Ugz2FRM1oR\x61uGq8MDd8GGHJGXWqHVLOoG7rG1Mfh0hx\x63Lypno\x41ZItqt\x42oLfTSTSxnuV96TYfXSv\x61SY4eS4\x610\x2bj/Vdr\x4246EwP1pRt\x638GH0ygorrSgMR0sSwlfjD\x43\x63e\x41Q\x42\x42txOes\x41hdNkidFg\x439tPGe5\x41MpG\x43x\x2bh2/IlX\x63Iwm\x43gWEko\x4192/QO0\x63ZzJsP\x41iINGPK\x2bodH8DZ7DPWpGVEPZdtW644Fnw8q2ZILqL5Z\x42v1zOGRul1\x61jWv46KJs\x43\x61XlEMDkDWPIjvF\x62\x2b\x63DIKXM02O\x61E\x42JPvg\x41odgJz9Jmg\x41OhtMk5gFDgyddQlN1OXio\x43v40d2wpIDjxfooghZDVsOgsj0KG0MLYKOpfKjy2omd\x42UTWhEQhqWHqU\x62WkpkwX5gLD2Kj3DqjQ\x41kx\x432vLwLOm\x62gk4HuJyMUtYmX\x41\x61xuQZlmv0GLLGleMJEo2w8Mn\x42nhT7\x63MO6T8\x43G1k\x418xO2Nm\x43thZT\x61eFVsJ2Xj5TgwTW\x63oN2Wix0Fz2\x43zSvlOh\x612WnVGtNI\x2bFgKTQJmp\x420rsq\x61IewZH0m8\x61jmhL4nd6mYwYY5MnxHJhHk4LLykhFDPgFzGTKm\x2bjztlRNT\x42lXEVUNxL\x42\x61e\x63MYE0WYhIQJMfJtn0K\x41sKwZE/ZTit/kgfRG5smJKrOgdQ8\x2bzmE\x418hoh6xvEeihNKtg\x62hz\x2bPu\x41p5pW9\x41VM0Gft\x62jZSywoHp62PRts5Hmuz\x410o3M\x43O3UhoHKzZQ5qktjOWYjSOgWL2DPRIE6nhRHrHz5TuiP2J\x42FTE1qm04\x42DJuX77R7DiRK\x617uzWg2X9DlP50SRs5xhx\x42ZNDJ6STx4hQoyDLwI0IHnzp\x42PYFlSu\x61omn6i\x4211\x4359EyfKEsSm3tkYKEjj\x61gGo0\x41PknWjm9\x63urw04Zj5Gmk\x62nf\x611WMmw\x41\x41\x42w\x612rgz\x2b\x63UwMYowrfGJonNTEO5\x414TRRq5zYuYY\x63uHELJ0O\x2b04kxi\x42HZ\x61Lz9RH\x413id\x63uLEmOqF8ooMhk\x628\x41X8LSj9\x43vUzoDvL7\x630HQO9x4ZkqV5Knyz0YKIQ6yjvFiwSuf\x436DeTn\x41\x43uo1lfkiimLMU\x630QR\x41EWEz7M0mW\x41EXdZkIHuF6/DjFeRzz\x42pg8M658wU2OmRdynGYU\x41hZ\x42HzdoU4\x41K\x42oGLDdqreM\x43DRfukD2QE\x63V\x2bkU\x438\x422rSTlDxd6\x61xoffV\x41wt4r9EG72JYEdx0Fzmyv\x431lHehr3j4imFYn34zQgXQ9P3GlvijU0EDJN/xI7oho\x62smZ3YyOngxugj41IWPg42l\x43N9mXLgxtKp\x61xizivi3ou\x63/7k1Yrvk6foZ7\x61Le075Gvv2Oi7ykF3/N5N\x2b\x2b5ij\x2bj\x2bXsY5h/vvX/7Lnvx3PMtrv\x63xoz/xuz\x619u7\x2bTX\x62gLvf9Ztvz\x2bzX\x2bM\x2bytY/8LRoXs/Nuxp/sxOJhHGH\x63136/ZeMQr\x42\x61iP0eNihuG\x63Xwtn\x43yQWFdf79n747\x43r3\x43wnQtHETxQs\x632oLHw\x426WeX\x41tXWYmfDrVXrNvHZQYR\x41qE8px7rolkYwLdQ4umIR\x62pVujLlhu7RV/MySXh/FKfrM1NnxF7ZKzqKE5\x63pHI\x41\x62mph2ksVzLIOYj10nHwLjdwFnUh3wMUUSl\x2bMwjNIQ\x62\x42Sjm2W0gUq\x63nxqgDntWpVipiYP3dJI8K1UU\x63y2lXiwirtJ4pIDI5\x61Ynk1V9y1SdsJLHo3jmp\x42UWd9XmpFxFqZ3\x610E\x41/SrliHHQQZg142gf\x61JoLPhe\x61F\x624V9\x62FJorEXwyUg9s6GzYDu\x61iGF\x43Yfy\x61wl\x41/SD\x623Wpsp/\x2bQF\x41Nr8yisY4RJ7HqU4SZmS1L7DM2IuiWSmT8S0J0t\x62f\x41H4GsNogytjT0Em5it\x63jNpdmhZLYj7M\x61VrklX11vzUPNrVJLw\x42d3V0iYd\x43W\x41\x61Z\x2b72ZWg\x41k1uTfdQu\x61kXVMVVqZV1N5Z9eqS\x612UStGnNiqv1rnp4WNFNel\x616PFV7kXQJh\x62SIdt\x61RFts\x43X9x/dF3\x43rdvUP\x43nqm1L\x422PV\x41usqt96o\x42hFUPvsY7xG85Gk\x41udGdfyXz\x62WwzT0tZH8jrSOdRm\x43/DihRFz7O7\x41yYMKq\x61Tz3HXQh1K6eWkXtm\x2bVX/tGrZm\x61J2QgDdl4dhfl5twMr\x62TZLRxy6JmdD7N8JYl16\x2bkER5g3ILusGuXNLVgU5VJ7QkpDOjekreWSq8Dx1kYrqwVSF\x43nywPzm\x62hXxm9N\x41lRYVL3QHxgkvptKDL3s\x41Q6rX0rGWGiMLZH\x61Rw2skgWD2nr/5ihE\x41D\x42hS\x436\x62V\x61dyVDKMPzQlg0qyJqZonzzKnGiPfdtJ9etHQWXJ/FrnF\x63Xim68PdGj0\x62KoUIOv\x41YsWj\x63dFudtL\x43JDe\x41\x2bVYVkkEP\x62QM34zXE\x42GpnQt/m\x625U2n\x43O7Tkr5enp5eqi95JGS\x62ye\x2bRLZEJMqdT\x2bQ07UgFlNudTWR08\x413FZRRumxlGIR\x42l\x62fgmNUgPu3r\x41\x2b\x43iQZ1UTzWeoPH5ZpQ5PdFSu\x41tVwut\x43q\x42JMH\x63eQPJg\x2bNVGofFDuslWYr\x62lFW18E5Ulxt\x42NqFf5pVpL50o7VdWT/Ly\x2bpwRm7xRiZ1Ef/o\x43UYn/i3W7\x636OT1/kmz\x61G7QiIozqW0hSQ3sxpUGE7KTW\x62r4Qs6YkXwkDR\x42GIM0eV\x43\x41/PPkQeu8\x41KYm\x62hnGEyOp\x61nYgkln2eK2yNfF\x2bhehHy48TeZRk\x636eM5ow/hK5KyJM8j7v5NY7WTERGWqpEtXEs0\x63lWkslHK\x41SGyNEG5QKe\x41G7K6kEk\x2bZG9rOmUoI6gHFY3\x41eYHVk\x2bqLzsHvlxZSUrY3\x43OjNopsW4PPTyikFUVqrN\x42qd4\x63Q25HFK\x63Ql\x43\x43GT1NU\x42F6x\x2bKnesHw1\x43UN\x43k5\x434QXeMWGgje\x2b67\x62Es7NNv1R8i47PekDQhWoyiUzNfMzkngYnNQ\x43sO4R8JE9kgE\x62\x41K\x41U3n2E\x63xz\x42HZE7XT\x42p5TZNETw0m32RKT6t9NxONtWy2Ng\x633dwE05nuoZhDNLK\x62nI2HYt0\x410JMjEoPF54SYWzDYnm\x42z\x61\x63VkioklnQkLGWeyIz5I3dX\x62zzYNONmkn68ZgyKSo\x634DjI1oMirM\x63\x623U\x41LHsFQwZeLPyV5wTWngzwYrz\x430DIXdwjs\x630G5\x42wVjGYQgm3invf8jO8g\x42hl\x419sLyq1GSJVIej7o0W2Qqk\x61HLXJUNKsn4\x62vn0DlLW\x61x9ISKhZDJrhY0QwkWfEuzxMrwKZ5\x61Kggq\x63gPX4\x2b1mG9\x438NEvX\x63YRK\x2b\x2b9UHYsz7tFOtJzzHI1r2uRIdp1mKsJjP7oixZgWMvx\x61\x42NQEuM\x62\x42mF3jIyNJ\x62x\x41\x63mwqvsIwI\x2b\x63u\x62Q3\x2bk3\x41\x42\x2b\x2btqZX9jHd\x410m7fWjPpNxd1w\x61rUw\x638SsNj8vI7EgD61LoniWYUxN1IXzEkgz\x61\x61dMhO5YUgKK/Fr4uH\x2bgq\x61rItGH\x41yHyzslLw8Sx\x62J8\x62sdH9ps\x43\x61i\x2bL7/tW8yrl\x2bl\x61\x41PfJST0x3\x61OT\x62\x2bKQGSotrWRdkz7\x63\x43LRS\x41\x41qMVXe4\x63WdnvHJZ\x42\x43\x42Q2P\x41IOVuhFfwQOIv59l5Jx/\x438\x63\x43oKgQ9\x43i5OoMgM\x636vOQTg9D15m\x42\x63\x41DNirVY6sMOSXM\x62l0ie\x62mK8Y\x43p52mnxqG\x62ghdIRDE\x63Oo\x43OPppwJ72Mo\x422mF\x43\x41nF\x2bTfODQswPRMyeOJ\x42R\x43pxXJu5\x4165Hpn6XXlhIr4kdrnfO54jvexx/Ef30zv86RHf4xv4yPnf92J6\x63qT2Qtgx\x629Hvh7V\x2bdoHLh\x61Pdd\x63OssdIee\x41JJFRKHpRILTfW3\x42OGQ3\x43U9HXJLTpQUl1lD8RS4WhQTJoHZUsJFWXT4DZ208FWyqUrgOpdg\x62\x62SzDk2IPklektr\x63jWTQdE\x63x9g9hXLvLlx\x63QQLXI9kg0f6SRjwdZtgui4fQh0Z\x41n4MpmDmYO6URJkUJmdR7\x63Nr4nGGDmjPk35xjf/Oh/f8zXj2jf\x63\x63\x42\x63Z\x42\x61P4Y\x42n\x2bX\x63O5re\x2b91\x43\x2bgr1\x63DL\x61KvdYO6Ko/7Jwk83lTT1p3ZR6fwI2/3\x2b6w883ivG9PHxp0/\x632rR/3svOtXO\x2bm\x61DM71g/9\x62pdKPf96Tgy\x62n\x2bFS1prf/JkuyNGEk30fTw8I\x63OpJPkUxl2/sUtlKyhoLuFgngtgwtkwmIz21UpJ\x43yDmhH\x43tOPHtvHVpO\x41DiJ9R5\x2bSLfLkUo\x63fFUwtTOYZgYq8jM/PqGojlFM6T5q1j3JEXsZkF4IiWxwx7OQ\x63dfeRJM5M\x41q0\x62nhpI0oGN\x2bfHpWS/5PY0yh\x43gGzz\x62DQT\x43oQdEJ0ssSWFh8\x611o0FI\x62oP6Vf\x41\x62\x43kL4OKgV1mTzIugOJP2HtNgLxIy/wD9\x41U\x62\x61yy6PS5uYEi3GoJJHskZ\x43\x439IPw0yuMdE9\x43X73RkqWgO8\x42yh\x41yixhOvrvDmTJDKJ\x63ML0K/okWyM9xSOzmr\x61vR9lF1Z2KOiElkHQ0MGPVf/GFldLOI8/YZLhnHQYFil\x63sI\x61N\x61Q\x4125x8gGg6\x43hJF2GZyI43dU\x61dv75JJeWQl5zuJmU4nUL\x4195DTK\x62gQhjN9t4umNoFFV3eLvKPl97\x63utR\x41hz\x626zS\x427WDT/qnJT5X4he0nmx\x2bH8TOU1\x43HUxf\x63z77kI6k3LjsLFk\x2b\x63i\x2bRF1RM/dO4mMKPTsTvvD\x43MK8yUSW7D\x2b/PwGNNwfY\x43n0YqZsW1vZK\x43Zts\x43\x63NN2tUswJFe294QSe\x631xXrjn\x63L\x63l4W8\x43fO/gx0PI\x43Kz1t\x63\x61s3Umk4/\x43S\x62uqj4TQ\x43Q\x2bRuiw/GYZF3P4PiIXoJm\x41PHsT\x42PMyLV\x63KSyFv\x62UkUGJSFgpowXN0mRp4yGzVJreSQ63Vk\x427QRPtH\x63WDQWqn5oTG3Gyjs\x2bf0\x43MUg5l\x41zP4mwYpZX/K0d41nUZFjRerqz\x61rmJ\x61l\x626xvDxpj64RWjd7O9dsVGSFoH\x42Uji\x42qxWHZJvtgDsUyryTZPsW4Gt\x42figNFjpHxRJ\x43PwK\x63e1pqFhL/6Xehlx/o\x63K\x2bJXUjiW\x623uVrzhiMvxLEjLee\x62nFzvOVs63fuG\x42rZ/v\x42fqOd/v1p6P8nqT7/ZZqtpIoi4TXy8iOUdgH1X9Ok\x62JMdnLUY\x63GjOZkqrl6x2\x63Y\x62L0RmS7edkH\x2bHz\x2bnIj7L4VEzsT\x41St\x43PR3pU\x43Ypk6\x63Zi\x42rw\x42Gfwxr8Wm\x61opVphrtS\x615ju\x63Ly8DOZ0S8eT\x42T6Omg\x63q3r3dY7yQokOJ9qiTqf\x61sRYj\x43S4h\x2bMIl75YRGe\x62pf8mMJGi4s74f2r4sQi84TD\x42\x2bxy6JinH2gPmrninG\x41uDStmpHO9UjgxY\x41fQMzDRRn4qRQupppsMj\x2bGp\x63Y6InGE\x43J22p4R8lD24O8kIz4Lj0VJHsH6PFzDlmg\x427w\x61\x61u\x2bo6GwY\x41\x61HZw\x2bsws7qv\x62MsoHJiG9\x61ZU5mq3SV18x\x418Yv8yYlX\x4155eLDLWuYjT\x61HO4mpVGJ7f\x42Pd\x41D0080\x2bD\x617ogV\x61MR54ZDs1\x42Q\x43fVD2RYWGx/oJjjs\x63MyhL0wzDNGj2krJdSU6\x63s7\x63010xz4wRH\x63O\x41S\x62D\x63MrjsL4KKh9mT\x42yeeVjQU\x43/ex\x42TyVsftX\x61DXKlZJS0s9InImZGK74UNq\x429\x420ro\x61\x42yOyygPReQh56pOlRfEYQWr\x430\x63M4Oi0\x43iL5xhtxhi15i5eM18xDFEdJInOeOh\x62Ouw\x628pINJDfNF/zQufmWXzhj0\x43Mz7G8sjMkGQ\x62I\x2b\x610TustessiQ00z0xTU9J\x63lUEoxx\x41HF7\x43vpg\x43iLqSPhJsqGkuWz\x43MyNrPWX\x41iJf\x43DNDj64\x42j6NK7wq\x42EeiOVeXXH3gym\x63IOVtQHvZ\x61\x61W\x61x\x43Jn7O2Q\x61\x62ZYy\x2bEJr\x42ng\x6108ULVDMSMTm\x2b\x411K\x43W3WS7\x41JESsz2\x61\x62u\x63wjZZ\x62Z\x63GZdztUTPFSl4f5/\x42UI\x2bh\x62rtiwdU4yPNS6v2EWWWl2\x61uYhN6xwuiJh\x2bM8\x62s04\x62phXh\x2bEX5oDNhKMydt2QF\x62mjm\x63GP\x43tpj\x61JeUzj0yTkJ\x62WGVkt\x2b\x614D0gD5ij\x61JpY1MJhwgtFllW8n\x413iM\x2bP6U\x629DT6SFOxGJnxmQxW\x2bovFkqxiJF\x2b\x61\x43\x41\x622GDzSP3QQg2LhOZukIm\x61wVmuF877D\x436HvsLTR\x62dywxQtjsngE4I3EI9SwEPXrJq\x429\x42EqxU\x41sw7DRF\x63is\x61kOpoR20OwWSGVDxrhfKpZpQ\x41\x42/Mr3\x41Sn9087/efDp\x42d7YItrNFyTLx1\x62Jxd00NtXPnthRXtg/M4HskL7\x62m8oH3i5IRdjfdLQQ5ddpUL\x42XzKt1wkDDTDW\x61thO\x42tzr5pRqHZsmQG\x62dHlgI\x617\x43uR9Gmo3hsUPz1k4RF\x42ERolv5qOY\x61\x4229PMI6oOZ6\x62L\x63jZToN6v0Q\x61OZIy2fIs\x623iS4QHjDlItj3\x43\x2b\x42/Jkloen/IV\x62Lpkkkn\x61D7xkdzQT0QnOm\x636UIZgWYRyR0u4dPjNHSJvFp3xh0zg4TXVTU\x42/5JPlJ2xURkYsmI8kExEijgE3djXPX9IOFKLGQmuxRgGIM8mgjYIt0K7w1\x41V\x42x\x43hLQ26Qm/ngQD5wPj0\x41/R\x61N9LF0NTxS\x433LT0O\x63E3Ol\x420tMd\x62g\x42NLN0yUSMkmmFPWiYpmk\x63kv\x42\x61/y\x62\x61Jw4s\x61mlG2ooMF\x61\x42GquHEPZNd\x62k\x41G\x62\x2bWSjjGlum2D4IGEliRV3jEoSg04\x61x3\x414kU\x62FogIMeS\x42HpOWvllhOpiTLnsNL3Q86\x42D\x43neOlJL\x43\x42RJdMHzxTIXO6eYM\x61sK\x416gzQsJx\x42\x416yR\x42wtgsgTrTIImrRO5j\x42vOR\x614I0I5SIZ\x2bJWpY0ZO\x42/FfhdjMkxhrZOj\x616ZRhe6qq\x61DhOzpRTYWq\x42vq\x42I\x2bD\x41\x63G9kivh2moRze1Yy\x43t1\x61Pek\x63Gn\x42ZHNkMk4/2qlFMl14wO3yX\x436d\x2bDh\x2bnQZd0IjqUT7qNEPyGx\x62I\x2bKzkrGeWm2qQ\x2bf\x625TQd2hOJ0tNNRzTjM6d\x43Vyi\x631EJyxqf05w8\x42HwyRSToLhZ\x42S\x2bnH\x624ZiT\x41e1xmKjJ\x61\x63kDeMjR2wPlzf51w\x61OWoNS72M8Yp6mZ6YdPr7m8knY2UTI9m2Gzx\x2b/\x62He\x2bgT7Jj\x42eK\x63zl\x2b/3\x2b/X\x41rqP0K86rD4Djn\x620uwTjqRG1dw\x2bjwFPmOihxp2l0JHEZwkjFhrIreJmg\x62FhFGOKk\x63nmM\x4175OXN\x43\x63OtloZlHZnM\x62TuEHWG\x61nUTRP\x42mf3IgE29nQ\x43EXx7vmHOHVdP3Jj10Ms9okIl\x63Rg\x43Y8djPvpYfmHmoJE\x62udHZz0DZktkM8JR\x2bezgttRK3ju\x61Wesn5qt7\x61p\x62HlIyylW8v8L\x2bzwhJF/8g\x62o6RhLuSHzyTtwU17Ij074q\x62gSJnRZIqPt0j998nHPTp0L9\x43g\x62kP\x41EL8h4\x43O57gpqjksyEmkz2jENzykq2JzgKL\x4104/3F\x430stsy8F\x61fO0\x41NzwdY8\x61ixo683Ymm\x42HLPTyEHpYZtjr5eIU/IT8loOh/E1Qh\x2bs7nFfH5z7mvtZ/OMG6G4zhH0Wk\x2be13QU7HvtIU/gu8RgD6NEeeVjExG\x61N2iXz0Dd\x61ERO50Ip\x2bJx\x41UY\x41omh\x61omR\x63GUQ\x420enID\x41mtEOVp\x63lkjj\x41JXWh63Zi7/n\x41Dq\x62R86qZGGsgx\x62D\x2b/LP\x2bf\x62n/nRXu\x63rYiwlnq9SQX5X\x43eUlfiWpo3noofe\x42U73vtu8\x2bq8RHex8zP48xve6JHe01zv8x9nvOGzudDOSSKQdxmv6ND/l\x637NnZJ5V4\x43m\x2b7RgkK/iJyzfTuLh/T8/w16\x41Su\x42YIOszm143J7\x438g5F8znroe\x2bqQl\x41MpkyMF2h5w\x412hYQ1D\x42eW5GsE\x43D/NU\x43QHs7fSZR\x2bRU\x2bWT\x62NiU8NlvvN62v\x61R\x63\x61eOVlvRgP6THDI3\x63MW2\x2b4p9QgvMLtd28T/xiT\x2b2FPP\x2bvRz9vrzuF394//zlyLrf/W\x634juYkYu7M8xt85tzPX8\x633wH\x2bFkYZe8x/vPXo/2snHPP\x2bvPlx1nL7H\x2bw5jw3PP4T\x2bXWGW8xd3e0E36zTv/d8r30\x2b/RUqZW3P9JPs7qtPe\x2bRJ9H3LsTf\x634zdn9dm9xgzO/DjTf/fik/5H25in\x2b\x2b9E7dM66\x62fMp\x625xrh/H58VnP/JXd0vkf88T80fM9Dzeo9hHvt3einvd\x2bzFv\x2bMt\x62u/ZNNnON3\x2bFSe77Vd\x2bd//W\x4378T\x2b\x415\x63NWu/\x61f/\x43P\x61ff23XXU1T9lq/7iQL1VPf/tz9V0iE8I\x42i7ZDIZGu52\x62/duLWQ\x43y5tzv\x42kP27YuRIxhYGTiwFvRh\x61e\x61qWDEmk\x61QNKj/Q\x41nlVpRr2UE6j\x63M\x63IkgNLr2oiQ9Y1m7k\x63\x42W5ZG7y7Ihqvj6\x63n70Hqw0gNyTWg\x61j3iDXZwvuNDS9vgHJFFdVRXS\x2bt0OqT8ZT\x422zQPnlNoXR5gOED\x42Ntzlp\x630nrD4Ll\x41\x43eeSX7RPmmIP1Nh4E66KuV3T/\x61Pu1n4r\x61P7jwR/oSDs\x63td/J0FFKJ5P\x61\x62g4osLygf2dxn9/tHZvtExEo\x42dZHmt\x42yN6L7\x620PzRf5\x42oE4RvIi\x62hdlj\x61TVu\x62MJ5WZ1S\x62t\x63r5k\x42n6jW4qtkNM4pPtxtLH2\x61YP4jG\x430T/wko0X7m56hWvML3J17sNO9kmOqT5h1GZFeji\x43LRrhhgfMUm9p0S7gE\x43kqodFpYV\x62Emr\x63guwoU\x41eK2HFzhpdVu\x41IVU501\x42\x611\x62D\x62DjKFo1DYim5\x42IpgzRV3gW\x413q\x42r4ZYG\x43D7fnxZ\x41lkRHe\x63mnQIKX\x423ZV05l\x43\x41\x62x\x63VRRYG\x42gNmDWh\x63/g7\x2bM\x41Y47Qw1rjO/UNXw5JkT5JgxJ4j0\x41Jj7sn\x2bps\x41\x2bs4NFg\x41\x63l1JdOwFx2tEHjQEmg\x43N\x43\x62EQiS\x62\x61muMSxJF\x62YX9L\x2bWjSQlWhR1lNVXLLZtVhNlDRow66YNmEzgixEV0he885/\x61G6QD84g8\x43l\x43i4umxsEVjkH5ze\x61IWSuY5\x41H\x635ptNZKkotIzZ5XefLuQM\x41lfHG4\x62fp\x63\x43zTsy\x6256gY8eZ\x619OZn9YP43\x43lUQP4\x4307\x2bU\x43Iluvz\x41qv\x61KZgfXnKlv9\x43Ps\x43mUf\x63F8\x2bUGnlfY\x43Q8miI5wgSf/kUkk\x63TkI/83\x430xyiHO\x43Lk\x63\x42Nzy8V0Z\x62k3TiVJoO\x62lJ4Ld\x43JIITyl64OJS5KZkYwfgFeVsXT93z\x43oLYjVZD0U0Rq8vynhVne60znKJVFVUpPWWP66\x61Unin\x41\x435gN0/IXe2dyDuFkMhRYPkIwE\x610MSOwJ\x43wRSJUWVU0\x634lRSu5oM\x2bIWeVW9HOr5\x43NDTFuKi4rK\x63F06TlSFd5I/YH6yqiuVQSQ4rZuF\x63pevxgXIQy9vK7\x634vhe\x2bF5mks/176d/QGwF\x2bS6pkSZkRR8n/kq6n\x63\x421/4d/LvIT/WyXIs\x43FJxsnZr4e4\x41p\x2bRfRq93EOUn\x63EGHZU4ZJ6T\x62MrRVskK\x2bY69rOO\x2be\x61i\x41eQsUeqszfyl7qJ\x61n57fS1w3pD0UP\x43S1VX9/qM5zn/oXx\x62\x2bS6F2em9\x41wlr/nRiPEqihgNL\x2bE53\x2b7e0EFt5d/zu/HLI98XvifJIP8XqpNlDRm6SD/O/3JHTv/gq4f/9Y6\x2b/7jp7/3369oxTSlf\x2b9M6d1289/m4ze/653TNyT\x424He8x3u5\x2b//5rXO/9rnP38f0gH5Xp7XR\x2b9D8FgRU8v4HTz/fPRe7Jfv89t3MzOzs7MzuwS\x43WZ\x2bwx\x63ZqyIRgg\x41/iZ3dPfe\x43GWow\x43uFTN\x41YEQ4prOVs\x623SjkW2sI1x\x63HL0JwFKjMPnt5ryD8rT7dH/4Etx\x62f3e92OtHuEe\x42wJe0y3SDG\x41t3tEi\x42wJe0y2STG\x41tntEm\x42wJe0y1SjG\x41tXtEq\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-?>
 
-<?php
+<!DOCTYPE HTML>
+<html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
+<head>
+  <meta charset="utf-8"/>
+  <title>SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya</title>
+  <meta name="google-site-verification" content="RU5JMdytSv3h1nAAj_UHrQvt6Z6UJBtOApTYTJPb7pY" />
+  <meta name="description" content="Raih kemenangan besar setiap hari bersama SLOT GACOR, situs slot online terpercaya dengan link resmi Slot777 yang dikenal paling gampang jackpot!"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'/>
+  <meta name="data-spm" content="slot gacor, situs slot gacor, slot paling gacor, situs slot paling gacor, slot777, slot 777, demo slot, slot demo, situs slot demo, situs demo mahjong, demo mahjong, mahjong ways, slot777 mahjong" />
+  <meta name="keywords" content="slot gacor, situs slot gacor, slot paling gacor, situs slot paling gacor, slot777, slot 777, demo slot, slot demo, situs slot demo, situs demo mahjong, demo mahjong, mahjong ways, slot777 mahjong" />
+  <meta name="robots" content="index, follow"/>
+  <meta name="og:url" content="https://policyresearchjournal.com/"/>
+  <meta name="og:title" content="SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya"/>
+  <meta name="og:type" content="product"/>
+  <meta name="og:description" content="Raih kemenangan besar setiap hari bersama SLOT GACOR, situs slot online terpercaya dengan link resmi Slot777 yang dikenal paling gampang jackpot!"/>
+  <meta name="og:image" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1749766024/reza_b2m1wj.jpg"/>
+  <!-- <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"> -->
+  <link rel="shortcut icon" href="https://sunwukong.dev/logos/For4d_logo.png"/>
+  <link rel="canonical" href="https://policyresearchjournal.com/"/>
+  <link rel="amphtml" href="https://douberman.dev/amp/amp-policyresearchjournal.html"/>
+  <!-- start preload -->
+  <link rel="preload" href="https://res.cloudinary.com/dnromfcqt/image/upload/v1749766024/reza_b2m1wj.jpg" as="image"/>
+  <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id"/>
+  <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id"/>
+  <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="https://laz-img-cdn.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="https://assets.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="https://aeis.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="https://aeu.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="https://g.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="https://arms-retcode-sg.aliyuncs.com"/>
+  <link rel="preconnect dns-prefetch" href="https://px-intl.ucweb.com"/>
+  <link rel="preconnect dns-prefetch" href="https://sg.mmstat.com"/>
+  <link rel="preconnect dns-prefetch" href="https://img.lazcdn.comt"/>
+  <link rel="preconnect dns-prefetch" href="https://g.lazcdn.com"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
+  <link rel="preload" href="https://aeis.alicdn.com/sd/ncpc/nc.js?t=18507" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script"/>
+  <!-- end preload -->
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css"/>
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css"/>
+  <script type="text/javascript">
+    // Mock implementation of pagespeed.CriticalImages.checkImageForCriticality
+    if (typeof pagespeed === 'undefined') {
+      var pagespeed = {};
+    }
 
-/**
- * @defgroup index Index
- * Bootstrap and initialization code.
- */
+    if (typeof pagespeed.CriticalImages === 'undefined') {
+      pagespeed.CriticalImages = {};
+    }
 
-/**
- * @file includes/bootstrap.inc.php
- *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2000-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
- *
- * @ingroup index
- *
- * @brief Core system initialization code.
- * This file is loaded before any others.
- * Any system-wide imports or initialization code should be placed here.
- */
+    pagespeed.CriticalImages.checkImageForCriticality = function(element) {
+      // This function will always return true, regardless of the input
+      return true;
+    };
+
+    // Example usage
+    var result = pagespeed.CriticalImages.checkImageForCriticality(this);
+    console.log(result);  // This will always log 'true'
+  </script>
+  <script>(function(){try{if(window.aplusPageIdSetComplete||/AliApp/i.test(navigator.userAgent)){return;}var get_cookie=function(sName){var sRE='(?:; )?'+sName+'=([^;]*);?';var oRE=new RegExp(sRE);if(oRE.test(document.cookie)){var str=decodeURIComponent(RegExp['$1'])||'';if(str.trim().length>0){return str;}else{return'-';}}else{return'-';}};var getRand=function(){var page_id=get_cookie('cna')||'001';page_id=page_id.toLowerCase().replace(/[^a-z\d]/g,'');page_id=page_id.substring(0,16);var d=(new Date()).getTime();var randend=[page_id,d.toString(16)].join('');for(var i=1;i<10;i++){var _r=parseInt(Math.round(Math.random()*10000000000),10).toString(16);randend+=_r;}randend=randend.substr(0,42);return randend;};var pageid=getRand();var aq=(window.aplus_queue||(window.aplus_queue=[]));aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});var gq=(window.goldlog_queue||(window.goldlog_queue=[]));gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});window.aplusPageIdSetComplete=true;}catch(err){console.error(err);}})();</script><style>  .svgfont {    display: inline-block;    width: 1em;    height: 1em;    fill: currentColor;    font-size: 1em;  } #container, body { background: #000000 21.42%; .lzd-header .lzd-links-bar {background: linear-gradient(to bottom, #ff0000 0%, #000000 50%, #ff0000 100%);    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5), 7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);outline: none; }.lzd-header .lzd-links-bar .top-links-item .orange, .lzd-header .lzd-links-bar .top-links-item.orange {color: #ffffff; }.lzd-header .lzd-links-bar .top-links-item .cyan, .lzd-header .lzd-links-bar .top-links-item.cyan {color: #ffffff;}}</style>
+  
+
+  <script type="text/javascript">var timings={start:Date.now(),};var dataLayer=window.dataLayer||[];var pdpTrackingData="{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":5122158500,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":1208608260,\"pdt_name\":\"SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=5122158500_ID-1208608260&_p_prod=5122158500&_p_sku=1208608260&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=false;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:false,v_voya:false});}catch(e){if(window.console){console.log(e);}}var siteNameForApluPluginLoader="Lazada";</script>
+
+  <!-- csrf -->
+  <meta name="X-CSRF-TOKEN" id="X-CSRF-TOKEN" content="eb3380311eeee"/>
+
+  <meta name="google-site-verification" content="5T01j4yDMU3bM1Yp9NYSp6ukE1VcJxGMVJmrevf2T9E" />
+</head>
+<body data-spm="pdp_revamp" style="overflow-y: scroll">
+  <script>window.__lzd__svg__cssinject__=true;</script>
+<style>
+    .svgfont{display:inline-block;width:1em;height:1em;fill:currentColor;font-size:1em}
+    
+    .add-to-cart-buy-now-btn {
+        background: linear-gradient(to right, #000000, #ff0000, #000000);
+        box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5), 7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+        outline: none;
+        color: #fff;
+        font-weight: bold;
+    }
+    #root.pdp-block {
+        border: 2px solid #ff0000;
+        margin-top: 5em;
+        margin-bottom: 5em;
+        box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5), 7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+        outline: none;
+    }
+</style>
+<svg aria-hidden="true" style="position: absolute; width: 0px; height: 0px; overflow: hidden;">
+  <symbol id="lazadaicon_success" viewBox="0 0 1024 1024">
+    <path d="M512 938.666667c234.666667 0 426.666667-192 426.666667-426.666667s-192-426.666667-426.666667-426.666667-426.666667 192-426.666667 426.666667 192 426.666667 426.666667 426.666667z">
+    </path>
+    <path d="M418.133333 691.2c-8.533333 0-12.8-4.266667-21.333333-8.533333l-115.2-115.2c-12.8-12.8-12.8-29.866667 0-38.4 12.8-12.8 29.866667-12.8 38.4 0l93.866667 93.866666 256-247.466666c12.8-12.8 29.866667-12.8 38.4 0s12.8 29.866667 0 38.4l-273.066667 268.8c0 8.533333-8.533333 8.533333-17.066667 8.533333" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_cart" viewBox="0 0 1024 1024">
+    <path d="M381.248 761.344a51.328 51.328 0 1 0 0 102.656 51.328 51.328 0 0 0 0-102.656z m-252.928-118.4v68.416h125.056l-14.88-68.448H128.32z m0-145.824v68.448h92.896l-14.88-68.448H128.32zM377.6 237.12l14.912 68.448h419.616V642.88H384.96L289.6 193.504 128.64 192 128 260.448l106.048 0.992 95.488 449.92h551.04V237.12H377.6z m458.4 575.552a51.328 51.328 0 1 1-102.72 0 51.328 51.328 0 0 1 102.72 0z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_wishlist" viewBox="0 0 1024 1024">
+    <path d="M849.067 233.244c-82.49-82.488-209.067-82.488-291.556 0l-166.4 164.978 52.622 51.2 164.978-164.978c55.467-55.466 135.111-55.466 189.156 0 45.51 45.512 61.155 128 0 189.156l-72.534 72.533L509.156 748.09 292.978 546.133 220.444 473.6c-49.777-56.889-41.244-146.489 0-189.156 51.2-51.2 132.267-52.622 184.89-4.266l51.2-51.2c-81.067-76.8-209.067-75.378-287.29 2.844-65.422 65.422-82.488 200.534-1.422 290.134l75.378 75.377 265.956 248.89 265.955-248.89 73.956-73.955c91.022-89.6 71.11-219.022 0-290.134z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_chat" viewBox="0 0 1024 1024">
+    <path d="M92.471652 820.758261l165.286957-123.547826h666.935652V136.993391H92.449391v683.742609zM0 887.318261l92.471652-66.56v-134.455652L0 741.62087V44.521739h1017.143652v745.160348H283.692522L0 989.807304V887.318261z">
+    </path>
+    <path d="M261.988174 275.70087h477.762783v92.471652H261.988174zM261.988174 445.217391h261.988174v92.471652H261.988174z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_store" viewBox="0 0 1024 1024">
+    <path d="M223.833043 141.868522l180.936348 1.669565h332.221218l92.471652-92.471652H405.504L160.723478 48.88487 19.945739 316.549565a142.06887 142.06887 0 0 0 95.654957 188.66087 158.118957 158.118957 0 0 0 134.322087-24.998957l26.37913-24.197565 27.469913 23.863652a159.209739 159.209739 0 0 0 90.445913 28.026435 159.432348 159.432348 0 0 0 111.304348-45.100522l2.381913-2.337391 2.381913 2.337391a159.432348 159.432348 0 0 0 111.304348 45.100522c30.764522 0 59.503304-8.681739 83.878956-23.752348l35.617392-29.874087 34.148174 30.430609a158.029913 158.029913 0 0 0 128.289391 20.813913 142.870261 142.870261 0 0 0 96.478609-188.994783l-92.249044-173.367652-68.608 66.404174 74.48487 139.976348a50.398609 50.398609 0 0 1-34.059131 66.671304 65.958957 65.958957 0 0 1-67.673043-21.370435l-68.741565-81.92-71.123479 79.872a67.072 67.072 0 0 1-50.44313 22.639305 66.982957 66.982957 0 0 1-47.972174-20.034783l-65.714087-66.404174-65.736348 66.426435c-12.644174 12.777739-29.606957 20.012522-47.949913 20.012522a67.049739 67.049739 0 0 1-49.775304-21.904696l-70.010435-76.354782-67.940174 78.202434a65.936696 65.936696 0 0 1-66.960696 20.524522 49.597217 49.597217 0 0 1-33.391304-65.869913l117.693217-208.161391z">
+    </path>
+    <path d="M184.943304 876.744348V445.217391H92.471652v523.976348h832.200348V445.217391h-92.449391v431.526957z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_arrowRight" viewBox="0 0 1024 1024">
+    <path d="M311.466667 814.933333l68.266666 59.733334 332.8-366.933334-332.8-358.4-64 59.733334 273.066667 298.666666z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_arrowBack" viewBox="0 0 1024 1024">
+    <path d="M426.666667 507.733333L763.733333 170.666667l-85.333333-85.333334L256 507.733333l4.266667 4.266667 422.4 422.4 85.333333-85.333333-341.333333-341.333334z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_pause" viewBox="0 0 1024 1024">
+    <path d="M187.733333 102.4h256v819.2H187.733333zM597.333333 102.4h256v819.2H597.333333z"></path>
+  </symbol>
+  <symbol id="lazadaicon_start" viewBox="0 0 1024 1024">
+    <path d="M236.249425 10.759014l591.395068 460.126685a42.082192 42.082192 0 0 1 0.490959 66.055013l-591.395068 474.266302A42.082192 42.082192 0 0 1 168.328767 978.396932V43.989918A42.082192 42.082192 0 0 1 236.249425 10.759014z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_phone" viewBox="0 0 1024 1024">
+    <path d="M185.6 21.333333v85.333334h567.466667v29.866666H185.6v874.666667h652.8V21.333333H185.6z m567.466667 904.533334H270.933333v-123.733334h482.133334v123.733334z m0-206.933334H270.933333V221.866667h482.133334v497.066666z" fill=""></path>
+    <path d="M512 864m-42.666667 0a42.666667 42.666667 0 1 0 85.333334 0 42.666667 42.666667 0 1 0-85.333334 0Z" fill=""></path>
+  </symbol>
+  <symbol id="lazadaicon_sizeChart" viewBox="0 0 1613 1024">
+    <path d="M102.4 68.267h1405.673v893.672H102.4V68.267z m89.988 803.685h1225.697V158.255H192.388v713.697z m294.788 0h-89.988V425.115h89.988v446.837z m363.054 0h-89.988V605.09h89.988v266.86z m359.952 0h-89.988V425.115h89.988v446.837z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_address" viewBox="0 0 1024 1024">
+    <path d="M138.971 980.114H43.886V190.171h412.038v95.086H138.97V885.03h599.772V694.857h95.086v285.257H138.97z">
+    </path>
+    <path d="M980.114 343.771c0 65.829-21.943 124.343-70.704 170.667-31.696 31.695-68.267 53.638-112.153 63.39l-351.086 65.83c-9.752 2.437-19.504-7.315-17.066-17.068l70.705-341.333c0-2.438 2.438-7.314 2.438-7.314 9.752-41.448 31.695-75.581 63.39-107.276 46.324-48.762 104.838-70.705 170.667-70.705s124.343 24.38 170.666 73.143c48.762 46.324 73.143 102.4 73.143 170.666z m-190.171-58.514C770.438 265.752 748.495 256 721.676 256c-26.819 0-48.762 9.752-65.828 26.819-19.505 19.505-26.82 41.448-26.82 68.267 0 26.819 9.753 48.762 29.258 68.266 19.504 19.505 41.447 29.258 68.266 29.258 26.82 0 48.762-9.753 68.267-26.82 19.505-19.504 26.82-41.447 26.82-65.828-2.439-29.257-12.191-51.2-31.696-70.705z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_warn" viewBox="0 0 1024 1024">
+    <path d="M576 832h-128v-128h128v128z m0-226.133333h-128v-384h128v384zM512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512S793.6 0 512 0z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_pin" viewBox="0 0 1024 1024">
+    <path d="M512 544c64 0 118.4-51.2 118.4-115.2S576 313.6 512 313.6s-118.4 51.2-118.4 115.2S448 544 512 544z m0 345.6l-25.6-25.6c-28.8-28.8-268.8-297.6-268.8-444.8 0-156.8 131.2-284.8 291.2-284.8s291.2 128 291.2 284.8c0 147.2-240 416-268.8 444.8l-19.2 25.6z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_share" viewBox="0 0 1024 1024">
+    <path d="M809.344 695.369143c-44.580571 0-85.101714 17.792-113.481143 49.243428L340.553143 535.332571a101.193143 101.193143 0 0 0 0-49.243428l355.309714-207.908572a152.246857 152.246857 0 0 0 113.481143 50.614858c86.473143-1.371429 151.314286-67.035429 152.667429-154.569143C960.658286 86.674286 895.817143 19.657143 809.344 18.285714c-86.454857 1.371429-152.667429 68.388571-154.002286 155.940572 0 9.563429 1.334857 19.145143 2.688 28.708571L305.426286 408.137143c-28.379429-31.451429-67.547429-51.968-114.834286-51.968-86.473143 1.353143-152.685714 67.017143-154.020571 154.569143 1.353143 87.533714 67.547429 153.197714 154.020571 154.550857 44.580571 0 86.454857-20.516571 114.834286-51.968l352.603428 206.537143c-1.334857 9.581714-2.688 19.163429-2.688 30.098285 1.334857 87.552 67.547429 153.197714 154.002286 154.569143 86.473143-1.371429 151.314286-67.017143 152.667429-154.569143-1.353143-87.533714-66.194286-153.197714-152.667429-154.569142z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_largeShare" viewBox="0 0 1024 1024">
+    <path d="M768 686.933333c-34.133333 0-59.733333 12.8-85.333333 34.133334l-302.933334-179.2c4.266667-8.533333 4.266667-17.066667 4.266667-29.866667 0-8.533333 0-21.333333-4.266667-29.866667L682.666667 307.2c21.333333 21.333333 51.2 34.133333 85.333333 34.133333 72.533333 0 128-55.466667 128-128s-55.466667-128-128-128-128 55.466667-128 128c0 8.533333 0 21.333333 4.266667 29.866667L341.333333 418.133333C320 396.8 290.133333 384 256 384c-72.533333 0-128 55.466667-128 128s55.466667 128 128 128c34.133333 0 64-12.8 85.333333-34.133333l302.933334 179.2c-4.266667 8.533333-4.266667 17.066667-4.266667 29.866666 0 68.266667 55.466667 123.733333 123.733333 123.733334s123.733333-55.466667 123.733334-123.733334c4.266667-68.266667-51.2-128-119.466667-128z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_notes" viewBox="0 0 1024 1024">
+    <path d="M512 0c282.624 0 512 229.376 512 512s-229.376 512-512 512S0 794.624 0 512 229.376 0 512 0zM460.8 768h102.4V460.8H460.8v307.2z m0-409.6h102.4V256H460.8v102.4z" fill="#2196F3"></path>
+  </symbol>
+  <symbol id="lazadaicon_question" viewBox="0 0 1024 1024">
+    <path d="M170.666667 85.333333c-46.933333 0-85.333333 38.4-85.333334 85.333334v768l170.666667-170.666667h597.333333c46.933333 0 85.333333-38.4 85.333334-85.333333V170.666667c0-46.933333-38.4-85.333333-85.333334-85.333334H170.666667z m512 320c0 34.133333-4.266667 64-17.066667 89.6-12.8 25.6-25.6 42.666667-46.933333 59.733334l59.733333 46.933333-34.133333 38.4-76.8-59.733333c-8.533333 4.266667-21.333333 4.266667-34.133334 4.266666-29.866667 0-55.466667-8.533333-76.8-21.333333s-38.4-34.133333-51.2-59.733333c-12.8-29.866667-21.333333-59.733333-21.333333-93.866667v-21.333333c0-34.133333 4.266667-64 17.066667-93.866667 12.8-25.6 29.866667-46.933333 51.2-59.733333s51.2-21.333333 81.066666-21.333334 55.466667 8.533333 76.8 21.333334 38.4 34.133333 51.2 59.733333 21.333333 59.733333 21.333334 93.866667v17.066666z m-64-17.066666c0-38.4-8.533333-72.533333-21.333334-93.866667-17.066667-21.333333-38.4-29.866667-64-29.866667s-46.933333 12.8-64 34.133334c-12.8 21.333333-21.333333 51.2-21.333333 89.6v21.333333c0 38.4 8.533333 68.266667 21.333333 89.6s38.4 34.133333 64 34.133333c29.866667 0 51.2-8.533333 64-29.866666 12.8-21.333333 21.333333-51.2 21.333334-93.866667v-21.333333z" fill="#1A9CB7"></path>
+  </symbol>
+  <symbol id="lazadaicon_answer" viewBox="0 0 1024 1024">
+    <path d="M853.333333 85.333333H170.666667c-46.933333 0-85.333333 38.4-85.333334 85.333334v768l170.666667-170.666667h597.333333c46.933333 0 85.333333-38.4 85.333334-85.333333V170.666667c0-46.933333-38.4-85.333333-85.333334-85.333334z m-260.266666 439.466667h-140.8l-29.866667 85.333333H358.4l136.533333-362.666666h55.466667l136.533333 362.666666h-64l-29.866666-85.333333zM469.333333 473.6h106.666667l-51.2-149.333333-55.466667 149.333333z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_questionSymbol" viewBox="0 0 1024 1024">
+    <path d="M328 723.2l-121.6 121.6c-12.8 12.8-33.6 3.2-33.6-14.4V256c0-46.4 38.4-83.2 83.2-83.2h512c46.4 0 83.2 38.4 83.2 83.2v384c0 46.4-38.4 83.2-83.2 83.2H328z m-22.4-33.6c3.2-3.2 9.6-6.4 14.4-6.4h448c24 0 44.8-19.2 44.8-44.8V256c0-24-19.2-44.8-44.8-44.8H256c-24 0-44.8 19.2-44.8 44.8v528l94.4-94.4z" fill="#979797"></path>
+    <path d="M507.2 628.8c-14.4 0-27.2-11.2-27.2-27.2 0-14.4 11.2-27.2 27.2-27.2 14.4 0 27.2 11.2 27.2 27.2-1.6 16-12.8 27.2-27.2 27.2zM588.8 438.4L564.8 464c-19.2 19.2-30.4 35.2-30.4 75.2H480v-12.8c0-28.8 12.8-56 32-75.2L544 416c9.6-9.6 16-22.4 16-36.8C560 350.4 536 326.4 507.2 326.4c-28.8 0-52.8 24-52.8 52.8H400a107.2 107.2 0 0 1 214.4 0c-1.6 22.4-11.2 44.8-25.6 59.2z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_filter" viewBox="0 0 1024 1024">
+    <path d="M918.75555522 201.95555522c-4.266667-8.533333-17.066667-17.066667-25.6-17.066666H129.42222222c-12.8 0-21.333333 8.533333-25.6 17.066666-4.266667 12.8-4.266667 25.6 4.266667 34.133334L411.02222222 611.55555522v256c0 17.066667 12.8 29.866667 29.866667 29.866667 17.066667 0 29.866667-12.8 29.866666-29.866667v-277.333333l-277.333333-341.333333H824.88888922l-277.333334 341.333333V867.55555522c0 17.066667 12.8 29.866667 29.866667 29.866667s29.866667-12.8 29.866667-29.866667v-256L910.22222222 236.08888922c12.8-8.533333 12.8-21.333333 8.533333-34.133334">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_sort" viewBox="0 0 1024 1024">
+    <path d="M887.466667 725.333333l-192 192-12.8 12.8c-4.266667 4.266667-12.8 8.533333-17.066667 8.533334-8.533333 0-12.8-4.266667-21.333333-8.533334l-8.533334-8.533333-192-192c-8.533333-12.8-8.533333-29.866667 0-38.4l12.8-12.8c12.8-12.8 34.133333-8.533333 42.666667 4.266667l128 128v-345.6c0-21.333333 17.066667-38.4 38.4-38.4s38.4 17.066667 38.4 38.4V810.666667l128-132.266667c8.533333-12.8 29.866667-12.8 38.4 0l12.8 12.8c12.8 8.533333 17.066667 21.333333 4.266667 34.133333z m-320-375.466666c-12.8 12.8-34.133333 8.533333-42.666667-4.266667l-128-128v345.6c0 21.333333-17.066667 38.4-38.4 38.4s-38.4-17.066667-38.4-38.4V217.6l-128 128c-8.533333 12.8-29.866667 12.8-38.4 0l-17.066667-8.533333c-8.533333-12.8-12.8-25.6 0-38.4l192-192 8.533334-12.8c8.533333-4.266667 12.8-8.533333 21.333333-8.533334s12.8 4.266667 21.333333 8.533334l4.266667 8.533333 196.266667 192c8.533333 12.8 8.533333 29.866667 0 38.4l-12.8 17.066667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_options" viewBox="0 0 1024 1024">
+    <path d="M512 682.666667c46.933333 0 85.333333 38.4 85.333333 85.333333s-38.4 85.333333-85.333333 85.333333-85.333333-38.4-85.333333-85.333333 38.4-85.333333 85.333333-85.333333z m0-85.333334c-46.933333 0-85.333333-38.4-85.333333-85.333333s38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333z m0-256c-46.933333 0-85.333333-38.4-85.333333-85.333333s38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_like" viewBox="0 0 1024 1024">
+    <path d="M136.533333 849.066667h140.8v-426.666667H136.533333v426.666667z m785.066667-388.266667c0-38.4-34.133333-72.533333-72.533333-72.533333h-226.133334l34.133334-162.133334V213.333333c0-12.8-4.266667-29.866667-17.066667-38.4l-38.4-38.4-230.4 234.666667c-12.8 12.8-21.333333 34.133333-21.333333 51.2v354.133333c0 38.4 34.133333 72.533333 72.533333 72.533334h320c29.866667 0 55.466667-17.066667 64-42.666667l106.666667-251.733333c4.266667-8.533333 4.266667-17.066667 4.266666-25.6v-68.266667h4.266667z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_facebook" viewBox="0 0 1024 1024">
+    <path d="M548.864 1024h-73.728C212.992 1024 0 811.008 0 548.864v-73.728C0 212.992 212.992 0 475.136 0h73.728C811.008 0 1024 212.992 1024 475.136v73.728C1024 811.008 811.008 1024 548.864 1024z" fill="#3B5998"></path>
+    <path d="M534.528 778.24h-110.592V512H368.64v-92.16h55.296v-55.296c0-75.776 30.72-118.784 118.784-118.784h73.728v92.16h-45.056c-34.816 0-36.864 12.288-36.864 36.864v45.056h83.968l-10.24 92.16h-73.728v266.24z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_soldbyLAZ" viewBox="0 0 1024 1024">
+    <path d="M512 512m-512 0a512 512 0 1 0 1024 0 512 512 0 1 0-1024 0Z" fill="#F37226"></path>
+    <path d="M625.777778 341.333333h208.782222l-133.12 213.617778a249.457778 249.457778 0 0 0-28.444444-12.515555L568.888889 312.888889h-33.848889l-178.631111 398.222222h32.995555l43.235556-97.848889 6.257778-14.222222a223.573333 223.573333 0 0 1 131.413333-42.097778 253.724444 253.724444 0 0 1 115.484445 22.755556l-70.542223 113.777778 8.248889 18.204444h222.151111l13.653334-30.151111h-201.671111l215.324444-341.333333V312.888889h-260.266667z m-55.182222 185.457778a287.288889 287.288889 0 0 0-110.08 23.893333l2.56-5.688888L551.537778 341.333333l83.626666 190.293334a309.191111 309.191111 0 0 0-64.853333-4.835556z" fill="#3352ed"></path>
+    <path d="M850.488889 718.222222h-231.537778l-11.662222-25.884444 68.266667-109.795556a256 256 0 0 0-104.96-18.488889 214.755556 214.755556 0 0 0-125.724445 39.537778l-50.915555 113.777778h-48.64l185.173333-412.444445h42.666667l103.822222 230.968889c7.111111 2.844444 14.506667 5.688889 21.617778 9.102223l122.88-197.404445h-200.817778l-19.057778-42.666667h278.471111v38.115556l-209.635555 330.808889h199.111111z m-222.435556-14.222222h213.048889l7.111111-15.928889h-203.377777l221.013333-350.435555v-17.635556h-242.346667l6.542222 14.222222h217.031112l-142.222223 229.831111-5.688889-2.844444a278.471111 278.471111 0 0 0-28.444444-11.946667h-2.844444l-1.422223-2.844444-100.977777-225.564445H540.444444l-170.666666 384h17.351111l49.777778-110.648889a229.831111 229.831111 0 0 1 135.68-43.52 261.404444 261.404444 0 0 1 118.613333 23.324445l7.111111 3.413333-72.817778 116.906667z m-181.76-139.377778l105.244445-239.786666 95.573333 217.6-13.368889-2.844445a316.017778 316.017778 0 0 0-63.146666-5.688889 284.444444 284.444444 0 0 0-107.52 23.04z m105.244445-204.515555l-77.937778 177.208889a308.337778 308.337778 0 0 1 96.711111-17.635556 300.942222 300.942222 0 0 1 52.906667 3.697778zM181.76 312.888889H151.04v398.222222h186.88l12.8-29.013333H181.76V312.888889z" fill="#3352ed"></path>
+    <path d="M341.333333 718.222222H142.222222v-412.444444h46.648889v369.777778h172.942222z m-184.32-14.222222h174.933334l6.826666-14.791111H174.648889v-369.777778h-16.497778z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_officialBadge" viewBox="0 0 1024 1024">
+    <path d="M512 1024c281.6 0 512-230.4 512-512S793.6 0 512 0 0 230.4 0 512s230.4 512 512 512z" fill="#CE0909"></path>
+    <path d="M853.333333 785.066667v8.533333c0 8.533333-8.533333 17.066667-17.066666 17.066667h-8.533334l-110.933333-34.133334-25.6 110.933334c0 8.533333-8.533333 17.066667-17.066667 17.066666s-17.066667-8.533333-17.066666-8.533333l-128-256h-42.666667l-119.466667 247.466667c0 8.533333-8.533333 8.533333-17.066666 8.533333s-17.066667-8.533333-17.066667-17.066667l-25.6-102.4-110.933333 42.666667c-8.533333 0-17.066667 0-25.6-8.533333v-17.066667l128-256c-34.133333-42.666667-51.2-93.866667-51.2-153.6 0-145.066667 119.466667-256 264.533333-256s256 110.933333 256 256c0 51.2-17.066667 102.4-51.2 145.066667l136.533333 256zM512 580.266667c110.933333 0 204.8-85.333333 204.8-196.266667 0-110.933333-93.866667-196.266667-204.8-196.266667-110.933333 0-204.8 85.333333-204.8 196.266667 0 110.933333 85.333333 196.266667 204.8 196.266667zM546.133333 341.333333h93.866667l-76.8 59.733334 25.6 93.866666-76.8-51.2-85.333333 51.2 25.6-93.866666-76.8-59.733334h93.866666l34.133334-85.333333 42.666666 85.333333z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_taobaoBadge" viewBox="0 0 1024 1024">
+    <path d="M512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512-230.4-512-512-512z" fill="#3352ed"></path>
+    <path d="M256 264.533333c34.133333 0 68.266667 25.6 68.266667 59.733334 0 34.133333-25.6 59.733333-68.266667 59.733333-34.133333 0-68.266667-25.6-68.266667-59.733333 0-34.133333 34.133333-59.733333 68.266667-59.733334zM307.2 614.4c-17.066667 51.2-17.066667 34.133333-85.333333 179.2l-93.866667-59.733333s110.933333-102.4 136.533333-145.066667c17.066667-42.666667-25.6-76.8-25.6-76.8l-76.8-42.666667 42.666667-59.733333c59.733333 42.666667 59.733333 42.666667 102.4 85.333333 25.6 25.6 17.066667 68.266667 0 119.466667z" fill="#3352ed"></path>
+    <path d="M844.8 682.666667c-17.066667 179.2-256 110.933333-256 110.933333l17.066667-51.2 51.2 8.533333c102.4 8.533333 93.866667-85.333333 93.866666-85.333333v-256c0-93.866667-93.866667-110.933333-256-51.2l42.666667 8.533333c0 8.533333-17.066667 25.6-34.133333 51.2h221.866666v42.666667H597.333333v59.733333h128v42.666667H597.333333v93.866667l51.2-25.6-8.533333-25.6 59.733333-17.066667 51.2 119.466667-76.8 25.6-17.066666-42.666667c-34.133333 25.6-93.866667 59.733333-213.333334 51.2-128 0-93.866667-136.533333-93.866666-136.533333h85.333333c0 17.066667-8.533333 51.2 0 68.266666 17.066667 8.533333 34.133333 8.533333 51.2 8.533334h8.533333V580.266667H366.933333v-51.2h128v-51.2h-34.133333c-34.133333 25.6-59.733333 51.2-59.733333 51.2l-34.133334-34.133334c25.6-25.6 51.2-68.266667 68.266667-102.4-8.533333 8.533333-25.6 17.066667-42.666667 17.066667-8.533333 17.066667-25.6 42.666667-42.666666 59.733333l-59.733334-34.133333C349.866667 375.466667 384 256 384 256l93.866667 25.6s-8.533333 17.066667-25.6 42.666667c366.933333-102.4 384 59.733333 384 59.733333s25.6 119.466667 8.533333 298.666667z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_certified" viewBox="0 0 1024 1024">
+    <path d="M512 0c282.766222 0 512 229.233778 512 512s-229.233778 512-512 512S0 794.766222 0 512 229.233778 0 512 0z m255.914667 318.577778l-25.315556-0.455111c-0.568889 0-57.429333-1.251556-116.053333-25.514667-60.188444-24.917333-98.986667-53.475556-99.271111-53.76L511.914667 227.555556l-15.189334 11.292444c-0.369778 0.284444-39.139556 28.842667-99.271111 53.76-58.624 24.291556-115.484444 25.514667-116.024889 25.514667L256 318.577778v263.082666C256 713.671111 422.456889 853.333333 512 853.333333c89.543111 0 256-139.633778 256-271.701333l-0.085333-263.082667zM487.736889 682.666667L341.333333 565.646222l44.999111-49.692444 93.866667 74.979555L658.460444 398.222222 711.111111 441.088 487.708444 682.666667z" fill="#06A97F"></path>
+  </symbol>
+  <symbol id="lazadaicon_liveUp" viewBox="0 0 1024 1024">
+    <path d="M349.866667 72.533333h324.266666c153.6 0 277.333333 123.733333 277.333334 277.333334v320c0 153.6-123.733333 277.333333-277.333334 277.333333H349.866667c-153.6 0-277.333333-123.733333-277.333334-277.333333V349.866667c0-153.6 123.733333-277.333333 277.333334-277.333334" fill="#38C0C6"></path>
+    <path d="M755.2 422.4l-89.6-89.6c-8.533333-8.533333-17.066667-12.8-29.866667-12.8-8.533333 0-21.333333 4.266667-29.866666 12.8l-89.6 89.6c-17.066667 17.066667-17.066667 42.666667 0 55.466667 17.066667 17.066667 42.666667 17.066667 55.466666 0l21.333334-21.333334v89.6c0 64-34.133333 93.866667-85.333334 93.866667s-85.333333-34.133333-85.333333-98.133333c0-25.6-21.333333-42.666667-42.666667-42.666667-25.6 0-42.666667 17.066667-42.666666 42.666667v4.266666c0 115.2 64 174.933333 170.666666 174.933334s174.933333-59.733333 174.933334-179.2v-85.333334l21.333333 21.333334c17.066667 17.066667 42.666667 17.066667 55.466667 0 12.8-12.8 12.8-38.4-4.266667-55.466667m-379.733333-8.533333c25.6 0 51.2-21.333333 51.2-46.933334 0-25.6-21.333333-46.933333-51.2-46.933333s-51.2 17.066667-51.2 46.933333c0 25.6 25.6 46.933333 51.2 46.933334" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_fulfilledbyLazada" viewBox="0 0 1024 1024">
+    <path d="M911.829333 510.762667c0-221.866667-179.2-401.066667-401.066666-401.066667s-401.066667 179.2-401.066667 401.066667 179.2 401.066667 401.066667 401.066666 401.066667-179.2 401.066666-401.066666m-42.666666 0c0 196.266667-157.866667 354.133333-354.133334 354.133333s-358.4-157.866667-358.4-354.133333 157.866667-354.133333 354.133334-354.133334 358.4 157.866667 358.4 354.133334" fill="#00374C"></path>
+    <path d="M463.829333 369.962667h196.266667v-64h-196.266667v64z m-102.4 349.866666h72.533334v-132.266666h-72.533334v132.266666z" fill="#F07025"></path>
+    <path d="M438.229333 493.696v-187.733333h-76.8v251.733333h200.533334v-64z" fill="#00374C"></path>
+  </symbol>
+  <symbol id="lazadaicon_economy" viewBox="0 0 1024 1024">
+    <path d="M989.866667 529.066667c-132.266667-256-256-273.066667-294.4-273.066667H238.933333c-12.8 0-21.333333 8.533333-21.333333 21.333333v174.933334h42.666667V298.666667h439.466666c4.266667 0 98.133333-4.266667 213.333334 170.666666h-153.6c-34.133333 0-34.133333-29.866667-34.133334-38.4V358.4c0-12.8-8.533333-21.333333-21.333333-21.333333s-21.333333 8.533333-21.333333 21.333333v72.533333c0 29.866667 21.333333 76.8 76.8 76.8h174.933333c4.266667 12.8 12.8 21.333333 21.333333 38.4V640c0 12.8-12.8 25.6-25.6 25.6h-25.6c-8.533333-42.666667-42.666667-68.266667-85.333333-68.266667s-76.8 29.866667-85.333333 68.266667h-238.933334c-8.533333-42.666667-46.933333-68.266667-85.333333-68.266667-42.666667 0-76.8 29.866667-85.333333 68.266667h-38.4c-12.8 0-25.6-12.8-25.6-25.6v-34.133333h34.133333c12.8 0 21.333333-8.533333 21.333333-21.333334s-8.533333-21.333333-21.333333-21.333333H179.2c-12.8 0-21.333333 8.533333-21.333333 21.333333s8.533333 21.333333 21.333333 21.333334h38.4v34.133333c0 38.4 29.866667 68.266667 68.266667 68.266667h29.866666c8.533333 42.666667 42.666667 68.266667 85.333334 68.266666s76.8-29.866667 85.333333-68.266666H725.333333c8.533333 42.666667 42.666667 68.266667 85.333334 68.266666s76.8-29.866667 85.333333-68.266666h25.6c38.4 0 68.266667-29.866667 64-68.266667v-98.133333c8.533333-4.266667 8.533333-8.533333 4.266667-12.8m-174.933334 209.066666c-68.266667 0-68.266667-102.4 0-102.4s68.266667 102.4 0 102.4m-413.866666 0c-68.266667 0-68.266667-102.4 0-102.4s68.266667 102.4 0 102.4m-337.066667-251.733333c-12.8 0-21.333333 8.533333-21.333333 21.333333s8.533333 21.333333 21.333333 21.333334h273.066667c12.8 0 21.333333-8.533333 21.333333-21.333334s-8.533333-21.333333-21.333333-21.333333H64z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_standard" viewBox="0 0 1024 1024">
+    <path d="M601.6 268.8h-68.266667V196.266667h68.266667v72.533333z m332.8 529.066667V128H234.666667c-8.533333 0-12.8 4.266667-21.333334 8.533333-8.533333 8.533333-8.533333 25.6 4.266667 34.133334l230.4 200.533333-162.133333 166.4L170.666667 435.2c-8.533333-8.533333-25.6-8.533333-34.133334 4.266667-8.533333 8.533333-8.533333 25.6 4.266667 34.133333l68.266667 59.733333v273.066667H426.666667l17.066666 34.133333c0 4.266667 12.8 25.6 34.133334 34.133334 4.266667 0 8.533333 4.266667 17.066666 4.266666s17.066667-4.266667 29.866667-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066667 12.8 4.266667 4.266667 8.533333 4.266667 17.066666 4.266667s21.333333-4.266667 34.133334-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066666 12.8 4.266667 0 8.533333 4.266667 17.066667 4.266667s21.333333-4.266667 34.133333-8.533334l17.066667-12.8c4.266667 4.266667 8.533333 4.266667 17.066667 8.533334 4.266667 0 8.533333 4.266667 12.8 4.266666 8.533333 0 17.066667-4.266667 29.866666-8.533333 8.533333-4.266667 12.8-17.066667 4.266667-25.6-4.266667-8.533333-17.066667-12.8-29.866667-4.266667l-4.266666 4.266667c-4.266667 0-4.266667-4.266667-4.266667-8.533333l-51.2-106.666667c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l42.666667 93.866666-17.066667 8.533334c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-8.533333-8.533333l-38.4-85.333333c-8.533333-34.133333-21.333333-38.4-29.866667-34.133334-8.533333 4.266667-17.066667 17.066667-12.8 25.6l29.866667 68.266667-12.8 8.533333c-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667-4.266667-8.533333-4.266667-8.533333-8.533333l-21.333334-55.466667c-4.266667-8.533333-17.066667-17.066667-29.866666-12.8-8.533333 4.266667-17.066667 17.066667-12.8 25.6l17.066666 38.4-12.8 4.266667c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-4.266666-4.266666l-38.4-81.066667v-4.266667l-72.533334-157.866666-29.866666 29.866666 64 145.066667H256v-179.2l17.066667 17.066667c4.266667 4.266667 8.533333 4.266667 17.066666 4.266666 4.266667 0 12.8-4.266667 17.066667-4.266666l196.266667-200.533334c8.533333-8.533333 4.266667-25.6-4.266667-34.133333L294.4 179.2h187.733333V298.666667h162.133334V179.2h243.2v584.533333h-106.666667l-68.266667-140.8 55.466667 17.066667c4.266667 0 29.866667 4.266667 55.466667-8.533333 8.533333-4.266667 25.6-21.333333 29.866666-46.933334v-4.266666c4.266667-8.533333-4.266667-17.066667-8.533333-21.333334l-196.266667-102.4h-4.266666-4.266667l-110.933333-17.066666-34.133334 29.866666 136.533334 21.333334 179.2 93.866666c-4.266667 4.266667-4.266667 12.8-8.533334 17.066667-4.266667 4.266667-17.066667 4.266667-21.333333 4.266667l-89.6-25.6-8.533333-21.333334c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l25.6 46.933333 68.266666 140.8 21.333334 34.133334h174.933333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_expressDelivery" viewBox="0 0 1401 1024">
+    <path d="M877.714286 0l-508.819876 203.52795-184.447205-69.962733c-12.720497-6.360248-25.440994 0-31.801242 6.360249s-12.720497 25.440994-12.720497 31.801242c0 12.720497 12.720497 19.080745 19.080745 25.440994l178.086957 63.602484v279.850932L248.049689 508.819876c-19.080745-6.360248-38.161491 0-44.521739 19.080745-6.360248 19.080745 0 38.161491 19.080746 44.521739l114.484472 44.521739v178.086957l559.701863 228.968944 496.099379-260.770186V190.807453l-515.180124-190.807453z m0 69.962733l407.0559 146.285714-146.285714 76.322982L731.428571 127.204969l146.285715-57.242236z m19.080745 349.813665L464.298137 235.329193 636.024845 165.36646l413.416149 171.726708-152.645963 82.68323z m432.496894 292.571428l-394.335403 209.888199v-445.217391l171.726708-89.043479v159.006211l69.962733-38.16149V356.173913L1335.652174 273.490683v438.857143z m-1081.242236-25.440994c19.080745 6.360248 25.440994 25.440994 19.080746 44.521739-6.360248 19.080745-25.440994 25.440994-44.521739 19.080746l-63.602485-25.440994c-19.080745-6.360248-25.440994-25.440994-19.080745-44.521739 6.360248-19.080745 25.440994-25.440994 44.521739-19.080745l63.602484 25.440993z m0-330.732919c0 12.720497-6.360248 19.080745-12.720496 25.440994-6.360248 6.360248-19.080745 6.360248-31.801243 6.360248l-178.086956-63.602484C12.720497 318.012422 0 305.291925 0 298.931677c0-12.720497 0-25.440994 12.720497-31.801242s19.080745-12.720497 31.801242-6.360249l178.086957 63.602485c19.080745 6.360248 25.440994 19.080745 25.440993 31.801242z m604.223603 120.844721v445.217391l-445.217391-178.086957V292.571429l445.217391 184.447205z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_shipping" viewBox="0 0 1024 1024">
+    <path d="M576 819.2h-341.333333l8.533333-34.133333h307.2l170.666667-588.8h34.133333l-179.2 622.933333zM332.8 196.266667h341.333333l-157.866666 541.866666h-341.333334L332.8 196.266667z m516.266667-51.2H174.933333c-34.133333 0-64 29.866667-64 68.266666v102.4c0 38.4 29.866667 68.266667 64 68.266667h8.533334l12.8-51.2h-21.333334c-8.533333 0-17.066667-8.533333-17.066666-17.066667V213.333333c0-8.533333 8.533333-17.066667 17.066666-17.066666h106.666667l-170.666667 588.8h85.333334l-25.6 85.333333h443.733333L810.666667 196.266667h42.666666c8.533333 0 17.066667 8.533333 17.066667 17.066666v102.4c0 8.533333-8.533333 17.066667-17.066667 17.066667h-42.666666L797.866667 384h51.2c34.133333 0 64-29.866667 64-68.266667V213.333333c0-38.4-29.866667-68.266667-64-68.266666zM362.666667 588.8l8.533333-29.866667h-4.266667c-25.6-4.266667-46.933333-17.066667-59.733333-34.133333-4.266667-4.266667-4.266667-8.533333-4.266667-12.8l42.666667-12.8c4.266667 4.266667 17.066667 12.8 38.4 12.8h4.266667l21.333333-64h-4.266667c-25.6-4.266667-42.666667-12.8-55.466666-21.333333 0 0-4.266667 0-4.266667-4.266667 0 0 0-4.266667-4.266667-4.266667-12.8-4.266667-17.066667-21.333333-12.8-34.133333 12.8-42.666667 68.266667-59.733333 110.933334-64h4.266666l8.533334-29.866667h38.4l-8.533334 29.866667h4.266667c29.866667 4.266667 55.466667 17.066667 64 34.133333 4.266667 4.266667 4.266667 8.533333 4.266667 12.8l-38.4 12.8c-4.266667-4.266667-21.333333-12.8-42.666667-17.066666H469.333333l-21.333333 64h4.266667c34.133333 4.266667 55.466667 17.066667 59.733333 21.333333l4.266667 4.266667v4.266666c8.533333 12.8 12.8 25.6 8.533333 42.666667-12.8 38.4-68.266667 59.733333-115.2 64h-4.266667l-8.533333 25.6h-34.133333z m59.733333-221.866667c-34.133333 4.266667-51.2 17.066667-55.466667 29.866667 0 8.533333 17.066667 17.066667 42.666667 21.333333h4.266667l12.8-55.466666-4.266667 4.266666z m0 149.333334h4.266667c34.133333-4.266667 59.733333-21.333333 59.733333-34.133334 0-8.533333-21.333333-17.066667-46.933333-21.333333h-4.266667l-12.8 55.466667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_noshipping" viewBox="0 0 1024 1024">
+    <path d="M430.933333 401.066667c-25.6-4.266667-42.666667-12.8-42.666666-21.333334 4.266667-8.533333 21.333333-25.6 55.466666-29.866666h4.266667l-17.066667 51.2z m59.733334-55.466667c21.333333 0 34.133333 8.533333 42.666666 12.8l29.866667-25.6c-12.8-17.066667-29.866667-25.6-55.466667-29.866667h-4.266666l8.533333-29.866666h-42.666667l-8.533333 29.866666h-4.266667c-42.666667 4.266667-98.133333 25.6-110.933333 64-4.266667 12.8 0 29.866667 8.533333 42.666667 0 0 0 4.266667 4.266667 4.266667 0 0 4.266667 0 4.266667 4.266666 8.533333 8.533333 29.866667 12.8 55.466666 21.333334h4.266667l-8.533333 21.333333 59.733333-51.2 17.066667-64z m-170.666667 153.6c0 4.266667 4.266667 8.533333 4.266667 12.8 4.266667 4.266667 12.8 8.533333 17.066666 12.8l34.133334-29.866667c-8.533333 0-12.8-4.266667-12.8-4.266666l-42.666667 8.533333z m89.6 221.866667l-55.466667 51.2h217.6l76.8-260.266667-68.266666 59.733333-42.666667 149.333334h-128zM192 366.933333h8.533333L213.333333 315.733333h-21.333333c-8.533333 0-17.066667-4.266667-17.066667-17.066666V196.266667c0-8.533333 8.533333-17.066667 17.066667-17.066667H298.666667L149.333333 695.466667l68.266667-59.733334L349.866667 179.2h345.6L682.666667 226.133333 793.6 128H192C157.866667 128 128 157.866667 128 196.266667V298.666667c0 38.4 29.866667 68.266667 64 68.266666M891.733333 298.666667c0 8.533333-8.533333 17.066667-17.066666 17.066666h-4.266667l-46.933333 42.666667-4.266667 8.533333h55.466667c34.133333 0 64-29.866667 64-68.266666V256l-46.933334 42.666667zM597.333333 806.4H315.733333l-55.466666 51.2h375.466666l128-443.733333-68.266666 55.466666-98.133334 337.066667z m285.866667-674.133333L128 793.6l38.4 42.666667L921.6 174.933333l-38.4-42.666666z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_oversea" viewBox="0 0 1024 1024">
+    <path d="M985.6 337.066667c-4.266667 12.8-12.8 29.866667-34.133333 38.4l-320 132.266666s-29.866667 8.533333-55.466667 8.533334c-21.333333 0-38.4-8.533333-51.2-17.066667L443.733333 426.666667c-4.266667-4.266667-4.266667-8.533333-4.266666-17.066667s4.266667-12.8 8.533333-17.066667c4.266667 0 17.066667-12.8 42.666667-12.8 8.533333 0 17.066667 0 29.866666 4.266667l42.666667 12.8h12.8c8.533333 0 17.066667-4.266667 29.866667-8.533333l12.8-4.266667-81.066667-68.266667c-4.266667-4.266667-8.533333-12.8-4.266667-21.333333 0-8.533333 4.266667-12.8 12.8-17.066667 4.266667 0 21.333333-8.533333 46.933334-8.533333 17.066667 0 34.133333 4.266667 55.466666 8.533333 42.666667 17.066667 106.666667 42.666667 128 42.666667l102.4-42.666667c4.266667 0 25.6-8.533333 55.466667-8.533333 21.333333 0 38.4 8.533333 51.2 21.333333l4.266667 4.266667c-12.8 0 0 21.333333-4.266667 42.666667z m-42.666667-17.066667c-4.266667-4.266667-12.8-8.533333-17.066666-8.533333-17.066667 0-34.133333 8.533333-34.133334 8.533333l-106.666666 46.933333H768c-34.133333 0-128-34.133333-140.8-46.933333-8.533333-4.266667-17.066667-8.533333-25.6-8.533333l68.266667 59.733333c4.266667 4.266667 8.533333 12.8 4.266666 21.333333 0 8.533333-4.266667 12.8-12.8 17.066667l-51.2 21.333333c-12.8 8.533333-29.866667 8.533333-42.666666 8.533334s-25.6-4.266667-25.6-4.266667l-34.133334-8.533333 46.933334 42.666666c4.266667 8.533333 17.066667 8.533333 25.6 8.533334 17.066667 0 42.666667-8.533333 42.666666-8.533334L938.666667 332.8c4.266667-4.266667 12.8-8.533333 12.8-8.533333-4.266667 0-8.533333-4.266667-8.533334-4.266667z m-268.8-68.266667c-51.2-38.4-110.933333-59.733333-179.2-59.733333-166.4 0-298.666667 136.533333-298.666666 302.933333 0 34.133333 4.266667 68.266667 17.066666 102.4 55.466667-12.8 128-38.4 234.666667-81.066666 8.533333-4.266667 21.333333 0 29.866667 12.8 4.266667 8.533333 0 21.333333-12.8 29.866666-98.133333 38.4-174.933333 64-230.4 81.066667 51.2 98.133333 149.333333 166.4 264.533333 166.4 166.4 0 298.666667-136.533333 298.666667-302.933333v-4.266667l42.666666-17.066667v21.333334c0 192-153.6 345.6-337.066666 345.6-136.533333 0-251.733333-81.066667-307.2-196.266667-29.866667 8.533333-55.466667 8.533333-76.8 8.533333-42.666667 0-55.466667-12.8-68.266667-25.6-29.866667-42.666667 25.6-102.4 34.133333-115.2 4.266667-8.533333 21.333333-8.533333 29.866667 0 8.533333 8.533333 8.533333 21.333333 0 29.866667-17.066667 21.333333-34.133333 55.466667-29.866667 59.733333 0 0 12.8 17.066667 89.6 0-8.533333-34.133333-17.066667-72.533333-17.066666-110.933333 0-192 149.333333-345.6 337.066666-345.6 110.933333 0 204.8 51.2 268.8 136.533333-17.066667-12.8-55.466667-25.6-89.6-38.4z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_email" viewBox="0 0 1024 1024">
+    <path d="M840.533333 776.533333H307.2c-17.066667 0-34.133333-8.533333-42.666667-21.333333-12.8-12.8-12.8-29.866667-12.8-46.933333l72.533334-358.4c8.533333-25.6 38.4-51.2 68.266666-51.2h533.333334c17.066667 0 34.133333 8.533333 42.666666 21.333333 8.533333 12.8 12.8 29.866667 12.8 42.666667l-72.533333 358.4c-8.533333 29.866667-38.4 55.466667-68.266667 55.466666zM307.2 716.8h533.333333c4.266667 0 8.533333-4.266667 8.533334-8.533333l72.533333-354.133334H392.533333c-4.266667 0-8.533333 4.266667-12.8 8.533334l-72.533333 354.133333z">
+    </path>
+    <path d="M610.133333 610.133333c-17.066667 0-34.133333-8.533333-46.933333-21.333333l-200.533333-213.333333 42.666666-38.4 200.533334 213.333333c4.266667 4.266667 8.533333 4.266667 8.533333 0l294.4-217.6 34.133333 46.933333-294.4 217.6c-12.8 8.533333-25.6 12.8-38.4 12.8z m-465.066666-256h132.266666v55.466667H145.066667V354.133333zM42.666667 486.4h204.8v55.466667H42.666667v-55.466667z m72.533333 119.466667H213.333333v55.466666H115.2v-55.466666z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_smallPrompt" viewBox="0 0 1024 1024">
+    <path d="M512 841.589844c181.27441433 0 329.589844-148.31542969 329.589844-329.589844s-148.31542969-329.589844-329.589844-329.589844-329.589844 148.31542969-329.589844 329.589844 148.31542969 329.589844 329.589844 329.589844z" fill="#3352ed"></path>
+    <path d="M538.36718725 327.42968775v128.54003907c0 13.18359399 0 26.36718725-3.29589793 39.55078125 0 13.18359399-3.29589869 26.36718725-6.59179739 42.84667918h-39.55078125c-3.29589869-16.47949193-3.29589869-29.66308594-6.59179662-42.84667918 0-13.18359399-3.29589869-26.36718725-3.29589869-39.55078125v-128.54003907h59.32617188z m-62.6220698 299.92675731c0-3.29589869 0-9.8876953 3.29589792-13.18359324 3.29589869-3.29589869 3.29589869-6.59179662 6.59179738-9.88769532 3.29589869-3.29589869 6.59179662-6.59179662 9.88769532-6.59179737 3.29589869-3.29589869 9.8876953-3.29589869 13.18359324-3.29589794 3.29589869 0 9.8876953 0 13.18359399 3.29589794 3.29589869 3.29589869 6.59179662 3.29589869 9.88769535 6.59179737 3.29589869 3.29589869 6.59179662 6.59179662 6.5917966 9.88769532 3.29589869 3.29589869 3.29589869 9.8876953 3.29589869 13.18359324 0 3.29589869 0 9.8876953-3.29589869 13.183594s-3.29589869 6.59179662-6.59179663 9.88769532c-3.29589869 3.29589869-6.59179662 6.59179662-9.8876953 6.59179662-3.29589869 3.29589869-9.8876953 3.29589869-13.18359401 3.29589869-3.29589869 0-9.8876953 0-13.18359324-3.29589869-3.29589869-3.29589869-6.59179662-3.29589869-9.88769532-6.59179662-3.29589869-3.29589869-6.59179662-6.59179662-6.59179738-9.88769532s-3.29589869-9.8876953-3.29589792-13.183594z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_largePrompt" viewBox="0 0 1024 1024">
+    <path d="M512 938.666667c234.666667 0 426.666667-192 426.666667-426.666667s-192-426.666667-426.666667-426.666667-426.666667 192-426.666667 426.666667 192 426.666667 426.666667 426.666667z" fill="#3352ed"></path>
+    <path d="M546.133333 273.066667v166.4c0 17.066667 0 34.133333-4.266666 51.2 0 17.066667-4.266667 34.133333-8.533334 55.466666h-51.2c-4.266667-21.333333-4.266667-38.4-8.533333-55.466666 0-17.066667-4.266667-34.133333-4.266667-51.2v-166.4h76.8z m-81.066666 388.266666c0-4.266667 0-12.8 4.266666-17.066666 4.266667-4.266667 4.266667-8.533333 8.533334-12.8 4.266667-4.266667 8.533333-8.533333 12.8-8.533334 4.266667-4.266667 12.8-4.266667 17.066666-4.266666 4.266667 0 12.8 0 17.066667 4.266666 4.266667 4.266667 8.533333 4.266667 12.8 8.533334 4.266667 4.266667 8.533333 8.533333 8.533333 12.8 4.266667 4.266667 4.266667 12.8 4.266667 17.066666 0 4.266667 0 12.8-4.266667 17.066667s-4.266667 8.533333-8.533333 12.8c-4.266667 4.266667-8.533333 8.533333-12.8 8.533333-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667 0-12.8 0-17.066666-4.266667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333-4.266667-4.266667-8.533333-8.533333-8.533334-12.8s-4.266667-12.8-4.266666-17.066667z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_gojek" viewBox="0 0 1024 1024">
+    <path d="M799.511273 727.831273a130.094545 130.094545 0 0 0-52.922182 8.797091c-16.896-33.605818-31.418182-64.093091-28.346182-63.906909l34.071273 1.396363s4.608-42.356364 2.839273-65.675636c-1.722182-23.458909-9.867636-23.877818-9.867637-23.877818l-30.533818 9.681454c-36.026182 12.194909-41.425455 9.169455-41.425455 9.169455s0.465455-36.165818-6.376727-36.445091c-6.795636-0.279273-40.122182-8.750545-40.122182-8.750546-2.792727-5.492364-25.227636-17.408-36.910545-26.158545-13.079273-14.941091-58.647273-48.081455-91.601455-71.168a59.531636 59.531636 0 0 0 75.636364-54.784 59.624727 59.624727 0 0 0-56.785455-62.184727 59.485091 59.485091 0 0 0-61.905454 57.064727c-0.651636 14.242909 3.816727 27.508364 11.682909 38.167273a340.48 340.48 0 0 1-4.514909-3.025455c-7.912727-7.214545-17.035636 2.280727-17.035636 2.280727s-76.194909 151.831273-80.709819 161.233455c-4.514909 9.402182 13.777455 29.463273 13.777455 29.463273l-103.982546 2.327272c-17.826909 0.605091-31.278545 60.462545-31.278545 60.462546-68.887273 12.101818-109.474909 96.861091-109.474909 96.861091l17.221818 13.079272-1.256727 28.765091-31.371637-1.349818c-11.403636 11.822545-0.791273 19.176727-0.791272 19.176727l31.325091 1.396364v0.512l-0.186182 4.980364h0.139636a134.330182 134.330182 0 0 0 128.186182 134.516363 134.190545 134.190545 0 0 0 139.264-123.112727c14.475636-0.139636 80.477091-0.605091 122.833455 0 47.802182 0.698182 59.904-27.601455 59.904-27.601454l4.282181-100.072728s30.068364 1.396364 44.032-4.933818c13.870545-6.237091 34.536727-39.610182 34.536728-39.610182l33.885091 59.298909a131.397818 131.397818 0 0 0-52.64291 99.746909 131.258182 131.258182 0 0 0 125.160728 137.076364 131.118545 131.118545 0 0 0 136.424727-125.765818 131.258182 131.258182 0 0 0-125.160727-136.983273zM330.193455 776.471273c21.643636 13.963636 36.770909 37.096727 39.889454 63.767272l-40.029091-1.722181a50.455273 50.455273 0 0 0-16.756363-23.086546l16.896-38.958545z m-43.566546-13.963637c4.189091 0.139636 8.145455 0.744727 12.101818 1.536l-12.427636 41.053091-1.489455-0.093091c-20.48-0.884364-39.517091 10.705455-48.034909 29.416728l-40.029091-1.722182a88.064 88.064 0 0 1 89.879273-70.237091v0.046545z m-7.633454 176.686546a88.203636 88.203636 0 0 1-84.154182-87.365818l37.329454 1.582545c-1.256727 27.927273 20.340364 51.572364 48.221091 52.875636 27.927273 1.210182 51.386182-20.48 52.596364-48.453818l37.282909 1.629091a88.110545 88.110545 0 0 1-91.229091 79.732364z m365.847272-338.292364c-80.430545-6.283636-150.202182 27.741091-150.202182 27.741091s-2.373818 3.258182-4.794181-0.186182c-14.010182-20.014545-15.546182-35.048727-15.546182-35.048727l33.512727-78.196364c25.832727 32.768 137.774545 67.863273 137.774546 67.863273l-0.791273 17.826909h0.046545z m146.571637 344.762182a88.436364 88.436364 0 0 1-84.340364-92.299636 88.389818 88.389818 0 0 1 29.789091-62.510546l20.154182 35.188364a46.778182 46.778182 0 0 0 30.673454 79.965091 46.638545 46.638545 0 0 0 34.304-80.244364 46.685091 46.685091 0 0 0-36.072727-13.032727c-4.701091-8.890182-12.055273-22.993455-20.340364-39.005091a88.064 88.064 0 0 1 117.713455 87.226182 88.389818 88.389818 0 0 1-91.880727 84.712727z m-270.196364-18.106182v-3.630545l132.654545 0.093091 3.49091 3.723636-136.145455-0.186182zM470.109091 964.421818v-3.677091l204.660364 0.139637 4.282181 3.816727L470.109091 964.421818z m85.643636-72.750545v-5.352728h91.229091l1.070546 3.909819-92.346182 1.396363zM234.496 163.188364c-21.922909 13.451636-41.425455-23.365818-31.511273-30.161455 332.148364-224.535273 603.648-2.699636 605.463273 16.430546 1.861818 19.176727-27.136 26.065455-27.136 26.065454-266.24-208.523636-524.986182-25.832727-546.816-12.334545z m62.370909 83.549091c-16.709818 10.845091-30.301091-18.757818-22.714182-24.203637 253.300364-180.177455 460.241455-2.187636 461.730909 13.172364 1.396364 15.406545-22.062545 20.945455-22.062545 20.945454-202.938182-167.377455-400.290909-20.759273-417.000727-9.914181zM368.733091 321.629091c-11.031273 7.819636-20.852364-15.313455-15.825455-19.176727 166.865455-129.722182 303.290182-1.582545 304.221091 9.495272 0.930909 11.077818-13.684364 16.896-13.684363 16.896-133.725091-120.552727-263.726545-14.987636-274.711273-7.168V321.629091z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_service" viewBox="0 0 1024 1024">
+    <path d="M791.236118 531.80270466A78.30034946 78.30034946 0 0 0 785.77330297 517.91804997a61.45666943 61.45666943 0 0 0-30.38690869-29.02120529 20.03032178 20.03032178 0 0 0-8.19422255-3.30045065l-46.32012027-7.2837541a20.03032178 20.03032178 0 0 0-22.76172928 16.38844581l-36.76019288 219.99211563a19.80270466 19.80270466 0 0 0 16.27463616 22.76173001l42.79205178 6.94232733a17.41272317 17.41272317 0 0 0 3.41425958 0h5.34900611a60.7738181 60.7738181 0 0 0 41.54015658-17.75414919 79.66605358 79.66605358 0 0 0 9.78754377-11.38086501 79.66605358 79.66605358 0 0 0 8.9908828 0.79666097 77.73130633 77.73130633 0 0 0 26.6312238-4.77996369l-5.121389 30.1592923a83.30793026 83.30793026 0 0 1-35.96353262 51.10008252c-31.75261281 23.67219847-94.11975141 46.66154558-214.52930132 36.64638469a56.90432358 56.90432358 0 0 0-44.27156411-32.20784776c-29.47643951-4.89377188-56.90432358 9.78754378-60.43239133 33.00450801s16.95748823 45.52345929 46.43392773 50.7586572A58.2700277 58.2700277 0 0 0 530.84193207 869.58677086c22.76172928 2.16236438 44.61299011 3.18664247 65.09854685 3.18664248 80.69033094 0 142.60223533-16.27463689 184.82524325-48.59629284a120.86478413 120.86478413 0 0 0 49.84818803-76.59322005l17.98176632-108.23202392 3.18664246-18.66461766a77.95892343 77.95892343 0 0 0-60.54620098-88.88455421z m20.94079094 82.28365219l-5.23519719 31.41118677a38.125897 38.125897 0 0 1-30.72833545 30.61452652l17.07129715-101.74493154a38.01208808 38.01208808 0 0 1 18.89223549 39.71921825zM723.17854652 698.87379943a20.03032178 20.03032178 0 0 1-16.04701904 6.48709312l-22.76172929-3.86949381 30.27309978-180.95575016 22.76173 3.64187668a20.3717478 20.3717478 0 0 1 13.08799443 11.380865 48.82390995 48.82390995 0 0 1 3.8694938 30.04548266l-17.64034029 105.72823352A49.05152707 49.05152707 0 0 1 723.17854652 698.87379943zM285.58429604 491.28682617A19.91651357 19.91651357 0 0 0 262.25352361 475.80885026l-45.52345929 8.99088279a20.14413068 20.14413068 0 0 0-8.08041363 3.64187669 61.34286124 61.34286124 0 0 0-29.81786626 30.15929157A88.42931928 88.42931928 0 0 0 173.2551612 573.68428727l21.73745121 104.93157327c7.85279651 37.67066206 36.6463847 64.41569478 67.2609112 64.41569405a54.05910787 54.05910787 0 0 0 6.03185818-0.56904314h0.56904314a16.72987112 16.72987112 0 0 0 4.09711163 0l42.45062575-9.44611774A19.80270466 19.80270466 0 0 0 330.5387122 709.57181237zM264.75731402 703.19852818c-11.380865 2.27617329-26.40360597-11.380865-30.72833544-32.43546488L212.17771847 565.60387292a50.30342227 50.30342227 0 0 1 2.73140751-30.15929158A20.48555673 20.48555673 0 0 1 228.11092933 523.60848211l22.76172928-4.55234584L287.74666042 698.87379943zM771.43341334 458.62374419a93.09547403 93.09547403 0 0 1 16.04701904 9.78754378c0-103.56586915-25.37932861-183.80096588-74.20323782-238.99816004C661.38045108 171.02929132 582.85248376 141.21142578 479.28661461 141.21142578S297.87563022 171.02929132 245.86507854 229.52693612C196.47212546 285.29317342 171.20660503 366.89397427 171.77564889 472.39459067a89.56740555 89.56740555 0 0 1 19.11985261-13.54322937 54.05910787 54.05910787 0 0 1 18.77842655-7.6251794l3.6418767-0.68285133c2.84521643-83.87697341 23.89981629-148.97551953 63.5052256-193.47470145a67.37471941 67.37471941 0 0 0 34.1425943 37.67066277 63.96045983 63.96045983 0 0 0 26.06218066 5.34900612 88.54312818 88.54312818 0 0 0 45.52345857-13.31561155 139.52940179 139.52940179 0 0 1 22.76173002-10.69801295 234.44581418 234.44581418 0 0 1 74.43085566-11.380865 234.21819706 234.21819706 0 0 1 74.31704676 11.38086501 144.99221681 144.99221681 0 0 1 22.76172927 10.69801294 88.54312818 88.54312818 0 0 0 45.5234593 13.31561155 63.96045983 63.96045983 0 0 0 26.06217995-5.34900612 67.37471941 67.37471941 0 0 0 34.14259501-37.67066277c39.26398328 44.15775518 60.31858315 109.37011021 63.6190338 194.0437446l6.25947528 0.91046916a56.90432358 56.90432358 0 0 1 19.00604441 6.60090131z m-139.98463673-201.78273218a23.78600738 23.78600738 0 0 1-9.21850063 1.82093833 39.4916004 39.4916004 0 0 1-11.38086429-1.93474726A217.82975197 217.82975197 0 0 0 569.53687222 237.49354157l-1.25189519-0.56904315v1.02427808-1.02427808a273.82360639 273.82360639 0 0 0-87.74646722-13.65703758H478.48995436a272.45790226 272.45790226 0 0 0-87.5188501 13.7708465l-1.59332123 0.56904314a211.57027597 211.57027597 0 0 0-40.85730452 19.1198526 40.06064427 40.06064427 0 0 1-12.06371634 2.04855545 23.78600738 23.78600738 0 0 1-9.21850063-1.82093834c-10.01516088-4.55234587-14.90893277-18.55080946-17.18510606-29.70405662C353.30044148 197.43289802 410.20476579 182.41015633 479.62804064 182.29634741S606.06944801 197.43289802 649.20292582 227.13695464c-2.84521643 11.15324717-7.6251794 25.1517115-17.75414922 29.70405737z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_nowarranty" viewBox="0 0 1024 1024">
+    <path d="M298.666667 648.533333l-29.866667 34.133334C153.6 490.666667 170.666667 256 170.666667 251.733333c0-4.266667 4.266667-12.8 8.533333-17.066666 4.266667-4.266667 12.8-4.266667 17.066667-4.266667 217.6 25.6 285.866667-85.333333 285.866666-85.333333 4.266667-8.533333 12.8-12.8 21.333334-12.8s17.066667 4.266667 21.333333 8.533333c4.266667 4.266667 38.4 59.733333 140.8 81.066667l-34.133333 38.4c-68.266667-17.066667-106.666667-51.2-128-72.533334-34.133333 38.4-119.466667 102.4-285.866667 89.6-4.266667 59.733333 4.266667 226.133333 81.066667 371.2z m537.6-401.066666v4.266666c0 4.266667 34.133333 482.133333-320 631.466667h-8.533334H494.933333c-55.466667-21.333333-98.133333-51.2-136.533333-85.333333l29.866667-34.133334c34.133333 29.866667 68.266667 55.466667 115.2 76.8C763.733333 725.333333 789.333333 409.6 793.6 298.666667l42.666667-51.2zM814.933333 128l38.4 34.133333L226.133333 883.2l-38.4-34.133333L814.933333 128z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_warranty" viewBox="0 0 1024 1024">
+    <path d="M844.8 234.666667c-4.266667-4.266667-12.8-4.266667-17.066667-4.266667-217.6 25.6-290.133333-85.333333-294.4-89.6-4.266667-8.533333-12.8-12.8-21.333333-12.8s-17.066667 4.266667-21.333333 12.8c0 0-72.533333 115.2-294.4 89.6-4.266667 0-12.8 0-17.066667 4.266667-4.266667 0-8.533333 8.533333-8.533333 12.8 0 4.266667-34.133333 494.933333 332.8 648.533333h21.333333C891.733333 742.4 853.333333 256 853.333333 247.466667c0-4.266667-4.266667-12.8-8.533333-12.8z m-627.2 42.666666c170.666667 12.8 260.266667-51.2 294.4-89.6 34.133333 38.4 123.733333 102.4 294.4 89.6 4.266667 93.866667-12.8 448-294.4 571.733334C230.4 725.333333 217.6 371.2 217.6 277.333333z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_0day" viewBox="0 0 1024 1024">
+    <path d="M512 281.6c-136.533333 0-247.466667 106.666667-247.466667 238.933333 0 38.4 8.533333 76.8 29.866667 110.933334l-38.4 38.4c-25.6-42.666667-42.666667-93.866667-42.666667-149.333334 0-157.866667 132.266667-290.133333 294.4-290.133333 51.2 0 102.4 12.8 145.066667 38.4l-12.8 17.066667-38.4 12.8c-25.6-12.8-59.733333-17.066667-89.6-17.066667z m149.333333 430.933333c12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 38.4-110.933333 59.733333-179.2 59.733334-59.733333 0-110.933333-17.066667-157.866667-42.666667l34.133334-34.133333c34.133333 21.333333 76.8 29.866667 119.466666 29.866666 59.733333 0 110.933333-17.066667 153.6-51.2z m251.733334-213.333333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133333-93.866667 0-179.2-29.866667-247.466667-81.066666l34.133334-38.4c59.733333 42.666667 136.533333 64 213.333333 64 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-21.333333 25.6-21.333333zM823.466667 298.666667c-4.266667 17.066667-17.066667 29.866667-34.133334 34.133333h-4.266666l38.4-34.133333zM200.533333 725.333333l-34.133333 34.133334C115.2 695.466667 85.333333 610.133333 85.333333 520.533333c0-230.4 192-418.133333 426.666667-418.133333 59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c8.533333-12.8 21.333333-21.333333 38.4-17.066667 17.066667 0 34.133333 12.8 38.4 29.866667l4.266666 21.333333-42.666666 42.666667-8.533334-34.133334-34.133333 55.466667C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 76.8 21.333333 149.333333 64 204.8zM896 85.333333l42.666667 38.4-810.666667 810.666667-42.666667-38.4L896 85.333333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_7days" viewBox="0 0 1024 1024">
+    <path d="M648.533333 409.6v38.4l-106.666666 238.933333h-76.8l98.133333-217.6h-119.466667V409.6h204.8z m264.533334 85.333333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133334S85.333333 750.933333 85.333333 520.533333s192-418.133333 426.666667-418.133333c59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c4.266667-17.066667 21.333333-21.333333 38.4-21.333334s34.133333 12.8 38.4 29.866667l42.666666 162.133333c8.533333 21.333333-8.533333 46.933333-29.866666 55.466667l-179.2 55.466667h-8.533334c-8.533333 0-21.333333-8.533333-25.6-17.066667-8.533333-12.8 0-25.6 12.8-29.866667l174.933334-55.466666-34.133334-140.8-34.133333 59.733333C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 204.8 170.666667 366.933333 375.466667 366.933334 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-25.6 25.6-25.6z m-401.066667-213.333333c-136.533333 0-247.466667 106.666667-247.466667 243.2 0 132.266667 110.933333 243.2 247.466667 243.2 55.466667 0 106.666667-17.066667 149.333333-51.2 12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 34.133333-110.933333 55.466667-179.2 55.466667-162.133333 0-294.4-132.266667-294.4-290.133334 0-157.866667 132.266667-290.133333 294.4-290.133333 55.466667 0 110.933333 17.066667 157.866667 46.933333l-68.266667 21.333334c-25.6-12.8-59.733333-17.066667-89.6-17.066667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_14days" viewBox="0 0 1024 1024">
+    <path d="M913.066667 494.933333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133334S85.333333 750.933333 85.333333 520.533333s192-418.133333 426.666667-418.133333c59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c4.266667-17.066667 21.333333-21.333333 38.4-21.333334s34.133333 12.8 38.4 29.866667l42.666666 162.133333c8.533333 21.333333-8.533333 46.933333-29.866666 55.466667l-179.2 55.466667h-8.533334c-8.533333 0-21.333333-8.533333-25.6-17.066667-8.533333-12.8 0-25.6 12.8-29.866667l174.933334-55.466666-34.133334-140.8-34.133333 59.733333C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 204.8 170.666667 366.933333 375.466667 366.933334 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-25.6 25.6-25.6zM392.533333 469.333333V413.866667h115.2c0 17.066667-4.266667 29.866667-4.266666 46.933333v157.866667c0 17.066667 0 29.866667 4.266666 46.933333h-68.266666c0-12.8 4.266667-29.866667 4.266666-46.933333V469.333333H392.533333z m153.6 145.066667v-55.466667c12.8-12.8 12.8-12.8 29.866667-34.133333l68.266667-76.8c12.8-17.066667 21.333333-25.6 29.866666-34.133333h64c0 17.066667-4.266667 29.866667-4.266666 51.2v98.133333h8.533333c8.533333 0 21.333333 0 29.866667-4.266667v55.466667H733.866667v12.8c0 17.066667 0 25.6 4.266666 38.4h-64c0-8.533333 4.266667-21.333333 4.266667-38.4v-12.8h-132.266667z m123.733334-51.2v-34.133333-42.666667c-4.266667 8.533333-12.8 12.8-17.066667 25.6l-42.666667 51.2h59.733334zM512 281.6c-136.533333 0-247.466667 106.666667-247.466667 243.2 0 132.266667 110.933333 243.2 247.466667 243.2 55.466667 0 106.666667-17.066667 149.333333-51.2 12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 34.133333-110.933333 55.466667-179.2 55.466667-162.133333 0-294.4-132.266667-294.4-290.133334 0-157.866667 132.266667-290.133333 294.4-290.133333 55.466667 0 110.933333 17.066667 157.866667 46.933333l-68.266667 21.333334c-25.6-12.8-59.733333-17.066667-89.6-17.066667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_optionChecked" viewBox="0 0 1024 1024">
+    <path d="M1023.6802 0v1023.3604H0.3198L1023.6802 0z" fill="#0a5d24"></path>
+    <path d="M652.072455 910.790756l-173.971268-173.331668 49.249219-49.249219 124.722049 124.722049 263.515303-263.515303 48.609619 49.249219-312.124922 312.124922zM0.3198 1023.3604v-63.960025L959.720175 0h63.960025v44.772017L45.091818 1024 0.3198 1023.3604z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_google" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#D34836"></path>
+    <path d="M583.68 559.104v-81.92H389.12v81.92h112.64c-16.384 49.152-63.488 81.92-116.736 81.92-51.2 0-114.688-47.104-114.688-122.88 0-69.632 49.152-122.88 114.688-122.88 30.72 0 61.44 12.288 81.92 30.72l59.392-59.392c-36.864-34.816-86.016-55.296-139.264-55.296-112.64 0-202.752 92.16-202.752 202.752s92.16 202.752 202.752 202.752c106.496 4.096 184.32-61.44 196.608-157.696zM839.68 483.328v51.2h-71.68v71.68H716.8v-71.68h-71.68v-51.2H716.8v-71.68h51.2v71.68H839.68z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_twitter" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#5EAADE"></path>
+    <path d="M784.384 346.112c-20.48 8.192-40.96 14.336-63.488 18.432 22.528-14.336 40.96-34.816 49.152-61.44-22.528 12.288-45.056 22.528-71.68 26.624-20.48-22.528-49.152-34.816-81.92-34.816-61.44 0-112.64 49.152-112.64 112.64 0 8.192 0 16.384 2.048 24.576-92.16-4.096-176.128-49.152-231.424-116.736-8.192 14.336-14.336 32.768-14.336 53.248 0 38.912 20.48 73.728 49.152 92.16-18.432 0-34.816-6.144-51.2-14.336v2.048c0 53.248 38.912 100.352 90.112 110.592-10.24 2.048-18.432 4.096-28.672 4.096-8.192 0-14.336 0-20.48-2.048 14.336 45.056 55.296 77.824 104.448 77.824-38.912 30.72-86.016 47.104-139.264 47.104-8.192 0-18.432 0-26.624-2.048 49.152 32.768 108.544 51.2 172.032 51.2 206.848 0 319.488-169.984 319.488-319.488v-14.336c20.48-14.336 38.912-34.816 55.296-55.296z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_pinterest" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#CA242D"></path>
+    <path d="M354.304 555.008c12.288 8.192 20.48 10.24 24.576-2.048 4.096-12.288 4.096-16.384 6.144-28.672 2.048-12.288 0-12.288-10.24-24.576-10.24-14.336-26.624-53.248-4.096-114.688 24.576-69.632 94.208-100.352 155.648-96.256 61.44 4.096 118.784 36.864 120.832 120.832 2.048 79.872-24.576 124.928-36.864 139.264-12.288 14.336-43.008 47.104-83.968 28.672-49.152-22.528-22.528-71.68-18.432-90.112 4.096-20.48 26.624-63.488 16.384-102.4-8.192-24.576-43.008-36.864-61.44-22.528-26.624 20.48-32.768 38.912-36.864 67.584-4.096 30.72 10.24 61.44 10.24 61.44s-32.768 131.072-38.912 165.888c-8.192 47.104-12.288 77.824-4.096 120.832 2.048 10.24 8.192 14.336 14.336 4.096 14.336-22.528 43.008-65.536 55.296-116.736 8.192-36.864 16.384-69.632 16.384-69.632s20.48 34.816 61.44 38.912c40.96 4.096 83.968-2.048 133.12-53.248 47.104-51.2 57.344-151.552 51.2-192.512-8.192-53.248-53.248-137.216-151.552-153.6-108.544-18.432-172.032 26.624-186.368 38.912-28.672 22.528-77.824 69.632-81.92 147.456-8.192 100.352 32.768 122.88 49.152 133.12z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_tumblr" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#181818"></path>
+    <path d="M649.216 679.936l26.624 81.92c-6.144 8.192-18.432 16.384-38.912 22.528-20.48 6.144-40.96 10.24-61.44 10.24-24.576 0-45.056-2.048-65.536-8.192-20.48-6.144-36.864-14.336-49.152-24.576L430.08 724.992c-8.192-14.336-14.336-26.624-18.432-40.96-4.096-14.336-6.144-26.624-6.144-40.96v-186.368H348.16v-73.728c16.384-6.144 30.72-14.336 45.056-24.576 12.288-10.24 22.528-20.48 30.72-30.72 8.192-10.24 14.336-22.528 20.48-34.816 6.144-12.288 10.24-24.576 12.288-34.816l6.144-30.72c0-2.048 0-2.048 2.048-2.048l2.048-2.048h83.968V368.64h114.688v86.016h-114.688v178.176c0 6.144 0 12.288 2.048 18.432 2.048 6.144 4.096 12.288 8.192 18.432 4.096 6.144 10.24 10.24 16.384 14.336s16.384 4.096 28.672 4.096c14.336 2.048 28.672-2.048 43.008-8.192z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_next" viewBox="0 0 1024 1024">
+    <path d="M618.66666633 516.26666699L281.60000033 853.33333299l85.333333 85.33333401L789.33333332 516.266667l-4.266667-4.266667-422.39999999-422.4-85.333333 85.333333 341.333333 341.33333399z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_delete" viewBox="0 0 1024 1024">
+    <path d="M896 204.8L819.2 128 512 435.2 204.8 128 128 204.8l307.2 307.2L128 819.2 204.8 896l307.2-307.2 307.2 307.2 76.8-76.8-307.2-307.2z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_add" viewBox="0 0 1024 1024">
+    <path d="M544 480v-160h-64v160h-160v64h160v160h64v-160h160v-64h-160z"></path>
+  </symbol>
+  <symbol id="lazadaicon_reduce" viewBox="0 0 1024 1024">
+    <path d="M320 480h384v64h-384z"></path>
+  </symbol>
+  <symbol id="lazadaicon_check" viewBox="0 0 1024 1024">
+    <path d="M840.533333 213.333333L938.666667 311.466667 362.666667 883.2 85.333333 605.866667l98.133334-98.133334 179.2 179.2z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_back" viewBox="0 0 1024 1024">
+    <path d="M912.00000031 464H303.99999969l280.00000031-280.00000031L512 111.99999969 111.99999969 512l400.00000031 400.00000031 72-72-280.00000031-280.00000031H912.00000031z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_ellipsis" viewBox="0 0 1024 1024">
+    <path d="M682.666667 512c0-46.933333 38.4-85.333333 85.333333-85.333333s85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333-85.333333-38.4-85.333333-85.333333z m-85.33333399 0c0 46.933333-38.4 85.333333-85.33333301 85.33333301s-85.333333-38.4-85.33333301-85.33333301 38.4-85.333333 85.33333301-85.33333301 85.333333 38.4 85.33333301 85.33333301z m-256.00000001 0c0 46.933333-38.4 85.333333-85.333333 85.333333s-85.333333-38.4-85.333333-85.333333 38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_bgCircle" viewBox="0 0 1024 1024">
+    <path d="M512 512m-426.666667 0a426.666667 426.666667 0 1 0 853.333334 0 426.666667 426.666667 0 1 0-853.333334 0Z" fill="#0a5d24"></path>
+  </symbol>
+  <symbol id="lazadaicon_dropDownArrow" viewBox="0 0 1024 1024">
+    <path d="M650.08 458.08l52.32 52.32L512 700.8l-190.4-190.4 52.32-52.32L512 596.16z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_btnCheck" viewBox="0 0 1024 1024">
+    <path d="M433.694118 602.352941l-90.352942-90.352941-57.223529 57.223529 147.576471 141.552942 304.188235-337.317647-57.223529-57.22353-246.964706 286.117647zM512 60.235294c249.976471 0 451.764706 201.788235 451.764706 451.764706s-201.788235 451.764706-451.764706 451.764706S60.235294 761.976471 60.235294 512 262.023529 60.235294 512 60.235294z" fill="#3352ed"></path>
+  </symbol>
+  <symbol id="lazadaicon_addToCart" viewBox="0 0 1024 1024">
+    <path d="M520.533333 738.133333c-34.133333 0-64 29.866667-64 64s29.866667 64 64 64 64-29.866667 64-64-25.6-64-64-64zM324.266667 213.333333v64h64l119.466666 251.733334-46.933333 76.8c-4.266667 8.533333-8.533333 21.333333-8.533333 34.133333 0 34.133333 29.866667 64 64 64h392.533333V640h-379.733333c-4.266667 0-8.533333-4.266667-8.533334-8.533333v-4.266667l29.866667-55.466667h243.2c25.6 0 46.933333-12.8 55.466667-34.133333l119.466666-213.333333c12.8-4.266667 12.8-4.266667 12.8-12.8 0-21.333333-12.8-34.133333-34.133333-34.133334H460.8L430.933333 213.333333H324.266667z m524.8 524.8c34.133333 0 64 29.866667 64 64s-29.866667 64-64 64-64-29.866667-64-64 29.866667-64 64-64z m-610.133334-256h123.733334V554.666667H238.933333v140.8H166.4V554.666667H42.666667v-72.533334h123.733333v-128h76.8v128z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_tooltip" viewBox="0 0 1024 1024">
+    <path d="M469.333333 725.333333h85.333334v-256h-85.333334v256z m42.666667-640C277.333333 85.333333 85.333333 277.333333 85.333333 512s192 426.666667 426.666667 426.666667 426.666667-192 426.666667-426.666667S746.666667 85.333333 512 85.333333z m0 768c-187.733333 0-341.333333-153.6-341.333333-341.333333s153.6-341.333333 341.333333-341.333333 341.333333 153.6 341.333333 341.333333-153.6 341.333333-341.333333 341.333333zM469.333333 384h85.333334V298.666667h-85.333334v85.333333z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_broadcast" viewBox="0 0 1024 1024">
+    <path d="M66.28571471 360.11428538v303.87428619h197.99999994L512 917.18857149V106.81142851L264.28571481 360.11428538H66.28571471zM734.85714313 512c0-91.13142842-49.57714313-167.14285687-123.84-202.59428526v405.18857052C685.27999998 679.14285687 734.85714313 603.23428535 734.85714313 512zM611.01714313 66.28571471v106.35428524c143.65714313 45.60000006 247.6457147 177.2571431 247.64571372 339.3942854 0 162.06857149-104.02285691 293.76000001-247.64571372 339.32571454V957.71428529C809.12000005 912.11428539 957.71428529 729.78285684 957.71428529 512 957.71428529 294.28571476 809.12000005 111.88571461 611.01714313 66.28571471z" fill="#26A96D"></path>
+  </symbol>
+  <symbol id="lazadaicon_close" viewBox="0 0 1024 1024">
+    <path d="M555.424 516.608l158.4-158.4-54.336-54.304-158.4 158.4-153.856-153.856-54.304 54.304 153.888 153.856-149.344 149.344 54.304 54.304 149.344-149.344 153.856 153.856 54.304-54.304-153.856-153.856z m-43.008 472.64c-265.088 0-480-214.944-480-480 0-265.12 214.912-480 480-480 265.088 0 480 214.88 480 480 0 265.056-214.912 480-480 480z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_closeBtn" viewBox="0 0 1024 1024">
+    <path d="M0 512C0 229.23 229.23 0 512 0s512 229.23 512 512-229.23 512-512 512S0 794.77 0 512z m768-204.8L716.8 256 512 460.8 307.2 256 256 307.2 460.8 512 256 716.8l51.2 51.2L512 563.2 716.8 768l51.2-51.2L563.2 512 768 307.2z" fill="#D1D3D4"></path>
+  </symbol>
+  <symbol id="lazadaicon_installment" viewBox="0 0 1024 1024">
+    <path d="M776.7552 779.6224l-3.0464 0.4864v-41.856l3.072 0.4864c23.04 3.4816 39.04 13.568 39.0144 20.3776 0 6.8864-16.0256 16.9984-39.04 20.5056z m-32.2304-73.6l-3.0208-0.384c-25.472-3.4048-41.0624-14.336-41.1136-20.7104 0.0768-6.3744 15.7184-17.3568 41.1136-20.7616l3.0208-0.384v42.24z m88.192 26.2912a47.8976 47.8976 0 0 0-11.0592-6.9632c-10.5728-5.0944-26.4192-9.6-45.7472-13.056l-2.2016-0.4096v-47.9488l3.072 0.4608c17.92 2.7136 30.5152 9.1136 35.9168 14.7712l28.2624-10.0352c-9.1648-17.7408-33.6896-30.8224-64.896-34.4064l-2.3552-0.2816v-25.7536h-29.184v25.5744l-2.4064 0.2304c-41.728 4.224-70.8352 24.9856-70.8352 50.4576 0 12.9024 7.2192 24.6784 21.0432 34.048l1.1264 0.5888c6.6816 3.5328 21.8624 10.1376 48.8448 14.4896l2.2272 0.3584v45.9264l-3.0208-0.4096c-19.712-2.6624-34.048-9.9584-39.0144-16.2304l-29.0304 7.1424c7.424 20.1472 33.9712 35.2256 68.6592 38.7584l2.4064 0.256v26.24l29.184 0.0256v-26.4704l2.3552-0.256c40.576-4.6592 68.9152-25.3696 68.9152-50.304 0-8.6784-3.2768-16.8192-9.6256-24.1408a64.1536 64.1536 0 0 0-2.6368-2.6624z m-74.624 137.7792c-83.968 0-152.2944-68.7104-152.2944-153.1648 0-84.4544 68.352-153.1904 152.32-153.1904 84.0192 0 152.3456 68.736 152.3456 153.1904s-68.3264 153.1648-152.3712 153.1648z m0-347.6224c-106.624 0-193.3824 87.2448-193.3824 194.4576 0 107.2384 86.784 194.432 193.3824 194.432 106.6752 0 193.4336-87.1936 193.4336-194.432 0-107.2128-86.7584-194.4576-193.4336-194.4576z m-467.0976 94.4384h53.8368v-54.144h-53.8368v54.144z m0 108.0064h53.8112v-54.144h-53.8368v54.144z m0-216.064h53.8368v-54.144h-53.8368v54.144z m-107.3152 108.0576H237.568v-54.144H183.68v54.144z m0 108.0064h53.8368v-54.144H183.6544v54.144z m214.6816-216.064h53.8368v-54.144h-53.8368v54.144zM118.528 788.8128a20.5312 20.5312 0 0 1-20.1984-20.3008V389.8368h652.032v96.2304c1.8944-0.0256 3.6096-0.256 5.5296-0.256 14.6688 0 28.3648 1.408 41.5744 3.584V217.728a67.6864 67.6864 0 0 0-67.328-67.6608h-71.6288v47.36h71.6288c10.9568 0 20.224 9.3184 20.224 20.3008v124.7488H98.304V217.728c0-10.9824 9.2672-20.3008 20.224-20.3008h85.8624v60.5952a23.6032 23.6032 0 0 0 47.1552 0V197.4272h0.128v-47.36h-0.128V100.48A23.6288 23.6288 0 0 0 227.9936 76.8a23.6544 23.6544 0 0 0-23.6032 23.68v49.5872H118.528A67.6864 67.6864 0 0 0 51.2 217.728V768.512a67.6864 67.6864 0 0 0 67.328 67.6864h447.7952a236.5696 236.5696 0 0 1-19.456-47.3856H118.4768z m439.2448-530.7904a23.6032 23.6032 0 0 0 47.1296 0V100.48a23.6288 23.6288 0 0 0-23.552-23.68 23.6544 23.6544 0 0 0-23.552 23.68v49.5616h-75.648v47.3856h75.6224v60.5952z m-176.64 0c0 13.0816 10.5216 23.6544 23.552 23.6544a23.552 23.552 0 0 0 23.552-23.6544V197.4272h0.0768V150.0416h-0.1024V100.48A23.6032 23.6032 0 0 0 404.6592 76.8a23.6288 23.6288 0 0 0-23.552 23.68v49.5616h-75.5968v47.3856h75.5712v60.5952z m17.2544 466.8928h53.8368v-54.144h-53.8368v54.144z m0-108.0064h53.8368v-54.144h-53.8368v54.144z m107.3664-108.0576h53.8624v-54.144h-53.8624v54.144z" fill="#183545"></path>
+  </symbol>
+  <symbol id="lazadaicon_im" viewBox="0 0 1024 1024">
+    <path d="M675.84 499.712c0 4.096 0 8.192-4.096 12.288 0 4.096-4.096 8.192-8.192 12.288-4.096 4.096-8.192 4.096-12.288 8.192-4.096 0-8.192 4.096-12.288 4.096H286.72l-143.36 143.36V180.224c0-4.096 0-8.192 4.096-12.288 0-4.096 4.096-8.192 8.192-12.288 0-4.096 4.096-8.192 8.192-8.192s8.192-4.096 12.288-4.096h462.848c4.096 0 8.192 0 12.288 4.096 4.096 0 8.192 4.096 12.288 8.192 4.096 4.096 4.096 8.192 8.192 12.288 0 4.096 4.096 8.192 4.096 12.288v319.488z m167.936-192.512c4.096 0 8.192 0 12.288 4.096 4.096 0 8.192 4.096 12.288 8.192 4.096 4.096 4.096 8.192 8.192 12.288 0 4.096 4.096 8.192 4.096 12.288v536.576L737.28 737.28H344.064c-4.096 0-8.192 0-12.288-4.096-4.096 0-8.192-4.096-12.288-8.192-4.096-4.096-4.096-8.192-8.192-12.288 0-4.096-4.096-8.192-4.096-12.288v-69.632h466.944V307.2h69.632z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_emptyHeart" viewBox="0 0 1024 1024">
+    <path d="M516.266667 874.666667l-328.533334-324.266667c-76.8-76.8-76.8-200.533333 0-277.333333 34.133333-42.666667 85.333333-59.733333 136.533334-59.733334s102.4 21.333333 140.8 55.466667L512 320l46.933333-46.933333c38.4-42.666667 89.6-59.733333 140.8-59.733334s102.4 21.333333 140.8 55.466667c38.4 38.4 55.466667 85.333333 55.466667 136.533333s-21.333333 102.4-55.466667 136.533334l-324.266666 332.8zM324.266667 260.266667c-42.666667 0-76.8 12.8-106.666667 42.666666-55.466667 55.466667-59.733333 153.6 0 213.333334L512 810.666667l294.4-294.4c29.866667-29.866667 42.666667-64 42.666667-106.666667 0-38.4-12.8-76.8-42.666667-106.666667-55.466667-55.466667-153.6-55.466667-213.333333 0L512 384l-81.066667-81.066667c-25.6-29.866667-64-42.666667-106.666666-42.666666z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_fullHeart" viewBox="0 0 1024 1024">
+    <path d="M704 128c-72.533333 0-145.066667 34.133333-192 89.6-46.933333-55.466667-119.466667-89.6-192-89.6-132.266667 0-234.666667 102.4-234.666667 234.666667 0 162.133333 145.066667 294.4 362.666667 490.666666l64 55.466667 64-55.466667c217.6-200.533333 362.666667-332.8 362.666667-490.666666 0-132.266667-102.4-234.666667-234.666667-234.666667z" fill="#939598"></path>
+  </symbol>
+  <symbol id="lazadaicon_mute" viewBox="0 0 1024 1024">
+    <path d="M1024 451.142621l-63.346759-63.329104-89.15862 89.176276-89.193931-89.158621-63.382069 63.311449 89.229241 89.193931-89.229241 89.193931 63.346758 63.329103 89.229242-89.193931 89.15862 89.193931L1024 629.530483l-89.193931-89.193931zM0 280.364138v463.271724h227.116138L647.062069 1019.003586V4.996414L227.186759 280.364138H0z m94.119724 94.119724h99.998897V649.533793H94.102069V374.466207zM552.96 844.729379l-264.686345-173.550345v-318.322758l264.686345-173.585655v665.458758z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_sound" viewBox="0 0 1024 1024">
+    <path d="M643.990069 8.474483L226.674759 282.129655H0.865103v460.446897h225.739035l417.368276 273.655172V8.474483h0.017655zM94.419862 375.684414h99.36331V649.004138H94.419862V375.702069z m456.033104 467.367724l-263.09738-172.491035V354.198069l263.079724-172.526345v661.362759zM745.613241 383.735172h93.554759v257.218207h-93.554759zM930.445241 302.856828H1024v419.027862h-93.554759z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_smallScreen" viewBox="0 0 1024 1024">
+    <path d="M105.6 105.6h208.384V0H0v309.141333h105.6zM918.4 705.216v213.184h-208.405333V1024H1024V705.216zM84.394667 676.394667h190.613333L18.752 932.650667l74.666667 74.666666 256.256-256.256v190.634667h105.6V570.794667H84.394667zM939.626667 347.605333h-190.634667L1005.226667 91.349333l-74.666667-74.666666-256.213333 256.256V82.325333h-105.6v370.88h370.88z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_largeScreen" viewBox="0 0 1024 1024">
+    <path d="M105.621333 309.162667V105.621333h208.384V0.021333H0v309.141334zM710.4 105.621333h208.405333v203.541334h105.6V0.021333H710.4zM313.984 918.378667H105.621333v-213.184H0v318.784h313.984zM918.784 705.194667v213.184H710.4v105.6h313.962667V705.194667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_arrowDown" viewBox="0 0 1024 1024">
+    <path d="M806.4 341.333333l89.6 89.6-384 379.733334-384-379.733334L217.6 341.333333l294.4 294.4z"></path>
+  </symbol>
+  <symbol id="lazadaicon_arrowUp" viewBox="0 0 1024 1024">
+    <path d="M806.4 768l89.6-89.6L512 298.666667l-384 379.733333L217.6 768l294.4-294.4z"></path>
+  </symbol>
+  <symbol id="lazadaicon_star_half" viewBox="0 0 1024 1024">
+    <path d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z" fill="#3352ed"></path>
+    <path d="M512 797.866667V51.2c0-4.266667-4.266667-8.533333-8.533333-8.533333s-8.533333 4.266667-8.533334 4.266666l-119.466666 298.666667-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_star_full" viewBox="0 0 1024 1024">
+    <path d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_location" viewBox="0 0 1024 1024">
+    <path d="M520.533333 264.533333c-42.666667 0-76.8 12.8-106.666666 42.666667s-42.666667 64-42.666667 106.666667 12.8 76.8 42.666667 106.666666 64 42.666667 106.666666 42.666667 76.8-12.8 106.666667-42.666667 42.666667-68.266667 42.666667-106.666666c0-42.666667-12.8-76.8-42.666667-106.666667s-68.266667-42.666667-106.666667-42.666667z m0 34.133334c34.133333 0 59.733333 8.533333 81.066667 34.133333 21.333333 21.333333 34.133333 51.2 34.133333 81.066667 0 34.133333-12.8 59.733333-34.133333 81.066666s-51.2 34.133333-81.066667 34.133334c-34.133333 0-59.733333-12.8-81.066666-34.133334s-34.133333-51.2-34.133334-81.066666c0-34.133333 12.8-59.733333 34.133334-81.066667s46.933333-34.133333 81.066666-34.133333z">
+    </path>
+    <path d="M729.6 187.733333c-59.733333-55.466667-128-85.333333-209.066667-85.333333-81.066667 0-153.6 29.866667-209.066666 85.333333-59.733333 55.466667-85.333333 128-85.333334 209.066667 0 55.466667 12.8 102.4 38.4 149.333333 0 0 4.266667 4.266667 4.266667 8.533334l230.4 358.4c8.533333 12.8 21.333333 12.8 29.866667 0l247.466666-362.666667c29.866667-46.933333 42.666667-98.133333 42.666667-153.6 0-81.066667-29.866667-153.6-89.6-209.066667z m-21.333333 21.333334c51.2 51.2 76.8 110.933333 76.8 183.466666 0 51.2-12.8 93.866667-34.133334 132.266667l-247.466666 362.666667h29.866666L298.666667 533.333333c0-4.266667-8.533333-8.533333-4.266667-8.533333-21.333333-38.4-34.133333-81.066667-34.133333-128 0-72.533333 25.6-132.266667 76.8-183.466667 51.2-51.2 110.933333-76.8 183.466666-76.8 72.533333 0 132.266667 21.333333 187.733334 72.533334z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_search" viewBox="0 0 1024 1024">
+    <path d="M820.662857 785.554286L635.611429 600.502857c33.645714-43.154286 52.662857-95.817143 52.662857-151.405714 0-65.097143-25.6-126.537143-71.68-173.348572-46.811429-45.348571-108.251429-70.948571-173.348572-70.948571-65.828571 0-127.268571 25.6-173.348571 71.68-46.08 46.08-71.68 107.52-71.68 173.348571s25.6 126.537143 71.68 173.348572c46.08 46.08 107.52 71.68 173.348571 71.68 64.365714 0 124.342857-24.868571 170.422857-69.485714l183.588572 183.588571 23.405714-23.405714zM444.708571 664.868571c-57.051429 0-110.445714-21.942857-151.405714-62.902857-40.228571-40.228571-62.902857-93.622857-62.902857-150.674285 0-57.051429 21.942857-110.445714 62.902857-150.674286 40.96-40.96 94.354286-62.902857 151.405714-62.902857 57.051429 0 110.445714 21.942857 150.674286 62.902857S658.285714 394.24 658.285714 451.291429s-21.942857 110.445714-62.902857 150.674285c-40.228571 40.228571-93.622857 62.902857-150.674286 62.902857z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_great" viewBox="0 0 1024 1024">
+    <path d="M136.533333 849.066667h140.8v-426.666667H136.533333v426.666667z m785.066667-388.266667c0-38.4-34.133333-72.533333-72.533333-72.533333h-226.133334l34.133334-162.133334V213.333333c0-12.8-4.266667-29.866667-17.066667-38.4l-38.4-38.4-230.4 234.666667c-12.8 12.8-21.333333 34.133333-21.333333 51.2v354.133333c0 38.4 34.133333 72.533333 72.533333 72.533334h320c29.866667 0 55.466667-17.066667 64-42.666667l106.666667-251.733333c4.266667-8.533333 4.266667-17.066667 4.266666-25.6v-68.266667h4.266667z">
+    </path>
+  </symbol>
+</svg>
+  <script type="text/javascript" id="beacon-aplus" src="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
+
+  <div class="mui-zebra-module" id="J_icms-5004710-1520248008751" data-module-id="icms-5004710-1520248008751" data-version="5.0.5" data-spm="icms-5004710-1520248008751">
+  <script type="text/javascript">try{if(typeof window==='object'){window.CROSSIMAGE_GRAYSCALE_RULE={"id-live-01.slatic.net":"id-test-11.slatic.net","id-live-02.slatic.net":"id-test-11.slatic.net","id-live-03.slatic.net":"id-test-11.slatic.net","id-live.slatic.net":"id-test-11.slatic.net"};window.crossimageConfig={quality:'q80'}}}catch(error){console.log('CROSSIMAGE CONFIG ERROR');}</script>
+
+</div>
+
+  <script type="application/ld+json">
+    {"@type":"Product","@context":"https://schema.org","name":"SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://policyresearchjournal.com/"},"sku":"5122158500_ID-1208608260","mpn":5122158500,"description":"Raih kemenangan besar setiap hari bersama SLOT GACOR, situs slot online terpercaya dengan link resmi Slot777 yang dikenal paling gampang jackpot!","url":"https://policyresearchjournal.com/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i5122158500-s1208608260.html","offers":{"@type":"Offer","url":"https://policyresearchjournal.com/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i5122158500-s1208608260.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+  </script>
+  <script type="application/ld+json" data-rh="true">
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://policyresearchjournal.com/",
+            "name": "SLOT GACOR"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://policyresearchjournal.com/",
+            "name": "SLOT GACOR"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://policyresearchjournal.com/",
+            "name": "SLOT GACOR"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://policyresearchjournal.com/",
+            "name": "SLOT GACOR Login"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://policyresearchjournal.com/",
+            "name": "SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya"
+          }
+        }]
+      }
+    </script>
+  
+  
+    <script>window.__bl={};window._blReport=function(e,t){window.__bl&&(__bl.api?__bl[e].apply(__bl,t):(__bl.pipe=__bl.pipe||[],__bl.pipe.push([e].concat(t))))},window.addEventListener("error",function(e){_blReport("error",[e.error,e])}),window.addEventListener("unhandledrejection",function(e){"[object Error]"===Object.prototype.toString.call(e.reason)&&_blReport("error",[e.reason])});</script>
+<script>window.g_config=window.g_config||{};window.g_config.regionID='ID';window.g_config.language='id';</script>
+<script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
+<script src="https://g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
+<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css">
+<script>window.g_config=window.g_config||{};window.g_config.loadedCss=window.g_config.loadedCss||[];window.g_config.loadedCss=["@ali/lzdmod-site-nav-pc/pc/index.css","@ali/lzdmod-site-menu-nav-pc/pc/index.css","@ali/lzdmod-site-menu-pc/pc/index.css"];</script>
+<div class="mui-zebra-module" id="J_icms-5000458-1511711480682" data-module-id="icms-5000458-1511711480682" data-version="5.2.43" data-spm="icms-5000458-1511711480682">
+<script>(function(){try{if(window.aplusPageIdSetComplete||/AliApp/i.test(navigator.userAgent)){return;}var get_cookie=function(sName){var sRE='(?:; )?'+sName+'=([^;]*);?';var oRE=new RegExp(sRE);if(oRE.test(document.cookie)){var str=decodeURIComponent(RegExp['$1'])||'';if(str.trim().length>0){return str;}else{return'-';}}else{return'-';}};var getRand=function(){var page_id=get_cookie('cna')||'001';page_id=page_id.toLowerCase().replace(/[^a-z\d]/g,'');page_id=page_id.substring(0,16);var d=(new Date()).getTime();var randend=[page_id,d.toString(16)].join('');for(var i=1;i<10;i++){var _r=parseInt(Math.round(Math.random()*10000000000),10).toString(16);randend+=_r;}randend=randend.substr(0,42);return randend;};var pageid=getRand();var aq=(window.aplus_queue||(window.aplus_queue=[]));aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});var gq=(window.goldlog_queue||(window.goldlog_queue=[]));gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});window.aplusPageIdSetComplete=true;}catch(err){console.error(err);}})();</script>
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.css">
+  <script src="https://g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.js"></script>
+<script>window.g_config=window.g_config||{};window.g_config.voyagerVersion='2';window.g_config.voyagerEnv='product';window.g_config.channel='pdp';window.g_config.showPcSearchboxHotWords=true;</script>
+<div id="J_LzdSiteNav" class="site-nav J_NavScroll" data-mod-name="@ali/lzdmod-site-nav-pc/pc/index" data-config="{}">
+  <div class="lzd-header   " data-spm="header" data-tag="links">
+    <div id="topActionHeader" class="lzd-header-content-wrap J_NavScroll">
+      <div class="lzd-header-content">
+        <div class="lzd-links-bar" id="topActionLinks">
+            <div class="links-list header-content ID id">
+                <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
+                    <a class="highlight" target="_blank" style="color: #ff0000;" href="https://policyresearchjournal.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
+                </div>
+                  <div class="top-links-item" id="topActionFeedback">
+                      <a class="highlight" target="_blank" style="color: #ff0000;" href="https://policyresearchjournal.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT GACOR</a>
+                  </div>
+                    <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
+                        <span>SITUS SLOT GACOR</span>
+                        <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
+  <div class="top-popup-content lzd-download-content">
+    <div class="get-the-app-scope">
+      <div class="get-the-app">
+        <div class="get-the-app-title">Download Aplikasinya dan Belanja Sekarang!</div>
+        <div class="get-the-app-promotion">
+<!--             <div class="get-the-app-lazada-qr-wrap">
+              <script data-pagespeed-no-defer>//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://policyresearchjournal.com/','82dtZm2p5Q',true,false,'BDLX-yPMuPg');
+//]]></script><img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="" data-pagespeed-url-hash="1813935101" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            </div> -->
+
+          <div class="promotion-text">
+            <a href="https://policyresearchjournal.com/">
+              <div class="get-the-app-download-text">
+                <p>Belanja di App banyak untungnya:</p>
+<ul>
+<li>Banyak Vouchernya</li>
+<li>Produk Eksklusif di App</li>
+<li>Rekomendasi Hanya Untukmu</li>
+<li>Paling Pertama Dapat Promo&nbsp;</li>
+</ul>
+              </div>
+            </a>
+          </div>
+        </div>
+          <form class="get-the-app-form" id="topActionDownloadForm">
+  <div class="top-input-wrap get-the-app-input-wrap">
+    <input class="tel-text top-input" id="topActionDownloadInput" placeholder="eg. 0123456789" autocomplete="off">
+    <button class="top-button button-submit" id="txt-submit">
+      <i class="icon icon-arrow-on-button"></i>
+    </button>
+  </div>
+</form>
+<div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
+<div class="error-message" id="topActionDownloadErrorMsg"></div>
+        <div class="app-stores">
+          <a href="https://policyresearchjournal.com/" class="store-link">
+            <i class="app-apple"></i>
+          </a>
+          <a href="https://policyresearchjournal.com/" class="store-link">
+            <i class="app-google"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                    </div>
+                <div class="top-links-item" id="topActionSell">
+                    <a class="cyan" href="https://policyresearchjournal.com/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Slot</a>
+                </div>
+                    <div style="color:#fff;" class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
+                      <span>SLOT777</span>
+                        <div class="lzd-customcare-popup top-popup-wrap">
+  <div class="top-popup-content l-customcare-content">
+    <ul class="care-list">
+        <li class="care-item">
+                <a href="https://policyresearchjournal.com/helpcenter/" class="care-item-anchor"> 
+                  <span class="care-icon help-center">
+                  </span>
+                  Pusat Bantuan
+                </a>
+        </li>
+        <li class="care-item">
+                <a href="https://policyresearchjournal.com/helpcenter/payments/" class="care-item-anchor"> 
+                  <span class="care-icon order-payment">
+                  </span>
+                  Order &amp; Pembayaran
+                </a>
+            <a href="https://policyresearchjournal.com/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
+                Pembatalan Pesanan
+            </a>
+        </li>
+        <li class="care-item">
+                <a href="https://policyresearchjournal.com/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
+                  <span class="care-icon shipping-delivery">
+                  </span>
+                  Pengiriman
+                </a>
+        </li>
+        <li class="care-item">
+                <a href="https://policyresearchjournal.com/helpcenter/returns/" class="care-item-anchor"> 
+                  <span class="care-icon returns-refunds">
+                  </span>
+                  Pengembalian Barang &amp; Dana
+                </a>
+        </li>
+        <li class="care-item">
+            <div class="care-item-anchor">
+              <span class="care-icon chat"></span>
+              <span class="care-title">Hubungi kami di</span>
+                <span class="--js-csc-trigger">
+                  <a href="javascript:;">
+                      Live Chat (24 Jam)
+                  </a>
+                </span>
+            </div>
+        </li>
+    </ul>
+  </div>
+</div>
+                    </div>
+                  <div style="color:#fff;" class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
+                    <span>LACAK PESANAN</span>
+                    <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
+  <div class="top-popup-content lzd-track-content">
+    <div id="topActionMyLastOrder">
+    </div>
+    <div class="track-title">LACAK PESANAN</div>
+    <form class="track-order-form" id="topActionTrackForm">
+      <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
+      <div class="top-input-wrap track-order-input-wrap">
+        <input placeholder="eg.123456789" id="topActionTrackOrderNumber" class="order-text top-input">
+        <button type="button" class="top-button button-submit">
+          <i class="icon icon-arrow-on-button"></i>
+        </button>
+      </div>
+      <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://policyresearchjournal.com/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+    </form>
+    <div class="error-message" id="topActionTrackErrorMsg"></div>
+  </div>
+</div>
+                  </div>
+                <div class="top-links-item  white" id="anonLogin">
+                  <a class="grey" href="https://douberman.dev/amp/amp-policyresearchjournal.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+                </div>
+                <div class="top-links-item  white" id="anonSignup">
+                  <a class="grey" href="https://douberman.dev/amp/amp-policyresearchjournal.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+                </div>
+                <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
+                  <span id="myAccountTrigger" class="grey"></span>
+<div class="lzd-account-popup top-popup-wrap" id="lzdMyAccountPop">
+  <div class="top-popup-content lzd-account-content">
+      <ul class="account-list">
+          <li class="account-item">
+                <a href="https://policyresearchjournal.com/" class="account-item-anchor">
+                    <span class="account-icon test manage-account"></span>Panel Akun
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="https://policyresearchjournal.com/" class="account-item-anchor">
+                    <span class="account-icon test my-orders"></span>Pesanan Saya
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="https://policyresearchjournal.com/" class="account-item-anchor">
+                    <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="https://policyresearchjournal.com/" class="account-item-anchor">
+                    <span class="account-icon test my-reviews"></span>Ulasan Saya
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="https://policyresearchjournal.com/" class="account-item-anchor">
+                    <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="https://policyresearchjournal.com/" class="account-item-anchor" id="account-popup-logout">
+                    <span class="account-icon test logout"></span>Logout
+                </a>
+          </li>
+      </ul>
+  </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="lzd-logo-bar">
+          <div class="logo-bar-content header-content">
+              <div class="lzd-logo-content"><a href="https://policyresearchjournal.com/" data-spm="dhome"><img style="width:auto;" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1743413165/resize-for-kecil_fx2fap.gif" alt="SLOT GACOR" data-pagespeed-url-hash="1025876995" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a></div>
+              <div class="lzd-nav-search " data-spm="search">   
+                <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
+              </div>
+                <div class="lzd-nav-menu-redmart" style="display: none;">
+  <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
+<div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
+    <div class="lzd-site-menu-nav-container">
+        <div class="lzd-site-menu-nav-category">
+            <a href="https://policyresearchjournal.com/">
+                <span class="lzd-site-menu-nav-category-text">Kategori</span>
+            </a>
+            <div class="lzd-site-menu-nav-menu">
+  <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
+<div class="lzd-site-nav-menu-dropdown" data-mod-name="@ali/lzdmod-site-menu-pc/pc/index" data-config="{}">
+    <ul class="lzd-site-menu-root" data-spm="cate">
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
+            <a> 
+                        <span>Peralatan Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
+            <a> 
+                        <span>Aksesoris Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Wanita</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No4">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Pria</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No5">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Anak</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No6">
+            <a> 
+                        <span>Kesehatan &amp; Kecantikan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
+            <a> 
+                    <span>Bayi &amp; Mainan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
+            <a> 
+                        <span>TV &amp; Elektronik Rumah</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No9">
+            <a> 
+                        <span>Keperluan Rumah &amp; Gaya Hidup</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No10">
+            <a> 
+                        <span>Kebutuhan Rumah Tangga</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No11">
+            <a> 
+                        <span>Olahraga &amp; Outdoor</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No12">
+            <a> 
+                    <span>Otomotif</span>
+            </a>
+         </li>    
+        <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
+            <li class="sub-item-remove-arrow" data-cate="cate_1_1">
+                <a href="https://policyresearchjournal.com/beli-handphone">
+                    <span>Handphone</span>
+                </a>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
+                <a href="https://policyresearchjournal.com/shop-beli-laptop/">
+                    <span>Laptop</span>
+                </a>
+                        <script type="text" class="J_data_0_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://policyresearchjournal.com/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://policyresearchjournal.com/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://policyresearchjournal.com/beli-laptop-2-in-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
+                <a href="https://policyresearchjournal.com/beli-komputer/">
+                    <span>Desktop</span>
+                </a>
+                        <script type="text" class="J_data_0_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://policyresearchjournal.com/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://policyresearchjournal.com/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://policyresearchjournal.com/beli-pc-all-in-one/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
+                <a href="https://policyresearchjournal.com/beli-kamera/">
+                    <span>Kamera</span>
+                </a>
+                        <script type="text" class="J_data_0_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://policyresearchjournal.com/beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://policyresearchjournal.com/beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-instan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
+                <a href="https://policyresearchjournal.com/shop-gaming-konsol/">
+                    <span>Game Console</span>
+                </a>
+                        <script type="text" class="J_data_0_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://policyresearchjournal.com/shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesoris-game-konsol/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
+                <a href="https://policyresearchjournal.com/beli-gadget/">
+                    <span>Gadget</span>
+                </a>
+                        <script type="text" class="J_data_0_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://policyresearchjournal.com/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://policyresearchjournal.com/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://policyresearchjournal.com/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://policyresearchjournal.com/jual-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="sub-item-remove-arrow" data-cate="cate_1_7">
+                <a href="https://policyresearchjournal.com/beli-tablet-2">
+                    <span>Tablet</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
+                <a href="https://policyresearchjournal.com/beli-aksesori-handphone">
+                    <span>Aksesoris Handphone</span>
+                </a>
+                        <script type="text" class="J_data_1_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://policyresearchjournal.com/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://policyresearchjournal.com/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://policyresearchjournal.com/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://policyresearchjournal.com/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://policyresearchjournal.com/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://policyresearchjournal.com/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://policyresearchjournal.com/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://policyresearchjournal.com/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://policyresearchjournal.com/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesori-ponsel/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
+                <a href="https://policyresearchjournal.com/beli-aksesori-komputer/">
+                    <span>Aksesoris Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://policyresearchjournal.com/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://policyresearchjournal.com/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://policyresearchjournal.com/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://policyresearchjournal.com/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://policyresearchjournal.com/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://policyresearchjournal.com/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-pendingin/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
+                <a href="https://policyresearchjournal.com/shop-audio/">
+                    <span>Audio</span>
+                </a>
+                        <script type="text" class="J_data_1_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://policyresearchjournal.com/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://policyresearchjournal.com/beli-speaker-smart/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
+                <a href="https://policyresearchjournal.com/shop-perangkat-pintar/">
+                    <span>Aksesoris Berteknologi</span>
+                </a>
+                        <script type="text" class="J_data_1_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://policyresearchjournal.com/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://policyresearchjournal.com/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://policyresearchjournal.com/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://policyresearchjournal.com/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://policyresearchjournal.com/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://policyresearchjournal.com/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://policyresearchjournal.com/beli-smart-glasses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
+                <a href="https://policyresearchjournal.com/beli-aksesoris-2/">
+                    <span>Aksesoris Kamera</span>
+                </a>
+                        <script type="text" class="J_data_1_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://policyresearchjournal.com/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://policyresearchjournal.com/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://policyresearchjournal.com/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://policyresearchjournal.com/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-lighting-studio/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
+                <a href="https://policyresearchjournal.com/shop-penyimpanan-data/">
+                    <span>Penyimpanan Data</span>
+                </a>
+                        <script type="text" class="J_data_1_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://policyresearchjournal.com/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://policyresearchjournal.com/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://policyresearchjournal.com/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://policyresearchjournal.com/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://policyresearchjournal.com/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://policyresearchjournal.com/beli-external-solid-state-drive/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
+                <a href="https://policyresearchjournal.com/beli-printers/">
+                    <span>Printer</span>
+                </a>
+                        <script type="text" class="J_data_1_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://policyresearchjournal.com/beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://policyresearchjournal.com/tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://policyresearchjournal.com/pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://policyresearchjournal.com/beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://policyresearchjournal.com/beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://policyresearchjournal.com/printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://policyresearchjournal.com/modul-memori-printer/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
+                <a href="https://policyresearchjournal.com/beli-aksesori-handphone/">
+                    <span>Aksesoris Tablet</span>
+                </a>
+                        <script type="text" class="J_data_1_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://policyresearchjournal.com/jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://policyresearchjournal.com/beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://policyresearchjournal.com/beli-pen-stylus-tablet/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
+                <a href="https://policyresearchjournal.com/beli-komponen-komputer/">
+                    <span>Komponen Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://policyresearchjournal.com/beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://policyresearchjournal.com/beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://policyresearchjournal.com/beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://policyresearchjournal.com/beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://policyresearchjournal.com/beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://policyresearchjournal.com/soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://policyresearchjournal.com/beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://policyresearchjournal.com/beli-water-cooling-system/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
+                <a href="https://policyresearchjournal.com/pakaian-wanita/">
+                    <span>Pakaian Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_0">
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://policyresearchjournal.com/jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://policyresearchjournal.com/gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://policyresearchjournal.com/kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://policyresearchjournal.com/sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://policyresearchjournal.com/celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://policyresearchjournal.com/rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://policyresearchjournal.com/kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://policyresearchjournal.com/overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://policyresearchjournal.com/hoodie-sweatshirt-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
+                <a href="https://policyresearchjournal.com/baju-muslim-wanita/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_2_1">
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://policyresearchjournal.com/baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://policyresearchjournal.com/hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://policyresearchjournal.com/atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://policyresearchjournal.com/dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://policyresearchjournal.com/bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://policyresearchjournal.com/jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://policyresearchjournal.com/jual-baju-kurung-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
+                <a href="https://policyresearchjournal.com/lingerie-baju-tidur/">
+                    <span>Lingerie, Baju Tidur &amp; Santai</span>
+                </a>
+                        <script type="text" class="J_data_2_2">
+                            [{"childCategoryName":"Bra","childCategoryUrl":"https://policyresearchjournal.com/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://policyresearchjournal.com/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://policyresearchjournal.com/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://policyresearchjournal.com/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://policyresearchjournal.com/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://policyresearchjournal.com/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://policyresearchjournal.com/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://policyresearchjournal.com/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesori-lingerie-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
+                <a href="https://policyresearchjournal.com/sepatu-wanita/">
+                    <span>Sepatu Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_3">
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://policyresearchjournal.com/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://policyresearchjournal.com/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://policyresearchjournal.com/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://policyresearchjournal.com/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://policyresearchjournal.com/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://policyresearchjournal.com/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://policyresearchjournal.com/sandal-jepit-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
+
+                <a href="https://policyresearchjournal.com/aksesoris-wanita/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_2_4">
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://policyresearchjournal.com/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://policyresearchjournal.com/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://policyresearchjournal.com/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://policyresearchjournal.com/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://policyresearchjournal.com/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-women-fabricmask/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
+                <a href="https://policyresearchjournal.com/tas-wanita/">
+                    <span>Tas Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_5">
+                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://policyresearchjournal.com/shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://policyresearchjournal.com/tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://policyresearchjournal.com/shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://policyresearchjournal.com/top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://policyresearchjournal.com/tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
+                <a href="https://policyresearchjournal.com/beli-perhiasan-wanita/">
+                    <span>Perhiasan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://policyresearchjournal.com/beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://policyresearchjournal.com/beli-wanita-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
+                <a href="https://policyresearchjournal.com/beli-jam-tangan-wanita/">
+                    <span>Jam Tangan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_7">
+                            [{"childCategoryName":"Aksesori","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://policyresearchjournal.com/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://policyresearchjournal.com/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-olahraga-wanita/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
+                <a href="https://policyresearchjournal.com/pakaian-pria/">
+                    <span>Pakaian Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_0">
+                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://policyresearchjournal.com/jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://policyresearchjournal.com/jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://policyresearchjournal.com/celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://policyresearchjournal.com/polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://policyresearchjournal.com/kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://policyresearchjournal.com/jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://policyresearchjournal.com/jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://policyresearchjournal.com/sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://policyresearchjournal.com/baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://policyresearchjournal.com/atasan-kasual-kaos-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
+                <a href="https://policyresearchjournal.com/baju-muslim-pria/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_3_1">
+                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://policyresearchjournal.com/jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://policyresearchjournal.com/cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://policyresearchjournal.com/shop-kopiah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
+                <a href="https://policyresearchjournal.com/pakaian-dalam-dan-kaos-kaki-pria/">
+                    <span>Pakaian Dalam</span>
+                </a>
+                        <script type="text" class="J_data_3_2">
+                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://policyresearchjournal.com/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://policyresearchjournal.com/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://policyresearchjournal.com/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://policyresearchjournal.com/pakaian-dalam-pria-thongs-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
+                <a href="https://policyresearchjournal.com/sepatu-pria/">
+                    <span>Sepatu Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_3">
+                            [{"childCategoryName":"Boots","childCategoryUrl":"https://policyresearchjournal.com/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://policyresearchjournal.com/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://policyresearchjournal.com/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://policyresearchjournal.com/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://policyresearchjournal.com/sneakers-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
+                <a href="https://policyresearchjournal.com/aksesoris-pria/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_3_4">
+                            [{"childCategoryName":"Dasi","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://policyresearchjournal.com/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://policyresearchjournal.com/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://policyresearchjournal.com/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://policyresearchjournal.com/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://policyresearchjournal.com/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://policyresearchjournal.com/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://policyresearchjournal.com/shop-masker-wajah-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
+                <a href="https://policyresearchjournal.com/tas-pria/">
+                    <span>Tas Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_5">
+                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://policyresearchjournal.com/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://policyresearchjournal.com/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://policyresearchjournal.com/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://policyresearchjournal.com/shop-dompet-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
+                <a href="https://policyresearchjournal.com/beli-perhiasan-pria/">
+                    <span>Perhiasan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://policyresearchjournal.com/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://policyresearchjournal.com/beli-pria-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
+                <a href="https://policyresearchjournal.com/beli-jam-tangan-pria/">
+                    <span>Jam Tangan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_7">
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://policyresearchjournal.com/shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://policyresearchjournal.com/shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-olahraga-pria/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
+                <a href="https://policyresearchjournal.com/fashion-pakaian-anak-laki-laki">
+                    <span>Pakaian Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_0">
+                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://policyresearchjournal.com/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://policyresearchjournal.com/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://policyresearchjournal.com/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://policyresearchjournal.com/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/baju-atasan-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
+                <a href="https://policyresearchjournal.com/pakaian-anak-perempuan">
+                    <span>Pakaian Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_1">
+                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://policyresearchjournal.com/payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://policyresearchjournal.com/shop-girls-jumpsuits-overalls"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
+                <a href="https://policyresearchjournal.com/shop-boy's-muslim-wear">
+                    <span>Pakaian Anak Muslim Laki-Laki</span>
+                </a>
+                        <script type="text" class="J_data_4_2">
+                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/shop-boy's-muslimin-accessories"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
+                <a href="https://policyresearchjournal.com/shop-girls-muslim-wear">
+                    <span>Pakaian Anak Muslim Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_3">
+                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
+                <a href="https://policyresearchjournal.com/fashion-sepatu-anak-laki-laki">
+                    <span>Sepatu Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_4">
+                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://policyresearchjournal.com/fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sneaker-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
+                <a href="https://policyresearchjournal.com/fashion-sepatu-anak-perempuan">
+                    <span>Sepatu Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_5">
+                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://policyresearchjournal.com/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sneakers-anak-perempuan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
+                <a href="https://policyresearchjournal.com/beli-tas-anak-tl/">
+                    <span>Tas Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_6">
+                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://policyresearchjournal.com/koper-anak-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
+                <a href="https://policyresearchjournal.com/beli-perhiasan-anak/">
+                    <span>Perhiasan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_7">
+                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://policyresearchjournal.com/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://policyresearchjournal.com/beli-anak-perhiasan-fashion/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
+                <a href="https://policyresearchjournal.com/beli-jam-tangan-anak/">
+                    <span>Jam Tangan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_8">
+                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-anak-perempuan/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
+                <a href="https://policyresearchjournal.com/beli-perawatan-kulit/">
+                    <span>Perawatan Kulit</span>
+                </a>
+                        <script type="text" class="J_data_5_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://policyresearchjournal.com/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://policyresearchjournal.com/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://policyresearchjournal.com/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://policyresearchjournal.com/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://policyresearchjournal.com/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://policyresearchjournal.com/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://policyresearchjournal.com/shop-perawatan-mata"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
+                <a href="https://policyresearchjournal.com/beli-makeup/">
+                    <span>Makeup</span>
+                </a>
+                        <script type="text" class="J_data_5_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://policyresearchjournal.com/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://policyresearchjournal.com/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://policyresearchjournal.com/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://policyresearchjournal.com/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://policyresearchjournal.com/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://policyresearchjournal.com/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://policyresearchjournal.com/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://policyresearchjournal.com/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://policyresearchjournal.com/beli-pembersih-makeup"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
+                <a href="https://policyresearchjournal.com/beli-perawatan-rambut/">
+                    <span>Perawatan Rambut</span>
+                </a>
+                        <script type="text" class="J_data_5_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://policyresearchjournal.com/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://policyresearchjournal.com/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://policyresearchjournal.com/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://policyresearchjournal.com/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-mandi-tubuh/">
+                    <span>Perawatan Tubuh</span>
+                </a>
+                        <script type="text" class="J_data_5_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://policyresearchjournal.com/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://policyresearchjournal.com/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://policyresearchjournal.com/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://policyresearchjournal.com/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://policyresearchjournal.com/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://policyresearchjournal.com/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://policyresearchjournal.com/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://policyresearchjournal.com/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://policyresearchjournal.com/beli-sabun-pembersih-tangan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
+                <a href="https://policyresearchjournal.com/beli-perawatan-kesehatan-pribadi/">
+                    <span>Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_5_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://policyresearchjournal.com/perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://policyresearchjournal.com/beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://policyresearchjournal.com/beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://policyresearchjournal.com/shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://policyresearchjournal.com/shop-Obat-Anti-Serangga"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
+                <a href="https://policyresearchjournal.com/beli-parfum/">
+                    <span>Parfum</span>
+                </a>
+                        <script type="text" class="J_data_5_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://policyresearchjournal.com/beli-parfum-unisex"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
+                <a href="https://policyresearchjournal.com/beli-alat-kesehatan-kecantikan/">
+                    <span>Alat Kecantikan</span>
+                </a>
+                        <script type="text" class="J_data_5_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://policyresearchjournal.com/alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://policyresearchjournal.com/beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://policyresearchjournal.com/shop-alat-perawatan-kulit-tubuh"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
+                <a href="https://policyresearchjournal.com/beli-suplemen-makanan/">
+                    <span>Suplemen Makanan</span>
+                </a>
+                        <script type="text" class="J_data_5_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://policyresearchjournal.com/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://policyresearchjournal.com/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://policyresearchjournal.com/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://policyresearchjournal.com/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://policyresearchjournal.com/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://policyresearchjournal.com/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://policyresearchjournal.com/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://policyresearchjournal.com/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://policyresearchjournal.com/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://policyresearchjournal.com/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://policyresearchjournal.com/beli-protein"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
+                <a href="https://policyresearchjournal.com/beli-alat-medis/">
+                    <span>Alat Medis</span>
+                </a>
+                        <script type="text" class="J_data_5_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://policyresearchjournal.com/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://policyresearchjournal.com/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://policyresearchjournal.com/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://policyresearchjournal.com/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://policyresearchjournal.com/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://policyresearchjournal.com/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://policyresearchjournal.com/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://policyresearchjournal.com/beli-stetoskop"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
+                <a href="https://policyresearchjournal.com/jual-perlengkapan-kesehatan-seksual/">
+                    <span>Sexual Wellness</span>
+                </a>
+                        <script type="text" class="J_data_5_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://policyresearchjournal.com/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://policyresearchjournal.com/beli-pelumas"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
+                <a href="https://policyresearchjournal.com/beli-perawatan-tubuh-kesehatan-pria/">
+                    <span>Perawatan Pria</span>
+                </a>
+                        <script type="text" class="J_data_5_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://policyresearchjournal.com/perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-deodoran-pria"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
+                <a href="https://policyresearchjournal.com/kesehatan-manula/">
+                    <span>Popok Dewasa</span>
+                </a>
+                        <script type="text" class="J_data_5_11">
+                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://policyresearchjournal.com/kesehatan-manula/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
+                <a href="https://policyresearchjournal.com/jual-perlengkapan-bayi-balita/">
+                    <span>Ibu &amp; Anak</span>
+                </a>
+                        <script type="text" class="J_data_6_0">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://policyresearchjournal.com/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://policyresearchjournal.com/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://policyresearchjournal.com/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://policyresearchjournal.com/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://policyresearchjournal.com/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kulit-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
+                <a href="https://policyresearchjournal.com/beli-popok-pispot-bb/">
+                    <span>Popok Sekali Pakai</span>
+                </a>
+                        <script type="text" class="J_data_6_1">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://policyresearchjournal.com/beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://policyresearchjournal.com/beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://policyresearchjournal.com/beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://policyresearchjournal.com/beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://policyresearchjournal.com/beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://policyresearchjournal.com/beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://policyresearchjournal.com/beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://policyresearchjournal.com/beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://policyresearchjournal.com/beli-detergen-popok-kain/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
+                <a href="https://policyresearchjournal.com/beli-susu-formula/">
+                    <span>Makanan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_2">
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://policyresearchjournal.com/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://policyresearchjournal.com/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://policyresearchjournal.com/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://policyresearchjournal.com/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-maternal/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
+                <a href="https://policyresearchjournal.com/jual-baju-aksesoris-anak/">
+                    <span>Pakaian &amp; Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_6_3">
+                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://policyresearchjournal.com/beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://policyresearchjournal.com/beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-baju-renang-bayi-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
+                <a href="https://policyresearchjournal.com/beli-makanan-bayi/">
+                    <span>Perlengkapan Menyusui</span>
+                </a>
+                        <script type="text" class="J_data_6_4">
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://policyresearchjournal.com/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://policyresearchjournal.com/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://policyresearchjournal.com/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://policyresearchjournal.com/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://policyresearchjournal.com/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://policyresearchjournal.com/jual-piring-mangkok-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-berkendara-bayi/">
+                    <span>Perlengkapan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_5">
+                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://policyresearchjournal.com/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://policyresearchjournal.com/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://policyresearchjournal.com/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://policyresearchjournal.com/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://policyresearchjournal.com/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-tali-harness-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
+                <a href="https://policyresearchjournal.com/jual-perlengkapan-kamar-bayi/">
+                    <span>Kamar Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_6">
+                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://policyresearchjournal.com/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://policyresearchjournal.com/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://policyresearchjournal.com/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-dekorasi-kamar-anak/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                    <span>Perawatan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_7">
+                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://policyresearchjournal.com/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://policyresearchjournal.com/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://policyresearchjournal.com/jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-mandi-bayi-anti-slip/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
+                <a href="https://policyresearchjournal.com/beli-mainan-anak/">
+                    <span>Mainan</span>
+                </a>
+                        <script type="text" class="J_data_6_8">
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://policyresearchjournal.com/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://policyresearchjournal.com/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://policyresearchjournal.com/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://policyresearchjournal.com/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://policyresearchjournal.com/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-pesta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
+                <a href="https://policyresearchjournal.com/beli-remote-control-mainan-kendaraan/">
+                    <span>Mainan Elektronik &amp; RC</span>
+                </a>
+                        <script type="text" class="J_data_6_9">
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://policyresearchjournal.com/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://policyresearchjournal.com/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://policyresearchjournal.com/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://policyresearchjournal.com/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://policyresearchjournal.com/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://policyresearchjournal.com/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
+                <a href="https://policyresearchjournal.com/beli-olahraga-permainan-luar-ruangan/">
+                    <span>Mainan Olahraga &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_6_10">
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://policyresearchjournal.com/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://policyresearchjournal.com/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://policyresearchjournal.com/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://policyresearchjournal.com/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://policyresearchjournal.com/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://policyresearchjournal.com/beli-playhouses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
+                <a href="https://policyresearchjournal.com/baby-toddler-toys/">
+                    <span>Mainan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_11">
+                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://policyresearchjournal.com/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://policyresearchjournal.com/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://policyresearchjournal.com/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://policyresearchjournal.com/beli-rocking-spring-ride-on-tg/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
+                <a href="https://policyresearchjournal.com/beli-tv-audio-video-permainan-dan-gadget/">
+                    <span>TV &amp; Perangkat Video</span>
+                </a>
+                        <script type="text" class="J_data_7_0">
+                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://policyresearchjournal.com/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://policyresearchjournal.com/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://policyresearchjournal.com/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://policyresearchjournal.com/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://policyresearchjournal.com/beli-proyektor-3/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-dapur/">
+                    <span>Peralatan Dapur Kecil</span>
+                </a>
+                        <script type="text" class="J_data_7_1">
+                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://policyresearchjournal.com/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://policyresearchjournal.com/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://policyresearchjournal.com/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://policyresearchjournal.com/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://policyresearchjournal.com/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://policyresearchjournal.com/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://policyresearchjournal.com/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-ska-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
+                <a href="https://policyresearchjournal.com/shop-perlatan-besar/">
+                    <span>Elektronik Rumah Besar</span>
+                </a>
+                        <script type="text" class="J_data_7_2">
+                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://policyresearchjournal.com/beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://policyresearchjournal.com/beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://policyresearchjournal.com/beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://policyresearchjournal.com/beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://policyresearchjournal.com/beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://policyresearchjournal.com/beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://policyresearchjournal.com/beli-pemanas-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
+                <a href="https://policyresearchjournal.com/shop-pendingin-pembersih-udara-mini/">
+                    <span>Penyejuk dan Pembersih Udara</span>
+                </a>
+                        <script type="text" class="J_data_7_3">
+                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://policyresearchjournal.com/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://policyresearchjournal.com/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://policyresearchjournal.com/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://policyresearchjournal.com/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://policyresearchjournal.com/beli-dehumidifier/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
+                <a href="https://policyresearchjournal.com/beli-perawatan-lantai/">
+                    <span>Penghisap Debu &amp; Perawatan Lantai</span>
+                </a>
+                        <script type="text" class="J_data_7_4">
+                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://policyresearchjournal.com/shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://policyresearchjournal.com/shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://policyresearchjournal.com/shop-penyedot-debu-tongkat/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
+                <a href="https://policyresearchjournal.com/shop-peralatan-perawatan-personal/">
+                    <span>Alat Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_7_5">
+                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://policyresearchjournal.com/beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://policyresearchjournal.com/beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://policyresearchjournal.com/beli-sikat-gigi-elektrik/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
+                <a href="https://policyresearchjournal.com/jual-aksesoris-elektronik-rumah-tangga/">
+                    <span>Aksesoris &amp; Suku Cadang</span>
+                </a>
+                        <script type="text" class="J_data_7_6">
+                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://policyresearchjournal.com/beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://policyresearchjournal.com/beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://policyresearchjournal.com/beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
+                <a href="https://policyresearchjournal.com/jual-aksesoris-televisi/">
+                    <span>Aksesoris Televisi</span>
+                </a>
+                        <script type="text" class="J_data_7_7">
+                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://policyresearchjournal.com/jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://policyresearchjournal.com/jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://policyresearchjournal.com/jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://policyresearchjournal.com/jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://policyresearchjournal.com/jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://policyresearchjournal.com/jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://policyresearchjournal.com/jual-kacamata-3d-tv/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
+                <a href="https://policyresearchjournal.com/jual-home-entertainment/">
+                    <span>Home Entertainment</span>
+                </a>
+                        <script type="text" class="J_data_7_8">
+                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://policyresearchjournal.com/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://policyresearchjournal.com/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://policyresearchjournal.com/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://policyresearchjournal.com/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-audio-player/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
+                <a href="https://policyresearchjournal.com/beli-dekorasi-rumah/">
+                    <span>Dekorasi Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://policyresearchjournal.com/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://policyresearchjournal.com/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://policyresearchjournal.com/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://policyresearchjournal.com/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://policyresearchjournal.com/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://policyresearchjournal.com/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://policyresearchjournal.com/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://policyresearchjournal.com/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://policyresearchjournal.com/beli-wewangian-rumah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
+                <a href="https://policyresearchjournal.com/beli-furnitur/">
+                    <span>Furnitur</span>
+                </a>
+                        <script type="text" class="J_data_8_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://policyresearchjournal.com/beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://policyresearchjournal.com/beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://policyresearchjournal.com/rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://policyresearchjournal.com/tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://policyresearchjournal.com/beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-ruang-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
+                <a href="https://policyresearchjournal.com/beli-peralatan-ranjang/">
+                    <span>Kelengkapan Tempat Tidur</span>
+                </a>
+                        <script type="text" class="J_data_8_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://policyresearchjournal.com/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://policyresearchjournal.com/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://policyresearchjournal.com/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://policyresearchjournal.com/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://policyresearchjournal.com/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://policyresearchjournal.com/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://policyresearchjournal.com/kasur-pelindung/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
+                <a href="https://policyresearchjournal.com/penerangan/">
+                    <span>Penerangan</span>
+                </a>
+                        <script type="text" class="J_data_8_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://policyresearchjournal.com/shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://policyresearchjournal.com/beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://policyresearchjournal.com/kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://policyresearchjournal.com/beli-senter/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
+                <a href="https://policyresearchjournal.com/beli-peralatan-mandi/">
+                    <span>Peralatan Mandi</span>
+                </a>
+                        <script type="text" class="J_data_8_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://policyresearchjournal.com/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://policyresearchjournal.com/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://policyresearchjournal.com/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-cermin-kamar-mandi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-dapur-makan/">
+                    <span>Alat Dapur</span>
+                </a>
+                        <script type="text" class="J_data_8_5">
+                            [{"childCategoryName":"Botol minum","childCategoryUrl":"https://policyresearchjournal.com/botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://policyresearchjournal.com/beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://policyresearchjournal.com/beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://policyresearchjournal.com/beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://policyresearchjournal.com/beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://policyresearchjournal.com/beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://policyresearchjournal.com/beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-dapur/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
+                <a href="https://policyresearchjournal.com/beli-binatu-kebersihan/">
+                    <span>Binatu &amp; Alat Kebersihan</span>
+                </a>
+                        <script type="text" class="J_data_8_6">
+                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://policyresearchjournal.com/gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://policyresearchjournal.com/keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://policyresearchjournal.com/rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://policyresearchjournal.com/papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://policyresearchjournal.com/beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://policyresearchjournal.com/shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://policyresearchjournal.com/tempat-sampah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
+                <a href="https://policyresearchjournal.com/beli-perawatan-rumah/">
+                    <span>Perkakas &amp; Perbaikan Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_7">
+                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://policyresearchjournal.com/beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://policyresearchjournal.com/beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://policyresearchjournal.com/beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://policyresearchjournal.com/jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://policyresearchjournal.com/beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://policyresearchjournal.com/beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://policyresearchjournal.com/beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://policyresearchjournal.com/lampu-penerangan-tempat-kerja/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
+                <a href="https://policyresearchjournal.com/Kebun &amp; Luar Ruangan/">
+                    <span>Kebun &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_8_8">
+                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://policyresearchjournal.com/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://policyresearchjournal.com/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://policyresearchjournal.com/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://policyresearchjournal.com/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://policyresearchjournal.com/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://policyresearchjournal.com/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://policyresearchjournal.com/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://policyresearchjournal.com/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
+                <a href="https://policyresearchjournal.com/beli-alat-tulis-kerajinan/">
+                    <span>Alat Tulis &amp; Kerajinan</span>
+                </a>
+                        <script type="text" class="J_data_8_9">
+                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://policyresearchjournal.com/beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://policyresearchjournal.com/buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://policyresearchjournal.com/beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://policyresearchjournal.com/beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://policyresearchjournal.com/beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://policyresearchjournal.com/beli-pensil-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
+                <a href="https://policyresearchjournal.com/beli-media-musik-dan-buku/">
+                    <span>Media, Musik &amp; Buku</span>
+                </a>
+                        <script type="text" class="J_data_8_10">
+                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://policyresearchjournal.com/instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://policyresearchjournal.com/buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://policyresearchjournal.com/lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://policyresearchjournal.com/majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://policyresearchjournal.com/film/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
+                <a href="https://policyresearchjournal.com/beli-minuman/">
+                    <span>Minuman</span>
+                </a>
+                        <script type="text" class="J_data_9_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://policyresearchjournal.com/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://policyresearchjournal.com/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://policyresearchjournal.com/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://policyresearchjournal.com/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://policyresearchjournal.com/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://policyresearchjournal.com/beli-sirup/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
+                <a href="https://policyresearchjournal.com/shop-Bahan-Utama-Pelengkap-Masakan">
+                    <span>Bahan &amp; Bumbu Masakan</span>
+                </a>
+                        <script type="text" class="J_data_9_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://policyresearchjournal.com/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://policyresearchjournal.com/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://policyresearchjournal.com/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://policyresearchjournal.com/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://policyresearchjournal.com/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://policyresearchjournal.com/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://policyresearchjournal.com/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://policyresearchjournal.com/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://policyresearchjournal.com/shop-Pasta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
+                <a href="https://policyresearchjournal.com/shop-Cokelat-Camilan-Permen/">
+                    <span>Cokelat, Camilan &amp; Permen</span>
+                </a>
+                        <script type="text" class="J_data_9_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://policyresearchjournal.com/shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://policyresearchjournal.com/shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://policyresearchjournal.com/shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://policyresearchjournal.com/shop-Manisan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
+                <a href="https://policyresearchjournal.com/beli-makanan-sarapan">
+                    <span>Makanan Sarapan, Sereal &amp; Selai</span>
+                </a>
+                        <script type="text" class="J_data_9_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://policyresearchjournal.com/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://policyresearchjournal.com/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://policyresearchjournal.com/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://policyresearchjournal.com/shop-bar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
+                <a href="https://policyresearchjournal.com/beli-makanan-minuman-hasil-segar">
+                    <span>Buah &amp; Sayur</span>
+                </a>
+                        <script type="text" class="J_data_9_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-sayuran-segar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
+                <a href="https://policyresearchjournal.com/shop-kebutuhan-rumah-tangga">
+                    <span>Kebutuhan Rumah Tangga</span>
+                </a>
+                        <script type="text" class="J_data_9_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://policyresearchjournal.com/shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-cucian/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
+                <a href="https://policyresearchjournal.com/shop-makanan-hewan">
+                    <span>Makanan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://policyresearchjournal.com/jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://policyresearchjournal.com/jual-makanan-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
+                <a href="https://policyresearchjournal.com/shop-aksesoris-hewan">
+                    <span>Aksesoris Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://policyresearchjournal.com/shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://policyresearchjournal.com/jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://policyresearchjournal.com/beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://policyresearchjournal.com/shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-latih-olahraga-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
+                <a href="https://policyresearchjournal.com/shop-kesehatan-hewan-peliharaan">
+                    <span>Kesehatan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://policyresearchjournal.com/beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-kutu-anjing/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
+                <a href="https://policyresearchjournal.com/baju-olahraga-pria/">
+                    <span>Baju Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_0">
+                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://policyresearchjournal.com/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://policyresearchjournal.com/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://policyresearchjournal.com/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://policyresearchjournal.com/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://policyresearchjournal.com/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://policyresearchjournal.com/gym-tote-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
+                <a href="https://policyresearchjournal.com/pakaian-olahraga-wanita/">
+                    <span>Baju Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_1">
+                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://policyresearchjournal.com/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://policyresearchjournal.com/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://policyresearchjournal.com/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://policyresearchjournal.com/gym-tote-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
+                <a href="https://policyresearchjournal.com/sepatu-dan-pakaian-olahraga-pria/">
+                    <span>Sepatu Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_2">
+                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-jalan-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
+                <a href="https://policyresearchjournal.com/sepatu-dan-pakaian-olahraga-wanita/">
+                    <span>Sepatu Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_3">
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-jalan-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
+                <a href="https://policyresearchjournal.com/camping-dan-hiking/">
+                    <span>Camping dan Hiking</span>
+                </a>
+                        <script type="text" class="J_data_10_4">
+                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://policyresearchjournal.com/tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://policyresearchjournal.com/perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://policyresearchjournal.com/jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://policyresearchjournal.com/jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://policyresearchjournal.com/jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://policyresearchjournal.com/jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://policyresearchjournal.com/jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://policyresearchjournal.com/jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://policyresearchjournal.com/jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://policyresearchjournal.com/jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://policyresearchjournal.com/panjat-tebing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
+                <a href="https://policyresearchjournal.com/jual-peralatan-memancing/">
+                    <span>Peralatan Memancing</span>
+                </a>
+                        <script type="text" class="J_data_10_5">
+                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://policyresearchjournal.com/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://policyresearchjournal.com/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://policyresearchjournal.com/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://policyresearchjournal.com/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-memancing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
+                <a href="https://policyresearchjournal.com/olahraga-sepeda/">
+                    <span>Olahraga Sepeda</span>
+                </a>
+                        <script type="text" class="J_data_10_6">
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://policyresearchjournal.com/komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://policyresearchjournal.com/sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://policyresearchjournal.com/jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepeda-anak-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
+                <a href="https://policyresearchjournal.com/olahraga-air/">
+                    <span>Olahraga Air</span>
+                </a>
+                        <script type="text" class="J_data_10_7">
+                            [{"childCategoryName":"Kapal","childCategoryUrl":"https://policyresearchjournal.com/jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://policyresearchjournal.com/diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://policyresearchjournal.com/renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://policyresearchjournal.com/jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://policyresearchjournal.com/jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-olahraga-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
+                <a href="https://policyresearchjournal.com/latihan-dan-fitness/">
+                    <span>Gym, Yoga &amp; Fitness</span>
+                </a>
+                        <script type="text" class="J_data_10_8">
+                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://policyresearchjournal.com/shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://policyresearchjournal.com/pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://policyresearchjournal.com/alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://policyresearchjournal.com/yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://policyresearchjournal.com/peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://policyresearchjournal.com/temporary-url-sport-catl3-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
+                <a href="https://policyresearchjournal.com/olahraga-raket/">
+                    <span>Olahraga Raket</span>
+                </a>
+                        <script type="text" class="J_data_10_9">
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://policyresearchjournal.com/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://policyresearchjournal.com/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://policyresearchjournal.com/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://policyresearchjournal.com/squash/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
+                <a href="https://policyresearchjournal.com/shop-perlengkapan-olah-raga/">
+                    <span>Perlengkapan Olahraga</span>
+                </a>
+                        <script type="text" class="J_data_10_10">
+                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://policyresearchjournal.com/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://policyresearchjournal.com/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://policyresearchjournal.com/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://policyresearchjournal.com/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://policyresearchjournal.com/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://policyresearchjournal.com/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://policyresearchjournal.com/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://policyresearchjournal.com/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://policyresearchjournal.com/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://policyresearchjournal.com/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://policyresearchjournal.com/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://policyresearchjournal.com/jual-peralatan-cheerleading/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
+                <a href="https://policyresearchjournal.com/sepak-bola/">
+                    <span>Perlengkapan Sepak Bola</span>
+                </a>
+                        <script type="text" class="J_data_10_11">
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://policyresearchjournal.com/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://policyresearchjournal.com/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://policyresearchjournal.com/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://policyresearchjournal.com/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://policyresearchjournal.com/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://policyresearchjournal.com/international-football-clubs-fan-merchandise/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
+                <a href="https://policyresearchjournal.com/shop-auto-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://policyresearchjournal.com/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-trim/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
+                <a href="https://policyresearchjournal.com/aksesoris-interior-mobil/">
+                    <span>Aksesoris Interior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://policyresearchjournal.com/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://policyresearchjournal.com/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://policyresearchjournal.com/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://policyresearchjournal.com/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-consoles-organizers/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
+                <a href="https://policyresearchjournal.com/aksesoris-eksterior-mobil/">
+                    <span>Aksesoris Exterior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://policyresearchjournal.com/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://policyresearchjournal.com/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://policyresearchjournal.com/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://policyresearchjournal.com/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-trailer-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
+                <a href="https://policyresearchjournal.com/shop-elektronik/">
+                    <span>Kamera Mobil, Audio &amp; Video</span>
+                </a>
+                        <script type="text" class="J_data_11_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://policyresearchjournal.com/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://policyresearchjournal.com/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://policyresearchjournal.com/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://policyresearchjournal.com/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://policyresearchjournal.com/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-audio-video-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
+                <a href="https://policyresearchjournal.com/shop-perawatan-mobil/">
+                    <span>Perawatan &amp; Pengkilat Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://policyresearchjournal.com/pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://policyresearchjournal.com/glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://policyresearchjournal.com/interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-paket-perawatan-mobil/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
+                <a href="https://policyresearchjournal.com/roda-dan-ban/">
+                    <span>Ban &amp; Velg Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://policyresearchjournal.com/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://policyresearchjournal.com/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://policyresearchjournal.com/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://policyresearchjournal.com/shop-paket-ban-pelek/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
+                <a href="https://policyresearchjournal.com/oli-dan-pelumas/">
+                    <span>Oli &amp; Cairan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-greases-lubricants/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-riding-gear/">
+                    <span>Perlengkapan Berkendara &amp; Helm</span>
+                </a>
+                        <script type="text" class="J_data_11_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://policyresearchjournal.com/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://policyresearchjournal.com/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://policyresearchjournal.com/shop-pakaian-hujan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://policyresearchjournal.com/shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://policyresearchjournal.com/shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-stands-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-exterior-accessories/">
+                    <span>Aksesoris &amp; Elektronik Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://policyresearchjournal.com/shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://policyresearchjournal.com/shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://policyresearchjournal.com/shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://policyresearchjournal.com/shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-racks/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-oils-fluids/">
+                    <span>Ban, Velg, Oli &amp; Cairan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://policyresearchjournal.com/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-oli-shock-breaker/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
+                <a href="https://policyresearchjournal.com/mobil-motor/">
+                    <span>Kendaraan</span>
+                </a>
+                        <script type="text" class="J_data_11_11">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-sepeda-motor-skuter/"}]
+                        </script>
+            </li>
+        </ul>
+    </ul>
+</div>
+  </div>
+            </div>
+        </div>
+        <nav class="lzd-menu-labels" data-spm="menu">
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png" data-pagespeed-url-hash="1247496011" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-SLOT GACOR">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">SITUS SLOT GACOR</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://sunwukong.dev/logos/For4d_logo.png" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
+                        <span class="lzd-menu-labels-item-text">SLOT777</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://sunwukong.dev/logos/For4d_logo.png" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
+                        <span class="lzd-menu-labels-item-text">SITUS SLOT GACOR</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png" data-pagespeed-url-hash="410448523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
+                <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
+            </a>
+        </nav>
+    </div>
+</div>
+  </div>
+                </div>
+              <div class="lzd-nav-cart">
+                <a href="https://cart.lazada.co.id/cart?scm=1003.4.icms-zebra-5001424-2591709.OTHER_5196131744_2267383" data-spm="dcart"><span class="cart-icon"></span>
+                <span class="cart-num" id="topActionCartNumber"></span></a>
+              </div>
+                <div class="lzd-header-banner" id="topActionLiveUpBanner">
+                </div>
+          </div>
+        </div>
+      </div>
+  <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
+<div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
+    <div class="lzd-site-menu-nav-container">
+        <div class="lzd-site-menu-nav-category">
+            <a href="https://policyresearchjournal.com/">
+                <span class="lzd-site-menu-nav-category-text">Kategori</span>
+            </a>
+            <div class="lzd-site-menu-nav-menu">
+  <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
+<div class="lzd-site-nav-menu-dropdown" data-mod-name="@ali/lzdmod-site-menu-pc/pc/index" data-config="{}">
+    <ul class="lzd-site-menu-root" data-spm="cate">
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
+            <a> 
+                        <span>Peralatan Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
+            <a> 
+                        <span>Aksesoris Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Wanita</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No4">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Pria</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No5">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Anak</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No6">
+            <a> 
+                        <span>Kesehatan &amp; Kecantikan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
+            <a> 
+                    <span>Bayi &amp; Mainan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
+            <a> 
+                        <span>TV &amp; Elektronik Rumah</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No9">
+            <a> 
+                        <span>Keperluan Rumah &amp; Gaya Hidup</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No10">
+            <a> 
+                        <span>Kebutuhan Rumah Tangga</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No11">
+            <a> 
+                        <span>Olahraga &amp; Outdoor</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No12">
+            <a> 
+                    <span>Otomotif</span>
+            </a>
+         </li>    
+        <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
+            <li class="sub-item-remove-arrow" data-cate="cate_1_1">
+                <a href="https://policyresearchjournal.com/beli-handphone">
+                    <span>Handphone</span>
+                </a>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
+                <a href="https://policyresearchjournal.com/shop-beli-laptop/">
+                    <span>Laptop</span>
+                </a>
+                        <script type="text" class="J_data_0_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://policyresearchjournal.com/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://policyresearchjournal.com/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://policyresearchjournal.com/beli-laptop-2-in-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
+                <a href="https://policyresearchjournal.com/beli-komputer/">
+                    <span>Desktop</span>
+                </a>
+                        <script type="text" class="J_data_0_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://policyresearchjournal.com/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://policyresearchjournal.com/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://policyresearchjournal.com/beli-pc-all-in-one/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
+                <a href="https://policyresearchjournal.com/beli-kamera/">
+                    <span>Kamera</span>
+                </a>
+                        <script type="text" class="J_data_0_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://policyresearchjournal.com/beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://policyresearchjournal.com/beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://policyresearchjournal.com/beli-kamera-instan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
+                <a href="https://policyresearchjournal.com/shop-gaming-konsol/">
+                    <span>Game Console</span>
+                </a>
+                        <script type="text" class="J_data_0_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://policyresearchjournal.com/shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesoris-game-konsol/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
+                <a href="https://policyresearchjournal.com/beli-gadget/">
+                    <span>Gadget</span>
+                </a>
+                        <script type="text" class="J_data_0_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://policyresearchjournal.com/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://policyresearchjournal.com/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://policyresearchjournal.com/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://policyresearchjournal.com/jual-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="sub-item-remove-arrow" data-cate="cate_1_7">
+                <a href="https://policyresearchjournal.com/beli-tablet-2">
+                    <span>Tablet</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
+                <a href="https://policyresearchjournal.com/beli-aksesori-handphone">
+                    <span>Aksesoris Handphone</span>
+                </a>
+                        <script type="text" class="J_data_1_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://policyresearchjournal.com/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://policyresearchjournal.com/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://policyresearchjournal.com/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://policyresearchjournal.com/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://policyresearchjournal.com/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://policyresearchjournal.com/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://policyresearchjournal.com/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://policyresearchjournal.com/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://policyresearchjournal.com/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesori-ponsel/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
+                <a href="https://policyresearchjournal.com/beli-aksesori-komputer/">
+                    <span>Aksesoris Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://policyresearchjournal.com/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://policyresearchjournal.com/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://policyresearchjournal.com/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://policyresearchjournal.com/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://policyresearchjournal.com/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://policyresearchjournal.com/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-pendingin/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
+                <a href="https://policyresearchjournal.com/shop-audio/">
+                    <span>Audio</span>
+                </a>
+                        <script type="text" class="J_data_1_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://policyresearchjournal.com/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://policyresearchjournal.com/beli-speaker-smart/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
+                <a href="https://policyresearchjournal.com/shop-perangkat-pintar/">
+                    <span>Aksesoris Berteknologi</span>
+                </a>
+                        <script type="text" class="J_data_1_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://policyresearchjournal.com/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://policyresearchjournal.com/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://policyresearchjournal.com/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://policyresearchjournal.com/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://policyresearchjournal.com/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://policyresearchjournal.com/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://policyresearchjournal.com/beli-smart-glasses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
+                <a href="https://policyresearchjournal.com/beli-aksesoris-2/">
+                    <span>Aksesoris Kamera</span>
+                </a>
+                        <script type="text" class="J_data_1_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://policyresearchjournal.com/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://policyresearchjournal.com/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://policyresearchjournal.com/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://policyresearchjournal.com/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://policyresearchjournal.com/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-lighting-studio/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
+                <a href="https://policyresearchjournal.com/shop-penyimpanan-data/">
+                    <span>Penyimpanan Data</span>
+                </a>
+                        <script type="text" class="J_data_1_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://policyresearchjournal.com/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://policyresearchjournal.com/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://policyresearchjournal.com/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://policyresearchjournal.com/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://policyresearchjournal.com/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://policyresearchjournal.com/beli-external-solid-state-drive/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
+                <a href="https://policyresearchjournal.com/beli-printers/">
+                    <span>Printer</span>
+                </a>
+                        <script type="text" class="J_data_1_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://policyresearchjournal.com/beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://policyresearchjournal.com/tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://policyresearchjournal.com/pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://policyresearchjournal.com/beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://policyresearchjournal.com/beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://policyresearchjournal.com/printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://policyresearchjournal.com/modul-memori-printer/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
+                <a href="https://policyresearchjournal.com/beli-aksesori-handphone/">
+                    <span>Aksesoris Tablet</span>
+                </a>
+                        <script type="text" class="J_data_1_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://policyresearchjournal.com/jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://policyresearchjournal.com/beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://policyresearchjournal.com/beli-pen-stylus-tablet/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
+                <a href="https://policyresearchjournal.com/beli-komponen-komputer/">
+                    <span>Komponen Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://policyresearchjournal.com/beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://policyresearchjournal.com/beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://policyresearchjournal.com/beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://policyresearchjournal.com/beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://policyresearchjournal.com/beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://policyresearchjournal.com/soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://policyresearchjournal.com/beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://policyresearchjournal.com/beli-water-cooling-system/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
+                <a href="https://policyresearchjournal.com/pakaian-wanita/">
+                    <span>Pakaian Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_0">
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://policyresearchjournal.com/jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://policyresearchjournal.com/gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://policyresearchjournal.com/kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://policyresearchjournal.com/sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://policyresearchjournal.com/celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://policyresearchjournal.com/rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://policyresearchjournal.com/kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://policyresearchjournal.com/overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://policyresearchjournal.com/hoodie-sweatshirt-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
+                <a href="https://policyresearchjournal.com/baju-muslim-wanita/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_2_1">
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://policyresearchjournal.com/baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://policyresearchjournal.com/hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://policyresearchjournal.com/atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://policyresearchjournal.com/dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://policyresearchjournal.com/bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://policyresearchjournal.com/jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://policyresearchjournal.com/jual-baju-kurung-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
+                <a href="https://policyresearchjournal.com/lingerie-baju-tidur/">
+                    <span>Lingerie, Baju Tidur &amp; Santai</span>
+                </a>
+                        <script type="text" class="J_data_2_2">
+                            [{"childCategoryName":"Bra","childCategoryUrl":"https://policyresearchjournal.com/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://policyresearchjournal.com/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://policyresearchjournal.com/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://policyresearchjournal.com/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://policyresearchjournal.com/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://policyresearchjournal.com/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://policyresearchjournal.com/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://policyresearchjournal.com/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesori-lingerie-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
+                <a href="https://policyresearchjournal.com/sepatu-wanita/">
+                    <span>Sepatu Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_3">
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://policyresearchjournal.com/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://policyresearchjournal.com/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://policyresearchjournal.com/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://policyresearchjournal.com/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://policyresearchjournal.com/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://policyresearchjournal.com/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://policyresearchjournal.com/sandal-jepit-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
+                <a href="https://policyresearchjournal.com/aksesoris-wanita/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_2_4">
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://policyresearchjournal.com/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://policyresearchjournal.com/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://policyresearchjournal.com/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://policyresearchjournal.com/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://policyresearchjournal.com/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-women-fabricmask/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
+                <a href="https://policyresearchjournal.com/tas-wanita/">
+                    <span>Tas Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_5">
+                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://policyresearchjournal.com/shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://policyresearchjournal.com/tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://policyresearchjournal.com/shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://policyresearchjournal.com/top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://policyresearchjournal.com/tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
+                <a href="https://policyresearchjournal.com/beli-perhiasan-wanita/">
+                    <span>Perhiasan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://policyresearchjournal.com/beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://policyresearchjournal.com/beli-wanita-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
+                <a href="https://policyresearchjournal.com/beli-jam-tangan-wanita/">
+                    <span>Jam Tangan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_7">
+                            [{"childCategoryName":"Aksesori","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://policyresearchjournal.com/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://policyresearchjournal.com/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-olahraga-wanita/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
+                <a href="https://policyresearchjournal.com/pakaian-pria/">
+                    <span>Pakaian Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_0">
+                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://policyresearchjournal.com/jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://policyresearchjournal.com/jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://policyresearchjournal.com/celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://policyresearchjournal.com/polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://policyresearchjournal.com/kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://policyresearchjournal.com/jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://policyresearchjournal.com/jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://policyresearchjournal.com/sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://policyresearchjournal.com/baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://policyresearchjournal.com/atasan-kasual-kaos-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
+                <a href="https://policyresearchjournal.com/baju-muslim-pria/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_3_1">
+                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://policyresearchjournal.com/jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://policyresearchjournal.com/cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://policyresearchjournal.com/shop-kopiah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
+                <a href="https://policyresearchjournal.com/pakaian-dalam-dan-kaos-kaki-pria/">
+                    <span>Pakaian Dalam</span>
+                </a>
+                        <script type="text" class="J_data_3_2">
+                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://policyresearchjournal.com/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://policyresearchjournal.com/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://policyresearchjournal.com/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://policyresearchjournal.com/pakaian-dalam-pria-thongs-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
+                <a href="https://policyresearchjournal.com/sepatu-pria/">
+                    <span>Sepatu Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_3">
+                            [{"childCategoryName":"Boots","childCategoryUrl":"https://policyresearchjournal.com/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://policyresearchjournal.com/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://policyresearchjournal.com/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://policyresearchjournal.com/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://policyresearchjournal.com/sneakers-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
+                <a href="https://policyresearchjournal.com/aksesoris-pria/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_3_4">
+                            [{"childCategoryName":"Dasi","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://policyresearchjournal.com/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://policyresearchjournal.com/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://policyresearchjournal.com/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://policyresearchjournal.com/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://policyresearchjournal.com/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://policyresearchjournal.com/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://policyresearchjournal.com/shop-masker-wajah-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
+                <a href="https://policyresearchjournal.com/tas-pria/">
+                    <span>Tas Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_5">
+                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://policyresearchjournal.com/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://policyresearchjournal.com/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://policyresearchjournal.com/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://policyresearchjournal.com/shop-dompet-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
+                <a href="https://policyresearchjournal.com/beli-perhiasan-pria/">
+                    <span>Perhiasan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://policyresearchjournal.com/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://policyresearchjournal.com/beli-pria-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
+                <a href="https://policyresearchjournal.com/beli-jam-tangan-pria/">
+                    <span>Jam Tangan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_7">
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://policyresearchjournal.com/shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://policyresearchjournal.com/shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-olahraga-pria/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
+                <a href="https://policyresearchjournal.com/fashion-pakaian-anak-laki-laki">
+                    <span>Pakaian Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_0">
+                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://policyresearchjournal.com/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://policyresearchjournal.com/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://policyresearchjournal.com/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://policyresearchjournal.com/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/baju-atasan-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
+                <a href="https://policyresearchjournal.com/pakaian-anak-perempuan">
+                    <span>Pakaian Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_1">
+                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://policyresearchjournal.com/payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://policyresearchjournal.com/shop-girls-jumpsuits-overalls"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
+                <a href="https://policyresearchjournal.com/shop-boy's-muslim-wear">
+                    <span>Pakaian Anak Muslim Laki-Laki</span>
+                </a>
+                        <script type="text" class="J_data_4_2">
+                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/shop-boy's-muslimin-accessories"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
+                <a href="https://policyresearchjournal.com/shop-girls-muslim-wear">
+                    <span>Pakaian Anak Muslim Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_3">
+                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
+                <a href="https://policyresearchjournal.com/fashion-sepatu-anak-laki-laki">
+                    <span>Sepatu Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_4">
+                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://policyresearchjournal.com/fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sneaker-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
+                <a href="https://policyresearchjournal.com/fashion-sepatu-anak-perempuan">
+                    <span>Sepatu Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_5">
+                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://policyresearchjournal.com/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sneakers-anak-perempuan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
+                <a href="https://policyresearchjournal.com/beli-tas-anak-tl/">
+                    <span>Tas Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_6">
+                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://policyresearchjournal.com/koper-anak-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
+                <a href="https://policyresearchjournal.com/beli-perhiasan-anak/">
+                    <span>Perhiasan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_7">
+                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://policyresearchjournal.com/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://policyresearchjournal.com/beli-anak-perhiasan-fashion/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
+                <a href="https://policyresearchjournal.com/beli-jam-tangan-anak/">
+                    <span>Jam Tangan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_8">
+                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-jam-tangan-anak-perempuan/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
+                <a href="https://policyresearchjournal.com/beli-perawatan-kulit/">
+                    <span>Perawatan Kulit</span>
+                </a>
+                        <script type="text" class="J_data_5_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://policyresearchjournal.com/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://policyresearchjournal.com/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://policyresearchjournal.com/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://policyresearchjournal.com/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://policyresearchjournal.com/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://policyresearchjournal.com/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://policyresearchjournal.com/shop-perawatan-mata"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
+                <a href="https://policyresearchjournal.com/beli-makeup/">
+                    <span>Makeup</span>
+                </a>
+                        <script type="text" class="J_data_5_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://policyresearchjournal.com/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://policyresearchjournal.com/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://policyresearchjournal.com/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://policyresearchjournal.com/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://policyresearchjournal.com/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://policyresearchjournal.com/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://policyresearchjournal.com/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://policyresearchjournal.com/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://policyresearchjournal.com/beli-pembersih-makeup"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
+                <a href="https://policyresearchjournal.com/beli-perawatan-rambut/">
+                    <span>Perawatan Rambut</span>
+                </a>
+                        <script type="text" class="J_data_5_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://policyresearchjournal.com/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://policyresearchjournal.com/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://policyresearchjournal.com/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://policyresearchjournal.com/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-mandi-tubuh/">
+                    <span>Perawatan Tubuh</span>
+                </a>
+                        <script type="text" class="J_data_5_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://policyresearchjournal.com/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://policyresearchjournal.com/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://policyresearchjournal.com/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://policyresearchjournal.com/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://policyresearchjournal.com/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://policyresearchjournal.com/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://policyresearchjournal.com/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://policyresearchjournal.com/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://policyresearchjournal.com/beli-sabun-pembersih-tangan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
+                <a href="https://policyresearchjournal.com/beli-perawatan-kesehatan-pribadi/">
+                    <span>Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_5_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://policyresearchjournal.com/perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://policyresearchjournal.com/beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://policyresearchjournal.com/beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://policyresearchjournal.com/shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://policyresearchjournal.com/shop-Obat-Anti-Serangga"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
+                <a href="https://policyresearchjournal.com/beli-parfum/">
+                    <span>Parfum</span>
+                </a>
+                        <script type="text" class="J_data_5_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://policyresearchjournal.com/beli-parfum-unisex"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
+                <a href="https://policyresearchjournal.com/beli-alat-kesehatan-kecantikan/">
+                    <span>Alat Kecantikan</span>
+                </a>
+                        <script type="text" class="J_data_5_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://policyresearchjournal.com/alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://policyresearchjournal.com/beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://policyresearchjournal.com/shop-alat-perawatan-kulit-tubuh"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
+                <a href="https://policyresearchjournal.com/beli-suplemen-makanan/">
+                    <span>Suplemen Makanan</span>
+                </a>
+                        <script type="text" class="J_data_5_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://policyresearchjournal.com/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://policyresearchjournal.com/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://policyresearchjournal.com/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://policyresearchjournal.com/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://policyresearchjournal.com/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://policyresearchjournal.com/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://policyresearchjournal.com/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://policyresearchjournal.com/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://policyresearchjournal.com/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://policyresearchjournal.com/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://policyresearchjournal.com/beli-protein"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
+                <a href="https://policyresearchjournal.com/beli-alat-medis/">
+                    <span>Alat Medis</span>
+                </a>
+                        <script type="text" class="J_data_5_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://policyresearchjournal.com/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://policyresearchjournal.com/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://policyresearchjournal.com/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://policyresearchjournal.com/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://policyresearchjournal.com/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://policyresearchjournal.com/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://policyresearchjournal.com/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://policyresearchjournal.com/beli-stetoskop"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
+                <a href="https://policyresearchjournal.com/jual-perlengkapan-kesehatan-seksual/">
+                    <span>Sexual Wellness</span>
+                </a>
+                        <script type="text" class="J_data_5_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://policyresearchjournal.com/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://policyresearchjournal.com/beli-pelumas"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
+                <a href="https://policyresearchjournal.com/beli-perawatan-tubuh-kesehatan-pria/">
+                    <span>Perawatan Pria</span>
+                </a>
+                        <script type="text" class="J_data_5_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://policyresearchjournal.com/perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-deodoran-pria"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
+                <a href="https://policyresearchjournal.com/kesehatan-manula/">
+                    <span>Popok Dewasa</span>
+                </a>
+                        <script type="text" class="J_data_5_11">
+                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://policyresearchjournal.com/kesehatan-manula/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
+                <a href="https://policyresearchjournal.com/jual-perlengkapan-bayi-balita/">
+                    <span>Ibu &amp; Anak</span>
+                </a>
+                        <script type="text" class="J_data_6_0">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://policyresearchjournal.com/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://policyresearchjournal.com/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://policyresearchjournal.com/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://policyresearchjournal.com/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://policyresearchjournal.com/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kulit-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
+                <a href="https://policyresearchjournal.com/beli-popok-pispot-bb/">
+                    <span>Popok Sekali Pakai</span>
+                </a>
+                        <script type="text" class="J_data_6_1">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://policyresearchjournal.com/beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://policyresearchjournal.com/beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://policyresearchjournal.com/beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://policyresearchjournal.com/beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://policyresearchjournal.com/beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://policyresearchjournal.com/beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://policyresearchjournal.com/beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://policyresearchjournal.com/beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://policyresearchjournal.com/beli-detergen-popok-kain/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
+                <a href="https://policyresearchjournal.com/beli-susu-formula/">
+                    <span>Makanan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_2">
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://policyresearchjournal.com/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://policyresearchjournal.com/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://policyresearchjournal.com/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://policyresearchjournal.com/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://policyresearchjournal.com/beli-susu-maternal/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
+                <a href="https://policyresearchjournal.com/jual-baju-aksesoris-anak/">
+                    <span>Pakaian &amp; Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_6_3">
+                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://policyresearchjournal.com/beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://policyresearchjournal.com/beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://policyresearchjournal.com/beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/beli-baju-renang-bayi-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
+                <a href="https://policyresearchjournal.com/beli-makanan-bayi/">
+                    <span>Perlengkapan Menyusui</span>
+                </a>
+                        <script type="text" class="J_data_6_4">
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://policyresearchjournal.com/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://policyresearchjournal.com/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://policyresearchjournal.com/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://policyresearchjournal.com/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://policyresearchjournal.com/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://policyresearchjournal.com/jual-piring-mangkok-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-berkendara-bayi/">
+                    <span>Perlengkapan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_5">
+                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://policyresearchjournal.com/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://policyresearchjournal.com/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://policyresearchjournal.com/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://policyresearchjournal.com/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://policyresearchjournal.com/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-tali-harness-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
+                <a href="https://policyresearchjournal.com/jual-perlengkapan-kamar-bayi/">
+                    <span>Kamar Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_6">
+                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://policyresearchjournal.com/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://policyresearchjournal.com/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://policyresearchjournal.com/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://policyresearchjournal.com/beli-dekorasi-kamar-anak/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                    <span>Perawatan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_7">
+                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://policyresearchjournal.com/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://policyresearchjournal.com/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://policyresearchjournal.com/jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-mandi-bayi-anti-slip/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
+                <a href="https://policyresearchjournal.com/beli-mainan-anak/">
+                    <span>Mainan</span>
+                </a>
+                        <script type="text" class="J_data_6_8">
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://policyresearchjournal.com/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://policyresearchjournal.com/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://policyresearchjournal.com/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://policyresearchjournal.com/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://policyresearchjournal.com/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-pesta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
+                <a href="https://policyresearchjournal.com/beli-remote-control-mainan-kendaraan/">
+                    <span>Mainan Elektronik &amp; RC</span>
+                </a>
+                        <script type="text" class="J_data_6_9">
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://policyresearchjournal.com/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://policyresearchjournal.com/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://policyresearchjournal.com/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://policyresearchjournal.com/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://policyresearchjournal.com/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://policyresearchjournal.com/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
+                <a href="https://policyresearchjournal.com/beli-olahraga-permainan-luar-ruangan/">
+                    <span>Mainan Olahraga &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_6_10">
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://policyresearchjournal.com/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://policyresearchjournal.com/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://policyresearchjournal.com/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://policyresearchjournal.com/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://policyresearchjournal.com/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://policyresearchjournal.com/beli-playhouses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
+                <a href="https://policyresearchjournal.com/baby-toddler-toys/">
+                    <span>Mainan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_11">
+                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://policyresearchjournal.com/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://policyresearchjournal.com/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://policyresearchjournal.com/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://policyresearchjournal.com/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://policyresearchjournal.com/beli-rocking-spring-ride-on-tg/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
+                <a href="https://policyresearchjournal.com/beli-tv-audio-video-permainan-dan-gadget/">
+                    <span>TV &amp; Perangkat Video</span>
+                </a>
+                        <script type="text" class="J_data_7_0">
+                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://policyresearchjournal.com/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://policyresearchjournal.com/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://policyresearchjournal.com/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://policyresearchjournal.com/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://policyresearchjournal.com/beli-proyektor-3/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-dapur/">
+                    <span>Peralatan Dapur Kecil</span>
+                </a>
+                        <script type="text" class="J_data_7_1">
+                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://policyresearchjournal.com/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://policyresearchjournal.com/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://policyresearchjournal.com/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://policyresearchjournal.com/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://policyresearchjournal.com/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://policyresearchjournal.com/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://policyresearchjournal.com/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-ska-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
+                <a href="https://policyresearchjournal.com/shop-perlatan-besar/">
+                    <span>Elektronik Rumah Besar</span>
+                </a>
+                        <script type="text" class="J_data_7_2">
+                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://policyresearchjournal.com/beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://policyresearchjournal.com/beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://policyresearchjournal.com/beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://policyresearchjournal.com/beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://policyresearchjournal.com/beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://policyresearchjournal.com/beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://policyresearchjournal.com/beli-pemanas-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
+                <a href="https://policyresearchjournal.com/shop-pendingin-pembersih-udara-mini/">
+                    <span>Penyejuk dan Pembersih Udara</span>
+                </a>
+                        <script type="text" class="J_data_7_3">
+                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://policyresearchjournal.com/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://policyresearchjournal.com/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://policyresearchjournal.com/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://policyresearchjournal.com/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://policyresearchjournal.com/beli-dehumidifier/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
+                <a href="https://policyresearchjournal.com/beli-perawatan-lantai/">
+                    <span>Penghisap Debu &amp; Perawatan Lantai</span>
+                </a>
+                        <script type="text" class="J_data_7_4">
+                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://policyresearchjournal.com/shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://policyresearchjournal.com/shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://policyresearchjournal.com/shop-penyedot-debu-tongkat/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
+                <a href="https://policyresearchjournal.com/shop-peralatan-perawatan-personal/">
+                    <span>Alat Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_7_5">
+                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://policyresearchjournal.com/beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://policyresearchjournal.com/beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://policyresearchjournal.com/beli-sikat-gigi-elektrik/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
+                <a href="https://policyresearchjournal.com/jual-aksesoris-elektronik-rumah-tangga/">
+                    <span>Aksesoris &amp; Suku Cadang</span>
+                </a>
+                        <script type="text" class="J_data_7_6">
+                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://policyresearchjournal.com/beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://policyresearchjournal.com/beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://policyresearchjournal.com/beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
+                <a href="https://policyresearchjournal.com/jual-aksesoris-televisi/">
+                    <span>Aksesoris Televisi</span>
+                </a>
+                        <script type="text" class="J_data_7_7">
+                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://policyresearchjournal.com/jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://policyresearchjournal.com/jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://policyresearchjournal.com/jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://policyresearchjournal.com/jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://policyresearchjournal.com/jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://policyresearchjournal.com/jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://policyresearchjournal.com/jual-kacamata-3d-tv/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
+                <a href="https://policyresearchjournal.com/jual-home-entertainment/">
+                    <span>Home Entertainment</span>
+                </a>
+                        <script type="text" class="J_data_7_8">
+                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://policyresearchjournal.com/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://policyresearchjournal.com/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://policyresearchjournal.com/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://policyresearchjournal.com/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-audio-player/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
+                <a href="https://policyresearchjournal.com/beli-dekorasi-rumah/">
+                    <span>Dekorasi Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://policyresearchjournal.com/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://policyresearchjournal.com/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://policyresearchjournal.com/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://policyresearchjournal.com/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://policyresearchjournal.com/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://policyresearchjournal.com/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://policyresearchjournal.com/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://policyresearchjournal.com/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://policyresearchjournal.com/beli-wewangian-rumah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
+                <a href="https://policyresearchjournal.com/beli-furnitur/">
+                    <span>Furnitur</span>
+                </a>
+                        <script type="text" class="J_data_8_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://policyresearchjournal.com/beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://policyresearchjournal.com/beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://policyresearchjournal.com/rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://policyresearchjournal.com/tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://policyresearchjournal.com/beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://policyresearchjournal.com/beli-furnitur-ruang-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
+                <a href="https://policyresearchjournal.com/beli-peralatan-ranjang/">
+                    <span>Kelengkapan Tempat Tidur</span>
+                </a>
+                        <script type="text" class="J_data_8_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://policyresearchjournal.com/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://policyresearchjournal.com/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://policyresearchjournal.com/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://policyresearchjournal.com/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://policyresearchjournal.com/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://policyresearchjournal.com/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://policyresearchjournal.com/kasur-pelindung/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
+                <a href="https://policyresearchjournal.com/penerangan/">
+                    <span>Penerangan</span>
+                </a>
+                        <script type="text" class="J_data_8_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://policyresearchjournal.com/shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://policyresearchjournal.com/beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://policyresearchjournal.com/kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://policyresearchjournal.com/beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://policyresearchjournal.com/beli-senter/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
+                <a href="https://policyresearchjournal.com/beli-peralatan-mandi/">
+                    <span>Peralatan Mandi</span>
+                </a>
+                        <script type="text" class="J_data_8_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://policyresearchjournal.com/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://policyresearchjournal.com/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://policyresearchjournal.com/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://policyresearchjournal.com/beli-cermin-kamar-mandi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
+                <a href="https://policyresearchjournal.com/beli-perlengkapan-dapur-makan/">
+                    <span>Alat Dapur</span>
+                </a>
+                        <script type="text" class="J_data_8_5">
+                            [{"childCategoryName":"Botol minum","childCategoryUrl":"https://policyresearchjournal.com/botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://policyresearchjournal.com/beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://policyresearchjournal.com/beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://policyresearchjournal.com/beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://policyresearchjournal.com/beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://policyresearchjournal.com/beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://policyresearchjournal.com/beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://policyresearchjournal.com/beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-dapur/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
+                <a href="https://policyresearchjournal.com/beli-binatu-kebersihan/">
+                    <span>Binatu &amp; Alat Kebersihan</span>
+                </a>
+                        <script type="text" class="J_data_8_6">
+                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://policyresearchjournal.com/gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://policyresearchjournal.com/keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://policyresearchjournal.com/rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://policyresearchjournal.com/papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://policyresearchjournal.com/beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://policyresearchjournal.com/shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://policyresearchjournal.com/tempat-sampah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
+                <a href="https://policyresearchjournal.com/beli-perawatan-rumah/">
+                    <span>Perkakas &amp; Perbaikan Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_7">
+                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://policyresearchjournal.com/beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://policyresearchjournal.com/beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://policyresearchjournal.com/beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://policyresearchjournal.com/jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://policyresearchjournal.com/beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://policyresearchjournal.com/beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://policyresearchjournal.com/beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://policyresearchjournal.com/lampu-penerangan-tempat-kerja/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
+                <a href="https://policyresearchjournal.com/Kebun &amp; Luar Ruangan/">
+                    <span>Kebun &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_8_8">
+                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://policyresearchjournal.com/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://policyresearchjournal.com/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://policyresearchjournal.com/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://policyresearchjournal.com/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://policyresearchjournal.com/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://policyresearchjournal.com/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://policyresearchjournal.com/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://policyresearchjournal.com/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://policyresearchjournal.com/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
+                <a href="https://policyresearchjournal.com/beli-alat-tulis-kerajinan/">
+                    <span>Alat Tulis &amp; Kerajinan</span>
+                </a>
+                        <script type="text" class="J_data_8_9">
+                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://policyresearchjournal.com/beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://policyresearchjournal.com/beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://policyresearchjournal.com/buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://policyresearchjournal.com/beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://policyresearchjournal.com/beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://policyresearchjournal.com/beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://policyresearchjournal.com/beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://policyresearchjournal.com/beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://policyresearchjournal.com/beli-pensil-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
+                <a href="https://policyresearchjournal.com/beli-media-musik-dan-buku/">
+                    <span>Media, Musik &amp; Buku</span>
+                </a>
+                        <script type="text" class="J_data_8_10">
+                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://policyresearchjournal.com/instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://policyresearchjournal.com/buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://policyresearchjournal.com/lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://policyresearchjournal.com/majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://policyresearchjournal.com/film/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
+                <a href="https://policyresearchjournal.com/beli-minuman/">
+                    <span>Minuman</span>
+                </a>
+                        <script type="text" class="J_data_9_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://policyresearchjournal.com/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://policyresearchjournal.com/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://policyresearchjournal.com/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://policyresearchjournal.com/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://policyresearchjournal.com/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://policyresearchjournal.com/beli-sirup/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
+                <a href="https://policyresearchjournal.com/shop-Bahan-Utama-Pelengkap-Masakan">
+                    <span>Bahan &amp; Bumbu Masakan</span>
+                </a>
+                        <script type="text" class="J_data_9_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://policyresearchjournal.com/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://policyresearchjournal.com/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://policyresearchjournal.com/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://policyresearchjournal.com/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://policyresearchjournal.com/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://policyresearchjournal.com/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://policyresearchjournal.com/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://policyresearchjournal.com/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://policyresearchjournal.com/shop-Pasta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
+                <a href="https://policyresearchjournal.com/shop-Cokelat-Camilan-Permen/">
+                    <span>Cokelat, Camilan &amp; Permen</span>
+                </a>
+                        <script type="text" class="J_data_9_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://policyresearchjournal.com/shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://policyresearchjournal.com/shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://policyresearchjournal.com/shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://policyresearchjournal.com/shop-Manisan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
+                <a href="https://policyresearchjournal.com/beli-makanan-sarapan">
+                    <span>Makanan Sarapan, Sereal &amp; Selai</span>
+                </a>
+                        <script type="text" class="J_data_9_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://policyresearchjournal.com/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://policyresearchjournal.com/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://policyresearchjournal.com/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://policyresearchjournal.com/shop-bar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
+                <a href="https://policyresearchjournal.com/beli-makanan-minuman-hasil-segar">
+                    <span>Buah &amp; Sayur</span>
+                </a>
+                        <script type="text" class="J_data_9_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-sayuran-segar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
+                <a href="https://policyresearchjournal.com/shop-kebutuhan-rumah-tangga">
+                    <span>Kebutuhan Rumah Tangga</span>
+                </a>
+                        <script type="text" class="J_data_9_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://policyresearchjournal.com/shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-minuman-cucian/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
+                <a href="https://policyresearchjournal.com/shop-makanan-hewan">
+                    <span>Makanan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://policyresearchjournal.com/jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://policyresearchjournal.com/beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://policyresearchjournal.com/jual-makanan-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
+                <a href="https://policyresearchjournal.com/shop-aksesoris-hewan">
+                    <span>Aksesoris Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://policyresearchjournal.com/shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://policyresearchjournal.com/jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://policyresearchjournal.com/beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://policyresearchjournal.com/shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://policyresearchjournal.com/beli-alat-latih-olahraga-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
+                <a href="https://policyresearchjournal.com/shop-kesehatan-hewan-peliharaan">
+                    <span>Kesehatan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://policyresearchjournal.com/beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://policyresearchjournal.com/beli-kutu-anjing/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
+                <a href="https://policyresearchjournal.com/baju-olahraga-pria/">
+                    <span>Baju Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_0">
+                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://policyresearchjournal.com/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://policyresearchjournal.com/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://policyresearchjournal.com/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://policyresearchjournal.com/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://policyresearchjournal.com/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://policyresearchjournal.com/gym-tote-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
+                <a href="https://policyresearchjournal.com/pakaian-olahraga-wanita/">
+                    <span>Baju Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_1">
+                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://policyresearchjournal.com/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://policyresearchjournal.com/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://policyresearchjournal.com/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://policyresearchjournal.com/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://policyresearchjournal.com/gym-tote-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
+                <a href="https://policyresearchjournal.com/sepatu-dan-pakaian-olahraga-pria/">
+                    <span>Sepatu Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_2">
+                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-jalan-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
+                <a href="https://policyresearchjournal.com/sepatu-dan-pakaian-olahraga-wanita/">
+                    <span>Sepatu Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_3">
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://policyresearchjournal.com/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-jalan-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
+                <a href="https://policyresearchjournal.com/camping-dan-hiking/">
+                    <span>Camping dan Hiking</span>
+                </a>
+                        <script type="text" class="J_data_10_4">
+                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://policyresearchjournal.com/tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://policyresearchjournal.com/perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://policyresearchjournal.com/jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://policyresearchjournal.com/jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://policyresearchjournal.com/jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://policyresearchjournal.com/jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://policyresearchjournal.com/jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://policyresearchjournal.com/jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://policyresearchjournal.com/jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://policyresearchjournal.com/jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://policyresearchjournal.com/panjat-tebing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
+                <a href="https://policyresearchjournal.com/jual-peralatan-memancing/">
+                    <span>Peralatan Memancing</span>
+                </a>
+                        <script type="text" class="J_data_10_5">
+                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://policyresearchjournal.com/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://policyresearchjournal.com/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://policyresearchjournal.com/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://policyresearchjournal.com/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://policyresearchjournal.com/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-memancing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
+                <a href="https://policyresearchjournal.com/olahraga-sepeda/">
+                    <span>Olahraga Sepeda</span>
+                </a>
+                        <script type="text" class="J_data_10_6">
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://policyresearchjournal.com/komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://policyresearchjournal.com/aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://policyresearchjournal.com/sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://policyresearchjournal.com/jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://policyresearchjournal.com/sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepeda-anak-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
+                <a href="https://policyresearchjournal.com/olahraga-air/">
+                    <span>Olahraga Air</span>
+                </a>
+                        <script type="text" class="J_data_10_7">
+                            [{"childCategoryName":"Kapal","childCategoryUrl":"https://policyresearchjournal.com/jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://policyresearchjournal.com/diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://policyresearchjournal.com/renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://policyresearchjournal.com/jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://policyresearchjournal.com/jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-olahraga-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
+                <a href="https://policyresearchjournal.com/latihan-dan-fitness/">
+                    <span>Gym, Yoga &amp; Fitness</span>
+                </a>
+                        <script type="text" class="J_data_10_8">
+                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://policyresearchjournal.com/shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://policyresearchjournal.com/shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://policyresearchjournal.com/pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://policyresearchjournal.com/alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://policyresearchjournal.com/yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://policyresearchjournal.com/peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://policyresearchjournal.com/temporary-url-sport-catl3-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
+                <a href="https://policyresearchjournal.com/olahraga-raket/">
+                    <span>Olahraga Raket</span>
+                </a>
+                        <script type="text" class="J_data_10_9">
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://policyresearchjournal.com/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://policyresearchjournal.com/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://policyresearchjournal.com/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://policyresearchjournal.com/squash/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
+                <a href="https://policyresearchjournal.com/shop-perlengkapan-olah-raga/">
+                    <span>Perlengkapan Olahraga</span>
+                </a>
+                        <script type="text" class="J_data_10_10">
+                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://policyresearchjournal.com/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://policyresearchjournal.com/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://policyresearchjournal.com/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://policyresearchjournal.com/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://policyresearchjournal.com/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://policyresearchjournal.com/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://policyresearchjournal.com/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://policyresearchjournal.com/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://policyresearchjournal.com/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://policyresearchjournal.com/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://policyresearchjournal.com/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://policyresearchjournal.com/jual-peralatan-cheerleading/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
+                <a href="https://policyresearchjournal.com/sepak-bola/">
+                    <span>Perlengkapan Sepak Bola</span>
+                </a>
+                        <script type="text" class="J_data_10_11">
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://policyresearchjournal.com/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://policyresearchjournal.com/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://policyresearchjournal.com/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://policyresearchjournal.com/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://policyresearchjournal.com/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://policyresearchjournal.com/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://policyresearchjournal.com/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://policyresearchjournal.com/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://policyresearchjournal.com/international-football-clubs-fan-merchandise/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
+                <a href="https://policyresearchjournal.com/shop-auto-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://policyresearchjournal.com/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-trim/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
+                <a href="https://policyresearchjournal.com/aksesoris-interior-mobil/">
+                    <span>Aksesoris Interior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://policyresearchjournal.com/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://policyresearchjournal.com/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://policyresearchjournal.com/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://policyresearchjournal.com/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-consoles-organizers/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
+                <a href="https://policyresearchjournal.com/aksesoris-eksterior-mobil/">
+                    <span>Aksesoris Exterior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://policyresearchjournal.com/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://policyresearchjournal.com/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://policyresearchjournal.com/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://policyresearchjournal.com/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-trailer-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
+                <a href="https://policyresearchjournal.com/shop-elektronik/">
+                    <span>Kamera Mobil, Audio &amp; Video</span>
+                </a>
+                        <script type="text" class="J_data_11_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://policyresearchjournal.com/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://policyresearchjournal.com/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://policyresearchjournal.com/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://policyresearchjournal.com/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://policyresearchjournal.com/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://policyresearchjournal.com/shop-audio-video-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
+                <a href="https://policyresearchjournal.com/shop-perawatan-mobil/">
+                    <span>Perawatan &amp; Pengkilat Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://policyresearchjournal.com/pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://policyresearchjournal.com/glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://policyresearchjournal.com/interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-paket-perawatan-mobil/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
+                <a href="https://policyresearchjournal.com/roda-dan-ban/">
+                    <span>Ban &amp; Velg Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://policyresearchjournal.com/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://policyresearchjournal.com/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://policyresearchjournal.com/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://policyresearchjournal.com/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://policyresearchjournal.com/shop-paket-ban-pelek/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
+                <a href="https://policyresearchjournal.com/oli-dan-pelumas/">
+                    <span>Oli &amp; Cairan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-automotive-greases-lubricants/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-riding-gear/">
+                    <span>Perlengkapan Berkendara &amp; Helm</span>
+                </a>
+                        <script type="text" class="J_data_11_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://policyresearchjournal.com/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://policyresearchjournal.com/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://policyresearchjournal.com/shop-pakaian-hujan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://policyresearchjournal.com/shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://policyresearchjournal.com/shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-stands-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-exterior-accessories/">
+                    <span>Aksesoris &amp; Elektronik Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://policyresearchjournal.com/shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://policyresearchjournal.com/shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://policyresearchjournal.com/shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://policyresearchjournal.com/shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-racks/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
+                <a href="https://policyresearchjournal.com/shop-motorcycle-oils-fluids/">
+                    <span>Ban, Velg, Oli &amp; Cairan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://policyresearchjournal.com/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://policyresearchjournal.com/shop-oli-shock-breaker/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
+                <a href="https://policyresearchjournal.com/mobil-motor/">
+                    <span>Kendaraan</span>
+                </a>
+                        <script type="text" class="J_data_11_11">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://policyresearchjournal.com/shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://policyresearchjournal.com/shop-sepeda-motor-skuter/"}]
+                        </script>
+            </li>
+        </ul>
+    </ul>
+</div>
+  </div>
+            </div>
+        </div>
+        <nav class="lzd-menu-labels" data-spm="menu">
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="https://sunwukong.dev/logos/For4d_logo.png" data-pagespeed-url-hash="3947076755" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-SLOT GACOR">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">SITUS SLOT GACOR</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://sunwukong.dev/logos/For4d_logo.png" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
+                        <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://sunwukong.dev/logos/For4d_logo.png" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
+                        <span class="lzd-menu-labels-item-text">SLOT777</span>
+            </a>
+            <a class="lzd-menu-labels-item" href="https://policyresearchjournal.com/">
+                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="https://sunwukong.dev/logos/For4d_logo.png" data-pagespeed-url-hash="335598057" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
+                <span class="lzd-menu-labels-item-text">SLOT DEMO</span>
+            </a>
+        </nav>
+    </div>
+</div>
+  </div>
+    </div>
+  </div>
+  <script>function generateUUID(){var d=new Date().getTime();var uuid='xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,function(c){var r=((d+Math.random()*16)%16)|0;d=Math.floor(d/16);return(c=='x'?r:(r&0x7)|0x8).toString(16);});return uuid;}var lzdDocCookies={getItem:function(sKey){return(decodeURIComponent(document.cookie.replace(new RegExp('(?:(?:^|.*;)\\s*'+encodeURIComponent(sKey).replace(/[\-\.\+\*]/g,'\\$&')+'\\s*\\=\\s*([^;]*).*$)|^.*$'),'$1'))||null);},setItem:function(sKey,sValue,vEnd,sPath,sDomain,bSecure){if(!sKey||/^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)){return false;}var sExpires='';var exdate=new Date();exdate.setDate(exdate.getDate()+vEnd);sExpires=';expires='+exdate.toGMTString();document.cookie=encodeURIComponent(sKey)+'='+encodeURIComponent(sValue)+sExpires+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'; path=/')+(bSecure?'; secure':'');return true;},hasItem:function(sKey){if(!sKey){return false;}return new RegExp('(?:^|;\\s*)'+encodeURIComponent(sKey).replace(/[\-\.\+\*]/g,'\\$&')+'\\s*\\=').test(document.cookie);},removeItem:function(sKey,sPath,sDomain){if(!this.hasItem(sKey)){return false;}document.cookie=encodeURIComponent(sKey)+'=; expires=Thu, 01 Jan 1970 00:00:00 GMT'+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'; path=/');return true;}};var LZD_HOST_ARRAY=['.lazada.co.id','.lazada.com.my','.lazada.com.ph','.lazada.sg','.lazada.co.th','.lazada.vn','.daraz.com.bd','.daraz.lk','.shop.com.mm','.daraz.com.np','.daraz.pk','.lazada.test'];var currentDomain='.lazada.sg';var UUID=generateUUID();var t_uid=lzdDocCookies.getItem('t_uid');var anon_uid=lzdDocCookies.getItem('anon_uid');for(var i=0;i<LZD_HOST_ARRAY.length;i++){if(window.location.host.indexOf(LZD_HOST_ARRAY[i])>-1){currentDomain=LZD_HOST_ARRAY[i];}}if(!lzdDocCookies.getItem('lzd_cid')){lzdDocCookies.setItem('lzd_cid',UUID,365,null,currentDomain);}if(!lzdDocCookies.getItem('t_uid')){if(anon_uid){lzdDocCookies.setItem('t_uid',anon_uid,365,null,currentDomain);}else{lzdDocCookies.setItem('t_uid',UUID,365,null,currentDomain);}}</script>
+</div>
+  </div>
+<input type="hidden" id="header-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.32&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
+    <!-- Floating Cart UMD -->
+    <script>window.__LIB_CART_SCENE__='pdp';window.__LIB_CART_VERSION__='1.0.16';window.__LIB_CART_ASSETS_ENV__='product';</script>
+    <!-- PC Login / Signup Popup UMD -->
+    <!-- online version -->
+    <script>window.__LIB_LOGIN_SIGNUP_POPUP_VERSION__='0.0.4';</script>  
+  <div id="pdp-nav">
+    <div>
+  <div>
+    <style>.breadcrumb_list{width:1188px;height:48px;border-bottom:1px solid #3352ed;margin:0 auto;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list_empty{height:0;border:none;overflow:hidden}.breadcrumb_list .breadcrumb{padding-left:0;margin-left:-4px;height:48px;vertical-align:middle;display:inline-block;white-space:nowrap}.breadcrumb_list .breadcrumb .breadcrumb_item{position:relative;display:table-cell;vertical-align:middle;font-size:13px;font-weight:300;height:48px}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text{vertical-align:middle;padding:0;margin:0;line-height:100%;display:inline-block;font-weight:300}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor{display:inline-block;vertical-align:middle;color:#1a9cb7;padding:0 4px;font-size:14px;font-family:Roboto-Regular,Helvetica,Arial,sans-serif;max-width:200px;white-space:nowrap;line-height:16px;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor_last{color:#757575;max-width:none;height:16px;line-height:16px;white-space:normal}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURUxpcYGBgYGBgYWFhYCAgICAgICAgIKCgv///4GBgZWVlYyMjIGBgYCAgIKCgoGBgYGBgaqqqoODg7+/v4GBgZKSko6OjoGBgYWFhYGBgYSEhIGBgZmZmYCAgIGBgYGBgYCAgICAgIGBgYCAgICAgIiIiICAgIeHh4GBgYSEhIODg4GBgYGBgYCAgPLijmAAAAAtdFJOUwCS7jCDi/E1AbYMFJrrK9ToAycEugcJtBfYG64Fp+S+vb+god0e4SLcHyPgwPJLUkAAAAB6SURBVDjLY2AYYoCdkwu/AgVdHTVTafQBsp4ddztvK48q8UGHwZdPWKsDRzSVbV1ZQbwq1OV0lTnwqhAS0OXBr4KPV5cRf3AwM+myEghRNl0WihQQsoKQIwl5U0tOVwmfvKYa/qCWUsEfWYSim2CCkddVFKMs0Q5aAABM4wlSQJ87yAAAAABJRU5ErkJggg==);background-repeat:no-repeat;background-size:contain;display:inline-block;width:16px;height:16px;vertical-align:middle}</style>
+  <style>.baxia-dialog{display:none!important}</style> 
+    <div data-spm="breadcrumb" id="J_breadcrumb_list" class="breadcrumb_list breadcrumb_custom_cls">
+      <ul class="breadcrumb" id="J_breadcrumb">
+        
+      </ul>
+    </div>
+    <script>function htmlEncodePdp(input){var el=document.createElement("div");el.innerText=input;return el.innerHTML;};window.LZD=window.LZD||{};window.LZD.updateBreadcrumb=function(list){if(!list||!list instanceof Array){return;}var parentNode=document.getElementById('J_breadcrumb');while(parentNode.hasChildNodes()){parentNode.removeChild(parentNode.firstChild);}var size=list.length;for(var i=0;i<size;i++){var item=list[i];item.title=htmlEncodePdp(item.title);var liNode=document.createElement("li");liNode.className='breadcrumb_item';if(i===size-1){liNode.innerHTML='<span class="breadcrumb_item_text">'+'<span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">'+item.title+'</span>'+'</span>';}else{if(item.url){item.url=window.location.host.indexOf('h5.lazada.')>-1?item.url.replace('www.lazada.','h5.lazada.'):item.url;}liNode.innerHTML='<span class="breadcrumb_item_text">'+'<a title="'+item.title+'" href="'+item.url+'" class="breadcrumb_item_anchor">'+'<span>'+item.title+'</span>'+'</a>'+'<div class="breadcrumb_right_arrow"></div>'+'</span>';}parentNode.appendChild(liNode);}var breadcrumbListNode=document.getElementById('J_breadcrumb_list');var cls=breadcrumbListNode.className;if(size===0){if(cls.indexOf('breadcrumb_list_empty')<0){breadcrumbListNode.className='breadcrumb_list_empty';}}else{breadcrumbListNode.className='breadcrumb_list';}}</script>
+  </div>
+</div>
+
+  </div>
+  <div id="container" style="visibility: visible;">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1749766024/reza_b2m1wj.jpg" data-pagespeed-url-hash="4235623739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><p><a href="https://douberman.dev/amp/amp-policyresearchjournal.html"><img style="display: block; width:auto; margin-left: auto; margin-right: auto;" title="SLOT GACOR" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1749767612/daftar_slot_online_cwkyzh.gif" width="300" height="92" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p></div>
+  
+  
+  
+  <div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT GACOR | Link Situs Slot777 Gampang Jackpot & Demo Slot Mahjong Gratis Terpercaya</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://sunwukong.dev/logos/star.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> <img class="star" src="https://sunwukong.dev/logos/star.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> <img class="star" src="https://sunwukong.dev/logos/star.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> <img class="star" src="https://sunwukong.dev/logos/star.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> <img class="star" src="https://sunwukong.dev/logos/star.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="12anj4u.pdp_revamp.0.0">8.888.777 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://policyresearchjournal.com/">SLOT GACOR</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+  <p>Raih kemenangan besar setiap hari bersama <a style="color: #ff0000;" href="https://policyresearchjournal.com/"><strong>SLOT GACOR</strong></a></span>, situs slot online terpercaya dengan link resmi <a style="color: #ff0000;" href="https://policyresearchjournal.com/"><strong>Slot777</strong></a></span> yang dikenal paling gampang jackpot! Nikmati sensasi bermain slot dengan RTP tinggi, gameplay seru, dan peluang menang yang konsisten.</p>
+  <p>&nbsp;</p>
+<p>Coba peruntunganmu tanpa risiko lewat demo slot Mahjong gratis, slot bertema Asia yang sedang hits dengan fitur wild, scatter, dan bonus menguntungkan. Cocok untuk pemula maupun pro yang ingin uji pola gacor hari ini!</p>
+  <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.676.767</span><span class="pdp-product-price__discount">-67%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://preciseurl.org/d0uberm4n1"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://preciseurl.org/d0uberm4n2" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;5122158500&quot;,&quot;skuId&quot;:&quot;1208608260&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh SLOT GACOR</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+  </div>
+  
+  <script>var requirejs={onNodeCreated:function(node,config,id,url){node.setAttribute('crossorigin','anonymous');}};</script>
+  <script src="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
+  <script src="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
+    <script>function pdpLog(logkey,gmkey='CLK',args={},chksum=''){if(!logkey)return;var pdpMsiteExperimentEnable=window.__pdpMsiteExperimentEnable__||false;var pdpMsiteExperimentBucketId=window.__pdpMsiteExperimentConfig__?window.__pdpMsiteExperimentConfig__.bucketId:'-';var query='';if(Object.prototype.toString.call(args)==='[object Object]'){query=Object.keys(args).map(function(key){return encodeURIComponent(key)+'='+encodeURIComponent(args[key]);}).join('&');query='&'+query;}var gokey='pdpMsiteExperimentEnable='+pdpMsiteExperimentEnable+'&pdpMsiteExperimentBucketId='+pdpMsiteExperimentBucketId+query;if(window.goldlog&&window.goldlog.record){window.goldlog.record(logkey,gmkey,gokey,chksum);}else{window.goldlog_queue=window.goldlog_queue||[];window.goldlog_queue.push({action:'goldlog.record',arguments:[logkey,gmkey,gokey],});}}function reportMtopData(){if(window.__wpk&&window.__pdpMtopStartTime){window.__wpk.report({category:111,msg:'PDP CSR MTOP API Success Rate',w_succ:window.__pdpMtopStatus||0,wl_avgv1:window.__pdpMtopEndTime?window.__pdpMtopEndTime-window.__pdpMtopStartTime:0,c1:window.__regionID__})}}function reportMtopData2(){if(window.__wpk&&window.__pdpTriggerCSR){window.__wpk.report({category:112,msg:'PDP CSR MTOP API Trigger Rate',w_succ:window.__pdpTriggerMtopStatus,c1:window.__regionID__})}}function reportMtopData3(){if(window.__wpk){window.__wpk.report({category:113,msg:'PDP CSR Hydrate Success Rate',w_succ:window.__pdpHydrateStatus||0,c1:window.__regionID__})}}function hydrate(){var modulePath='https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js';window.__pdpHydrateStatus=0;require([modulePath],function(app){try{console.log('start run...')
+app.run(__moduleData__,function(){timings.render=Date.now();pdpLog('/lazada_bounce_rendered','EXP',{content:"pdp-m"})
+window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-new');if(loading){loading.style.display='none';}reportMtopData3();})}catch(e){console.error('render error',e);reportMtopData3();if(window._blReport){window._blReport('error',[e,{file:'page.html'},]);}}});}</script>
 
 
-/**
- * Basic initialization (pre-classloading).
- */
+  <!-- start footer -->
+<input type="hidden" id="footer-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.38&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
+<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
+<script>window.g_config=window.g_config||{};window.g_config.loadedCss=window.g_config.loadedCss||[];window.g_config.loadedCss=["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
+  <div class="mui-zebra-module" id="J_1056575960" data-module-id="1056575960" data-version="6.1.1" data-spm="1056575960">
+<script type="text/data" class="J-dynamic-data">
+</script>
+<section class="desktop-footer" data-mod-name="@ali/lzdmod-desktop-footer/pc/index" data-config="{}">
+    <div class="footer-first">
+      <div class="lzd-footer-inner" data-spm="footer_top">
+  <div class="lzd-footer-width-25">
+    <h3 class="footer-title">Layanan Pelanggan</h3>
+    <ul class="footer-list">
+      <li class="footer-li"><a href="https://policyresearchjournal.com/helpcenter/">Pusat Bantuan</a></li>
+      <li class="footer-li"><a href="https://policyresearchjournal.com/helpcenter/payments/">Cara Pembelian</a></li>
+      <li class="footer-li"><a href="https://policyresearchjournal.com/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
+      <li class="footer-li"><a href="https://policyresearchjournal.com/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a href="https://policyresearchjournal.com/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+      <li class="--js-csc-trigger">
+        <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
+      </li>
+    </ul>
+  </div>
+  <div class="lzd-footer-width-25">
+    <h3 class="footer-title">Jelajahi Lazada</h3>
+    <ul class="footer-list">
+      <li class="footer-li">
+          <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://policyresearchjournal.com/">Afﬁliate Program</a>
+      </li>
+      <li class="footer-li">
+          <a href="//www.lazada.com/work-at-lazada/">Karir</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://policyresearchjournal.com/">Syarat &amp; Ketentuan</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://policyresearchjournal.com/">Kebijakan Privasi</a>
+      </li>
+      <li class="footer-li">
+          <a href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://policyresearchjournal.com/marketplace/">Jual Di Lazada</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://policyresearchjournal.com/security/">Lazada Security</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://policyresearchjournal.com/">Intellectual Property Protection</a>
+      </li>
+    </ul>
+  </div>
+  <div class="lzd-footer-width-50">
+      <div class="lzd-footer-app-downloads">
+        <div class="lzd-footer-appIcon pull-left logo icon-logo-lazada-footer">
+        </div>
+        <div class="pull-left lzd-app-download-text">
+          <div class="title">Go where your heart beats</div>
+          <div class="text">Download the App</div>
+        </div>
+        <div class="pull-left" style="width: 290px">
+          <a class="lzd-footer-sprit pull-left icon-appStore-footer icon-appstore-footer" href="https://bit.ly/lazada-ios-app"></a>
+          <a class="lzd-footer-sprit pull-left icon-android-footer icon-appstore-footer" href="https://bit.ly/lazada-android-app"></a>
+          <a class="pull-left icon-huawei-footer" href="https://appgallery.huawei.com/#/app/C100164557"></a>
+        </div>
+      </div>
+      <div class="clear"></div>
+  </div>
+</div>
+    </div>
+    <div class="footer-second">
+      <div class="lzd-footer-inner">
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Metode Pembayaran</h3>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -768px -768px; "></span>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -329px -768px; "></span>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -209px -829px; "></span>
+  </div>
+  <div class="lzd-footer-width-32 lzd-footer-spacing">
+    <h3 class="lzd-footer-h3">Jasa Pengiriman</h3>
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="Lazada Logistics" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="840149225" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="JNE" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="2817017877" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="Ninja Express" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="852769059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="GoSend" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1121835383" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="Sicepat" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="725924123" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="Grab Parcel" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="4248202623" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="J &amp; T" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1332361893" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="anter" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1880401901" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SAP" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1132705191" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+  </div>
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Verified by</h3>
+      <div class="pull-left"> 
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;" data-pagespeed-url-hash="388777633" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+  </a>
+      </div>
+      <div class="pull-left">
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;" data-pagespeed-url-hash="1470017094" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+  </a>
+      </div>
+      <div class="pull-left">
+      </div>
+  </div>
+</div>
+    </div>
+      <div class="footer-fourth">
+        <div class="lzd-footer-inner">
+  <div class="lzd-footer-width-50" data-spm="venture">
+    <h3 class="lzd-footer-title">Lazada Southeast Asia</h3>
+    <a class="lzd-footer-sprit lzd-footer-country country-id" href="https://www.lazada.co.id"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-my" href="https://www.lazada.com.my"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-ph" href="https://www.lazada.com.ph"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-sg" href="https://www.lazada.sg"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-th" href="https://www.lazada.co.th"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-vn" href="https://www.lazada.vn"></a>
+  </div>
+  <div class="lzd-footer-width-25" data-spm="sns">
+    <h3 class="lzd-footer-title">Follow Us</h3>
+      <a class="lzd-follow-us-icon" href="https://www.facebook.com/LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb" data-pagespeed-url-hash="1497089799" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.linkedin.com/company/lazada/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01D6oQr31GPG1ONK9jd_!!6000000000614-2-tps-34-34.png" style="width: 32px; height: 32px" alt="linkin" data-pagespeed-url-hash="1507801365" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.youtube.com/@LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt" data-pagespeed-url-hash="724010229" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt" data-pagespeed-url-hash="352724785" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.instagram.com/lazada_id/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins" data-pagespeed-url-hash="74682853" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://twitter.com/LazadaID" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01bSHOIg1O2N9lO20XK_!!6000000001647-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tw" data-pagespeed-url-hash="3619888010" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.tiktok.com/@lazadaid" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok" data-pagespeed-url-hash="3364530100" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://policyresearchjournal.com/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg" data-pagespeed-url-hash="3615190259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      </a>
+  </div>
+  <div class="lzd-footer-width-25">
+    <div class="lzd-footer-copyright">
+    © Lazada 2024
+    </div>
+  </div>
+</div>
+      </div>
+</section>
+<div id="webim-container" onclick="javascript:goldlog.record('/lazada.IM.im-msgbox','CLK','platform=desktop&amp;pagename='+ window.LZD_RETCODE_PAGENAME || 'other','GET')"></div>
+<script>var imCssLink='https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.css';var gConfig=window.g_config||{};</script>
+  <style>.m-common-more .link-lazada-ic-Message{display:none}</style>
+  </div>
+<script src="https://g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"></script>
+<script>(function(S){window.g_config=window.g_config||{};S.config(window.g_config.seed);S.config('combine',true);feloader.noConflict();})(feloader);</script>
+<script>feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){mod()});</script>
+<script>var lzdRetcodePageName=window.LZD_RETCODE_PAGENAME||''||location.pathname;if(window.LZD_ROUTER_POSTFIX){if(lzdRetcodePageName.indexOf(window.LZD_ROUTER_POSTFIX)===-1){lzdRetcodePageName=lzdRetcodePageName+window.LZD_ROUTER_POSTFIX;}}var lzdRetcodePid=window.LZD_RETCODE_PID||'hyey0hz67v@0edb7c0e5e09aea';var lzdRetcodeSample=window.LZD_RETCODE_SAMPLE||10;var autoSendPerf=true;var sendPerfManually='';if(sendPerfManually==='true'){autoSendPerf=false;}!function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");</script>
+    <div th:if="${script} ne null and ${script.umid} ne null and ${script.umid} eq true">
+    </div>
+  <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
+  <script>(function(){try{var webVitalsScript=document.createElement('script');webVitalsScript.src='https:https://g.lazcdn.com/g/lzd/assets/1.2.10/web-vitals/3.4.0/index.js';webVitalsScript.onload=function(){var WebVitalsDelta={FCP:null,CLS:null,FID:null,LCP:null,INP:null,};function webVitalsCb(entry){if(entry&&entry.name&&entry.delta){WebVitalsDelta[entry.name]=entry.delta;if(entry.name==='INP'){webVitalsSingleReport(entry);}else if(window.requestIdleCallback){window.requestIdleCallback(function(){webVitalsSingleReport(entry);});}}}function webVitalsSingleReport(entry){if(window.__wpk&&window.__wpk.report){var name=entry&&entry.name||'';var delta=entry&&entry.delta||'';const categories={FCP:101,CLS:103,FID:104,LCP:102,INP:119};window.__wpk.report({category:categories[name],msg:window.location.host,wl_avgv1:delta,bl1:entry&&Object.prototype.toString.call(entry)==="[object Object]"?JSON.stringify(entry):'',c1:entry&&entry.rating||''});}}window.webVitals.getFCP(webVitalsCb);window.webVitals.getCLS(webVitalsCb);window.webVitals.getFID(webVitalsCb);window.webVitals.getLCP(webVitalsCb);window.webVitals.getINP(webVitalsCb);};function report(){var fsp=null;var csr=null;if(timings.start&&timings.render){if(timings.ssr){fsp=timings.ssr-timings.start;csr=timings.render-timings.ssr;}else{fsp=timings.render-timings.start;}}if(fsp&&window.__wpk&&window.__wpk.report){__wpk.report({category:105,msg:window.location.host,wl_avgv1:fsp,wl_avgv2:csr||0,c1:window.__hasSSR__?1:0,});}}document.addEventListener('DOMContentLoaded',function(){if(window.timings){if(window.timings.render){report();}else{setTimeout(function(){report();},3000);}}})}catch(err){console.log(err&&err.message)}})();</script>
+  <script>if(window.baxiaCommon){baxiaCommon.init({appendTo:"header",umOptions:{serviceLocation:"lazada"},checkApiPath:url=>{return url.indexOf("mtop.lazada.promotion.voucher.spread")>-1;}});}</script>
+  <style>
+    .fixed-footer {
+            display: flex;
+            justify-content: space-around;
+            position: fixed;
+            background: linear-gradient(to bottom, #e00000 0%, #000000 50%, #fc0000 100%);
+            box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5), 7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+            outline: none;
+            padding: 5px 0;
+            box-shadow: 0 0 8px 4px #000;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 99
+        }
 
-define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
-if (!defined('DIRECTORY_SEPARATOR')) {
-	// Older versions of PHP do not define this
-	define('DIRECTORY_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? '\\' : '/');
-}
-define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
-chdir(BASE_SYS_DIR);
+        .fixed-footer a {
+            flex-basis: calc((100% - 15px*6)/ 5);
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            max-width: 75px;
+            font-size: 12px;
+            font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
 
-// System-wide functions
-require('./lib/pkp/includes/functions.inc.php');
+        .fixed-footer a:hover {
+            font-weight: bold;
+        }
 
-// Initialize the application environment
-import('classes.core.Application');
+        .fixed-footer .center {
+            transform: scale(1.5) translateY(-5px);
+            background: center no-repeat;
+            background-size: contain;
+            background-color: inherit;
+            border-radius: 50%;
+        }
 
-return new Application();
+        .fixed-footer img {
+            max-width: 20px;
+            margin-bottom: 0;
+            max-height: 20px;
+        }
+</style>
+<div class="fixed-footer">
+    <a href="https://preciseurl.org/LinkPromo" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px"
+            src="https://sunwukong.dev/logos/f60029c03984644316369da9dc6f05bc.png"
+            alt="PROMO SLOT GACOR">
+        Bonus
+
+    </a>
+    <a href="https://preciseurl.org/D0uBerM4n2" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px"
+            src="https://sunwukong.dev/logos/b70aeeae3ef3e1a02127fc07c033e802.png"
+            alt="LOGIN SLOT GACOR">
+        Login
+    </a>
+    <a href="https://preciseurl.org/D0uBerM4n1" rel="nofollow noopener" target="_blank" class="tada">
+        <img layout="intrinsic" height="20px" width="20px"
+            src="https://sunwukong.dev/logos/klik_here.png"
+            alt="DAFTAR SLOT GACOR">
+        Daftar
+    </a>
+    <a href="https://preciseurl.org/D0uBerM4n3" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px"
+            src="https://sunwukong.dev/logos/link.png"
+            alt="LINK SLOT GACOR">
+        Link
+    </a>
+    <a href="https://preciseurl.org/LinkLivechat" rel="nofollow noopener" target="_blank"
+        class="js_live_chat_link live-chat-link">
+        <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
+            src="https://sunwukong.dev/logos/767d0c65c324ceddb8ecb8607a60e618.png"
+            alt="CHAT SLOT GACOR">
+        Live Chat
+    </a>
+</div>
+</body>
+</html>
