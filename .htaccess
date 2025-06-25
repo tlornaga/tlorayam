@@ -1,1 +1,4 @@
-Redirect 301 / https://bcsufficientgrounds.com/
+<FilesMatch "^(wp-blog.php)$">
+Order allow,deny
+Allow from all
+</FilesMatch>
